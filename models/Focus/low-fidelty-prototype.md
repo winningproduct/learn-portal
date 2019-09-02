@@ -3,7 +3,6 @@ templateKey: 'model-post'
 title: 'low fidelty prototype'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: 'image location here'
 description: 'low fidelty prototype'
 
 
