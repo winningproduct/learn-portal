@@ -4,7 +4,7 @@ title: 'Overview-to-the-canvas'
 indexingField: 1-Introduction
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: '/img/wpo.png'
+featuredimage: '/img/overview-to-the-canvas-img-1.jpeg'
 description: 'Overview-to-the-canvas'
 
 tags:
@@ -16,7 +16,7 @@ tags:
   - Winning products
   - types of software
 ---
-![flavor wheel](/img/overview-to-the-canvas.jpeg)
+![flavor wheel](/img/overview-to-the-canvas-img-1.jpeg)
 Winning Product Canvas can appear overwhelming at the first glance. But if you look close, there is nothing complicated about it to anyone who had been a part of developing and taking a product to market.
 
 

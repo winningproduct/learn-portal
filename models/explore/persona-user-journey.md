@@ -4,6 +4,7 @@ title: 'persona/user journey'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
+featuredimage: '/img/persona-or-user-journey-img-1.jpeg'
 description: 'persona/user journey'
 
 tags:
@@ -21,7 +22,7 @@ tags:
 
 The Persona definition is that one or several fictional characters that can represent the majority of the potential users of product with conventional user demands and they are created through a great amount of quantitative and qualitative research. Persona answers the question “Who do we design for?” It is a powerful tool based on research findings in helping product function creation by optimizing the UX research and it not only represents a specific user but all of them, it can be understood as a typical character of the behavior, cognition and perception of all potential users.
 
-
+![flavor wheel](/img/persona-or-user-journey-img-1.jpeg)
 
 
 
@@ -58,7 +59,7 @@ Include a fictional name and the picture of your first persona. Use empathy to f
 
 Filter and categorize Think and Feel, Say and do, Hear and See in to pain points and goals.
 
-
+![flavor wheel](/img/persona-or-user-journey-img-2.jpeg)
 
 
 
@@ -110,7 +111,7 @@ User journey map helps a product team to find the answer to the “What if..?”
 
 ## Inputs & How
 
-
+![flavor wheel](/img/persona-or-user-journey-img-3.jpeg)
 
 
 

@@ -4,7 +4,7 @@ title: 'context-competitor-analysis'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: '/img/context-competitor-analysis.jpeg'
+featuredimage: '/img/context-competitor-analysis-img-1.jpeg'
 description: 'context-competitor-analysis'
 
 tags:
@@ -18,7 +18,7 @@ tags:
   - context-competitor-analysis
 ---
 
-![flavor wheel](/img/context-competitor-analysis.jpeg)
+![flavor wheel](/img/context-competitor-analysis-img-1.jpeg)
 
 ##What?
 
