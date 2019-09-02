@@ -118,6 +118,7 @@ User journey map helps a product team to find the answer to the “What if..?”
 
 
 
+
 #1.Identify the User Flows
 
 The steps that the user will take to achieve his goals. Can be the main or sub flows.These will be the series of activities. 
