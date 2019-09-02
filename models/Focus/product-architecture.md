@@ -3,7 +3,7 @@ templateKey: 'model-post'
 title: 'product architecture'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: 'image location here'
+featuredimage: '/img/product-architecture-img-1.png'
 description: 'product architecture'
 
 tags:
@@ -39,7 +39,7 @@ The product architecture blue print is an essential early starter to determine t
 
 The cost of the decision
 
-
+![flavor wheel](/img/product-architecture-img-1.png)
 
 
 
@@ -104,7 +104,7 @@ This will be described mainly using the 4+1 architectural view model.
 
 
 ##•Use Case Diagram
-
+![flavor wheel](/img/product-architecture-img-2.png)
 
 
 Main functionalities and users of the system will be described using a use case diagram.
@@ -120,6 +120,8 @@ Main functionalities and users of the system will be described using a use case 
 ##•High level overview of the system
 
 This depicts the intended users or client applications, the system being built, and the external systems are being accessed in a diagram.
+
+![flavor wheel](/img/product-architecture-img-3.png)
 
 Example:
 
@@ -137,7 +139,7 @@ This needs to show key architectural components of the system
 
 Example 1: (Monolithic system with N layered architecture)
 
- 
+ ![flavor wheel](/img/product-architecture-img-4.png)
 
 
 
@@ -145,7 +147,7 @@ Example 1: (Monolithic system with N layered architecture)
 
 Example 2: A micro services-based system to be accessed by external banking systems
 
- 
+ ![flavor wheel](/img/product-architecture-img-5.png)
 
 
 
@@ -155,7 +157,7 @@ How system should be deployed is shown using a deployment diagram. This shows th
 
 Example:
 
- 
+ ![flavor wheel](/img/product-architecture-img-6.png)
 
 
 
