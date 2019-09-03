@@ -2,6 +2,7 @@
 templateKey: 'model-post'
 title: 'business model design'
 date: 2019-07-25T15:04:10.000Z
+indexingField: 4-Focus
 featuredpost: true
 featuredimage: '/img/business-model-img-1.jpeg'
 description: 'business model design'
