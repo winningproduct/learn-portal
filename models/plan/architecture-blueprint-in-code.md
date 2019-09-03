@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'architecture blueprint in code'
+title: '4-architecture blueprint in code'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 8-Plan

@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'ci cd pipeline'
+title: '6-ci cd pipeline'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 8-Plan

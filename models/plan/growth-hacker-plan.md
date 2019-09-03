@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'growth-hacker-plan'
+title: '1-growth-hacker-plan'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 8-Plan
