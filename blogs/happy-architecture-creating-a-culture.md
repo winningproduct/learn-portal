@@ -5,7 +5,7 @@ templateKey: 'blog-post'
 date: 2019-07-25T15:04:10.000Z
 featuredimage: '/img/blog-happy-architecture-main.png'
 ---
-
+![flavor wheel](/img/blog-happy-architecture-main.png)
 ## “Happy Architecture”, what does this really means?
 When it comes to product development it consists of many stakeholders.
 
@@ -16,6 +16,8 @@ When it comes to product development it consists of many stakeholders.
 
 
 There are different levels of expectations of those three parties, as their view of the product and the expected out come from the product are different. How we can satisfy needs of all the stakeholders is the challenge. Let’s first see what are different expectations of these parties.
+
+![flavor wheel](/img/blog-happy-architecture.png)
 
 
 “An Architecture fulfill expectations of all stakeholders in building a Winning product”, is referred as a “Happy Architecture”. This will create a culture of happiness where all the stakeholders are constantly happy about the work they do and the outcome they get.
