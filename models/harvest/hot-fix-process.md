@@ -4,7 +4,7 @@ title: 'hot fix process'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 6-Harvest
-featuredimage: '/img/default-image.jpeg'
+featuredimage: '/img/default-image.png'
 description: 'hot fix process'
 
 tags:

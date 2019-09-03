@@ -4,7 +4,7 @@ title: 'team knowledge transfer plan'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 6-Harvest
-featuredimage: '/img/default-image.jpeg'
+featuredimage: '/img/default-image.png'
 description: 'team knowledge transfer plan'
 
 tags:
