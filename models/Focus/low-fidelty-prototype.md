@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'low fidelty prototype'
+title: '4-low fidelty prototype'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 4-Focus

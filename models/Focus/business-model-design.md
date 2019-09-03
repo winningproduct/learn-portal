@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'business model design'
+title: '3-business model design'
 date: 2019-07-25T15:04:10.000Z
 indexingField: 4-Focus
 featuredpost: true
@@ -56,12 +56,12 @@ What are the costs and expenses to operate the business. What are the most impor
 
 
 
+reference:
+[1]('https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/')
 
-[Reference]('https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/')
+[2]('https://app.maturify.com/app/models/edit-model/58fe36779963bf00012edaee/5ad579ddaebc270001fc15ae/competency/5ae0733aedd25f00010c5bdc#published')
 
-[Reference]('https://app.maturify.com/app/models/edit-model/58fe36779963bf00012edaee/5ad579ddaebc270001fc15ae/competency/5ae0733aedd25f00010c5bdc#published')
+[3]('https://www.investopedia.com/terms/b/businessmodel.asp')
 
-[Reference]('https://www.investopedia.com/terms/b/businessmodel.asp')
-
-[Reference]('https://www.youtube.com/watch?v=IP0cUBWTgpY')
+[4]('https://www.youtube.com/watch?v=IP0cUBWTgpY')
 

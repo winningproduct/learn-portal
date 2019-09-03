@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'information architecture'
+title: '9-information architecture'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 7-Immerse

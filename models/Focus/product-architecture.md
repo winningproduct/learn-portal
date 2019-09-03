@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'product architecture'
+title: '5-product architecture'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 4-Focus

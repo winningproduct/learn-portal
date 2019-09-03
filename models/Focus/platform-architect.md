@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'platform architect'
+title: '6-platform architect'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 4-Focus
