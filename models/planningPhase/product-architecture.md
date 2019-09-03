@@ -5,7 +5,6 @@ date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 10-Planning phase
 featuredimage: '/img/default-image.png'
-featuredimage: 'image location here'
 description: 'product architecture'
 
 tags:
