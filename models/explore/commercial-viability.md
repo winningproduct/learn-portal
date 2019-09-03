@@ -3,6 +3,7 @@ templateKey: 'model-post'
 title: '2-commercial-viability'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
+featuredimage: '/img/default-image.png'
 featuredpost: true
 description: 'commercial-viability'
 
