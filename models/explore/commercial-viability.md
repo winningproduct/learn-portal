@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'commercial-viability'
+title: '2-commercial-viability'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

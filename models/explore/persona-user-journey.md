@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'persona/user journey'
+title: '3-persona/user journey'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'Types of Software'
+title: '4-Types of Software'
 indexingField: 1-Introduction
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
