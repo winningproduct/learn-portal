@@ -4,7 +4,7 @@ title: 'information architecture'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 7-Immerse
-featuredimage: '/img/default-image.jpeg'
+featuredimage: '/img/default-image.png'
 description: 'information architecture'
 
 
