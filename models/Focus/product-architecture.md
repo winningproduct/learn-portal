@@ -3,6 +3,7 @@ templateKey: 'model-post'
 title: 'product architecture'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
+indexingField: 4-Focus
 featuredimage: '/img/product-architecture-img-1.png'
 description: 'product architecture'
 
