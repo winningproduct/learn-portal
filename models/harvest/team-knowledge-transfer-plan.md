@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: 'team knowledge transfer plan'
+title: '7-team knowledge transfer plan'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 6-Harvest
