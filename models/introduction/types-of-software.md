@@ -18,8 +18,8 @@ tags:
 ---
 ## In software engineering there are two broad categories;
 
-1.Bespoke Software (e.g.: geared to solve specific problem in an organization)
-2.Software Product (e.g.: generally one software is sold to everyone with periodic updates)
+1. Bespoke Software (e.g.: geared to solve specific problem in an organization)
+2. Software Product (e.g.: generally one software is sold to everyone with periodic updates)
 
 
 ## Software Products are sub divided based on the deployment model
