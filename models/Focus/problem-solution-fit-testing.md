@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: '2-problem-solution-fit-testing'
+title: '2-problem solution fit testing'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 indexingField: 4-Focus

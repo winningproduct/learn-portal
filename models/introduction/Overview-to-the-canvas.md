@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: '5-Overview-to-the-canvas'
+title: '5-Overview to the canvas'
 indexingField: 1-Introduction
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

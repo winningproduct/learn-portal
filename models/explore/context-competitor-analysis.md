@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: '1-context-competitor-analysis'
+title: '1-context competitor analysis'
 indexingField: 3-Explore
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
