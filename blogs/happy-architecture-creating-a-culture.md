@@ -15,7 +15,7 @@ When it comes to product development it consists of many stakeholders.
 
 
 
-There are different levels of expectations of those three parties, as their view of the product and the expected out come from the product are different. How we can satisfy needs of all the stakeholders is the challenge. Let’s first see what are different expectations of these parties.
+There are different levels of expectations of those three parties, as their view of the product and the expected out come from the product are different. How we can satisfy needs of all the stakeholders is the challenge. Let’s first see what are different expectations of these parties...
 
 ![flavor wheel](/img/blog-happy-architecture.png)
 
