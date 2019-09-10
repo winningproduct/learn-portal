@@ -43,7 +43,7 @@ There’s a few requisites needed to answer the question and determine the level
 
 4. Resources – Do you have the skills, time and money to bring your ideas to market?
 
-5. Financials – Will your sales exceed your expenses? Have you prepared cash flow projections.
+5. Financials – Will your sales exceed your expenses? Have you prepared cash flow projections..
 
 
 
