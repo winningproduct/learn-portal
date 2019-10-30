@@ -1,39 +1,31 @@
 ---
-templateKey: 'model-post'
+templateKey: "model-post"
+indexingField: 4-Focus
 title: '2-problem solution fit testing'
+subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-indexingField: 4-Focus
-featuredimage: '/img/default-image.png'
-description: 'value-proposition'
-
+featuredimage: "/img/<your-image-name>.jpeg"
+description: "Max word count (160)"
 
 tags:
-  - WPO introduction
-  - Value Proposition
-  - Organization
-  - WPO canvas
-  - Winning product organization
-  - Winning products
-  - types of software
-  - problem solution identification
+  - Focus
+  - problem solution fit testing
+  - Winning Product Canvas
 ---
-##Why?
 
-Because it shows us that our product has the potential of scaling, and getting to product-market fit. 
+![flavor wheel](/img/<your-image-name>.jpeg)
 
-before investing months or years of effort towards building a product, the first step is determining if this product is somwthing worth doing.
+##why(word count 200)
+{paragraph}
 
-##How?
+##how(in bullet points)
 
-You have already built an MVP (minimum viable product), 
-You have found your early adopters (people to use your MVP),
-You have managed to solve a problem that your early adopters have, 
-You have managed to charge enough for your solution so that users are happy.
+- Bullet list
+  - Nested bullet
+    - Sub-nested bullet etc
 
+refernces/further readings(links)
 
-
-
-[reference](https://leansteps.wordpress.com/11-2/step-3-lean-experiment/problem-solution-fit/)
-[reference](https://www.growthsandwich.com/resources/problem-solution-fit-time-to-pivot/)
-[reference](https://medium.com/@epicantus/problem-solution-fit-canvas-aa3dd59cb4fe)
+[Reference-name](http://website.com)
+ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
