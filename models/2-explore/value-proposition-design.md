@@ -36,7 +36,9 @@ tags:
     *Who are our most important customers?
 
 
-refernces/further readings(links)
+refernces/further readings:-
+ Osterwalder's broader Business Model/Canvas
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.co
+
+
+
