@@ -38,8 +38,8 @@ This statement, if worded compellingly, convinces a potential consumer that one 
     - Which customer needs are we satisfying?
  
   - Customer segments
-    - For whom are we creating values?
-    - Who are our most important customers?
+    - For whom are we creating values?.
+    - Who are our most important customers?.
 
 
 [Osterwalder's broader Business Model/Canvas](https://www.investopedia.com/terms/v/valueproposition.asp)
