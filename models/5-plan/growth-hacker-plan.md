@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-indexingField: 8-Plan
+indexingField: 6-Plan
 title: '1-growth hacker plan'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
