@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-title: "Value Proposition"
+title: "4-Value Proposition"
 indexingField: 3-Explore
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
