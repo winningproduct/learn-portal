@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-title: "Value Proposition"
-indexingField: 3-Explore
+indexingField: 5-Immerse
+title: '3-hypothesis validation'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -9,8 +9,8 @@ featuredimage: "/img/<your-image-name>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Explore
-  - Value Proposition
+  - Immerse
+  - hypothesis validation
   - Winning Product Canvas
 ---
 
@@ -28,4 +28,4 @@ tags:
 refernces/further readings(links)
 
 [Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.co
+ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)

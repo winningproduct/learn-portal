@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-indexingField: 4-Focus
-title: '4-low fidelty prototype'
+indexingField: 6-Plan
+title: '12-Key metric tests'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -9,8 +9,8 @@ featuredimage: "/img/<your-image-name>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Focus
-  - low fidelty prototype
+  - Plan
+  - Key metric tests
   - Winning Product Canvas
 ---
 

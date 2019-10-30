@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-indexingField: 2-Conceive
-title: "Introduction"
+indexingField: 5-Immerse
+title: '4-Positioning Messages'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -9,8 +9,8 @@ featuredimage: "/img/<your-image-name>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Conceive
-  - Introduction
+  - Immerse
+  - Positioning Messages
   - Winning Product Canvas
 ---
 

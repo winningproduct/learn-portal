@@ -1,36 +1,31 @@
 ---
-templateKey: 'model-post'
-title: '4-error and exception handling'
+templateKey: "model-post"
+indexingField: 8-Stabilize
+title: "11-Errors and exception handling"
+subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-indexingField: 9-Stabilize
-featuredimage: '/img/default-image.png'
-description: 'error and exception handling'
+featuredimage: "/img/<content-main-image>.jpeg"
+description: "Max word count (160)"
 
 tags:
-  - WPO introduction
-  - Value Proposition
-  - Organization
-  - WPO canvas
-  - Winning product organization
+  - Stabilize
+  - Errors and exception handling
+  - Winning Product Canvas
 ---
 
-##Errors vs. Exceptions
+![flavor wheel](/img/<content-main-image>.jpeg)
 
+##why(word count 200)
+{paragraph}
 
-Errors can be described as Programming errors that fail to properly recover / continue and generally require a programmer to intervene and change the code to correct it. Errors can sometimes become exceptions, so they can be handled in code.
+##how(in bullet points)
 
-Exceptions can be described as making use of the specific semantics of a programming language and represent when something out of the ordinary has happened. Exceptions are thrown and intercepted so that the code can recover and handle the situation and not enter into an error state.
+- Bullet list
+  - Nested bullet
+    - Sub-nested bullet etc
 
+refernces/further readings(links)
 
-
-
-
-##Points to Ponder
-
-
-#What can go wrong will go wrong
-#How to code the application to recover by itself
-#Why is it important to specify which type of exception to catch?
-#How to handle unhandled exceptions
-#Error logging
+[Reference-name](http://website.com)
+ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
