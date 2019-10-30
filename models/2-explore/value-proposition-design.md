@@ -18,7 +18,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![flavor wheel](/img/valueprop.jpg)
 
 ##Why Is a Value Proposition?
 
