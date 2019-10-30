@@ -31,16 +31,16 @@ This statement, if worded compellingly, convinces a potential consumer that one 
 
 - The Value Proposition ensure that a product or service is positioned around what the customer values and needs.
 - In other words, an organization look at key problems of their customers and link it to key features of their         product/service that will resolve those problems.
-  - Value proposition
+
+ - Value proposition
     - What value do we deliver to the customer?
     - Which one of our customer’s problem are we helping to solve?
     - What bundles of products and services are we offering to each customer segment?
     - Which customer needs are we satisfying?
  
-  - Customer segments
+ - Customer segments
     - For whom are we creating values?.
     - Who are our most important customers?.
-
 
 [Osterwalder's broader Business Model/Canvas](https://www.investopedia.com/terms/v/valueproposition.asp)
 
