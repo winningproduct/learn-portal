@@ -5,7 +5,7 @@ indexingField: 2-Conceive
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
+featuredimage: "/img/product-concept-pitch.jpeg"
 description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is very much important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
   
 
@@ -15,7 +15,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![flavor wheel](/img/product-concept-pitch.jpeg)
 
 ##why(word count 200)
 

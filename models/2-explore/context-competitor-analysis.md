@@ -2,11 +2,11 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "1-Context Competitor Analysis"
-subtitle: "Max word count (140)"
+subtitle: "Understanding the market context for smart positioning"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<your-image-name>.jpeg"
-description: "Max word count (160)"
+description: "For any software product, it is essential to know how well it is doing against the competition. Competitor analysis is used to measure how competitive your product or service against the competition."
 
 tags:
   - Explore
@@ -14,18 +14,25 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![Competitor Analysis - Two-dimensional matrix](/img/competitor-analysis.png)
 
-##why(word count 200)
-{paragraph}
+##why
+By measuring your products or service against competition allows you to position the product in the market efficiently. Furthermore, this also helps to respond to the market changes quickly.
 
 ##how(in bullet points)
 
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+- Define the industry – scope and nature of the industry.
+- Determine who the competitors are.
+- Determine who the customers are and what benefits they expect.
+- Determine the key strengths – for example price, service, convenience, inventory, etc.
+- Rank the key success factors by giving each one a weighting – The sum of all the weightings must add up to one.
+- Rate each competitor on each of the key success factors.
+- Multiply each cell in the matrix by the factor weighting.
 
-refernces/further readings(links)
+  This can be displayed on a two dimensional matrix – competitors along the top and key success factors down the side. An example of a competitor array follows
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+references/further readings(links)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Competitor_analysis)
+[Competitor Analysis Tools](https://neilpatel.com/blog/12-competitor-analysis-tools-that-will-improve-your-site-traffic/)
+[How to Write a Competitive Analysis](https://expertprogrammanagement.com/2017/01/competitive-analysis-template/)
