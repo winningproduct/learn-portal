@@ -5,7 +5,7 @@ indexingField: 3-Explore
 subtitle: "A value proposition refers to the value a company promises to deliver to customers should they choose to buy their product."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
+featuredimage: "/img/valueprop.jpg"
 description: "
 Let's think of a product's USP (Unique Selling Points). Why do companies come up with this? Why is it necessary to define this?
  
