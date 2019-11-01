@@ -19,7 +19,7 @@ tags:
 ##why
 By measuring your products or service against competition allows you to position the product in the market efficiently. Furthermore, this also helps to respond to the market changes quickly.
 
-##how(in bullet points)
+##how
 
 - Define the industry – scope and nature of the industry.
 - Determine who the competitors are.
