@@ -5,7 +5,7 @@ title: "1-Context Competitor Analysis"
 subtitle: "Understanding the market context for smart positioning"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/competitor-analysis.png"
+featuredimage: "/img/<your-image-name>.jpeg"
 description: "For any software product, it is essential to know how well it is doing against the competition. Competitor analysis is used to measure how competitive your product or service against the competition."
 
 tags:
