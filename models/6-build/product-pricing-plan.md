@@ -21,9 +21,8 @@ tags:
 
 ##how(in bullet points)
 
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+- test
+- test 2
 
 refernces/further readings(links)
 
