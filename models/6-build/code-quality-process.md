@@ -5,7 +5,7 @@ title: '4-code quality process'
 subtitle: "Checklist to follow for a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/Checklist.png"
+featuredimage: "/img/code-quality-process-checklist.png"
 description: "This is to have a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 
 tags:
