@@ -2,11 +2,11 @@
 templateKey: "model-post"\
 indexingField: 5-Build\
 title: '8-Team On-boarding & Learning Plan'\
-subtitle: "Max word count (140)"\
+subtitle: "Assimilating new recruits via an effective Team On-boarding & Learning Plan"\
 date: 2019-11-08T09:00:00.000Z
 featuredpost: true\
 featuredimage: "/img/<your-image-name>.jpeg"\
-description: "Max word count (160)"\
+description:\
 Team On-boarding and Learning Plan refers to the process of assimilating the new recruits into the organization by providing them with the necessary guidance, support, resources and training.
 
 tags:
