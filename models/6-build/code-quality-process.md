@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: '4-code quality process'
+title: "4-code quality process"
 subtitle: "Checklist to follow for a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -16,16 +16,17 @@ tags:
 
 ![flavor wheel](/img/<your-image-name>.jpeg)
 
-##why(word count 200)
+## Why
+
 Make software reliable, extendable, maintainable and in good quality.
-  Make the code more readable and easier to comprehend for everyone working on the project. It’s much harder to read and understand a bad quality code than to write it.
-  It’s easier, safer and less time consuming to maintain and test quality code.
-  Good quality code can speed up long-term software development since it can be reused and developers don’t have to spend that much time fixing old bugs and polishing code. It also makes easier for new project members who join the project.
+Make the code more readable and easier to comprehend for everyone working on the project. It’s much harder to read and understand a bad quality code than to write it.
+It’s easier, safer and less time consuming to maintain and test quality code.
+Good quality code can speed up long-term software development since it can be reused and developers don’t have to spend that much time fixing old bugs and polishing code. It also makes easier for new project members who join the project.
 Reduces frustrating bugs and design problems.
 Manages risk of customer dissatisfaction, data loss, security incidents, and scaling problems.
 
+## How
 
-##how(in bullet points)
 - Awareness
   - Software architectural patterns and design patterns
   - Well defined coding standards in general and specific to programming languages
@@ -55,9 +56,10 @@ Manages risk of customer dissatisfaction, data loss, security incidents, and sca
   - Continuous KT sessions to make sure the necessary knowledge is with everyone in the team
   - Discuss root causes and find ways to avoid them
 
-refernces/further readings(links)
-[COMPREHENSIVE GUIDE TO CODE QUALITY: BEST PRACTICES AND TOOLS](https://codingsans.com/blog/code-quality)
-[Revelry](https://revelry.co/code-quality-process/)
-[Code Reviews and Pair Programming](https://medium.com/@andreigridnev/code-reviews-and-pair-programming-68a5ca8ba90c)
-[What Is Code Quality? And How to Improve It](https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-it)
-[Code Review Checklist – To Perform Effective Code Reviews](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
+# Refernces
+
+- [COMPREHENSIVE GUIDE TO CODE QUALITY: BEST PRACTICES AND TOOLS](https://codingsans.com/blog/code-quality)
+- [Revelry](https://revelry.co/code-quality-process/)
+- [Code Reviews and Pair Programming](https://medium.com/@andreigridnev/code-reviews-and-pair-programming-68a5ca8ba90c)
+- [What Is Code Quality? And How to Improve It](https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-it)
+- [Code Review Checklist – To Perform Effective Code Reviews](https://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
