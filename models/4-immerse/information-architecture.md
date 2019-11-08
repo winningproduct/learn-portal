@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-indexingField: 7-Immerse
+indexingField: 5-Immerse
 title: '9-information architecture'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z

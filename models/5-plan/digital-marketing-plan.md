@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-indexingField: 8-Plan
-title: '7-digital marketing design'
+indexingField: 6-Plan
+title: '8-digital marketing design'
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -10,7 +10,7 @@ description: "Max word count (160)"
 
 tags:
   - Plan
-  - digital marketing design
+  - digital marketing plan
   - Winning Product Canvas
 ---
 
