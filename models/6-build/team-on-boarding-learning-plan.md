@@ -1,13 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Build
-title: '8-Team On-boarding & Learning Plan'
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
+templateKey: "model-post"\
+indexingField: 5-Build\
+title: '8-Team On-boarding & Learning Plan'\
+subtitle: "Max word count (140)"\
+date: 2019-11-08T09:00:00.000Z
+featuredpost: true\
+featuredimage: "/img/<your-image-name>.jpeg"\
 description: "Max word count (160)"\
-Team On-boarding and Learning Plan refers to the process of assimilating the new recruits by providing them with the necessary resources, guidance, support and training.
+Team On-boarding and Learning Plan refers to the process of assimilating the new recruits into the organization by providing them with the necessary guidance, support, resources and training.
 
 tags:
   - Build
@@ -18,26 +18,26 @@ tags:
 ![flavor wheel](/img/<your-image-name>.jpeg)
 
 ##Why?
-Building a strategic, standardized and consistent On-boarding and Learning Plan is the best way to assimilate the new employees to the organization. Its benefits are proven to be two-fold: Effect on new employees on an individual level, then its influence on the organization as a whole.
+Building a strategic, standardized and consistent On-boarding and learning Plan is the best way to assimilate the new employees to the organization. Its benefits are proven to be two-fold: Effect on new employees on an individual level, then its influence on the organization as a whole.
 
-A proper Team On-boarding experience would make the new employees feel welcome and can fit into the organizational culture. This will reduce their anxiety and stress.  
-Effective Team On-boarding and Learning process would also assist the new employees to quickly acquire the necessary knowledge, skills and behaviors required to function effectively within the organization. As a result they’ll be able to adapt to their new job roles quickly and smoothly.
+A proper team on-boarding experience would make the new employees feel welcome and comfortable among new people and new surroundings. This will reduce their anxiety and stress.  
+Effective team on-boarding and Learning process would also assist the new employees to quickly acquire the necessary knowledge, skills and behaviors required to effectively function within the organization. As a result they’ll be able to adapt to their new job roles quickly and smoothly.
 
 From the organization’s view point, having an effective on-boarding and learning process would provide following benefits.
 - Improve new employee productivity :\
-*Effective on-boarding and training result in shorter learning curves and reduces the new employee ramp-up time*
-- Increase employee retention :\
+*Effective on-boarding and training would result in shorter learning curves and reduces the new employee ramp-up time*
+- Increase new employee retention :\
 *Reduces new employee turnover by making the new employees feel valued via the on-boarding experience*
 - Boosts new employee engagement :\
-*Proper on-boarding process is an effective method to get employees engaged from the very beginning*
+*The positive employee experience generated via an effective on-boarding and learning process would get employees engaged from the very beginning*
 
-##How
+##How?
 
 Team On-boarding and Learning process doesn't begin and end on new employee’s first couple of days at work. It begins when you initiate the hiring process and ends when the new employee is fully settled into his/her role.
 An employee on-boarding checklist should be maintained to track the following on-boarding process(in order to stay compliant).
 
 **During the hiring process:**
-- Be cautious on the Halo Effect(Try to give a positive first impression) :
+- Be cautious on the Halo Effect(Give a positive first impression) :
   - *Make sure the candidate experience is welcoming (Start interview on time, Don't cancel interviews at the last moment, Offer candidates’ some water or coffee etc.)*
 - Proper Communication throughout the hiring process:
   - *Proper communication of interview setup (Informing interview schedules in advance, Explain the interview process and what to expect etc.)*
@@ -71,12 +71,12 @@ An employee on-boarding checklist should be maintained to track the following on
 **During your new employee’s first X months:**
 - Arrange Knowledge Transfer Sessions :
   - *Arrange Knowledge Transfer Sessions for transferring the necessary domain knowledge, product knowledge and architecture*
-- Provide necessary training:
+- Arrange necessary training:
   - *Identify any training needs for the new employee to effectively perform the job and arrange them (role specific training, technical training, personality development training etc.)*
 - Evaluate the new employee learning by continuous evaluation :
   - *Make sure the new employee is learning effectively by conducting 1:1 meetings*
   - *Conduct frequent informal meetings with the mentor*
-  - *Continuous evaluation of employee performance based an technical assignments etc.*
+  - *Continuous evaluation of employee performance(based an assignments etc.)*
 
 ###References/Further Readings
 - [How to build a new employee onboarding process](https://resources.workable.com/tutorial/employee-onboarding)
