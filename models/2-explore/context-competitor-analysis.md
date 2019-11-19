@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![Competitor Analysis - Two-dimensional matrix](/img/competitor-analysis.png)
+![Competitor Analysis - Two-dimensional matrix](/img/Competitor-Analysis-Template.png)
 
 ##why
 By measuring your products or service against competition allows you to position the product in the market efficiently. Furthermore, this also helps to respond to the market changes quickly.
