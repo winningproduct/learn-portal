@@ -27,6 +27,12 @@ The main intention of an MVP is to test the market. So, you can build the least 
 - The breakdown features
   At this stage, the broad vision needs to be broken down into more tangible areas where the impact of each feature can be assessed individually.
 
+- Identify ROI
+  The ROI of each feature is considered by comparing the learnability against cost. The success criteria of the MVP will be determined by maximizing the inclusions from high learnability, low cost quadrant.
+
+- Roadmap
+  The selected features then needs to be placed in a MVP roadmap.
+
 ##References
 
 [What is a Minimum Viable Product?](http://ask.leanstack.com/en/articles/902991-what-is-a-minimum-viable-product-mvp)
