@@ -14,22 +14,21 @@ tags:
   - Winning Product Canvas
 ---
 
-![Competitor Analysis - Two-dimensional matrix](/img/competitor-analysis.png)
+![Competitor Analysis - Two-dimensional matrix](/img/Competitor-Analysis-Template.png)
 
 ##why
-By measuring your products or service against competition allows you to position the product in the market efficiently. Furthermore, this also helps to respond to the market changes quickly.
+By measuring your products or service against competition allows you to position the product in the market effectively. Furthermore, the continuous monitoring of market dynamics helps to respond to the market changes timely.
 
 ##how
 
-- Define the industry – scope and nature of the industry.
-- Determine who the competitors are.
-- Determine who the customers are and what benefits they expect.
+- Define the industry you are in – scope and nature of the industry.
+- Determine who the relevant competitors are.
+- Determine the customer segments they target and tha primary benefits provided.
+- Analyze their marketing taglines and key messages to the market.
 - Determine the key strengths – for example price, service, convenience, inventory, etc.
-- Rank the key success factors by giving each one a weighting – The sum of all the weightings must add up to one.
-- Rate each competitor on each of the key success factors.
-- Multiply each cell in the matrix by the factor weighting.
+- Quantitatively rank the key success factors by giving each one a weightage
 
-  This can be displayed on a two dimensional matrix – competitors along the top and key success factors down the side. An example of a competitor array follows
+This analysis can be performed on a two dimensional matrix where competitors listed as columns and key success factors as rows.
 
 references/further readings(links)
 

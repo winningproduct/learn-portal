@@ -6,7 +6,7 @@ subtitle: "How to pitch your product for investors and potential customers"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/product-concept-pitch.jpeg"
-description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is very much important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
+description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
 
 tags:
   - Conceive
@@ -18,7 +18,7 @@ tags:
 
 ##why
 
-The convincing pitch drags the product for prosperity. Pitching is an excellent opportunity to sell a product to potential investors and customers as well as to know what exactly the needs of the stakeholders.
+A great product has excellent followership. Effective communication and convincing are essential to acquire such followership of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
 
 ##how
 
