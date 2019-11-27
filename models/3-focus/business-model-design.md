@@ -2,7 +2,7 @@
 templateKey: "model-post"
 indexingField: 4-Focus
 title: '3-business model design'
-subtitle: "Max word count (140)"
+subtitle: "What is business model"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/businessmodel.jpeg"
