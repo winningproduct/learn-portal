@@ -44,4 +44,5 @@ refernces/further readings:
 [how to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
 
 [business model](https://www.investopedia.com/terms/b/businessmodel.asp)
+
 [creating a successfull business Model](https://www.youtube.com/watch?v=IP0cUBWTgpY)
