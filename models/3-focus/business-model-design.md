@@ -36,13 +36,12 @@ Building a business model follows a procedure of filling in each cell in the can
 
 
 
-  - Nested bullet
-    - Sub-nested bullet etc
+  
 
-refernces/further readings(links)
+refernces/further readings:
 
 
-ex-[how to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
+[how to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
 
 [business model](https://www.investopedia.com/terms/b/businessmodel.asp)
 [creating a successfull business Model](https://www.youtube.com/watch?v=IP0cUBWTgpY)
