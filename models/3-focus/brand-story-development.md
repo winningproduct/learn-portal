@@ -16,10 +16,10 @@ tags:
 
 ![flavor wheel](/img/business-model.png)
 
-##WHY
+##Why
 It is crucial to understand how a business operates to understand the complexity of its operation. This understanding enables managers to fine-tune their offerings to maximize profitability. For a startup, the business model serves as a base document to explain how the company plans to make a profit, thus attracting investors. In essence business model is used to evaluate if the business idea is viable and understanding what it takes to operate the business.
 
-##HOW
+##How
 Building a business model follows a procedure of filling in each cell in the canvas in a predefined order, as mentioned below. When filling in each cell, one must answer some critical questions.
 
 - **Value Proposition**: What are you building for who? What pain are you solving, and what gain are you creating? This is the place you list all of your features, products, or services.
@@ -40,7 +40,8 @@ Building a business model follows a procedure of filling in each cell in the can
 
 - **Cost Structure**: What are the costs and expenses to operate the business. What are the essential costs? What are the valuable resources? What activities are most expensive?
 
-##REFERENCES
+##References
 
 - [What is a business model](https://www.investopedia.com/terms/b/businessmodel.asp)
+
 - [Definition of business model ](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model)

@@ -16,11 +16,11 @@ tags:
 
 ![flavor wheel](/img/product-concept-pitch.jpeg)
 
-##why
+##Why
 
 A great product has excellent followership. Effective communication and convincing are essential to acquire such followership of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
 
-##how
+##How
 
 There exist different forms of pitching.
 
@@ -76,6 +76,6 @@ The live plan pitch is a far more detailed pitching strategy compared to elevato
 
 When pitching a product to potential customers, the purpose of the product, and how the product varies from potential customers should be stated. More emphasis should be put on to convince about the unique value provides by the product but not for the price. Details of existing customers are plus points to attract new customers when pitching a product.
 
-refernces/further readings(links)
+##References
 
-[Reference](https://www.entrepreneur.com/article/322361)
+- [When Pitching Investors, Your Product Doesn't Matter](https://www.entrepreneur.com/article/322361)
