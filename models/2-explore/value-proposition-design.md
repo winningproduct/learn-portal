@@ -20,29 +20,29 @@ tags:
 
 ![flavor wheel](/img/valueprop.jpg)
 
-##Why Is a Value Proposition?
+##Why
 
 In a business, a value proposition refers to the value a company promises to deliver to customers. Meaning the customers should choose to buy their product or service. A value proposition can be also be a brand name which a company has build-up and if so this can be a statement that introduces a company's brand to consumers by telling them what the company stands for, how it operates, and why it deserves their business.
 A value proposition can be presented as a business or marketing statement that a company uses to summarize why a consumer should buy a product or use a service.
 
 This statement, if worded compellingly, convinces a potential consumer that one particular product or service the company offers will add more value or better solve a problem for them than other similar offerings will.
 
-##How ?
+##How
 
 - The Value Proposition ensure that a product or service is positioned around what the customer values and needs.
-- In other words, an organization look at key problems of their customers and link it to key features of their         product/service that will resolve those problems.
+- In other words, an organization look at key problems of their customers and link it to key features of their product/service that will resolve those problems.
 
- - Value proposition
-    - What value do we deliver to the customer?
-    - Which one of our customer’s problem are we helping to solve?
-    - What bundles of products and services are we offering to each customer segment?
-    - Which customer needs are we satisfying?
- 
- - Customer segments
-    - For whom are we creating values?.
-    - Who are our most important customers?.
+- Value proposition
 
-[Osterwalder's broader Business Model/Canvas](https://www.investopedia.com/terms/v/valueproposition.asp)
+  - What value do we deliver to the customer?
+  - Which one of our customer’s problem are we helping to solve?
+  - What bundles of products and services are we offering to each customer segment?
+  - Which customer needs are we satisfying?
 
+- Customer segments
+  - For whom are we creating values?.
+  - Who are our most important customers?.
 
+##References
 
+- [Osterwalder's broader Business Model/Canvas](https://www.investopedia.com/terms/v/valueproposition.asp)

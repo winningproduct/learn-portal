@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 4-Focus
-title: '6-platform architect'
+title: "6-platform architect"
 subtitle: "underlying infrastructure of the software system."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -16,12 +16,12 @@ tags:
 
 ![flavor wheel](/img/platform-architecture.jpg)
 
-##why
+##Why
 
-Platform architecture constaints but its not necessarily determine the applicaton architecture, 
+Platform architecture constaints but its not necessarily determine the applicaton architecture,
 Since we’re talking about infrastructure here, there’s a direct relationship between the chosen platform architecture and the cost of setting up and maintaining it.The choice of platform architecture is done at the very early stages, at most times, that choice is irreversible
 
-##how
+##How
 Since the amount of information that we have at the time decide upon the application is very little and could be inaccurate as well, it’s important that we make the right decision.
 
 - Desirable properties
@@ -30,15 +30,13 @@ Since the amount of information that we have at the time decide upon the applica
   - Maintainable
   - Evolvable
 
-
-- Types
+* Types
   - Standalone
   - Client-Based
   - Client-Server
   - Cloud
   - Peer-Peer
 
+##References
 
-refernces/further readings
-
-[platform-architecture](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+- [Platform Architecture](https://www.sciencedirect.com/topics/computer-science/platform-architecture)

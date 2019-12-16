@@ -35,4 +35,4 @@ The main intention of an MVP is to test the market. So, you can build the least 
 
 ##References
 
-[What is a Minimum Viable Product?](http://ask.leanstack.com/en/articles/902991-what-is-a-minimum-viable-product-mvp)
+- [What is a Minimum Viable Product?](http://ask.leanstack.com/en/articles/902991-what-is-a-minimum-viable-product-mvp)
