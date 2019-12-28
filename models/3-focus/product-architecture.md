@@ -5,7 +5,7 @@ title: "5-product architecture"
 subtitle: "What is product architecture"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
+featuredimage: "/img/software-architecture.jpg"
 description: "Product architecture defines how the granular software components are engineered and organized together in a software deployment echo system to achieve the optimal value delivery of the features in demand. The product architecture disciplines shall mainly be governed by the product development requirements under the moderation of industry best practices associated with the selected technologies, services and relevant regulations."
 
 tags:
@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![flavor wheel](/img/software-architecture.jpg)
 
 ##Why
 The product architecture blue print is an essential early starter to determine the direction of the solution development. Following are the main reasons why it is a must to focus on the product architecture at the beginning.
