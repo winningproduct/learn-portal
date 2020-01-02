@@ -26,7 +26,7 @@ A brand for an organization is analogous to a child and a parent. Similar to wha
 On the other hand, as Steve Jobs mentioned “Marketing is about values. It’s a complicated and noisy world, and we’re not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us.”
 
 
-##How
+## How
 **“Start with a Why”**
 According to the “Golden Circle principle” there are 3 components as follows :
 
