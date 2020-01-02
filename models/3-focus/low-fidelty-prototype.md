@@ -1,12 +1,12 @@
 ---
-templateKey: "model-post"
+templateKey: 'model-post'
 indexingField: 4-Focus
-title: "4-low fidelty prototype"
-subtitle: "A prototype is an early sample, model, or release of a product built to test a concept or process."
+title: '4-low fidelty prototype'
+subtitle: 'A prototype is an early sample, model, or release of a product built to test a concept or process.'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/prototype.jpeg"
-description: "A prototype is a simulation of how a finished product will work. It allows product teams to test the usability and feasibility of their designs. Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. Should not be so concrete."
+featuredimage: '/img/prototype.jpeg'
+description: 'A prototype is a simulation of how a finished product will work. It allows product teams to test the usability and feasibility of their designs. Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. Should not be so concrete.'
 
 tags:
   - Focus

@@ -1,12 +1,12 @@
 ---
-templateKey: "model-post"
+templateKey: 'model-post'
 indexingField: 4-Focus
-title: "1-MVP Identification"
-subtitle: "Planning a Minimum Viable Product"
+title: '2-MVP Identification'
+subtitle: 'Planning a Minimum Viable Product'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/mvp.jpg"
-description: "The minimum viable product encompasses the least number of features necessary to realize the core value proposition of your product or to maximize the learnability. In other words, this means that this is the minimum feature set required to learn the success of the product offering."
+featuredimage: '/img/mvp.jpg'
+description: 'The minimum viable product encompasses the least number of features necessary to realize the core value proposition of your product or to maximize the learnability. In other words, this means that this is the minimum feature set required to learn the success of the product offering.'
 
 tags:
   - Focus

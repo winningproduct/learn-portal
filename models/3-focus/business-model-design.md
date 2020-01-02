@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 4-Focus
-title: '3-business model design'
+title: '1-business model design'
 subtitle: "What is business model"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
