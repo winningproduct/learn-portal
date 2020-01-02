@@ -1,12 +1,12 @@
 ---
-templateKey: "model-post"
+templateKey: 'model-post'
 indexingField: 4-Focus
-title: "6-platform architect"
-subtitle: "underlying infrastructure of the software system."
+title: '7-platform architect'
+subtitle: 'underlying infrastructure of the software system.'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/platform-architecture.jpg"
-description: "Product architecture defines the different sub-components of a software system, and how the interact with each other, whereas platform architecture defines the underlying infrastructure on which the software system runs."
+featuredimage: '/img/platform-architecture.jpg'
+description: 'Product architecture defines the different sub-components of a software system, and how the interact with each other, whereas platform architecture defines the underlying infrastructure on which the software system runs.'
 
 tags:
   - Focus

@@ -1,12 +1,12 @@
 ---
-templateKey: "model-post"
+templateKey: 'model-post'
 indexingField: 7-Immerse
-title: '10-product roadmap'
-subtitle: "Max word count (140)"
+title: '8-product roadmap'
+subtitle: 'Max word count (140)'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
-description: "Max word count (160)"
+featuredimage: '/img/<your-image-name>.jpeg'
+description: 'Max word count (160)'
 
 tags:
   - Immerse
