@@ -1,31 +1,35 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: '1-brand guide'
-subtitle: "Max word count (140)"
+title: "1-brand guide"
+subtitle: "A written manual that explains how a brand should be used internally and externally"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
-description: "Max word count (160)"
+featuredimage: "/img/brand-guide.jpg"
+description: "Brand guidelines, also known as a brand style guide, govern the composition, design, and general look-and-feel of a company's branding. Brand guidelines can dictate the content of a logo, blog, website, advertisement, and similar marketing collateral."
 
 tags:
   - Immerse
-  - brand guide
+  - Brand Guide
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![flavor wheel](/img/brand-guide.jpg)
 
-##why(word count 200)
-{paragraph}
+##Why
+Brand guide ensures that there is consistency across all branding collateral published by the company so there no confusion to the target audience it is reaching and distinguish the brand image strongly from the competition
 
-##how(in bullet points)
+##How
+Discuss with all stakeholders and identify how you want to portray your brand to the target audience and come up with the sections in the PDF around that. Following sections are commonly included in a brand guide manual.
 
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+- Logo
+- Logo Usage
+- Banding Colors
+- Image Usage
+- Patterns
+- Typography
+- Stationery
+- etc...
 
-refernces/further readings(links)
-
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+##Reference
+[Uber Brand Guide](https://brand.uber.com/)
