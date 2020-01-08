@@ -47,7 +47,8 @@ In a Value Proposition Canvas, there are two segments.
 When each of the segments are identified, the mapping is reviewed by matching the pains and pain relievers, the gains and the gain creators offered via the products and services to make the tasks of the targeted audience easy. 
 
 Following is an image connecting the Value Map with the Customer Profile items.
-![Making the match](/img/connected-value-map.png)
+
+![Making the match](/img/connected-value-map.PNG)
 
 ## References
 
