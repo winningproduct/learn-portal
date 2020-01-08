@@ -35,21 +35,21 @@ In a Value Proposition Canvas, there are two segments.
 	2. Pain points
 	3. Gains
 
-![Customer Profile segment](/img/customer-profile.png)
+![Customer Profile segment](/img/customer-profile.PNG)
 
 2. **Value Map :** Portrays the products and services offered, the pain relievers offered and the gain creators for the targeted audience.
 	1. Products & Services
 	2. Pain relievers
 	3. Gain creators
 
-![Value Map segment](/img/value-map.png)
+![Value Map segment](/img/value-map.PNG)
 
 When each of the segments are identified, the mapping is reviewed by matching the pains and pain relievers, the gains and the gain creators offered via the products and services to make the tasks of the targeted audience easy. 
 
 Following is an image connecting the Value Map with the Customer Profile items.
 ![Making the match](/img/connected-value-map.png)
 
-##References
+## References
 
 - [Strategyzer's Value Proposition Canvas Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0)
 
