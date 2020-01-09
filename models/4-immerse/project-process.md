@@ -16,10 +16,10 @@ tags:
 
 ![flavor wheel](/img/project-process.jpg)
 
-##Why(word count 200)
+##Why
 A process approach makes the software engineering predictable and repeatable.
 
-##How(in bullet points)
+##How
 Generally a product development process should cover requirements coming from following four different sources;
 
 - Business requirements.
