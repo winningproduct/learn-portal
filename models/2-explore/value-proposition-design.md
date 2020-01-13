@@ -5,12 +5,8 @@ indexingField: 3-Explore
 subtitle: "A value proposition refers to the value a company promises to deliver to customers should they choose to buy their product."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/valueprop.jpg"
-description: "
-Let's think of a product's USP (Unique Selling Points). Why do companies come up with this? Why is it necessary to define this?
- 
-Simple because, in a crowded market, customers get overwhelmed with so many reasons why they should buy a certain product or a service. In order to make this less complicated and more simple, so that the customer can link their needs/wants to what is offered in a product or service, organizations define the most unique selling points. These unique selling points are derived from a product/service value proposition.
-"
+featuredimage: "/img/value-proposition-canvas.jpg"
+description: "When introducing a product or a service to an audience it is vital to understand the pain points and how value is created to bring a relief those pains. The Value Proposition Canvas is a methodology to identify the Value Proposition offered by organizations."
 
 tags:
   - Explore
@@ -18,31 +14,48 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/valueprop.jpg)
+![flavor wheel](/img/value-proposition-canvas.jpg)
 
-##Why
+## What
+A product or a service is introduced to the market in order to provide a solution for a problem faced by a specific segment of people. In order to provide such a solution it is very much required to understand what sort of tasks are to being seeked by the  targeted audience, the pains currently faced and what gains are expected and how it is measured by them. On the other hand it is important to identify the products and services offered, how those provide a relief to the pains faced by the audience and how those could extend the gains required by them. For this purpose a Value Proposition Canvas is used. 
 
-In a business, a value proposition refers to the value a company promises to deliver to customers. Meaning the customers should choose to buy their product or service. A value proposition can be also be a brand name which a company has build-up and if so this can be a statement that introduces a company's brand to consumers by telling them what the company stands for, how it operates, and why it deserves their business.
-A value proposition can be presented as a business or marketing statement that a company uses to summarize why a consumer should buy a product or use a service.
+## Why
 
-This statement, if worded compellingly, convinces a potential consumer that one particular product or service the company offers will add more value or better solve a problem for them than other similar offerings will.
+According to the research by Simon Kucher & Partners 2014, it is proved that over 72% of new products and services introduced to the market fail. Simply nearly 7 out of 10 new products and services introduced to the market are rejected by customers. The reason is for not being able to cater the pain points faced by the targeted audience. Therefore it is very important to identify the value map for the products or services offered. The Value Proposition Canvas is widely used for this purpose and when a proper link is built between the pains and the pain relievers provided, it is considered that the Product-Market fit has been achieved. 
 
-##How
+However it is important to note that, even though a proper Product-Market fit is made, the business may fail if the business model is flawed.
 
-- The Value Proposition ensure that a product or service is positioned around what the customer values and needs.
-- In other words, an organization look at key problems of their customers and link it to key features of their product/service that will resolve those problems.
 
-- Value proposition
+## How
 
-  - What value do we deliver to the customer?
-  - Which one of our customer’s problem are we helping to solve?
-  - What bundles of products and services are we offering to each customer segment?
-  - Which customer needs are we satisfying?
+In a Value Proposition Canvas, there are two segments.
 
-- Customer segments
-  - For whom are we creating values?.
-  - Who are our most important customers?.
+1. **The Customer Profile :** Portrays the tasks the target audience requires to do, the pain points and the gains & how gains are measured.
+	1. Tasks
+	2. Pain points
+	3. Gains
 
-##References
+![Customer Profile segment](/img/customer-profile.PNG)
 
-- [Osterwalder's broader Business Model/Canvas](https://www.investopedia.com/terms/v/valueproposition.asp)
+2. **Value Map :** Portrays the products and services offered, the pain relievers offered and the gain creators for the targeted audience.
+	1. Products & Services
+	2. Pain relievers
+	3. Gain creators
+
+![Value Map segment](/img/value-map.PNG)
+
+When each of the segments are identified, the mapping is reviewed by matching the pains and pain relievers, the gains and the gain creators offered via the products and services to make the tasks of the targeted audience easy. 
+
+Following is an image connecting the Value Map with the Customer Profile items.
+
+![Making the match](/img/connected-value-map.PNG)
+
+## References
+
+- [Strategyzer's Value Proposition Canvas Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0)
+
+- [Press : Simon Kucher & Partners 2014](https://www.simon-kucher.com/sites/default/files/simon-kucher_global_pricing_study_2014.pdf)
+
+- [Value Proposition Canvas Explained](https://www.youtube.com/watch?v=aN36EcTE54Q)
+
+- [What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
