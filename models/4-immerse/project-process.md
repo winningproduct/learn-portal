@@ -5,7 +5,7 @@ title: "7-project process"
 subtitle: “Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/project-process.jpg"
+featuredimage: "/img/wpo-project-process.jpg"
 description: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
 
 tags:
@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/project-process.jpg)
+![flavor wheel](/img/wpo-project-process.jpg)
 
 ##Why
 A process approach makes the software engineering predictable and repeatable.
