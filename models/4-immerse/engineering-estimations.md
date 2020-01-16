@@ -17,10 +17,10 @@ tags:
 ![flavor wheel](/img/engineering-estimation.jpg)
 
 ##Why
-Engineering estimations convey product managers how much cost and effort will be required for various enginnering activities. It helps them to make informed decistions to control the project more efficiently and effectively.
+Engineering estimations convey product managers how much cost and effort will be required for various enginnering activities. It helps them to make informed decisions to control the project more efficiently and effectively.
 
 ##How
-There are several methods to perform engineering estimation. They have their advantages and disadvantages. However the most popular engieering estimation method is Tast/Method estimation also known as "Bottom up Estimation"
+There are several methods to perform engineering estimations. They have their advantages and disadvantages. However the most popular engieering estimation method is Tast/Method estimation also known as "Bottom up Estimation"
 
 - Task/Method Estimation
   We break large tasks or stories in to discrete, easy to understand incremental tasks. These tasks can easily be assinged among project team members. Each task is comprised of task specification, Condition Of Satisfaction(COS), estimated time of completion, test functionalies etc..
