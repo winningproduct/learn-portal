@@ -2,7 +2,7 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "5-ci cd pipeline"
-subtitle: "Max word count (140)"
+subtitle: "Identifying bugs at early stages "
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/ci-cd-pipeline.jpg"
