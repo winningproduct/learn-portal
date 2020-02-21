@@ -5,7 +5,7 @@ title: "4-code quality process"
 subtitle: "Checklist to follow for a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/code-quality-process-checklist.png"
+featuredimage: "/img/code-quality-process.jpg"
 description: "This is to have a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 
 tags:
@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![Code-quality](/img/code-quality-process.jpg)
 
 ## Why
 
@@ -58,7 +58,7 @@ Manages risk of customer dissatisfaction, data loss, security incidents, and sca
 
 # Refernces
 
-- [COMPREHENSIVE GUIDE TO CODE QUALITY: BEST PRACTICES AND TOOLS](https://codingsans.com/blog/code-quality)
+- [Comprehensive Guide to Code Quality](https://codingsans.com/blog/code-quality)
 - [Revelry](https://revelry.co/code-quality-process/)
 - [Code Reviews and Pair Programming](https://medium.com/@andreigridnev/code-reviews-and-pair-programming-68a5ca8ba90c)
 - [What Is Code Quality? And How to Improve It](https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-it)
