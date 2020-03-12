@@ -31,7 +31,7 @@ When Dealing with technical debt these factors should be considered
 - Current Internal Quality Practices
 - Future Development Cost Impact.
 
-Integrating technical debt management in the development life cycle can be accommodated via following strategies as follows more information is available in references.
+Integrating technical debt management in the development life cycle can be accommodated via following strategies as follows more information is available in references. Persistence is the key.
 
 - 1 Out of Every 4 Work Items
 - 1 Day a Week
