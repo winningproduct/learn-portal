@@ -11,7 +11,7 @@
 8. How - List of bullet points - Summarize the content added in the “How” section
 9. Further Reading - Name and the reference as shown in the template
 10. Send the PR
-11. As soon as the PR is merged https://www.winningproductcanvas.com/models will be updated
+11. As soon as the PR is merged https://www.winningproduct.com/models will be updated
 12. The contributors will also be updated under the post - Github image and name
 
 ## Things to consider when writing content
