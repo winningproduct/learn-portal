@@ -1,3 +1,21 @@
+---
+templateKey: "model-post"
+indexingField: 6-Plan
+title: '2-utility tooling setup'
+subtitle: "Max word count (140)"
+date: 2019-07-25T15:04:10.000Z
+featuredpost: true
+featuredimage: "/img/<your-image-name>.jpeg"
+description: "Max word count (160)"
+
+tags:
+  - Plan
+  - utility tooling setup
+  - Winning Product Canvas
+---
+
+![flavor wheel](/img/<your-image-name>.jpeg)
+
 
 ##why
 Each product has different functioning areas such as Sales, Marketing, Engineering, Finance, etc. For a product to be the winner in the market, each of these areas should function as efficiently as possible. While some areas you can start with a manual effort to reduce the cost, using a tool will increase the productivity and long term value for the team and the product. 
