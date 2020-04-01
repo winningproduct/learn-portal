@@ -22,6 +22,8 @@ Visitor behavior analysis helps you answer behavioral questions about your visit
 - Build a stellar website experience
 - Identify friction across funnel
 - Increase website conversion
+- Gets the best ROI from channels
+- Defining an appropriate targeting strategy for different audience segments
 
 
 ##How
@@ -31,6 +33,11 @@ Following are the commonly used methods for visitor behaviour analysis.
   - Session recording enables you to record user and visitor sessions on your website which is later analyzed to dig insights on how visitors interact with your website.
 - Website Heatmap
   - Heatmaps
+    - Heatmaps help you understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why are my users not converting?' or 'how do I get more visitors to take action?' Using heat-maps, you can determine if people are;
+      - Reaching important content or failing to see it
+      - Finding and using a page's main links, buttons, and CTAs
+      - Getting distracted by non-clickable elements
+      - Experiencing issues across devices
   - Clickmaps
   - Mouse tracking heatmaps
   - Eye tracking heatmaps
