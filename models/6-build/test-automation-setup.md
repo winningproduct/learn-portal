@@ -22,9 +22,13 @@ Businesses are nowadays adopting DevOps and Cloud Computing. DevOps makes the te
 
 ##how(in bullet points)
 
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+Benefits of automation testing can be reaped maximum if following points are considered when building up the automation framework:
+Decide what Test Cases to Automate
+Test Early and Test Often
+Select the Right Automated Testing Tool
+Divide your Automated Testing Efforts
+Create Good, Quality Test Data
+Create Automated Tests that are Resistant to Changes in the UI
 
 refernces/further readings(links)
 
