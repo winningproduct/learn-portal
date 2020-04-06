@@ -15,7 +15,7 @@ tags:
 ---
 
 ![utility tooling](/img/utility-tooling.jpg)
-
+Image Credits: [pxhere](https://pxhere.com/)
 
 ##why
 Each product has different functioning areas such as Sales, Marketing, Engineering, Finance, etc. For a product to be the winner in the market, each of these areas should function as efficiently as possible. While some areas you can start with a manual effort to reduce the cost, using a tool will increase the productivity and long term value for the team and the product. 
@@ -63,7 +63,7 @@ In this article, we have given a set of functional areas and tools which can be 
 
 refernces/further readings(links)
 
-[Startup Tools](https://www.cloudways.com/blog/best-startup-tools/)
-[Top 17 tools used in software development](https://dzone.com/articles/top-17-tools-used-in-software-development)
-[Log management software](https://www.softwaretestinghelp.com/log-management-software/)
-[105 best tools to start your business](https://medium.com/the-mission/the-105-best-tools-to-start-your-business-in-2018-1675a457b4de)
+- [Startup Tools](https://www.cloudways.com/blog/best-startup-tools/)
+- [Top 17 tools used in software development](https://dzone.com/articles/top-17-tools-used-in-software-development)
+- [Log management software](https://www.softwaretestinghelp.com/log-management-software/)
+- [105 best tools to start your business](https://medium.com/the-mission/the-105-best-tools-to-start-your-business-in-2018-1675a457b4de)
