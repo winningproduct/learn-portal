@@ -15,7 +15,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/bcanvas.jpeg)
+![flavor wheel](/img/bcanvas_1.jpg)
 
 ##Why
 It is important to understand how a business operates to understand the complexity of its operation. This understanding will enable managers to fine tune their offerings to maximize profitability. For a startup the business model serves as a base document to explain how the company plans to make profit thus attracting investors. In essence business model is used to evaluate of the business idea is viable and understanding what it takes to operate the business.
