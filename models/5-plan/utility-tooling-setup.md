@@ -61,7 +61,7 @@ In this article, we have given a set of functional areas and tools which can be 
   - Hubspot
 
 
-refernces/further readings(links)
+##References
 
 - [Startup Tools](https://www.cloudways.com/blog/best-startup-tools/)
 - [Top 17 tools used in software development](https://dzone.com/articles/top-17-tools-used-in-software-development)
