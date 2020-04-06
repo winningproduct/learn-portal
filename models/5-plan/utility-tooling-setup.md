@@ -19,7 +19,9 @@ tags:
 
 ##why
 Each product has different functioning areas such as Sales, Marketing, Engineering, Finance, etc. For a product to be the winner in the market, each of these areas should function as efficiently as possible. While some areas you can start with a manual effort to reduce the cost, using a tool will increase the productivity and long term value for the team and the product. 
-In this article, we have given a set of functional areas and tools which can be used.
+In this article, we have given a set of functional areas and tools which can be used. 
+
+** Please note that the tools available today might be out of date after sometime. You should always evaluate what are the right set of tools for your product.
 
 ##how
 
@@ -53,17 +55,15 @@ In this article, we have given a set of functional areas and tools which can be 
   - Having everything documented is a great practice for any team. This will come in handy when there are changes to team members, for audit and compliance and in many instances. 
   - Confluence
   - Maturify
-- Sales
-  - 
-- Marketing
-  - 
+- Sales & Marketing
+  - Contentcal
+  - GT Matrix
+  - Hubspot
 
-
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
 
 refernces/further readings(links)
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+[Startup Tools](https://www.cloudways.com/blog/best-startup-tools/)
+[Top 17 tools used in software development](https://dzone.com/articles/top-17-tools-used-in-software-development)
+[Log management software](https://www.softwaretestinghelp.com/log-management-software/)
+[105 best tools to start your business](https://medium.com/the-mission/the-105-best-tools-to-start-your-business-in-2018-1675a457b4de)
