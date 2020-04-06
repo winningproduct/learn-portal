@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![utility tooling](/img/utility-tooling.jpg)
 
 
 ##why
