@@ -30,15 +30,29 @@ Quality Assurance Plan is a critical part of any project, as it enables to agree
 
 ##How
 
-- Main components of a QA Plan are,
-
+Quality plan mainly consists of 3 elements. 
 
 ![Quality Assurance Components](/img/QA_Components.JPG)
 
-  - Quality Assurance - to ensure the quality project management process
-  - Quality Control - via the development of quality outputs
-  - Quality Improvement - Review points to assess and improve quality where possible
-  - Quality assurance plan is interested not only about the quality of the end product. It also pays attention to the intermediate process and products.
+ **Quality Assurance (QA)** 
+ 
+Quality Assuarance is one aspect of the larger discipline of quality management. Managing the quality production involves many details steps of planing, fulfiling and monitoring activities.
+
+This helps to ; 
+- Ensure a high quality in prodcution during the development of products or services. 
+
+**Quality Control (QC)**
+
+Quality Control plans are often viewed as a set of instructions that should be followed. Especially when managing business that deals with manufacturing, introducing new product or services to the market it is greatest that you could be able to implement quality control procedures in to everything you do. 
+
+This helps to ; 
+- Customer satisfaction.
+- Use resources more effectively.
+- It adopts quality awareness among employees. 
+- Lower inspection cost. 
+- Improved production methods 
+- Increase moral 
+
 
 - When preparing a Quality assurance plan, following steps are involved,
   - Ensure Quality objectives are identified.
