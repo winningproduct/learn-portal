@@ -17,11 +17,22 @@ tags:
 ![Quality Assurance Plan](/img/quality-assurance.jpg)
 
 ##Why
-Quality Assurance Plan is a **test new test** , as it enables to agree a set of quality targets with the customers. It then helps in monitoring and controlling the level of quality, which further indicates the level of adherence to the targets. The purpose of quality assurance plan is to direct and facilitate the establishment of quality assurance activities with in processes used to deliver right products and services to the clients. This also makes sure of the quality of the goods delivered.
+Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to; 
+- Encourage consume trust and confidence in the buinsess and helps the business compete with others in the same market. 
+- Monitoring and controlling the level of quality which further indicates the level of adherence to the tragets. 
+- Direct and facilitate the establishment of quality assuarance activites within process used to deliver right product and services to the client. 
+- Enhance the quality of the product.
+- Describes the specific document standards, practices, procedures to be applied within the process used to deliver. 
+- Objects to be addressed. 
+- Steps in the processes that create the procedures of the organization. 
+
 
 ##How
 
 - Main components of a QA Plan are,
+
+
+![Quality Assurance Components](/img/QA_Components.JPG)
 
   - Quality Assurance - to ensure the quality project management process
   - Quality Control - via the development of quality outputs
