@@ -17,6 +17,7 @@ tags:
 ![Quality Assurance Plan](/img/quality-assurance.jpg)
 
 ##Why
+
 Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to; 
 - Encourage consume trust and confidence in the buinsess and helps the business compete with others in the same market. 
 - Monitoring and controlling the level of quality which further indicates the level of adherence to the tragets. 
