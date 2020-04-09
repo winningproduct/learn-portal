@@ -53,15 +53,39 @@ This helps to ;
 - Improved production methods 
 - Increase moral 
 
+**Quality Management (QM)**
 
-- When preparing a Quality assurance plan, following steps are involved,
+Quality Management system defined as a formalized system that documents processes, procedures and responsibilities for achieving quality policies and objectives. 
+
+This helps to;
+- Coordinate and direct an organization's activities to meet customer and regulatory requirements and improve its effectiveness and efficiency on a continuous basis. 
+- Meeting the organization's requirements, which ensures compliance with regulations and provision of prodcuts and services in the most cost and resource-efficient manner, creating room for expansion,growth and profit. 
+- Defining, improving and controlling processes. 
+- Reducing waste. 
+- Preventing mistakes. 
+
+**Steps to create QA plan** 
+
   - Ensure Quality objectives are identified.
   - Define QA Roles and responsibilities
   - Ordinate with developers, scrum masters , product owners. it should be aligned with the other management activities. Risk Management, - Change management, Resource management should be taken into consideration.
   - Define methodologies and standards. - Risk management standards, project management standards, information security standards, Data - protection and privacy standards, business domain related standards.
   - Determine QA Tasks and Time schedule.
   - Plan review and audit.
+  
+**Sample QA Plan with its content** 
+
+QA plan need to have following contents. 
+
+  - Define objectives.  
+  - Roles and responsibilities. 
+  - Coordinate with other plans. 
+  - Details of test environment.
+  - Define task and the schedule. 
+ 
 
 ##References
-[Creating a Quality Assuarance Plan](https://www.brighthubpm.com/project-planning/30414-how-to-create-an-effective-quality-assurance-plan/)
+
+[Sample QA Plan ](https://www.brighthubpm.com/project-planning/30414-how-to-create-an-effective-quality-assurance-plan/)
+
 [QA Plan](https://www.santecindia.com/quality-assurance-plan.html)
