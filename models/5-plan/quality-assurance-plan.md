@@ -67,7 +67,7 @@ This helps to;
 **Steps to create QA plan** 
 
   - Ensure Quality objectives are identified.
-  - Define QA Roles and responsibilities
+  - Define QA Roles and responsibilities.
   - Ordinate with developers, scrum masters , product owners. it should be aligned with the other management activities. Risk Management, - Change management, Resource management should be taken into consideration.
   - Define methodologies and standards. - Risk management standards, project management standards, information security standards, Data - protection and privacy standards, business domain related standards.
   - Determine QA Tasks and Time schedule.
@@ -81,7 +81,7 @@ QA plan need to have following contents.
   - Roles and responsibilities. 
   - Coordinate with other plans. 
   - Details of test environment.
-  - Define task and the schedule. 
+  - Define task and the schedule.
  
 
 ##References
