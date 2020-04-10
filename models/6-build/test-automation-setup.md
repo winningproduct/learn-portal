@@ -42,7 +42,6 @@ In addition to that, it is also recommended to focus on the following pointers w
 The ultimate objective of the automation testing is to verify that the business scenarios are not broken from the new release. With this, the agile team can deploy as many releases as required to meet the business requirments which is dynamic in nature.   
 
 ##References
-
  - https://smartbear.com/learn/automated-testing/best-practices-for-automation/
  - https://saucelabs.com/blog/top-10-benefits-of-automated-testing
  - https://www.guru99.com/automation-testing.html
