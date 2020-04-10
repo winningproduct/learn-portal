@@ -37,10 +37,10 @@ Test automation process can be defined as follows
   4. Test execution
   5. Maintenance
 
-  1. Test tool selection
+  **1. Test tool selection**
     Tool selection is the foremost important step that needs to follow as some applications do not support for some tools. It is adivisable to conduct a proof of concept on the application with regards to the test automation tool.
     
-  2. Define the scope of selection
+  **2. Define the scope of selection**
     The scope of the area of the application that intends to conduct test automation should be considered based on the following.
       - Import features for the business
       - Areas that have large amount of data
@@ -49,7 +49,7 @@ Test automation process can be defined as follows
       - The complexity of test cases
       - Ability to use the same test cases for cross-browser testing
       
-  3. Planning, design and development
+   **3. Planning, design and development**
     Automation strategy and plan should be made as follows
       - Automation tools selected
       - Framework design and its features
@@ -58,10 +58,10 @@ Test automation process can be defined as follows
       - Schedule and timeline of scripting and execution
       - Deliverables of test automation
       
-  4. Test execution
+   **4. Test execution**
     In this phase test automation should be run with test input data and after the execution detailed test reports should be generated
     
-  5. Maintenance
+   **5. Maintenance**
     As new functionalities added automation scripts need to be added, reviewed and maintained for each release cycle.
     
 
