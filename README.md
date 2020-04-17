@@ -54,7 +54,7 @@ Now that you have explored different avenues, start locking down on a specific s
 #### MVP Identification
 - Purpose of an MVP is to create the minimum set of features to learn the most about customers’ needs. Target features which are of high importance and costs low to implement.
 #### Platform Architecture
-- Underline technical architecture of the platform, how different contents are basically assembled, hosting & cloud considerations, what underline technology stack is used
+- Underline technical architecture of the platform, how different components are basically assembled, hosting & cloud considerations, what underline technology stack is used
 #### Product Architecture
 - Explain how a product's functional components interact with each other, how is your product seen by customers, licensing and pricing strategies
 #### Problem Solution Fit Testing
