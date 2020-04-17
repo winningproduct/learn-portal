@@ -2,7 +2,7 @@
 templateKey: "model-post"
 indexingField: 8-Stabilize
 title: "12-Release management"
-subtitle: "Max word count (140)"
+subtitle: "A proper release management practices play a major role in stabilizing the product in long run"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
