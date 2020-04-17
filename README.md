@@ -42,28 +42,26 @@ This is where you look at all different alternatives to explore before locking d
 - Analysis of current world & market trends to help define the vision for the product
 
 ## Focus (Select a specialization to target)
-Now that you have explored different avenues, start locking down on a specific selected area	
+Now that you have explored different avenues, start locking down on a specific selected area
 #### Technical Feasibility
-- The process of validating the technology assumptions, architecture and design of a product or project.
+- Verify that the business idea is technology feasible to implement
 #### Low Fidelity Prototype
-- Explain how to translate high-level design concepts into tangible and testable artifacts
+- Translate main business and design concepts to a high-level prototype that stakeholders can easily get their head around. Be open minded for change.
 #### Business Model Design
-- Explain how a company plans to operate and make money
+- Explain how a company plans to operate and achieve business goals
 #### Brand story development
-- Elobarate why or the purpose of the product to exists in the market
+- Elaborate the purpose of the product’s existence in the market. Focus on how customers see it.
 #### MVP Identification
-- How do you identify the best "wants" in your Minimum Viable Product
-#### Brand Story Development
-- Elobarate why or the purpose of the product to exists in the market
+- Purpose of an MVP is to create the minimum set of features to learn the most about customers’ needs. Target features which are of high importance and costs low to implement.
 #### Platform Architecture
-- Underline architecture of the platform, how different contents are basically assembled
+- Underline technical architecture of the platform, how different contents are basically assembled, hosting & cloud considerations, what underline technology stack is used
 #### Product Architecture
-- Explain how a product's functional components interact with each other
+- Explain how a product's functional components interact with each other, how is your product seen by customers, licensing and pricing strategies
 #### Problem Solution Fit Testing
-- Explain how to test that a product, or a service, solves a customer’s problem
+- Explain how to test that your product solves a customer’s basic problem
 
 ## Immerse (Dig deep and understand the solution)
-Go further, focus on details in the area choses	
+Go further, focus on details in the area choses
 #### Brand Guide & Product Naming
 - What is the branding strategy of the product? How to name your products which gives instant clarity
 #### Information Architecture
@@ -82,7 +80,7 @@ Go further, focus on details in the area choses
 - Lay the features and releases in a product evolution timeline.
 
 ## Plan (Strategize the agility of project execution)
-Plan ahead to get the best our of next stages	
+Plan ahead to get the best our of next stages
 #### Go-to-market Planning & Checklist
 - The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage.
 #### Architecture Blueprint in code
@@ -114,116 +112,116 @@ Execute the plan
 - List down the things you need to do before and on product lunch
 #### Lead capture/CMS
 - Start capturing and managing your potential customers. Invest on Customer Relationshpip Management system to track and manage customer leads.
-#### Code Quality Process	
+#### Code Quality Process
 - Establish process to ensure code quality. Think about static code analysis and peer reviews
-#### Test Automation Setup	
+#### Test Automation Setup
 - Look at the regression tests and start automating repetitive tests. Make the tests run ideally on each commit and as early as development deployments. At least do a nightly run.
-#### Visitor Behaviour Analysis	
+#### Visitor Behaviour Analysis
 - Build and evolve plans analyze the patterns of potential customers to your marketing sites.
-#### Market Feedback Capture	
+#### Market Feedback Capture
 - Build mechanisms to gather user experience statistics from users and be open minded to the required changes.
-#### Technical Dept Management	
+#### Technical Dept Management
 - Create a process to collect and manage technical debt during the product development. Think of non-functional requirements here.
-#### Data Privacy Protection	
+#### Data Privacy Protection
 - Understand the data protection policies in target markets. Device strategies for data anonymization and limiting developer access to production data.
-#### User Behaviour Analysis	
+#### User Behaviour Analysis
 - Build and evolve mechanism to track anonymous  user behavior in the system with an aim of providing better UX.
-#### Feature Prioratization Process	
+#### Feature Prioratization Process
 - Think about which features should go first, revisit the product roadmap if needed. Consider user feedback
-#### Product Pricing Plan	
+#### Product Pricing Plan
 - Define the strategy to bill users. Think about strategies such as price/feature tiers, pay as you go, etc...
-#### Release gate Reviews	
+#### Release gate Reviews
 - Define what kind of code quality, load testing matrices which qualifies ok for a production release. Either have automation or manual verification in place to check them.
-#### User License Management	
+#### User License Management
 - Build mechanisms for billing. Track usages for different features. Think about feature toggles for different users. Think about restrictions based on price tears and usages.
-#### Team Onboarding & Learning Plan	
+#### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
 
 ## Stabilize(Continuously release stable products)
-Focus on stabilizing the product after the previous rapid development cycle	
+Focus on stabilizing the product after the previous rapid development cycle
 
-#### Architectural Runway	
+#### Architectural Runway
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
-#### Inbound Marketing Plan	
+#### Inbound Marketing Plan
 - Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media Continue to help, support and maintain a relationship with both potential and existing customers.
-#### Vulnerability Assessment	
+#### Vulnerability Assessment
 - Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities.
-#### Scalability Assessment	
+#### Scalability Assessment
 - Make sure your application scales as users grow. Explore scale up and scale out strategies. Think of geo scaling and inherent eventual consistency and fault tolerance mechanisms.
-#### Portfolio Management	
+#### Portfolio Management
 - Build support in your architecture to extend your product into portfolio of products. Consider things like creating a common platform and single sign on.
-#### Lead Nurture Pipeline	
+#### Lead Nurture Pipeline
 - Start educating prospects, build awareness of your organization and its products, build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-#### IP Rights Protection	
+#### IP Rights Protection
 - Extract unique intellectual property from your business and technical strategy. Make sure that they either patented and non-disclosure agreements are in place with relevant stakeholders.
-#### Public Relations Plan	
+#### Public Relations Plan
 - Strategize on enhance the image of the company  and focus on positive media coverage
-#### Error and Exception Handling	
+#### Error and Exception Handling
 - How to handle errors and exceptions in the application. How to inform users on such events without making them panic? Analyze the error and exception statistics.
-#### Release Management 
+#### Release Management
 - Plan, manage, schedule and build a process to develop and release through different stages and environments. Consider testing and deployment as well.
-#### Projection & Budgeting	
+#### Projection & Budgeting
 - Create a budget for a specific time considering the knowns and also consider historical data, known unknowns and a buffer to create a financial projection.
-#### Contingency & Reliability Reviews	
+#### Contingency & Reliability Reviews
 - Create a plan B if things go south. Consider technical, market and environmental factors. Do various drills to make sure the readiness.
-#### Win-lose Analysis	
+#### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
-#### Hotfix Process	
+#### Hotfix Process
 - Hotfixes are inevitable. So, define a proper process and a deployment mechanism to handle hotfixes.
 
 ## Optimize(Reach globally competitive product maturity)
-Fine tune the product to achieve the maximum output	
-#### Data Analytics Plan	
+Fine tune the product to achieve the maximum output
+#### Data Analytics Plan
 - Roadmap on how to organize and analyze data (i.e. system usage etc, client survey) to enable R&D and decision making
-#### Promotions Plan	
+#### Promotions Plan
 - Detailed strategy for marketing the product.
-#### Documentation and User Training	
+#### Documentation and User Training
 - Discuss the importance of product documentation and user training. What is the difference between documentation and training?
-#### Compliance & Approvals	
+#### Compliance & Approvals
 - Adapt industry standards and certifications to design stronger, safer, more reliable products and bring those products to market as quickly as possible.
-#### Customer Contract Management	
+#### Customer Contract Management
 - How to correctly manage contracts with customers
-#### Tech Team Branding	
+#### Tech Team Branding
 - Defining a brand of the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization.
-#### Adword Design	
+#### Adword Design
 - Articulate market segment specific messages to be published via SM in order to generate call to action traffic from buyer personas
-#### Performance Tuning Plan	
-- How to optimize system pefroemance for best user experience, based on performance requirements and analysis on existing performance 
-#### Log indexing & Analysis	
+#### Performance Tuning Plan
+- How to optimize system pefroemance for best user experience, based on performance requirements and analysis on existing performance
+#### Log indexing & Analysis
 - Paint a clear picture of what has happened across the infrastructure from  organizing and analysing system generated logs. This provides an insight to spot product issues that might impact performance, compliance, and security
-#### Product Support Organization	
+#### Product Support Organization
 - Structure the customer support team with correct strategies, tools and frameworks for smoother operations with product's growth
-#### Web Optimization Plan	
+#### Web Optimization Plan
 - Improving your user experience so that people will be more likely to convert on your website
-#### Support Issues Tracking	
-- As the product sclaes to meet a growig customer base, how to manage and maintain customer support cases effectively 
+#### Support Issues Tracking
+- As the product sclaes to meet a growig customer base, how to manage and maintain customer support cases effectively
 
 ## Harvest (Operate with highest return on investment)
-Your product is now cash cow. Milk it the maximum while you can.	
+Your product is now cash cow. Milk it the maximum while you can.
 #### Invent or Improve Decision
 - Strategize product 'invent or improve' decisions aligning with business goals and timelines.
 #### Buy or Build
 - How to make build vs buy decisions: cost, risk, and the problem you are trying to solve
-#### Feature Usage Analysis	
+#### Feature Usage Analysis
 - How can you calculate feature usage so that you are left with clear, actionable insights.
-#### Systems Monitoring	
+#### Systems Monitoring
 - How to monitor application health in order to analyse its operation and performance, and to detect and alert about possible errors.
 #### Referrals & Upsales Plan
-- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers. Also how to market higher sales to existing customers (upsales). 
+- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers. Also how to market higher sales to existing customers (upsales).
 #### Stakeholder Retirement Consent
 - Identify under which circumstances the stakeholders will agree to retire the product, and support model for EOS
-#### Data Migration Plan	
-- Roadmap moving data from one location to another, one format to another, or one application to another to optimize data handling as the product grows with its user base. 
+#### Data Migration Plan
+- Roadmap moving data from one location to another, one format to another, or one application to another to optimize data handling as the product grows with its user base.
 #### Technology Updation/Migration Plan
 - Roadmap for moving to better technologies to improve customer experience and reduce costs, while boosting security, availability, performance and agility
 
 ## Retire (Consider to distrupt with a new generation product)
-The product's time is up. Move to a better platform to leverage on new technologies	
-#### Account Migration Plan	
+The product's time is up. Move to a better platform to leverage on new technologies
+#### Account Migration Plan
 - Systematic plan to smoothly migrate users from the old platform to new platform without loosing users’ data.
-#### Digital Data Shredding	
+#### Digital Data Shredding
 - Destroy the data that you don’t want and return the data that belongs to users.
-#### Team Knowlege Transfer Plan	
+#### Team Knowlege Transfer Plan
 - Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge to new team members.
-#### Side by Side Operation Plan	
+#### Side by Side Operation Plan
 - Create a strategy to both migrate users to a new platform while running the old platform in parallel. This gives users time and ease of mind to upgrade with a failsafe.
