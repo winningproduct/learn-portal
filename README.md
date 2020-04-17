@@ -22,24 +22,24 @@
 # Cheatsheet
 
 ## Envision (Articulating the overall idea)
-This is where you look at all different alternatives to explore before locking down on a single concept	
+Make sure that you can create a pitch deck to present the idea to different parties such as investors and potential customers.
 
 ## Explore (Consider diverse alternatives)
-This is where you look at all different alternatives to explore before locking down on a single concept	
+This is where you look at all different alternatives to explore before locking down on a single concept
 #### Context/Competitor Analysis
 - Identify the problem that you solve and see what kind of competition is there for that
-#### Commercial viability & Market Sizing
+#### Commercial viability
 - Whether it makes business sense to pursue this idea considering the size of the market
 #### Market Research
 - An organized effort to gather information about target markets or customers.
-#### Personas & Mood Board
+#### Personas
 - Analysis of different personas of product/service with the use of visual presentations
 #### Value Proposition
 - What is the value that we are giving to cusomers?
 #### Service Blueprint/User Journey
 - What are the different paths a user takes to accomplish his goal using your product/service?
 #### Mega Trend Analysis
-- Analysis of market trends to help define the vision for the product
+- Analysis of current world & market trends to help define the vision for the product
 
 ## Focus (Select a specialization to target)
 Now that you have explored different avenues, start locking down on a specific selected area	
