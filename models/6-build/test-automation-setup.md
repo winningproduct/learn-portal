@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "15-Test Automation Setup "
+title: "11-Test Automation Setup "
 subtitle: "“Quality is free, but only to those who are willing to pay heavily for it.” – T. DeMarco and T. Lister"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

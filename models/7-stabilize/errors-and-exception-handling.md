@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "11-Errors and exception handling"
+title: "4-Errors and exception handling"
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
