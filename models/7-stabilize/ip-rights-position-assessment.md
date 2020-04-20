@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "9-Ip rights position assessment"
+title: "5-Ip rights position assessment"
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

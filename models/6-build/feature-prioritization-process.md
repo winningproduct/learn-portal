@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "7-feature prioritization process"
+title: "3-feature prioritization process"
 subtitle: "If the team doesn’t agree on the big picture, then they certainly won’t agree on a single feature."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
