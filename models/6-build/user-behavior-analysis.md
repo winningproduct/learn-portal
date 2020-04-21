@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: '8-User Behavior Analysis'
+title: "12-User Behavior Analysis"
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

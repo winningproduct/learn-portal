@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: '5-Visitor behaviour analysis'
+title: "14-Visitor behaviour analysis"
 subtitle: "Understand the real behavior of your website users"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -17,7 +17,8 @@ tags:
 ![Visitor Behaviour Analysis](/img/visitor-behaviour-analysis.jpg)
 
 ##Why
-Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. It empowers you to step into your visitors’ shoes, see what they saw, experience what they experienced and draw actionable insights from them which can be tested and deployed in the optimization stage. Whenever a visitor visits your website, visitor behavior analysis assumes the role of website visitor tracking software and maps their entire journey online. The result of the analysis can be used to, 
+Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. It empowers you to step into your visitors’ shoes, see what they saw, experience what they experienced and draw actionable insights from them which can be tested and deployed in the optimization stage. Whenever a visitor visits your website, visitor behavior analysis assumes the role of website visitor tracking software and maps their entire journey online. The result of the analysis can be used to,
+
 - Segment audience based on common traits
 - Build a stellar website experience
 - Identify friction across funnel
@@ -25,10 +26,10 @@ Visitor behavior analysis helps you answer behavioral questions about your visit
 - Gets the best ROI from channels
 - Defining an appropriate targeting strategy for different audience segments
 
-
 ##How
 
 Following are the commonly used methods for visitor behaviour analysis.
+
 - Session Recording
   - Session recording enables you to record user and visitor sessions on your website which is later analyzed to dig insights on how visitors interact with your website.
 - Website Heatmap

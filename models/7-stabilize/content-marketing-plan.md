@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "4-Content marketing plan"
+title: "2-Content marketing plan"
 subtitle: "Content Marketing Plan Is More than Just Content"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
@@ -20,7 +20,9 @@ tags:
 Content marketing helps businesses prepare and plan for reliable and cost-effective sources of website traffic and new leads. Think about it -- if you can create just one blog post that gets a steady amount of organic traffic, an embedded link to your product website will continue generating leads for you as time goes on. The reliable source of traffic and leads from your evergreen content will give you the flexibility to experiment with other marketing tactics to generate revenue, such as sponsored content, social media advertising, and distributed content. Plus, your content will not only help attract leads -- it will also help educate your target prospects and generate awareness for your brand.
 
 ##How
+
 - Before you develop a content strategy, there are some key things to consider.
+
   - Whom You're Creating Content For
   - The Problem it's Going to Solve for that Audience
   - What Makes You Unique
