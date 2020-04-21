@@ -22,62 +22,62 @@
 # Cheatsheet
 
 ## Envision (Articulating the overall idea)
-Make sure that you can create a pitch deck to present the idea to different parties such as investors and potential customers.
+Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
 
 ## Explore (Consider diverse alternatives)
-This is where you look at all different alternatives to explore before locking down on a single concept
+This is where you explore into different possibilities before locking down on a focused product concept
 #### Context/Competitor Analysis
-- Identify the problem that you solve and see what kind of competition is there for that
+- Research into current market state, domain trends and study existing competition to understand the context
 #### Commercial viability
-- Whether it makes business sense to pursue this idea considering the size of the market
-#### Market Research
-- An organized effort to gather information about target markets or customers.
+- Evaluate business/financial viability to ensure long-term continuity and RoI 
+#### Market Segmentation
+- Gather information about potential target markets and customer segments and the pros/cons of focusing on each
 #### Personas
-- Analysis of different personas of product/service with the use of visual presentations
+- Analysis of related user personas to understand pains, gains and behavior of users
 #### Value Proposition
-- What is the value that we are giving to cusomers?
+- List down the primary benefits to users in relieving their pains and providing gains
 #### Service Blueprint/User Journey
-- What are the different paths a user takes to accomplish his goal using your product/service?
+- Understand different paths a user takes to accomplish goals using the product
 #### Mega Trend Analysis
-- Analysis of current world & market trends to help define the vision for the product
+- Study current world & market trends to align the purpose for the product with a mega trend
 
 ## Focus (Select a specialization to target)
-Now that you have explored different avenues, start locking down on a specific selected area
+Now that you have explored different avenues, start locking-down on a specific area with best potential
 #### Technical Feasibility
-- Verify that the business idea is technology feasible to implement
+- Verify if the solution is technology feasible to implement with available resources
 #### Low Fidelity Prototype
-- Translate main business and design concepts to a high-level prototype that stakeholders can easily get their head around. Be open minded for change.
+- Translate main features into a high-level prototype for stakeholders to obtain feedback
 #### Business Model Design
-- Explain how a company plans to operate and achieve business goals
+- Elaborate business context within the product operate and achieve the business goals
 #### Brand story development
-- Elaborate the purpose of the product’s existence in the market. Focus on how customers see it.
+- Elaborate the purpose of the product’s existence from customer's point-of-view 
 #### MVP Identification
-- Purpose of an MVP is to create the minimum set of features to learn the most about customers’ needs. Target features which are of high importance and costs low to implement.
-#### Platform Architecture
-- Underline technical architecture of the platform, how different components are basically assembled, hosting & cloud considerations, what underline technology stack is used
+- Identify the minimum set of features that can gain maximum learning and has low cost of implementation. 
+#### Technical Architecture
+- Underline architecture of the platform, including hosting considerations, DevOps and tech stack selection
 #### Product Architecture
-- Explain how a product's functional components interact with each other, how is your product seen by customers, licensing and pricing strategies
+- Architecture blueprint for implementing functionalities, including product components such as licensing, SSO, business APIs etc.
 #### Problem Solution Fit Testing
-- Explain how to test that your product solves a customer’s basic problem
+- Validating if your solution effectively solves the customer’s basic problem
 
 ## Immerse (Dig deep and understand the solution)
-Go further, focus on details in the area choses
-#### Brand Guide & Product Naming
-- What is the branding strategy of the product? How to name your products which gives instant clarity
-#### Information Architecture
-- Define the content structure of the application to understand where the information is
+Analyze deep in to the focused area to elaborate details required for solving the problem
+#### Brand Guide
+- Define the brand personality of the product including visual theme, logo, name, etc.
+#### Data Architecture
+- Define the content structure, data entities, data relationships, storage formats
 #### Positioning Message
-- Figure out the exact message that we should give potential customers. It has to be brief, on point and no nonsense.
+- Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
 #### Engineering Estimation
-- Estimations for the engineering team for each functional and non-functional feature breakdown.
+- Estimate the development efforts for functional and non-functional features
 #### Operational Estimations
-- Running cost estimations for keeping the product in operation
+- Estimate for production implementation, training and running cost estimations in operation
 #### High Fidelity Prototype
-- Improve on the previous low fidelity prototype to make it very closer to the final product
+- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
 #### Product Market Fit Validation
-- Makes sure that our product caters to a market need considering various environment factors
+- Makes sure that our product is well tuned to solve the problem specifically for the identified target market
 #### Product Roadmap
-- Lay the features and releases in a product evolution timeline.
+- Lay the features and releases in a product evolution timeline
 
 ## Plan (Strategize the agility of project execution)
 Plan ahead to get the best our of next stages
