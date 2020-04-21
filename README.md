@@ -61,23 +61,23 @@ Now that you have explored different avenues, start locking-down on a specific a
 - Validating if your solution effectively solves the customer’s basic problem
 
 ## Immerse (Dig deep and understand the solution)
-Go further, focus on details in the area choses
-#### Brand Guide & Product Naming
-- What is the branding strategy of the product? How to name your products which gives instant clarity
-#### Information Architecture
-- Define the content structure of the application to understand where the information is
+Analyze deep in to the focused area to elaborate details required for solving the problem
+#### Brand Guide
+- Define the brand personality of the product including visual theme, logo, name, etc.
+#### Data Architecture
+- Define the content structure, data entities, data relationships, storage formats
 #### Positioning Message
-- Figure out the exact message that we should give potential customers. It has to be brief, on point and no nonsense.
+- Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
 #### Engineering Estimation
-- Estimations for the engineering team for each functional and non-functional feature breakdown.
+- Estimate the development efforts for functional and non-functional features
 #### Operational Estimations
-- Running cost estimations for keeping the product in operation
+- Estimate for production implementation, training and running cost estimations in operation
 #### High Fidelity Prototype
-- Improve on the previous low fidelity prototype to make it very closer to the final product
+- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
 #### Product Market Fit Validation
-- Makes sure that our product caters to a market need considering various environment factors
+- Makes sure that our product is well tuned to solve the problem specifically for the identified target market
 #### Product Roadmap
-- Lay the features and releases in a product evolution timeline.
+- Lay the features and releases in a product evolution timeline
 
 ## Plan (Strategize the agility of project execution)
 Plan ahead to get the best our of next stages
