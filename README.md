@@ -80,36 +80,37 @@ Analyze deep in to the focused area to elaborate details required for solving th
 - Lay the features and releases in a product evolution timeline
 
 ## Plan (Strategize the agility of project execution)
-Plan ahead to get the best our of next stages
-#### Go-to-market Planning & Checklist
-- The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage.
-#### Architecture Blueprint in code
-- Detailed blueprint of software components and the blueprint of infrastructure which it runs on
-#### Data schema Design
-- Logical view of the data in the product, initial plan to maintain data dimensions for analytics purposes.
-#### Growth Hacking Plan
-- Exploring low cost and smarter options to gain a rapid market reach in a short time or to find the product market fit.
-#### Engineering Process/ Team Structure
-- Definition of the engineering process which outlines coding best practices and devops strategy. Team structure should define the key purpose of each individual.
+Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics
+
+#### Engineering Process
+- Outlines the processes such as team management, code reviews, communication strategy, etc. 
+#### Team Structure
+Team structure should define key roles, responsibilities, boundaries and values
+#### Architecture Blueprint
+- Implement a vertical of a feature and setup the infrastructure to act as a guideline for further development
+#### Delivery Pipeline
+- Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc.
+#### Detailed data schema 
+- Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc.
 #### Quality Assurance Plan
-- Quality assurance process, test automation strategy, verification strategy for feature development and in releases.
-#### CI/CD Pipeline
-- Source control strategy, code integration process, test automation strategy, automatic deployment strategy and automated resource management strategy
+- Quality assurance process, test automation, verification, regression and release quality management
 #### Requirement Process
-- Process of defining, documenting and maintaining the product requirements.
-#### Digital Marketing Plan
-- Strategy of moving a product from concept to customer online
-#### Sales Interface
-- Offering a “single face” of the sales team rather than clients being having to interact with multiple agents across both sales and service throughout their relationships
+- Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback 
 #### Product Theme Integration
-- Coming up with a suitable product theme that suits your market preference
+- Integrate suitable product theme, visual element library to code with specific guidelines for developers
 #### Define Key Metric Tests
-- Define key matrices which are quantitative measures that helps to estimate the progress, quality, and health of a software testing effort
+- Define quantitative key matrices (timeline, quality, market success) that helps validate achievement of business goals
+#### Customer onboarding
+- Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc.
+#### Digital Marketing Blueprint
+- Consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals
+#### Growth Hacking Plan
+- Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales
 
 ## Build (Validate the Primary Assumptions)
 Execute the plan
-#### Launch Checklist
-- List down the things you need to do before and on product lunch
+#### Go-to-market Planning & Checklist
+- The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage. List down the things you need to do before and on product lunch
 #### Lead capture/CMS
 - Start capturing and managing your potential customers. Invest on Customer Relationshpip Management system to track and manage customer leads.
 #### Code Quality Process
