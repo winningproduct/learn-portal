@@ -1,31 +1,37 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: '7-project process'
-subtitle: "Max word count (140)"
+title: "7-project process"
+subtitle: “Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<your-image-name>.jpeg"
-description: "Max word count (160)"
+featuredimage: "/img/wpo-project-process.jpg"
+description: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
 
 tags:
   - Immerse
-  - project process
+  - Project Process
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<your-image-name>.jpeg)
+![flavor wheel](/img/wpo-project-process.jpg)
 
-##why(word count 200)
-{paragraph}
+##Why
+A process approach makes the software engineering predictable and repeatable.
 
-##how(in bullet points)
+##How
+Generally a product development process should cover requirements coming from following four different sources;
 
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+- Business requirements.
+- Customer requirements.
+- Legal requirements.
+- Compliance requirements (eg: ISO 9001).
 
-refernces/further readings(links)
+Once the requirements are identified those should be arranged and documented in following hierarchy;
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+- Policy.
+- Procedure.
+- Work instruction.
+
+#References
+[ISO 9000 2015](https://www.praxiom.com/iso-definition.htm)
