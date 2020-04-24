@@ -138,7 +138,7 @@ Execute the plan
 #### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
 
-## Stabilize(Continuously release stable products)
+## Stabilize(Continuously release stable products.)
 Focus on stabilizing the product after the previous rapid development cycle
 
 #### Architectural Runway
