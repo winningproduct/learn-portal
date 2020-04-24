@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/high-fidelity-prototype)
+![flavor wheel](/img/high-fidelity-prototype.jpg)
 
 ##Why
 
