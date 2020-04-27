@@ -6,7 +6,7 @@ subtitle: "Answer the question 'Can it actually be built?'"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/feasibility-report.jpg"
-description: "People don't buy products, people buy brands. Therefore it is very much important to develop a brand story that triggers the positive decisions on your stakeholders."
+description: "Technical feasibility assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems. Technical feasibility also involves the evaluation of the hardware, software, and other technical requirements of the proposed system."
 
 tags:
   - Focus
@@ -15,10 +15,6 @@ tags:
 ---
 
 ![Technical Feasibility](/img/feasibility-report.jpg)
-
-## What
-
-Technical feasibility assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems. Technical feasibility also involves the evaluation of the hardware, software, and other technical requirements of the proposed system.
 
 ## Why
 
