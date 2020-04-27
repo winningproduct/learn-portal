@@ -138,19 +138,19 @@ Execute the plan
 #### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
 
-## Stabilize(Continuously release stable products)
-Focus on stabilizing the product after the previous rapid development cycle
+## Stabilize (Continuously release stable products)
+Focus on stabilizing the product after the previous rapid assumption validation cycle on requirements and technical aspects.
 
 #### Architectural Runway
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
+#### Portfolio Management
+- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
 #### Inbound Marketing Plan
 - Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media Continue to help, support and maintain a relationship with both potential and existing customers.
 #### Vulnerability Assessment
 - Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities.
 #### Scalability Assessment
 - Make sure your application scales as users grow. Explore scale up and scale out strategies. Think of geo scaling and inherent eventual consistency and fault tolerance mechanisms.
-#### Portfolio Management
-- Build support in your architecture to extend your product into portfolio of products. Consider things like creating a common platform and single sign on.
 #### Lead Nurture Pipeline
 - Start educating prospects, build awareness of your organization and its products, build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
 #### IP Rights Protection
