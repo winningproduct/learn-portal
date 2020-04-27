@@ -6,7 +6,7 @@ subtitle: Perdona is a powerful tool used in the creation of product functions a
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/Persona.png"
-description: Perdona answers the question of “Who do we design for”. It's a powerful tool in the creation of product functions and it represents all the users. It can be considered as the typical user behavior of all potential users.
+description: Persona answers the question of “Who do we design for”. It's a powerful tool in the creation of product functions and it represents all the users. It can be considered as the typical user behavior of all potential users.
 
 tags:
   - Explore
@@ -30,15 +30,29 @@ It is quite difficult to handle and pay attention to all research conducted in a
   Identify trends, you should understand that different groups of people have a novel approach to the subject.
 
 - Create separate personas :
-  Tools like Talebook’s Persona consists of five main elements.
+  All of the main Personas templates consists of following main elements.
 
   - Photo : To emphasize the age and experience attached to this Persona
   - Name : Each Persona should have a unique name.
+  - Persona Group : Describess what user group represents by this persona. i.e Administrator or Customer
   - Description : A place to summarize your personas. It should include the background of your fictional character, as well as their current desires
-  - Problems : Every Persona represents different problems. Add all of them to this section to have a summary of the personal struggle.
+  - Job titles and major responsibilities: Identify what job titles are represented by this persona and what are their respossibilities.
+  - Demographics: Describe demographics such as age, education, ethnicity, and family status
+  - Problems : Every Persona represents different problems. Add all of them to this section to have a summary of the personal struggle. A quote that sums up what   matters most to the persona as it relates to your application. 
+  - Goals: The goals and tasks they are trying to complete using the application
+  - Pain points: Specific problems that prospective customers of your business are experiencing
 
 - Give your personas names :
   The best way to write for and think about your buyer persona is to give them a name. Assigning a name to your persona will remind you that you’re speaking to an actual person when you write emails. This can help you write more personalized content.
+
+- Identify goals & painpoints
+  It is extremely critical to discover unmet user needs through research for both personas and jobs-to-be-done. Any unmet needs will always have two components:
+  - Goals: What you want to accomplish and why you want to accomplish it.
+  - Pain points: What stopped you from accomplishing it. 
+  Understanding the pain points is to understand what actually stops people from achieving their goals. One thing we tend to forget when we jump to the solution phase is that understanding pain points of your target user is as important as understanding the goals they try to achieve. Sometimes, there are products or services on the market that can help customers achieve their goals but still provide little value to them.
+
+- Benifit of a persona
+  Since not all of your users share the same pain points but they may need the same goal, it helps you differentiate, select, and prioritize who you will design for. Identifying correct persona is critical when creating customer journey maps and to validate a MVP (Minimum Viable Product) scope for product engineers.
 
 ##References
 
@@ -47,3 +61,5 @@ It is quite difficult to handle and pay attention to all research conducted in a
 - [How To Create A Persona In 7 Steps](https://uxpressia.com/blog/how-to-create-persona-guide-examples)
 
 - [How to create Personas, a step by step guide](https://uxplanet.org/how-to-create-personas-step-by-step-guide-303d7b0d81b4)
+
+- [Just-Right Personas: How to Choose the Scope of Your Personas](https://www.nngroup.com/articles/persona-scope/)
