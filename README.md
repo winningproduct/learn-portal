@@ -138,7 +138,7 @@ Execute the plan
 #### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
 
-## Stabilize(Continuously release stable products)
+## Specialize (Specialize in product engineering practices to fit the product goal and continously release)
 Focus on stabilizing the product after the previous rapid development cycle
 #### Architectural Runway
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
