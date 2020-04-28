@@ -140,35 +140,32 @@ Execute the plan
 
 ## Stabilize(Continuously release stable products)
 Focus on stabilizing the product after the previous rapid development cycle
-
 #### Architectural Runway
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
-#### Inbound Marketing Plan
-- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media Continue to help, support and maintain a relationship with both potential and existing customers.
-#### Vulnerability Assessment
-- Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities.
-#### Scalability Assessment
-- Make sure your application scales as users grow. Explore scale up and scale out strategies. Think of geo scaling and inherent eventual consistency and fault tolerance mechanisms.
 #### Portfolio Management
-- Build support in your architecture to extend your product into portfolio of products. Consider things like creating a common platform and single sign on.
-#### Lead Nurture Pipeline
-- Start educating prospects, build awareness of your organization and its products, build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-#### IP Rights Protection
-- Extract unique intellectual property from your business and technical strategy. Make sure that they either patented and non-disclosure agreements are in place with relevant stakeholders.
-#### Public Relations Plan
-- Strategize on enhance the image of the company  and focus on positive media coverage
-#### Error and Exception Handling
-- How to handle errors and exceptions in the application. How to inform users on such events without making them panic? Analyze the error and exception statistics.
+- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
 #### Release Management
-- Plan, manage, schedule and build a process to develop and release through different stages and environments. Consider testing and deployment as well.
-#### Projection & Budgeting
-- Create a budget for a specific time considering the knowns and also consider historical data, known unknowns and a buffer to create a financial projection.
+- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
+#### Error and Exception Handling
+- Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
+#### Hot-fix Process
+- Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
+#### Inbound Marketing Plan
+- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
+#### Vulnerability Assessment
+- Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities. Assessment include scope within the implemented code and third party components. 
+#### Scalability Assessment
+- Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
+#### IP Rights 
+- Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
+#### Lead Nurture Process
+- Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
+#### Public Relations Plan
+- Strategize on enhance the image of the product brand and focus on influential media strategies.
 #### Contingency & Reliability Reviews
-- Create a plan B if things go south. Consider technical, market and environmental factors. Do various drills to make sure the readiness.
+- Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness.
 #### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
-#### Hotfix Process
-- Hotfixes are inevitable. So, define a proper process and a deployment mechanism to handle hotfixes.
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
