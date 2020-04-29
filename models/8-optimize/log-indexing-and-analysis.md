@@ -73,7 +73,7 @@ Therefore, in determining how to gather and process log data, it’s important t
 
 
     (3) Determine log storage and retention strategy  
-Logs capture enormous amount of data about your system. Storage is costly. Therefore, your log storage and retention strategy is crucial for optimal log analytics. 
+   Logs capture enormous amount of data about your system. Storage is costly. Therefore, your log storage and retention strategy is crucial for optimal log analytics. 
 
 Considering following facts would assist you on this regard. 
 
@@ -93,7 +93,7 @@ Considering following facts would assist you on this regard.
 
 
     (4) Create an effective log indexing scheme  
-Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
+   Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
 
 You may need to consider following facts in tuning your indexing throughput: 
 
