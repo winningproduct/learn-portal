@@ -91,8 +91,9 @@ Considering following facts would assist you on this regard.
 
 - Ensure you comply with any regulations on data protection and privacy in storing data. For example, GDPR in EU region has introduced the right for individuals to have personal data erased and therefore if you are recording any personal data(upon their consent) in the log files, should have a mechanism to erase them. 
 
-
-    `(4) Create an effective log indexing scheme`  
+`
+    (4) Create an effective log indexing scheme  
+`
 Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
 
 You may need to consider following facts in tuning your indexing throughput: 
@@ -115,7 +116,7 @@ You may need to consider following facts in tuning your indexing throughput:
 
 
     (5) Search and analyze your log data  
-    In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
+In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
 
 You may need to consider following facts in tuning your performance: 
 
