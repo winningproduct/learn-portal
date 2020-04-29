@@ -9,9 +9,7 @@ featuredimage: "/img/<content-main-image>.jpeg"
 
 description: 
 
-Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. 
-
-There's an enormous amount of intelligence hidden in those log files. Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play. 
+Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. There's an enormous amount of intelligence hidden in those log files. Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play. 
 
 tags:
   - Optimize
@@ -21,7 +19,7 @@ tags:
 
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
-##Why?
+## Why?
 Through log indexing and analysis, you can gain following benefits. 
 
 - **Assist post-event analysis and troubleshooting** 
@@ -96,6 +94,7 @@ Considering following facts would assist you on this regard.
 
 
 	(4)	Create an effective log indexing scheme
+
 Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
 
 You may need to consider following facts in tuning your indexing throughput: 
@@ -119,7 +118,7 @@ You may need to consider following facts in tuning your indexing throughput:
 
 	(5)	Search and analyze your log data
 
-In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
+   In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
 
 You may need to consider following facts in tuning your performance: 
 
