@@ -72,7 +72,7 @@ Therefore, in determining how to gather and process log data, it’s important t
 - **Use a Log Collector to collect logs** - The recommended approach for collecting logs is to use a log collector tool(Logstash, Filebeat , Logagent, Fluentd etc.), so that you will be able to configure and customize what kind of information you want to collect. With this approach, you can leave out redundant data and ensure that you gather only the relevant information. You should also consider the EPS (Events Per Second) of each device in configuring. Your log collector tool should also be able to keep up with this speed. 
 
 
-    (3) Determine log storage and retention strategy   
+    (3) Determine log storage and retention strategy 
 Logs capture enormous amount of data about your system. Storage is costly. Therefore, your log storage and retention strategy is crucial for optimal log analytics. 
 
 Considering following facts would assist you on this regard. 
