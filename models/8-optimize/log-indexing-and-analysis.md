@@ -20,35 +20,33 @@ tags:
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
 ## Why?
-Through log indexing and analysis, you can gain following benefits. 
+Log indexing and analysis provide you following benefits. 
 
 - **Assist post-event analysis and troubleshooting** 
 
-Log files are incredibly useful in tracing a security breach or in troubleshooting an undesirable behavior in your system. With the use of logs, it’s easier to go back into that specific time frame where the problematic event occurred, discover connections with other events, and diagnose the cause of the issue. 
+    Log files are incredibly useful in tracing a security breach or in troubleshooting an undesirable behavior in your system. With the use of logs, it’s easier to go back into that specific time frame where the problematic event occurred, discover connections with other events, and diagnose the cause of the issue. 
 
-For instance, in a security breach, you can find out what traffic was allowed through? what firewall rule allowed the intruder to get to the server? etc. In debugging a production issue, can trace user activity that caused the issue etc. 
-
-This enables developers and system administrators to more easily diagnose and rectify issues. 
+    For instance, in a security breach, you can find out what traffic was allowed through? what firewall rule allowed the intruder to get to the server? etc. In debugging a production issue, can trace user activity that caused the issue etc. This enables developers and system administrators to more easily diagnose and rectify issues. 
 
 - **Improve security intelligence** 
 
-Monitoring and analyzing system events assist you to promptly identify and respond to data breaches and other security incidents. In addition, this assist your organization in complying with security regulations and audits (ISO/IEC 27001 etc.) as well. 
+    Monitoring and analyzing system events assist you to promptly identify and respond to data breaches and other security incidents. In addition, this assist your organization in complying with security regulations and audits (ISO/IEC 27001 etc.) as well. 
 
 - **Assist performance tuning** 
 
-Log analysis provide better visibility into the health and performance of your application and infrastructure stack. With insights on application response times, memory issues, threading issues (deadlocks etc.) and resource usages (on CPU, disk etc.), you can identify performance bottlenecks and address them. 
+    Log analysis provide better visibility into the health and performance of your application and infrastructure stack. With insights on application response times, memory issues, threading issues (deadlocks etc.) and resource usages (on CPU, disk etc.), you can identify performance bottlenecks and address them. 
 
 - **Assist better decision making** 
 
-Performing data analytics on the collected log data interprets your data, provide new information and predict your application user behavior. This assists in data-driven decision making. 
+    Performing data analytics on the collected log data interprets your data, provide new information and predict your application user behavior. This assists in data-driven decision making. 
 
-For example, customer log analysis could uncover that users are unlikely to make a purchase in the middle of the week. This could assist in deciding when to introduce a sales promotion. Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI 
+    For example, customer log analysis could uncover that users are unlikely to make a purchase in the middle of the week. This could assist in deciding when to introduce a sales promotion. Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI 
 
 ## How?
 
 Log Indexing and Analysis process can be broken down into the following Steps.
 
-    (1) Determine what types of logs you should collect
+#### (1) Determine what types of logs you should collect
 Your production system is going to produce all sorts of different logs (event logs, availability logs, audit logs and access logs etc.) from different sources (application servers, database servers, firewalls, intrusion detection systems, switches, routers, etc.). 
 
 You should determine what types of logs you should extract from which source, as you can’t store them all. It will cost more to store a large amount of data and will also need more resources to perform analytics. 
@@ -58,7 +56,7 @@ The types of logs you should collect mainly depends on your intentions with log 
 For instance, for your application servers you won’t need event logs(as it generates a high volume of data on normal operations), but you would need the availability logs(to identify the faults that would impact the availability and stability of the system) and audit logs(to investigate unapproved activities).  
 
 
-    (2) Determine how to collect and process log data  
+#### (2) Determine how to collect and process log data  
 Log files are often scattered across many systems in your production environment in variety of forms. Having all logs in one place in a unified form would make log analysis much effective and efficient. 
 
 Therefore, in determining how to gather and process log data, it’s important to pay attention to following. 
@@ -72,7 +70,7 @@ Therefore, in determining how to gather and process log data, it’s important t
 - **Use a Log Collector to collect logs** - The recommended approach for collecting logs is to use a log collector tool(Logstash, Filebeat , Logagent, Fluentd etc.), so that you will be able to configure and customize what kind of information you want to collect. With this approach, you can leave out redundant data and ensure that you gather only the relevant information. You should also consider the EPS (Events Per Second) of each device in configuring. Your log collector tool should also be able to keep up with this speed. 
 
 
-### (3) Determine log storage and retention strategy
+#### (3) Determine log storage and retention strategy
    
 Logs capture enormous amount of data about your system. Storage is costly. Therefore, your log storage and retention strategy is crucial for optimal log analytics. 
 
@@ -93,7 +91,7 @@ Considering following facts would assist you on this regard.
 - Ensure you comply with any regulations on data protection and privacy in storing data. For example, GDPR in EU region has introduced the right for individuals to have personal data erased and therefore if you are recording any personal data(upon their consent) in the log files, should have a mechanism to erase them. 
 
 
-### (4) Create an effective log indexing scheme  
+#### (4) Create an effective log indexing scheme  
 
 Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
 
@@ -116,7 +114,7 @@ You may need to consider following facts in tuning your indexing throughput:
     The aforementioned tactics would assist you in creating an effective indexing scheme, which in turn would assist you in optimizing your searches and analysis. 
 
 
-### (5) Search and analyze your log data  
+#### (5) Search and analyze your log data  
 
 In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
 
@@ -148,12 +146,16 @@ You may need to consider following facts in tuning your performance:
 
     - Try to keep your visualizations simple and avoid over complicating them. Otherwise it’ll be difficult to interpret them. 
 
-    - Choose the right visuals for your purpose and audience. For example, can have customized dashboards with appropriate visuals for different audiences (one dashboard for your security team, another for the performance monitoring team, and another for the sales team etc.) 
+    - Choose the right visuals for your purpose and audience. For example, use customized dashboards with appropriate visuals for different audiences (one dashboard for your security team, another for the performance monitoring team, and another for the sales team etc.) 
 
     - Try to include comparisons in your charts for better insights (as comparisons provide readers a better perspective on data) 
 
 
 ## References/Further Readings
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+- [The Complete Guide to Log Analysis: What it is, How it Works, Use Cases & Tools](https://sematext.com/blog/log-analysis/)
+- [What is Log Management? A complete logging guide](https://www.graylog.org/post/what-is-log-management-a-complete-logging-guide)
+- [What Goes Into Log Analysis?](https://dzone.com/articles/what-goes-into-log-analysis)
+- [Log Management: What Is It and Why You Need It](https://dzone.com/articles/log-management-what-is-it-and-why-you-need-it-scal)
+- [Tune for indexing speed](https://www.elastic.co/guide/en/elasticsearch/reference/master/tune-for-indexing-speed.html)
+- [5 Data Visualization Best Practices](https://www.gooddata.com/blog/5-data-visualization-best-practices-0)
