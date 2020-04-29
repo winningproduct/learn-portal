@@ -72,7 +72,7 @@ Therefore, in determining how to gather and process log data, it’s important t
 - **Use a Log Collector to collect logs** - The recommended approach for collecting logs is to use a log collector tool(Logstash, Filebeat , Logagent, Fluentd etc.), so that you will be able to configure and customize what kind of information you want to collect. With this approach, you can leave out redundant data and ensure that you gather only the relevant information. You should also consider the EPS (Events Per Second) of each device in configuring. Your log collector tool should also be able to keep up with this speed. 
 
 
-    (3) Determine log storage and retention strategy
+### (3) Determine log storage and retention strategy
    
 Logs capture enormous amount of data about your system. Storage is costly. Therefore, your log storage and retention strategy is crucial for optimal log analytics. 
 
@@ -93,7 +93,7 @@ Considering following facts would assist you on this regard.
 - Ensure you comply with any regulations on data protection and privacy in storing data. For example, GDPR in EU region has introduced the right for individuals to have personal data erased and therefore if you are recording any personal data(upon their consent) in the log files, should have a mechanism to erase them. 
 
 
-    (4) Create an effective log indexing scheme  
+### (4) Create an effective log indexing scheme  
 
 Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
 
@@ -116,7 +116,7 @@ You may need to consider following facts in tuning your indexing throughput:
     The aforementioned tactics would assist you in creating an effective indexing scheme, which in turn would assist you in optimizing your searches and analysis. 
 
 
-    (5) Search and analyze your log data  
+### (5) Search and analyze your log data  
 
 In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
 
