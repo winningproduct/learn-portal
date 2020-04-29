@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "7-Architectural runway"
+title: "1-Architectural runway"
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

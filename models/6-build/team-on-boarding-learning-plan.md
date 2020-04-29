@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "8-Team On-boarding & Learning Plan"
+title: "9-Team On-boarding & Learning Plan"
 subtitle: "Assimilating new recruits via an effective Team On-boarding & Learning Plan"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

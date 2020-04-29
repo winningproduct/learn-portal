@@ -22,94 +22,95 @@
 # Cheatsheet
 
 ## Envision (Articulating the overall idea)
-Make sure that you can create a pitch deck to present the idea to different parties such as investors and potential customers.
+Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
 
 ## Explore (Consider diverse alternatives)
-This is where you look at all different alternatives to explore before locking down on a single concept
+This is where you explore into different possibilities before locking down on a focused product concept
 #### Context/Competitor Analysis
-- Identify the problem that you solve and see what kind of competition is there for that
+- Research into current market state, domain trends and study existing competition to understand the context
 #### Commercial viability
-- Whether it makes business sense to pursue this idea considering the size of the market
-#### Market Research
-- An organized effort to gather information about target markets or customers.
+- Evaluate business/financial viability to ensure long-term continuity and RoI 
+#### Market Segmentation
+- Gather information about potential target markets and customer segments and the pros/cons of focusing on each
 #### Personas
-- Analysis of different personas of product/service with the use of visual presentations
+- Analysis of related user personas to understand pains, gains and behavior of users
 #### Value Proposition
-- What is the value that we are giving to cusomers?
+- List down the primary benefits to users in relieving their pains and providing gains
 #### Service Blueprint/User Journey
-- What are the different paths a user takes to accomplish his goal using your product/service?
+- Understand different paths a user takes to accomplish goals using the product
 #### Mega Trend Analysis
-- Analysis of current world & market trends to help define the vision for the product
+- Study current world & market trends to align the purpose for the product with a mega trend
 
 ## Focus (Select a specialization to target)
-Now that you have explored different avenues, start locking down on a specific selected area
+Now that you have explored different avenues, start locking-down on a specific area with best potential
 #### Technical Feasibility
-- Verify that the business idea is technology feasible to implement
+- Verify if the solution is technology feasible to implement with available resources
 #### Low Fidelity Prototype
-- Translate main business and design concepts to a high-level prototype that stakeholders can easily get their head around. Be open minded for change.
+- Translate main features into a high-level prototype for stakeholders to obtain feedback
 #### Business Model Design
-- Explain how a company plans to operate and achieve business goals
+- Elaborate business context within the product operate and achieve the business goals
 #### Brand story development
-- Elaborate the purpose of the product’s existence in the market. Focus on how customers see it.
+- Elaborate the purpose of the product’s existence from customer's point-of-view 
 #### MVP Identification
-- Purpose of an MVP is to create the minimum set of features to learn the most about customers’ needs. Target features which are of high importance and costs low to implement.
-#### Platform Architecture
-- Underline technical architecture of the platform, how different components are basically assembled, hosting & cloud considerations, what underline technology stack is used
+- Identify the minimum set of features that can gain maximum learning and has low cost of implementation. 
+#### Technical Architecture
+- Underline architecture of the platform, including hosting considerations, DevOps and tech stack selection
 #### Product Architecture
-- Explain how a product's functional components interact with each other, how is your product seen by customers, licensing and pricing strategies
+- Architecture blueprint for implementing functionalities, including product components such as licensing, SSO, business APIs etc.
 #### Problem Solution Fit Testing
-- Explain how to test that your product solves a customer’s basic problem
+- Validating if your solution effectively solves the customer’s basic problem
 
 ## Immerse (Dig deep and understand the solution)
-Go further, focus on details in the area choses
-#### Brand Guide & Product Naming
-- What is the branding strategy of the product? How to name your products which gives instant clarity
-#### Information Architecture
-- Define the content structure of the application to understand where the information is
+Analyze deep in to the focused area to elaborate details required for solving the problem
+#### Brand Guide
+- Define the brand personality of the product including visual theme, logo, name, etc.
+#### Data Architecture
+- Define the content structure, data entities, data relationships, storage formats
 #### Positioning Message
-- Figure out the exact message that we should give potential customers. It has to be brief, on point and no nonsense.
+- Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
 #### Engineering Estimation
-- Estimations for the engineering team for each functional and non-functional feature breakdown.
+- Estimate the development efforts for functional and non-functional features
 #### Operational Estimations
-- Running cost estimations for keeping the product in operation
+- Estimate for production implementation, training and running cost estimations in operation
 #### High Fidelity Prototype
-- Improve on the previous low fidelity prototype to make it very closer to the final product
+- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
 #### Product Market Fit Validation
-- Makes sure that our product caters to a market need considering various environment factors
+- Makes sure that our product is well tuned to solve the problem specifically for the identified target market
 #### Product Roadmap
-- Lay the features and releases in a product evolution timeline.
+- Lay the features and releases in a product evolution timeline
 
 ## Plan (Strategize the agility of project execution)
-Plan ahead to get the best our of next stages
-#### Go-to-market Planning & Checklist
-- The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage.
-#### Architecture Blueprint in code
-- Detailed blueprint of software components and the blueprint of infrastructure which it runs on
-#### Data schema Design
-- Logical view of the data in the product, initial plan to maintain data dimensions for analytics purposes.
-#### Growth Hacking Plan
-- Exploring low cost and smarter options to gain a rapid market reach in a short time or to find the product market fit.
-#### Engineering Process/ Team Structure
-- Definition of the engineering process which outlines coding best practices and devops strategy. Team structure should define the key purpose of each individual.
+Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics
+
+#### Engineering Process
+- Outlines the processes such as team management, code reviews, communication strategy, etc. 
+#### Team Structure
+Team structure should define key roles, responsibilities, boundaries and values
+#### Architecture Blueprint
+- Implement a vertical of a feature and setup the infrastructure to act as a guideline for further development
+#### Delivery Pipeline
+- Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc.
+#### Detailed data schema 
+- Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc.
 #### Quality Assurance Plan
-- Quality assurance process, test automation strategy, verification strategy for feature development and in releases.
-#### CI/CD Pipeline
-- Source control strategy, code integration process, test automation strategy, automatic deployment strategy and automated resource management strategy
+- Quality assurance process, test automation, verification, regression and release quality management
 #### Requirement Process
-- Process of defining, documenting and maintaining the product requirements.
-#### Digital Marketing Plan
-- Strategy of moving a product from concept to customer online
-#### Sales Interface
-- Offering a “single face” of the sales team rather than clients being having to interact with multiple agents across both sales and service throughout their relationships
+- Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback 
 #### Product Theme Integration
-- Coming up with a suitable product theme that suits your market preference
+- Integrate suitable product theme, visual element library to code with specific guidelines for developers
 #### Define Key Metric Tests
-- Define key matrices which are quantitative measures that helps to estimate the progress, quality, and health of a software testing effort
+- Define quantitative key matrices (timeline, quality, market success) that helps validate achievement of business goals
+#### Customer onboarding
+- Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc.
+#### Digital Marketing Blueprint
+- Consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals
+#### Growth Hacking Plan
+- Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales
 
 ## Build (Validate the Primary Assumptions)
 Execute the plan
-#### Launch Checklist
-- List down the things you need to do before and on product lunch
+#### Go-to-market Planning & Checklist
+- The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage. List down the things you need to do before and on product lunch
 #### Lead capture/CMS
 - Start capturing and managing your potential customers. Invest on Customer Relationshpip Management system to track and manage customer leads.
 #### Code Quality Process
@@ -137,37 +138,34 @@ Execute the plan
 #### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
 
-## Stabilize(Continuously release stable products)
+## Specialize (Specialize in product engineering practices to fit the product goal and continously release)
 Focus on stabilizing the product after the previous rapid development cycle
-
 #### Architectural Runway
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
-#### Inbound Marketing Plan
-- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media Continue to help, support and maintain a relationship with both potential and existing customers.
-#### Vulnerability Assessment
-- Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities.
-#### Scalability Assessment
-- Make sure your application scales as users grow. Explore scale up and scale out strategies. Think of geo scaling and inherent eventual consistency and fault tolerance mechanisms.
 #### Portfolio Management
-- Build support in your architecture to extend your product into portfolio of products. Consider things like creating a common platform and single sign on.
-#### Lead Nurture Pipeline
-- Start educating prospects, build awareness of your organization and its products, build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-#### IP Rights Protection
-- Extract unique intellectual property from your business and technical strategy. Make sure that they either patented and non-disclosure agreements are in place with relevant stakeholders.
-#### Public Relations Plan
-- Strategize on enhance the image of the company  and focus on positive media coverage
-#### Error and Exception Handling
-- How to handle errors and exceptions in the application. How to inform users on such events without making them panic? Analyze the error and exception statistics.
+- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
 #### Release Management
-- Plan, manage, schedule and build a process to develop and release through different stages and environments. Consider testing and deployment as well.
-#### Projection & Budgeting
-- Create a budget for a specific time considering the knowns and also consider historical data, known unknowns and a buffer to create a financial projection.
+- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
+#### Error and Exception Handling
+- Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
+#### Hot-fix Process
+- Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
+#### Inbound Marketing Plan
+- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
+#### Vulnerability Assessment
+- Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities. Assessment include scope within the implemented code and third party components. 
+#### Scalability Assessment
+- Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
+#### IP Rights 
+- Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
+#### Lead Nurture Process
+- Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
+#### Public Relations Plan
+- Strategize on enhance the image of the product brand and focus on influential media strategies.
 #### Contingency & Reliability Reviews
-- Create a plan B if things go south. Consider technical, market and environmental factors. Do various drills to make sure the readiness.
+- Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness.
 #### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
-#### Hotfix Process
-- Hotfixes are inevitable. So, define a proper process and a deployment mechanism to handle hotfixes.
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
