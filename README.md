@@ -169,30 +169,24 @@ Focus on stabilizing the product after the previous rapid development cycle
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
-#### Data Analytics Plan
-- Roadmap on how to organize and analyze data (i.e. system usage etc, client survey) to enable R&D and decision making
-#### Promotions Plan
-- Detailed strategy for marketing the product.
-#### Documentation and User Training
-- Discuss the importance of product documentation and user training. What is the difference between documentation and training?
+#### Analytics Review Process 
+- Process logs and data analytics to organize and escalate for decision making based on data patterns
+#### Cost optimization 
+- Platform services, tech debt, team organizing, process improvements etc
+#### Promotions Process
+- detail plan inlcuding frequency, customer segments, market conditions , offerings, adword design and message.
+#### Customer support 
+- Plan and organize tools (forum, ticketing system), establish documentation, training, and troubleshooting. Product support organization
 #### Compliance & Approvals
-- Adapt industry standards and certifications to design stronger, safer, more reliable products and bring those products to market as quickly as possible.
+- Adapt industry standards and certifications to design stronger, safer, more reliable products and getting complaince approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc) .
 #### Customer Contract Management
-- How to correctly manage contracts with customers
+- How to correctly manage contracts (versioning, tools etc), SLAs for customers
 #### Tech Team Branding
 - Defining a brand of the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization.
-#### Adword Design
-- Articulate market segment specific messages to be published via SM in order to generate call to action traffic from buyer personas
-#### Performance Tuning Plan
+#### Performance Tuning 
 - How to optimize system pefroemance for best user experience, based on performance requirements and analysis on existing performance
-#### Log indexing & Analysis
-- Paint a clear picture of what has happened across the infrastructure from  organizing and analysing system generated logs. This provides an insight to spot product issues that might impact performance, compliance, and security
-#### Product Support Organization
-- Structure the customer support team with correct strategies, tools and frameworks for smoother operations with product's growth
-#### Web Optimization Plan
-- Improving your user experience so that people will be more likely to convert on your website
-#### Support Issues Tracking
-- As the product sclaes to meet a growig customer base, how to manage and maintain customer support cases effectively
+#### Web Optimization 
+- Offsite (SEO) or onsite improvements provided for user experience so that people will be more likely to convert on your website
 
 ## Harvest (Operate with highest return on investment)
 Your product is now cash cow. Milk it the maximum while you can.
