@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-indexingField: 7-Immerse
+indexingField: 4-Immerse
 title: "8-product roadmap"
 subtitle: "The statement of intent"
 date: 2019-07-25T15:04:10.000Z
