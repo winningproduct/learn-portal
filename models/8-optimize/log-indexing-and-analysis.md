@@ -96,7 +96,7 @@ You may need to consider following facts in tuning your indexing throughput.
 
     But on the other hand, longer the interval, the time taken for the new information to be available for search would increase.  
 
-- **Buffer and index a collection of log files together** - With a higher index refresh interval, its recommended to buffer and index a collection of log files together (rather than one at a time). This will yield much better performance. 
+- **Buffer and index a collection of log files together** - With a higher index refresh time interval, its recommended to buffer and index a collection of log files together (rather than one at a time). This will yield much better performance. 
 
     But on the other hand, this would require more memory and CPU utilization. As a result, performance of other activities (search and analysis etc.) can get negatively affected during indexing. Therefore, need to find a balance (probably following an empirical approach)  
 
@@ -113,7 +113,7 @@ The aforementioned tactics would assist you in creating an effective indexing sc
 
 In order to leverage log data for better insights, you need an efficient mechanism to search through them and analyse. 
 
-Considering following facts might assist you in tuning the performance.
+Considering following facts might assist you in this regard.
 
 - **Should consider search performance during indexing decisions** - As indexing and searching compete for resources, allowing higher CPU utilization for indexing can adversely affect search performance. Therefore, need to find a trade-off. 
 
@@ -137,7 +137,7 @@ Considering following facts might assist you in tuning the performance.
 
     - Should understand and familiarize yourself with your log data. That would make it easier to create proper visualizations 
     - Try to keep your visualizations simple and avoid over complicating them. Otherwise it’ll be difficult to interpret them. 
-    - Choose the right visuals for your purpose and audience. For example, use customized dashboards with appropriate visuals for different audiences (one dashboard for your security team, another for the performance monitoring team, and another for the sales team etc.) 
+    - Choose the right visuals for your purpose and audience. For example, can use customized dashboards with appropriate visuals for different audiences (one dashboard for your security team, another for the performance monitoring team, and another for the sales team etc.) 
     - Try to include comparisons in your charts and reports for better insights (as comparisons provide readers a better perspective on data) 
 
 
