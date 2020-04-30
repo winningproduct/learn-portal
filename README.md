@@ -224,5 +224,4 @@ The product's time is up. Move to a better platform to leverage on new technolog
 #### Side by Side Operation Plan
 - Create a strategy to both migrate users to a new platform while running the old platform in parallel. This gives users time and ease of mind to upgrade with a failsafe.
 
-####Tags
 #DataModel #CostBook #DeliveryProcess #TechArchitecture
