@@ -3,7 +3,7 @@ templateKey: "model-post"
 indexingField: 9-Optimize
 title: "11-Log indexing and analysis"
 subtitle: "Gain better insights via log analytics"
-date: 2020-04-27T15:04:10.000Z
+date: 2020-04-30T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 
@@ -41,18 +41,18 @@ Following benefits have made businesses realize the importance of log indexing a
 
     Performing analytics on the collected log data interprets your data, provide new information and predict your application user behavior. This assists in data-driven decision making. 
 
-    For example, customer log analysis could uncover that users are unlikely to make a purchase in the middle of the week. This could assist in deciding when to introduce a sales promotion. Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI 
+    For example, customer log analysis could uncover that users are unlikely to make a purchase in the middle of the week. This could assist in deciding when to introduce a sales promotion. Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI. 
 
 ## How?
 
-Log Indexing and Analysis process can be broken down into the following Steps.
+Log Indexing and Analysis process can be broken down into the following steps.
 
 #### (1) Determine what types of logs you should collect
 Your production system is going to produce all sorts of different logs (event logs, availability logs, audit logs, access logs etc.) from different sources (application servers, database servers, firewalls, intrusion detection systems, switches, routers, etc.). 
 
-You should determine what types of logs you should extract from which source, as you can’t store them all. It will cost more to store a large amount of data and will also need more resources to perform analytics. 
+The types of logs you should collect mainly depends on your intentions with it. You should determine what types of logs you should extract from which source, as you can’t store them all. It will cost more to store a large amount of data and will also need more resources to perform analytics. 
 
-The types of logs you should collect mainly depends on your intentions with log data collection. For instance, for your application servers you won’t need event logs(as it generates a high volume of data on normal operations), but you would need the availability logs(to identify the faults that would impact the availability and stability of the system) and audit logs(to investigate unapproved activities).  
+For instance, for your application servers you won’t need event logs(as it generates a high volume of data on normal operations), but you would need the availability logs(to identify the faults that would impact the availability and stability of the system) and audit logs(to investigate unapproved activities).  
 
 
 #### (2) Determine how to collect and process log data  
@@ -88,11 +88,11 @@ Following tips would assist you on this regard.
 
 #### (4) Create an effective log indexing scheme  
 
-Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed tokens in String fields etc.). 
+Log indexing has a big impact on how optimally you can search through your log data. Building an index takes CPU time and disk space as well. Therefore, indexing decisions are quite important (Do we plan to index large amounts of data?, What is the precision to be used for numeric fields?, Should we index stemmed String tokens etc.). 
 
-You may need to consider following facts in tuning your indexing throughput: 
+You may need to consider following facts in tuning your indexing throughput.
 
-- **Better to refresh indices at larger intervals** - When you index a new log file, new information might not be immediately available for search as it takes some time to create the index. Therefore, you would be able improve your indexing throughput by refreshing indices at larger intervals. This is achieved by preventing index refreshes while there is ongoing indexing activity and by reducing the cost of merging indices etc.  
+- **Better to refresh indices at larger time intervals** - When you index a new log file, new information might not be immediately available for search as it takes some time to create the index. Therefore, you would be able improve your indexing throughput by refreshing indices at larger time intervals. This is achieved by preventing index refreshes while there is ongoing indexing activity and by reducing the cost of merging indices etc.  
 
     But on the other hand, longer the interval, the time taken for the new information to be available for search would increase.  
 
