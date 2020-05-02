@@ -190,25 +190,25 @@ Fine tune the product to achieve the maximum output
 
 ## Harvest (Operate with highest return on investment)
 Your product is now cash cow. Milk it the maximum while you can.
-#### Invent or Improve Decision
-- Strategize product 'invent or improve' decisions aligning with business goals and timelines.
-#### Buy or Build
-- How to make build vs buy decisions: cost, risk, and the problem you are trying to solve
+#### Rapid Response Process??
+- User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
+#### Continous improvement strategy??
+Rapidly respond to market conditions and learnings to sustain competive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
 #### Feature Usage Analysis
 - How can you calculate feature usage so that you are left with clear, actionable insights.
 #### Systems Monitoring
 - How to monitor application health in order to analyse its operation and performance, and to detect and alert about possible errors.
 #### Referrals & Upsales Plan
-- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers. Also how to market higher sales to existing customers (upsales).
-#### Stakeholder Retirement Consent
-- Identify under which circumstances the stakeholders will agree to retire the product, and support model for EOS
-#### Data Migration Plan
-- Roadmap moving data from one location to another, one format to another, or one application to another to optimize data handling as the product grows with its user base.
+- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales).
 #### Technology Updation/Migration Plan
-- Roadmap for moving to better technologies to improve customer experience and reduce costs, while boosting security, availability, performance and agility
+- Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility
 
 ## Retire (Consider to distrupt with a new generation product)
 The product's time is up. Move to a better platform to leverage on new technologies
+#### Data Migration Plan
+- Roadmap moving data from one location to another, one format to another, or one application to another to optimize data handling as the product grows with its user base.
+#### Stakeholder Retirement Consent
+- Identify under which circumstances the stakeholders will agree to retire the product, and support model for EOS
 #### Account Migration Plan
 - Systematic plan to smoothly migrate users from the old platform to new platform without loosing users’ data.
 #### Digital Data Shredding
