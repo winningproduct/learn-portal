@@ -2,7 +2,7 @@
 templateKey: "model-post"
 indexingField: 7-Build
 title: "8-Release gate review"
-subtitle: "Have enought quality gates to ensure a quality product"
+subtitle: "Have enough quality gates to ensure a quality product"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/release-gates.jpg"
@@ -22,7 +22,7 @@ Release gate reviews helps projects to,
 - Arrive at decision as to whether to proceed to the next phase in the project or not
 - Minimize project risk by means of evaluating checklists maintained for each phase
 - Reduce development cycle time by ensuring the team gets it done right the first time
-  Most importantly, release gate reviews helps the team and all stakeholders are able to determine whether the project is on track.
+  Most importantly, release gate reviews helps the team and all stakeholders to determine whether the project is on track.
 
 ##How
 
@@ -32,7 +32,7 @@ Release gate reviews helps projects to,
 - Deliverables of the preceding phase should be reviewed to ensure all prerequisites have been met for the next phase to succeed.
   - E.g. A team should not start coding if the design phase has not been completed based on previously accepted completion criteria
     If for some reason a deliverable from the preceding phase does not meet the accepted completion criteria , the team should conduct a Root Cause Analysis and try to rectify the issue.
-- The team may conditionally proceed to the next phase if certain deliverables from the preceding phase have not met the accepted completion criteria.
+- The team may conditionally proceed to the next phase if certain deliverables from the preceding phase have not met the accepted completion criteria. Exceptions as such should be communicated to all stakeholders and approvals if required should be obtained. 
 
 #References
 [How to use quality gates to guide IT projects](https://www.techrepublic.com/article/how-to-use-quality-gates-to-guide-it-projects/)
