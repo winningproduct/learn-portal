@@ -200,22 +200,20 @@ Rapidly respond to market conditions and learnings to sustain competive edge. It
 - How to monitor application health in order to analyse its operation and performance, and to detect and alert about possible errors.
 #### Referrals & Upsales Plan
 - Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales).
-#### Technology Updation/Migration Plan
+#### Technology Revamp/Migration Plan
 - Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility
 
 ## Retire (Consider to distrupt with a new generation product)
-The product's time is up. Move to a better platform to leverage on new technologies
-#### Data Migration Plan
-- Roadmap moving data from one location to another, one format to another, or one application to another to optimize data handling as the product grows with its user base.
-#### Stakeholder Retirement Consent
-- Identify under which circumstances the stakeholders will agree to retire the product, and support model for EOS
+The product's time is up. Re-invent the technology platform / business model to keep up with the market.
+#### Platform Migration Plan
+- Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
 #### Account Migration Plan
-- Systematic plan to smoothly migrate users from the old platform to new platform without loosing users’ data.
+- Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities.
+#### Stakeholder Retirement Consent
+- Identify under which circumstances the stakeholders will agree to retire the product in the view of migrating to the new product along with end-of-service support models.
 #### Digital Data Shredding
-- Destroy the data that you don’t want and return the data that belongs to users.
+- With customer's consent to close the account, permenantly delete data and provide a mechanism to export customer's data on request.
 #### Team Knowlege Transfer Plan
-- Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge to new team members.
-#### Side by Side Operation Plan
-- Create a strategy to both migrate users to a new platform while running the old platform in parallel. This gives users time and ease of mind to upgrade with a failsafe.
+- Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge.
 
 #TechArchitecture #DeliveryProcess #CostBook #DataModel 
