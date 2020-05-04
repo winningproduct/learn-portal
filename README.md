@@ -53,7 +53,7 @@ Now that you have explored different avenues, start locking-down on a specific a
 - Elaborate the purpose of the product’s existence from customer's point-of-view 
 #### MVP Identification
 - Identify the minimum set of features that can gain maximum learning and has low cost of implementation. 
-#### Technical Architecture
+#### Technical Architecture #TechArchitecture
 - Underline architecture of the platform, including hosting considerations, DevOps and tech stack selection
 #### Product Architecture
 - Architecture blueprint for implementing functionalities, including product components such as licensing, SSO, business APIs etc.
@@ -64,13 +64,13 @@ Now that you have explored different avenues, start locking-down on a specific a
 Analyze deep in to the focused area to elaborate details required for solving the problem
 #### Brand Guide
 - Define the brand personality of the product including visual theme, logo, name, etc.
-#### Data Architecture
+#### Data Architecture #DataModel 
 - Define the content structure, data entities, data relationships, storage formats
 #### Positioning Message
 - Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
-#### Engineering Estimation
+#### Engineering Estimation #CostBook 
 - Estimate the development efforts for functional and non-functional features
-#### Operational Estimations
+#### Operational Estimations #CostBook 
 - Estimate for production implementation, training and running cost estimations in operation
 #### High Fidelity Prototype
 - Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
@@ -82,15 +82,15 @@ Analyze deep in to the focused area to elaborate details required for solving th
 ## Plan (Strategize the agility of project execution)
 Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics
 
-#### Engineering Process
+#### Engineering Process #DeliveryProcess 
 - Outlines the processes such as team management, code reviews, communication strategy, etc. 
-#### Team Structure
+#### Team Structure #DeliveryProcess 
 Team structure should define key roles, responsibilities, boundaries and values
-#### Architecture Blueprint
+#### Architecture Blueprint #TechArchitecture
 - Implement a vertical of a feature and setup the infrastructure to act as a guideline for further development
-#### Delivery Pipeline
+#### Delivery Pipeline #DeliveryProcess #TechArchitecture
 - Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc.
-#### Detailed data schema 
+#### Detailed data schema #DataModel 
 - Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc.
 #### Quality Assurance Plan
 - Quality assurance process, test automation, verification, regression and release quality management
@@ -121,15 +121,15 @@ Execute the plan
 - Build and evolve plans analyze the patterns of potential customers to your marketing sites.
 #### Market Feedback Capture
 - Build mechanisms to gather user experience statistics from users and be open minded to the required changes.
-#### Technical Dept Management
+#### Technical Dept Management #DeliveryProcess 
 - Create a process to collect and manage technical debt during the product development. Think of non-functional requirements here.
-#### Data Privacy Protection
+#### Data Privacy Protection #TechArchitecture
 - Understand the data protection policies in target markets. Device strategies for data anonymization and limiting developer access to production data.
 #### User Behaviour Analysis
 - Build and evolve mechanism to track anonymous  user behavior in the system with an aim of providing better UX.
-#### Feature Prioratization Process
+#### Feature Prioratization Process #DeliveryProcess 
 - Think about which features should go first, revisit the product roadmap if needed. Consider user feedback
-#### Product Pricing Plan
+#### Product Pricing Plan #CostBook 
 - Define the strategy to bill users. Think about strategies such as price/feature tiers, pay as you go, etc...
 #### Release gate Reviews
 - Define what kind of code quality, load testing matrices which qualifies ok for a production release. Either have automation or manual verification in place to check them.
@@ -140,21 +140,21 @@ Execute the plan
 
 ## Specialize (Specialize in product engineering practices to fit the product goal and continously release)
 Focus on stabilizing the product after the previous rapid development cycle
-#### Architectural Runway
+#### Architectural Runway #TechArchitecture
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
 #### Portfolio Management
 - Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
-#### Release Management
+#### Release Management #DeliveryProcess 
 - Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
 #### Error and Exception Handling
 - Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
-#### Hot-fix Process
+#### Hot-fix Process #DeliveryProcess 
 - Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
 #### Inbound Marketing Plan
 - Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
-#### Vulnerability Assessment
+#### Vulnerability Assessment #DeliveryProcess 
 - Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities. Assessment include scope within the implemented code and third party components. 
-#### Scalability Assessment
+#### Scalability Assessment #TechArchitecture
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 #### IP Rights 
 - Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
@@ -162,14 +162,14 @@ Focus on stabilizing the product after the previous rapid development cycle
 - Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
 #### Public Relations Plan
 - Strategize on enhance the image of the product brand and focus on influential media strategies.
-#### Contingency & Reliability Reviews
+#### Contingency & Reliability Reviews #DeliveryProcess 
 - Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness.
 #### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
-#### Analytics Review Process 
+#### Analytics Review Process #DataModel 
 - Process logs and data analytics to organize and escalate for decision making based on data patterns
 #### Cost optimization 
 - Platform services, tech debt, team organizing, process improvements etc
@@ -183,7 +183,7 @@ Fine tune the product to achieve the maximum output
 - How to correctly manage contracts (versioning, tools etc), SLAs for customers
 #### Tech Team Branding
 - Defining a brand of the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization.
-#### Performance Tuning 
+#### Performance Tuning #TechArchitecture
 - How to optimize system pefroemance for best user experience, based on performance requirements and analysis on existing performance
 #### Web Optimization 
 - Offsite (SEO) or onsite improvements provided for user experience so that people will be more likely to convert on your website
@@ -217,3 +217,5 @@ The product's time is up. Move to a better platform to leverage on new technolog
 - Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge to new team members.
 #### Side by Side Operation Plan
 - Create a strategy to both migrate users to a new platform while running the old platform in parallel. This gives users time and ease of mind to upgrade with a failsafe.
+
+#TechArchitecture #DeliveryProcess #CostBook #DataModel 
