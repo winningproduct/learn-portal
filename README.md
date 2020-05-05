@@ -21,11 +21,10 @@
 
 # Cheatsheet
 
-## Envision (Articulating the overall idea)
-Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
-
 ## Explore (Consider diverse alternatives)
 This is where you explore into different possibilities before locking down on a focused product concept
+#### Envision (Articulating the overall idea)
+Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
 #### Context/Competitor Analysis
 - Research into current market state, domain trends and study existing competition to understand the context
 #### Commercial viability
@@ -106,9 +105,17 @@ Team structure should define key roles, responsibilities, boundaries and values
 - Consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals
 #### Growth Hacking Plan
 - Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales
+#### Release Management #DeliveryProcess
+- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
+#### Error and Exception Handling
+- Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
+#### IP Rights
+- Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
 
 ## Build (Validate the Primary Assumptions)
 Execute the plan
+#### Architectural Runway #TechArchitecture
+- Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
 #### Go-to-market Planning & Checklist
 - The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage. List down the things you need to do before and on product lunch
 #### Lead capture/CMS
@@ -129,6 +136,8 @@ Execute the plan
 - Build and evolve mechanism to track anonymous  user behavior in the system with an aim of providing better UX.
 #### Feature Prioratization Process #DeliveryProcess 
 - Think about which features should go first, revisit the product roadmap if needed. Consider user feedback
+#### Portfolio Management
+- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
 #### Product Pricing Plan #CostBook 
 - Define the strategy to bill users. Think about strategies such as price/feature tiers, pay as you go, etc...
 #### Release gate Reviews
@@ -137,35 +146,8 @@ Execute the plan
 - Build mechanisms for billing. Track usages for different features. Think about feature toggles for different users. Think about restrictions based on price tears and usages.
 #### Team Onboarding & Learning Plan
 - Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
-
-## Specialize (Specialize in product engineering practices to fit the product goal and continously release)
-Focus on stabilizing the product after the previous rapid development cycle
-#### Architectural Runway #TechArchitecture
-- Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
-#### Portfolio Management
-- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
-#### Release Management #DeliveryProcess 
-- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
-#### Error and Exception Handling
-- Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
-#### Hot-fix Process #DeliveryProcess 
-- Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
-#### Inbound Marketing Plan
-- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
-#### Vulnerability Assessment #DeliveryProcess 
+#### Vulnerability Assessment #DeliveryProcess
 - Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities. Assessment include scope within the implemented code and third party components. 
-#### Scalability Assessment #TechArchitecture
-- Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
-#### IP Rights 
-- Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
-#### Lead Nurture Process
-- Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-#### Public Relations Plan
-- Strategize on enhance the image of the product brand and focus on influential media strategies.
-#### Contingency & Reliability Reviews #DeliveryProcess 
-- Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness.
-#### Win-lose Analysis
-- Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
@@ -190,6 +172,8 @@ Fine tune the product to achieve the maximum output
 
 ## Harvest (Operate with highest return on investment)
 Your product is now cash cow. Milk it the maximum while you can.
+#### Scalability Verification #TechArchitecture
+- Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 #### Rapid Response Process??
 - User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
 #### Continous improvement strategy??
@@ -198,10 +182,22 @@ Rapidly respond to market conditions and learnings to sustain competive edge. It
 - How can you calculate feature usage so that you are left with clear, actionable insights.
 #### Systems Monitoring
 - How to monitor application health in order to analyse its operation and performance, and to detect and alert about possible errors.
+#### Hot-fix Process #DeliveryProcess
+- Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
+#### Inbound Marketing Plan
+- Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
+#### Lead Nurture Process
+- Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
 #### Referrals & Upsales Plan
 - Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales).
 #### Technology Revamp/Migration Plan
 - Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility
+#### Public Relations Activity Plan
+- Strategize on enhance the image of the product brand and focus on influential media strategies.
+#### Contingency & Reliability Reviews #DeliveryProcess
+- Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness.
+#### Win-lose Analysis
+- Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
 ## Retire (Consider to distrupt with a new generation product)
 The product's time is up. Re-invent the technology platform / business model to keep up with the market.
