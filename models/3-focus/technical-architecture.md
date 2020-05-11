@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '7-technical architect'
+title: '7-technical architecture'
 subtitle: ''
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
