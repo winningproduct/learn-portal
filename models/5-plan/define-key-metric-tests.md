@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "12-Key metric tests"
+title: "12-Define key metric tests"
 subtitle: "We cannot improve what we cannot measure"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
