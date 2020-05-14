@@ -35,28 +35,29 @@ It is important that user journeys of customer onboarding is documented and vali
 
 ### Type of activities
 
-Based on the type of onboarding your product require, the activities may differ. Some of the common activities of this stage are:
+Based on the type of onboarding your product require, the activities may differ. Some of the common activities are listed below:
  - Welcome artifacts (emails, videos, brochures)
+ - Meetings and tours (for Handhold onboarding only)
  - Product registration (Forms, SSO)
  - Tutorials (Videos, in product tours, step-by-step guides, tips)
  - Quick setup (default settings)
  - Data import (Basic data, Seamless migration, integrations)
  - Sends consistent reminders and motivators
  - Feedback collection (followup calls, emails, surveys, stickiness data)
- - Continuous reviews of the collected data to improve the customer onboarding process
+ - Continuous reviews of the collected data to improve the process
 
-The goal of these activities is to support the customer to have their 'first win' ('aha' moment) by use of our product. The process to get to this must be pleasurable and personalized for the customer to build loyalty towards the product.
+The goal of the activities is to support the customer to have their 'first win' ('aha' moment) fast by using the product. The experience must be pleasurable and personalized for the user to build loyalty towards the product.
+
+It should also be noted that, some business models will make use of partners, implementation consultants in the onboarding process. It is important such third-parties are aware of the standards and recommended processes when involved in the workflow to keep uniformity of the experience.
 
 ### How to measure the success?
-There are objective and subjective ways to measure the quality of your customer onboarding process.
- - Data collected through surveys, interviews, feedback (subjective)
- - Monitor and measure customer engagement
+There are objective and subjective means to measure the quality and success of your customer onboarding process.
+ - Subjective data collected through surveys, interviews, feedback 
+ - Objective data collected through monitor and measure. E.g.s
    - How often customers come back
    - How long do they stay
    - How many features they explore
    - How many wins they get by using the features
-   - 
-
 
 ##Reference
  - [Cover Image](https://tallyfy.com/definition-customer-onboarding/)
