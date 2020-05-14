@@ -20,16 +20,16 @@ tags:
 
 This is the process of helping new customers get started and stay engaged. It’s a series of steps and resources that help make incorporating a product into the user’s routine as easy as possible. 
 
-It should be noted that customers expect world-class onboarding experience from products and services they use today. All your marketing and sales work has a little use if your onboarding process and customer journey is not smooth and pleasurable. 
+It should be noted that customers expect world-class onboarding experience from products and services they use today. All your marketing and sales work has a little use if your customer onboarding journey is not smooth and pleasurable. 
 
 ## How
 
-Onboarding process starts when the Sales Process is over. Usually this stage is handled by 'Customer Success' team.
+Usually the onboarding process starts onces the Sales Process is over and is handled by the 'Customer Success' team.
 
-The onboarding process may differ for different type of products. Mainly there are 2 types of product onboarding we see in the market.
+The activities in the onboarding process may differ for different type of products. Mainly there are 2 types of product onboarding processes we see in the market.
 
-1. SaaS self subscription (B2C, Utility products)
-2. Touch-and-feel onboarding (B2B, Enterprise products)
+1. SaaS self-onboarding (B2C, Utility products)
+2. Handhold onboarding (B2B, Enterprise products)
 
 It is important that user journeys of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licencing, payment, etc.) as well as across different departments (marketing, sales, customer success, implementation, support, etc)
 
