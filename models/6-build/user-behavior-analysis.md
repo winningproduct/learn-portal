@@ -40,6 +40,7 @@ With UBA, you no longer have to do guess work or take decisions based on opinion
 - Make it a practice to refer to the collected data in requirement related meetings such as backlog grooming, roadmap discussions, etc.
 
 ## references/further readings
+ - [11 Tools to Compare](https://mopinion.com/11-visitor-recording-and-session-replay-tools-an-overview/)
  - [FullStory](https://www.fullstory.com/)
  - [HotJar](https://www.hotjar.com/)
  - [MouseFlow](https://mouseflow.com/)
