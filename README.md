@@ -113,41 +113,41 @@ Team structure should define key roles, responsibilities, boundaries and values
 - Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
 
 ## Build (Validate the Primary Assumptions)
-Execute the plan
+Execute the plan with the goal to validate assumptions (technical, requirements, business) faster and cheaper.
 #### Architectural Runway #TechArchitecture
 - Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
 #### Go-to-market Planning & Checklist
-- The tactical action plan that outlines the steps necessary to deliver the unique value proposition to customers and achieve competitive advantage. List down the things you need to do before and on product lunch
+- The tactical action plan that outlines the steps necessary to do before, on and after the product launch.
 #### Lead capture/CMS
-- Start capturing and managing your potential customers. Invest on Customer Relationshpip Management system to track and manage customer leads.
+- Set up tooling and workflows for capturing and managing your potential customers. Invest on Customer Relationship Management system to automate and provide uniform experience.
 #### Code Quality Process
-- Establish process to ensure code quality. Think about static code analysis and peer reviews
+- Establish process to ensure code quality. Implement static code analysis and peer review processes.
 #### Test Automation Setup
-- Look at the regression tests and start automating repetitive tests. Make the tests run ideally on each commit and as early as development deployments. At least do a nightly run.
-#### Visitor Behaviour Analysis
+- Identify the high priority areas for test automation. E.g. regression tests and repetitive tests. Make the tests run on commits and deployments. 
+#### Visitor Behavior Analysis
 - Build and evolve plans analyze the patterns of potential customers to your marketing sites.
 #### Market Feedback Capture
-- Build mechanisms to gather user experience statistics from users and be open minded to the required changes.
+- Build mechanisms to continuously feed product development team with user feedback, sales team findings, competition behavior, support team findings, etc.
 #### Technical Dept Management #DeliveryProcess 
-- Create a process to collect and manage technical debt during the product development. Think of non-functional requirements here.
-#### Data Privacy Protection #TechArchitecture
-- Understand the data protection policies in target markets. Device strategies for data anonymization and limiting developer access to production data.
-#### User Behaviour Analysis
-- Build and evolve mechanism to track anonymous  user behavior in the system with an aim of providing better UX.
-#### Feature Prioratization Process #DeliveryProcess 
-- Think about which features should go first, revisit the product roadmap if needed. Consider user feedback
+- Create a process to identify and manage technical debt during the product development. Think of a time allocation for non-functional improvements in each sprint.
+#### Data Privacy Protection #TechArchitectures
+- Understand the data protection policies in target markets. Device strategies for data segregation and limiting access to production data.
+#### User Behavior Analysis
+- Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX.
+#### Feature Prioritization Process #DeliveryProcess 
+- Set up a process to identify which features should go first. Specify the process to revisit the product roadmap as new knowledge becomes available.
 #### Portfolio Management
-- Enable productization to extend your product into portfolio of products. Ensure portfolio of products adhere to unified user experience across the board, each product has unique value proposition, integration between products to bring holistic value proposition, and formulation of compelling marketing message covering all products.
+- Enable productization to extend your product into a portfolio. Define unified user experience, each product's UVP, integration between products, and formulation of clear message to market.
 #### Product Pricing Plan #CostBook 
-- Define the strategy to bill users. Think about strategies such as price/feature tiers, pay as you go, etc...
+- Define the strategy to bill customers. Clearly communicate your strategy such as price/feature tiers, pay as you go, etc...
 #### Release gate Reviews
-- Define what kind of code quality, load testing matrices which qualifies ok for a production release. Either have automation or manual verification in place to check them.
+- Define what levels of code quality, performance/load testing matrices that qualifies as passed for a production release. Implement automation or manual verification in place.
 #### User License Management
-- Build mechanisms for billing. Track usages for different features. Think about feature toggles for different users. Think about restrictions based on price tears and usages.
+- Build mechanisms for managing license agreements with users. Track usages for relevant features, licence expiry, reminders, payments, etc. Implement restrictions based on price tears and usages.
 #### Team Onboarding & Learning Plan
-- Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose in the team.
+- Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose responsibilities  in the team.
 #### Vulnerability Assessment #DeliveryProcess
-- Go through continuous improvement cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities. Assessment include scope within the implemented code and third party components. 
+- Implement continuous cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities of the implemented code and third party components. 
 
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output
