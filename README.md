@@ -133,7 +133,7 @@ Execute the plan with the goal to validate assumptions (technical, requirements,
 #### Data Privacy Protection #TechArchitectures
 - Understand the data protection policies in target markets. Device strategies for data segregation and limiting access to production data.
 #### User Behavior Analysis
-- Build mechanisms to track and analyze user behavior within the system with an aim of improving features and providing better UX.
+- Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX.
 #### Feature Prioritization Process #DeliveryProcess 
 - Set up a process to identify which features should go first. Specify the process to revisit the product roadmap as new knowledge becomes available.
 #### Portfolio Management
