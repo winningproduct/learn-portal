@@ -5,7 +5,7 @@ title: "12-User Behavior Analysis"
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/user-behavior-analysis.jpeg"
+featuredimage: "/img/user-behavior-analysis.png"
 description: "Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX."
 
 tags:
@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![User Behavior Analysis](/img/user-behavior-analysis.jpeg)
+![User Behavior Analysis](/img/user-behavior-analysis.png)
 
 ## why
 User behavior analytics (UBA) is the tracking and assessing of how users make use of the features provided. Data collection and analysis is primarily done through automated monitoring systems where manual intervention may be required in decision making. UBA is important to know:
