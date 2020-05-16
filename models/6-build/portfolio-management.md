@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-indexingField: 7-Build
+indexingField: 6-Build
 title: "15-portfolio management"
 subtitle: "Checklist to follow for a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 date: 2019-07-25T15:04:10.000Z
