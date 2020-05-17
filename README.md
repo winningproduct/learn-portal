@@ -110,7 +110,7 @@ Team structure should define key roles, responsibilities, boundaries and values
 #### Error and Exception Handling
 - Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
 #### IP Rights
-- Take actions to protect unique intellectual property from your business and technical innnovations. Make sure that they are If applicable patented or establish a non-disclosure agreement with relevant stakeholders. Some of the key aspects to cover here is vendor NDAs, copyrights, compatibility of third-party licenses.
+- Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-right clauses and establishing a non-disclosure agreement with relevant stakeholders. Validate compatibility of third-party licenses.
 
 ## Build (Validate the Primary Assumptions)
 Execute the plan with the goal to validate assumptions (technical, requirements, business) faster and cheaper.
