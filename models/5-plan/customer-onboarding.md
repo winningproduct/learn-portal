@@ -5,7 +5,7 @@ title: "1-customer onboarding"
 subtitle: "Provide world-class experience at the customer's first product touch-point"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "img/customer-onboarding.jpg"
+featuredimage: "img/customer-onboarding.png"
 description: "Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc."
 
 tags:
@@ -14,7 +14,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![Customer Onboarding](/img/customer-onboarding.jpg)
+![Customer Onboarding](/img/customer-onboarding.png)
 
 ## Why
 
