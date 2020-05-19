@@ -28,7 +28,7 @@ Most disasters are about surviving a difficult period. Strength of your continge
 ## How
 
 Consider the following pointers when you want to establish a contingency plan.
-- rainy day budget
+- Create a contingency budget to be used in a rainy day. When 
 - buffers
 - reduce assmumptions, maximize knowledge, do research
 - identify critical assets, critical revenue sources
