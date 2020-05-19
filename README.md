@@ -166,7 +166,7 @@ Fine tune the product to achieve the maximum output
 #### Tech Team Branding
 - Defining a brand of the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization.
 #### Performance Tuning #TechArchitecture
-- How to optimize system pefroemance for best user experience, based on performance requirements and analysis on existing performance
+- How to optimize system performance for best user experience, based on performance requirements and analysis on existing performance
 #### Web Optimization 
 - Offsite (SEO) or onsite improvements provided for user experience so that people will be more likely to convert on your website
 
@@ -176,12 +176,12 @@ Your product is now cash cow. Milk it the maximum while you can.
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 #### Rapid Response Process??
 - User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
-#### Continous improvement strategy??
-Rapidly respond to market conditions and learnings to sustain competive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
+#### Continuous improvement strategy??
+Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
 #### Feature Usage Analysis
 - How can you calculate feature usage so that you are left with clear, actionable insights.
-#### Systems Monitoring
-- How to monitor application health in order to analyse its operation and performance, and to detect and alert about possible errors.
+#### Monitoring and Incident Management
+- Monitor system health, detect and alert about system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware.
 #### Hot-fix Process #DeliveryProcess
 - Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
 #### Inbound Marketing Plan
