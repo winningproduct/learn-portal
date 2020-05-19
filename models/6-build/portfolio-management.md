@@ -50,8 +50,8 @@ Portfolio management is a continuous activity which includes, planning, executio
 ## How to measure the success? 
 
 Total Return on Investment can be a clear indicator of success of the total product set. In this some products may not achieve profit while it can be a critical element in the value proposition of the customer segments. 
-
-# Refernces
+  
+# References 
 
 - [Using agile product portfolio management](https://disruptorleague.com/2016/10/27/using-agile-product-portfolio-management/)
 
