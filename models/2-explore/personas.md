@@ -1,12 +1,12 @@
 ---
 templateKey: "model-post"
 indexingField: 3-Explore
-title: "3-Persona/User Journey"
-subtitle: Perdona is a powerful tool used in the creation of product functions and it represents all the users.
+title: "3-Personas"
+subtitle: A persona is a powerful tool used in the creation of product functions and it represents all the users.
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/Persona.png"
-description: Persona answers the question of “Who do we design for”. It's a powerful tool in the creation of product functions and it represents all the users. It can be considered as the typical user behavior of all potential users.
+description: Persona answers the question of, Whom do we design for. It's a powerful tool in the creation of product functions, and it represents all the users. It can be considered as the typical user behavior of all potential users.
 
 tags:
   - Explore
@@ -17,7 +17,7 @@ tags:
 ![Persona/User Journey](/img/Persona.png)
 
 ## Why
-It is quite difficult to handle and pay attention to all research conducted in a process. Therefore Persona will be the most realistic approach since it represents the image of a common user. It can also remind us of the user’s needs and help us to create a better user experience model it will make users feel comfortable while using the product. and this is how it facilitates development. Personas demonstrate the goals and requirements of users, the axis of the work for the UX design group, which will make the first version of the product come with a better usability design. With Personas, when it appears conflict of design, the design group can adapt their decision based on the model. Personas can help the group develop the most useful functions instead of designing functions that will never be used. And avoid the usual situation that developers misunderstand what users want because there is a difference between what they say and do. Personas will also help the product team figure out the most important design element.
+It is not easy to handle and pay attention to all research conducted in a process. Therefore Persona will be the most realistic approach since it represents the image of a typical user. It can also remind us of the user’s needs and help us to create a better user experience model it will make users feel comfortable while using the product. And this is how it facilitates development. Personas demonstrate the goals and requirements of users, the axis of the work for the UX design group, which will make the first version of the product come with a better usability design. With Personas, when it appears conflict of design, the design group can adapt their decision based on the model. Personas can help the group develop the most useful features instead of designing features that will never be used. Personas will also help the product team figure out the essential design element.
 
 ## How
 
