@@ -30,7 +30,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "Content Overv",
+      "",
   },
   siteMetadata: {
     title: 'Winning Product| Learn',
