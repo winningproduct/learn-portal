@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: '2-utility tooling setup'
+title: 'Utility Tooling Setup'
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "12-Define key metric tests"
+title: "Define Key Metric Tests"
 metaTitle: ""
 metaDescription: ""
 subtitle: "We cannot improve what we cannot measure"

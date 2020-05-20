@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "4-IPR Management"
+title: "IPR Management"
 metaTitle: "Establish and protect your intellectual property"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

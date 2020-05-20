@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "11-quality assurance plan"
+title: "Quality Assurance Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "What's measured improves - Peter Drucker"

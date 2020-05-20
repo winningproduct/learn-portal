@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Plan
-title: "1-requirement process"
+title: "Requirement Process"
 metaTitle: ""
 metaDescription: ""
 subtitle: ""

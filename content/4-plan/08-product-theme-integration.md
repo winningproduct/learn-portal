@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "9-Product theme integration"
+title: "Product Theme Integration"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Thinking in Themes"

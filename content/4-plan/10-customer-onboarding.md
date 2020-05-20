@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Plan
-title: "1-customer onboarding"
+title: "Customer Onboarding"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Provide world-class experience at the customer's first product touch-point"

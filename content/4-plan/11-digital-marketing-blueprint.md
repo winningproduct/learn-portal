@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "8-digital marketing blueprint"
+title: "Digital Marketing Blueprint"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Importance of a Digital Marketing Plan"

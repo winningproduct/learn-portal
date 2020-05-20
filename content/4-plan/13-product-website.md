@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: '3-Product website'
+title: 'Product Website'
 metaTitle: ""
 metaDescription: ""
 subtitle: "If there’s one page that’s responsible for the biggest impact on a business, it’s the product page"

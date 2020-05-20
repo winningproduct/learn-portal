@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: '3-Detailed data schema'
+title: 'Detailed Data Schema'
 metaTitle: ""
 metaDescription: ""
 subtitle: "Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc."

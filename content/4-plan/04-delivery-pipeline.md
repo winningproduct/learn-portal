@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "5-delivery pipeline"
+title: "Delivery Pipeline"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Identifying bugs at early stages "

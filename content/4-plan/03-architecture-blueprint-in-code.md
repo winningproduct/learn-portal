@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "4-architecture blueprint in code"
+title: "Architecture Blueprint in Code"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Automate your infrastructure for fast recovery"

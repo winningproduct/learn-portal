@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 6-Plan
-title: "7-seo planning"
+title: "SEO Planning"
 metaTitle: ""
 metaDescription: ""
 subtitle: "If you were to start optimizing a site for search engines from ground up, what would you do?"
