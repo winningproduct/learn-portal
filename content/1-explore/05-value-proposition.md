@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-title: "4-Value Proposition"
+title: "Value Proposition"
 metaTitle: ""
 metaDescription: ""
 indexingField: 3-Explore

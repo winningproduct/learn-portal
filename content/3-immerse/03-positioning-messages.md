@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "4-Positioning Messages"
+title: "Positioning Messages"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Product positioning to beat out the competition"

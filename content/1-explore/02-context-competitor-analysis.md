@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 3-Explore
-title: "1-Context Competitor Analysis"
+title: "Context Competitor Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Understanding the market context for smart positioning"

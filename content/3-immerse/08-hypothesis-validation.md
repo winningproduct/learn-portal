@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "3-hypothesis validation"
+title: "Hypothesis Validation"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Fall in love with the problem, not the solution"

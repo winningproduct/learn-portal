@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "2-high fidelity prototype"
+title: "High Fidelity Prototype"
 metaTitle: ""
 metaDescription: ""
 subtitle: "High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions"

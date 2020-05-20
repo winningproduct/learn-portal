@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: '2-Product engineering is different'
+title: 'Product Engineering is Different'
 indexingField: 1-Introduction
 date: 2019-07-25T15:04:10.000Z
 featuredimage: '/img/default-image.png'

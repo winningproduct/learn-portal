@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 3-Explore
-title: "6-Megatrend Analysis"
+title: "Megatrend Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle:  Megatrend analysis helps answer the question "What is happening?"

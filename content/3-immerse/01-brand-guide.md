@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "1-brand guide"
+title: "Brand Guide"
 metaTitle: ""
 metaDescription: ""
 subtitle: "A written manual that explains how a brand should be used internally and externally"

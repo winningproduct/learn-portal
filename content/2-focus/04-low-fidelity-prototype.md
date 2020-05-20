@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '4-low fidelty prototype'
+title: 'Low Fidelity Prototype'
 metaTitle: ""
 metaDescription: ""
 subtitle: 'A prototype is an early sample, model, or release of a product built to test a concept or process.'

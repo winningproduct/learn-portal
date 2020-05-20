@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 4-Focus
-title: '1-business model design'
+title: 'Business Model Design'
 metaTitle: ""
 metaDescription: ""
 subtitle: "What is business model"

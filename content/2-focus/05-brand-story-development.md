@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '6-brand story development'
+title: 'Brand Story Development'
 metaTitle: ""
 metaDescription: ""
 subtitle: 'Brand Story Development'

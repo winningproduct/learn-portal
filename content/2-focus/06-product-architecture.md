@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 4-Focus
-title: "5-product architecture"
+title: "Product Architecture"
 metaTitle: ""
 metaDescription: ""
 subtitle: "What is product architecture"

@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '7-platform architect'
+title: 'Platform Architecture'
 metaTitle: ""
 metaDescription: ""
 subtitle: 'underlying infrastructure of the software system.'

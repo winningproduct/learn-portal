@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 4-Focus
-title: "9-technical feasibility"
+title: "Technical Feasibility"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Answer the question 'Can it actually be built?'"

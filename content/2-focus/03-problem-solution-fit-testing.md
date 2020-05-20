@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '3-problem solution fit testing'
+title: 'Problem Solution Fit Testing'
 metaTitle: ""
 metaDescription: ""
 subtitle: 'Translate problems into solutions that will be adopted.'

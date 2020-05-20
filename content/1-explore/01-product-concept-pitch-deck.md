@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-title: "1-Product Concept Pitch Desk"
+title: "Product Concept Pitch Desk"
 metaTitle: ""
 metaDescription: ""
 indexingField: 2-Conceive

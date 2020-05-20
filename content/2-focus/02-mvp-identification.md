@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '2-MVP Identification'
+title: 'MVP Identification'
 metaTitle: ""
 metaDescription: ""
 subtitle: 'Planning a Minimum Viable Product'

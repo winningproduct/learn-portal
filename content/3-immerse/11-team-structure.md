@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "1-Team structure"
+title: "Team Structure"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Team structure should define key roles, responsibilities, boundaries and values of the team"

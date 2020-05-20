@@ -1,6 +1,6 @@
 ---
 templateKey: 'model-post'
-title: '3-What is winning product'
+title: 'What is a Winning Product'
 indexingField: 1-Introduction
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

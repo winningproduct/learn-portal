@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 5-Immerse
-title: "1-Data Architecture"
+title: "Data Architecture"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Define the content structure, data entities, data relationships and storage formats"

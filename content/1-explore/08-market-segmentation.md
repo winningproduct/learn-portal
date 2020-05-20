@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 3-Explore
-title: "8-Market Segmentation"
+title: "Market Segmentation"
 metaTitle: ""
 metaDescription: ""
 subtitle: Personalize your marketing campaigns

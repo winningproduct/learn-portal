@@ -1,7 +1,7 @@
 ---
 templateKey: 'model-post'
 indexingField: 4-Focus
-title: '7-Technical Architecture'
+title: 'Technical Architecture'
 metaTitle: ""
 metaDescription: ""
 subtitle: Underline architecture of the platform, including hosting considerations, DevOps and tech-stack selection 
