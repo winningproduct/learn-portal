@@ -56,12 +56,12 @@ export const StyledNextPrevious = styled('div')`
   .nextBtn:hover,
   .previousBtn:hover {
     text-decoration: none;
-    border: 1px solid #1ed3c6;
+    border: 1px solid #8e44ad;
   }
 
   .nextBtn:hover .rightArrow,
   .previousBtn:hover .leftArrow {
-    color: #1ed3c6;
+    color: #8e44ad;
   }
 
   .leftArrow {

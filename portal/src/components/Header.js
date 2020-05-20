@@ -90,7 +90,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
+      const finalLogoLink = logo.link !== '' ? logo.link : 'https://winningproduct.com/';
 
       return (
         <div className={'navBarWrapper'}>
@@ -181,16 +181,10 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
-                <li>
-                  <DarkModeSwitch
-                    isDarkThemeActive={isDarkThemeActive}
-                    toggleActiveTheme={toggleActiveTheme}
-                  />
-                </li>
               </ul>
             </div>
           </nav>
-          <StyledBgDiv isDarkThemeActive={isDarkThemeActive}>
+          <StyledBgDiv>
             <div className={'navBarDefault removePadd'}>
               <span
                 onClick={myFunction}

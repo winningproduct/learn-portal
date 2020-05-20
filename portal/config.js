@@ -45,8 +45,8 @@ const config = {
       name: 'Winning Product Learn',
       short_name: 'WPLearn',
       start_url: '/',
-      background_color: '#6b37bf',
-      theme_color: '#6b37bf',
+      background_color: '#8e44ad',
+      theme_color: '#8e44ad',
       display: 'standalone',
       crossOrigin: 'use-credentials',
       icons: [
