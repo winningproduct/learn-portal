@@ -6,12 +6,8 @@ subtitle: "Gain better insights via log analytics"
 date: 2020-04-30T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
-
-description: 
-
-Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. There's an enormous amount of intelligence hidden in those log files.
- Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play. 
-
+description: "Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. There's an enormous amount of intelligence hidden in those log files.
+ Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play."
 tags:
   - Optimize
   - Log indexing and analysis
