@@ -40,7 +40,6 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: sidebarConfig.forcedNavOrder,
-    collapsedNav: sidebarConfig.forcedNavOrder,
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
