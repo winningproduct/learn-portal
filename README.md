@@ -109,8 +109,8 @@ Team structure should define key roles, responsibilities, boundaries and values
 - Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
 #### Error and Exception Handling
 - Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
-#### IP Rights
-- Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-right clauses and establishing a non-disclosure agreement with relevant stakeholders. Validate compatibility of third-party licenses.
+#### IPR Management
+- Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses.
 
 ## Build (Validate the Primary Assumptions)
 Execute the plan with the goal to validate assumptions (technical, requirements, business) faster and cheaper.

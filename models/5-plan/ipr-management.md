@@ -2,11 +2,11 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "4-IPR Management"
-subtitle: "Establish and protect your intellectual property"
+metaTitle: "Establish and protect your intellectual property"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/ip-rights.jpg"
-description: "Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-right clauses and establishing a non-disclosure agreement with relevant stakeholders. Validate compatibility of third-party licenses."
+metaDescription: "Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses."
 
 tags:
   - Plan
@@ -16,8 +16,10 @@ tags:
 
 ![IPR Management](/img/ip-rights.jpg)
 
-## Why
+## What
+Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses.
 
+## Why
 Delivering innovations better than competitors is a primary goal of a winning product. Establishing and protecting your intellectual rights is important to achieve this goal. In addition, the team must ensure that the product does not violate the IP rights of any other party to avoid possible legal complications. 
 
 Apart from protection/legal point of view, innovation and IPR plays a significant role in the marketing process. Trademarks, copyrights, industrial designs, patents, trade secrets etc. are important for the customers to establish trust and distinguish the product from competition.
@@ -44,7 +46,7 @@ Apart from protection/legal point of view, innovation and IPR plays a significan
 - Educate your sales and marketing teams on how to articulate the advantages of unique IP over your competition. Update the sales scripts accordingly.
 
 
-#References
+## References
 
 - [EU IPR Fact Sheet](https://iprhelpdesk.eu/sites/default/files/newsdocuments/Fact-Sheet-IPR-Management-in-Software-Development.pdf)
 - [Patenting Software](https://www.wipo.int/sme/en/documents/software_patents_fulltext.html)
