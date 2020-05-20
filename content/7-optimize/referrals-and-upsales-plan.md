@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 9-Optimize
 title: "6-Referrals and upsales plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Referral marketing is the method of promoting products or services to new customers through referrals, usually word of mouth. You can upsell your product by creating a referral marketing plan"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

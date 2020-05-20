@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 9-Optimize
 title: "11-Log indexing and analysis"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Gain better insights via log analytics"
 date: 2020-04-30T15:04:10.000Z
 featuredpost: true

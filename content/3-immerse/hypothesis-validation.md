@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "3-hypothesis validation"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Fall in love with the problem, not the solution"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "1-growth hacker plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Growth hacking the 'Pirate Tunnel' i.e. Awareness, Acquisition, Activation, Retention, Revenue and Referral (AAARRR!)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

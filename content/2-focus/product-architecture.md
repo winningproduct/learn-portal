@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 4-Focus
 title: "5-product architecture"
+metaTitle: ""
+metaDescription: ""
 subtitle: "What is product architecture"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 11-Retire
 title: "2-Digital-data-shredding"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Removal of unwanted data"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

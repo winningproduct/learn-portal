@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "10-Product ui theme"
+metaTitle: ""
+metaDescription: ""
 subtitle: "you can’t innovate on products without first innovating the way you build them. - Karri Saarinen"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

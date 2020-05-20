@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "5-product market fit validation"
+metaTitle: ""
+metaDescription: ""
 subtitle: "'The only thing that matters is getting to product-market fit' - Andreessen Horowitz"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

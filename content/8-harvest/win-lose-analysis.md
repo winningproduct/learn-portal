@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 9-Harvest
 title: "11-Win-lose Analysis"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Analysis on how many business opportunities are won or lost and most importantly, why?"
 date: 2020-05-14T15:04:10.000Z
 featuredpost: true

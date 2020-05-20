@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 7-Build
 title: "14-Visitor behaviour analysis"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Understand the real behavior of your website users"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

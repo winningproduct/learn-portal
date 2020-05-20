@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 7-Build
 title: "8-Release gate review"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Have enough quality gates to ensure a quality product"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "6-Megatrend Analysis"
+metaTitle: ""
+metaDescription: ""
 subtitle:  Megatrend analysis helps answer the question "What is happening?"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

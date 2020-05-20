@@ -1,6 +1,8 @@
 ---
 templateKey: "model-post"
 title: "4-Value Proposition"
+metaTitle: ""
+metaDescription: ""
 indexingField: 3-Explore
 subtitle: "A value proposition refers to the value a company promises to deliver to customers should they choose to buy their product."
 date: 2019-07-25T15:04:10.000Z

@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Formatting Guidelines"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---

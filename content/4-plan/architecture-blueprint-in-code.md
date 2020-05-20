@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "4-architecture blueprint in code"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Automate your infrastructure for fast recovery"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

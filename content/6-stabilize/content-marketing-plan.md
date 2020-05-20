@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 8-Stabilize
 title: "2-Content marketing plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Content Marketing Plan Is More than Just Content"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

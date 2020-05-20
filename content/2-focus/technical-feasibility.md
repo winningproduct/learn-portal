@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 4-Focus
 title: "9-technical feasibility"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Answer the question 'Can it actually be built?'"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

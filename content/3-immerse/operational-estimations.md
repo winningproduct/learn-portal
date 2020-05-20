@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: '8-operational estimation'
+metaTitle: ""
+metaDescription: ""
 subtitle: "Estimating for People, Technology and Support/Maintenance"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

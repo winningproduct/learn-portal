@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 10-Harvest
 title: "13-Contingency and reliability reviews"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Plan and action business continuity strategy to minimize risks, considering technical, market and environmental factors"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 7-Build
 title: "6-market feedback capture"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Market feedback is the cornerstone of business improvement"
 date: 2020-02-21T15:04:10.000Z
 featuredpost: true

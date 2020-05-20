@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "3-Personas"
+metaTitle: ""
+metaDescription: ""
 subtitle: A persona is a powerful tool used in the creation of product functions and it represents all the users.
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

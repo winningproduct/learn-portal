@@ -2,6 +2,8 @@
 templateKey: 'model-post'
 indexingField: 4-Focus
 title: '3-problem solution fit testing'
+metaTitle: ""
+metaDescription: ""
 subtitle: 'Translate problems into solutions that will be adopted.'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

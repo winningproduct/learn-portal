@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "1-Context Competitor Analysis"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Understanding the market context for smart positioning"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

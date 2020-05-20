@@ -2,6 +2,8 @@
 templateKey: 'model-post'
 indexingField: 4-Focus
 title: '6-brand story development'
+metaTitle: ""
+metaDescription: ""
 subtitle: 'Brand Story Development'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

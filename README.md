@@ -25,7 +25,7 @@ This is the repository for learn.winningproduct.com portal. You can find gatsby 
 # Cheatsheet
 
 ## Explore (Consider diverse alternatives)
-This is where you explore into different possibilities before locking down on a focused product concept
+This is where you explore into different possibilities before locking down on a focused product concept.
 #### Envision (Articulating the overall idea)
 Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
 #### Context/Competitor Analysis
@@ -44,7 +44,7 @@ Create a pitch deck (or equivalent) to present the idea to different stakeholder
 - Study current world & market trends to align the purpose for the product with a mega trend
 
 ## Focus (Select a specialization to target)
-Now that you have explored different avenues, start locking-down on a specific area with best potential
+Now that you have explored different avenues, start locking-down on a specific area with best potential.
 #### Technical Feasibility
 - Verify if the solution is technology feasible to implement with available resources
 #### Low Fidelity Prototype
@@ -63,7 +63,7 @@ Now that you have explored different avenues, start locking-down on a specific a
 - Validating if your solution effectively solves the customer’s basic problem
 
 ## Immerse (Dig deep and understand the solution)
-Analyze deep in to the focused area to elaborate details required for solving the problem
+Analyze deep in to the focused area to elaborate details required for solving the problem.
 #### Brand Guide
 - Define the brand personality of the product including visual theme, logo, name, etc.
 #### Data Architecture #DataModel 
@@ -82,7 +82,7 @@ Analyze deep in to the focused area to elaborate details required for solving th
 - Lay the features and releases in a product evolution timeline
 
 ## Plan (Strategize the agility of project execution)
-Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics
+Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics.
 
 #### Engineering Process #DeliveryProcess 
 - Outlines the processes such as team management, code reviews, communication strategy, etc. 
@@ -153,7 +153,7 @@ Execute the plan with the goal to validate assumptions (technical, requirements,
 - Implement continuous cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities of the implemented code and third party components. 
 
 ## Optimize(Reach globally competitive product maturity)
-Fine tune the product to achieve the maximum output
+Fine tune the product to achieve the maximum output.
 #### Analytics Review Process #DataModel 
 - Process logs and data analytics to organize and escalate for decision making based on data patterns
 #### Cost optimization 

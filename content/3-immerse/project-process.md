@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "7-project process"
+metaTitle: ""
+metaDescription: ""
 subtitle: “Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

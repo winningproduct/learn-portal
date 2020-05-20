@@ -1,7 +1,9 @@
 --- 
 templateKey: "model-post" 
 indexingField: 6-Build 
-title: "15-portfolio management" 
+title: "15-portfolio management"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Aspects to consider when moving from product management to portfolio management consisting of several products" 
 date: 2019-07-25T15:04:10.000Z 
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Plan
 title: "1-customer onboarding"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Provide world-class experience at the customer's first product touch-point"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

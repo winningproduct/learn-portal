@@ -2,6 +2,8 @@
 templateKey: 'model-post'
 indexingField: 4-Focus
 title: '7-platform architect'
+metaTitle: ""
+metaDescription: ""
 subtitle: 'underlying infrastructure of the software system.'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "9-information architecture"
+metaTitle: ""
+metaDescription: ""
 subtitle: "The foundation of efficient user experience"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

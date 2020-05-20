@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "4-Positioning Messages"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Product positioning to beat out the competition"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 4-Immerse
 title: "8-product roadmap"
+metaTitle: ""
+metaDescription: ""
 subtitle: "The statement of intent"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

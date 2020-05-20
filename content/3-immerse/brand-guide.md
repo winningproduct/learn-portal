@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 5-Immerse
 title: "1-brand guide"
+metaTitle: ""
+metaDescription: ""
 subtitle: "A written manual that explains how a brand should be used internally and externally"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

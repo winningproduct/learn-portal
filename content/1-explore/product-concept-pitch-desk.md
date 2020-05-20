@@ -1,6 +1,8 @@
 ---
 templateKey: "model-post"
 title: "1-Product Concept Pitch Desk"
+metaTitle: ""
+metaDescription: ""
 indexingField: 2-Conceive
 subtitle: "How to pitch your product for investors and potential customers"
 date: 2019-07-25T15:04:10.000Z

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 11-Retire
 title: "1-Platform migration plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Strategy and action plan to migrate all technology platform components from old system to new system"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

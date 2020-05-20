@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "9-Product theme integration"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Thinking in Themes"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

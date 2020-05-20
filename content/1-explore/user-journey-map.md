@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "5- User journey map & Service blueprint"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Visualization of an individual’s experience with a product or a serviec over time and across different perspectives."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -1,19 +1,16 @@
 const config = {
       forcedNavOrder: [
-        '/1-introduction',
-        '/2-explore',
-        '/3-focus',
-        '/4-immerse',
-        '/5-plan',
-        '/6-build',
-        '/7-stabilize',
-        '/8-optimize',
-        '/9-harvest',
-        '/10-retire',
-        '/FormattingGuide'
-      ],
-      collapsedNav: [
-        '/FormattingGuide'
+        '/introduction',
+        '/1-explore',
+        '/2-focus',
+        '/3-immerse',
+        '/4-plan',
+        '/5-build',
+        '/6-stabilize',
+        '/7-optimize',
+        '/8-harvest',
+        '/9-retire',
+        '/formatting-guidelines'
       ]
   };
   

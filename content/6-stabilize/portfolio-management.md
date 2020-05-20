@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 8-Stabilize
 title: "7-Portfolio management"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

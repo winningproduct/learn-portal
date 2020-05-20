@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 7-Build
 title: "7-product pricing plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Pricing is way more than coming up with a number - there are many strategies for pricing a product, so we must ensure we select one that is relevant to both product and brand position"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

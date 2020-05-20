@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 3-Explore
 title: "2-Commercial Viability"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Commercial Viability refers to the ability of a business, product or service to compete effectively with its competitors and to be profitable."
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

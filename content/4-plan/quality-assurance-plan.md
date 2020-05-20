@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: "11-quality assurance plan"
+metaTitle: ""
+metaDescription: ""
 subtitle: "What's measured improves - Peter Drucker"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

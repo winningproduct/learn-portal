@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 6-Plan
 title: '3-Product website'
+metaTitle: ""
+metaDescription: ""
 subtitle: "If there’s one page that’s responsible for the biggest impact on a business, it’s the product page"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true

@@ -2,6 +2,8 @@
 templateKey: "model-post"
 indexingField: 9-Optimize
 title: "7-Compliance & Approvals"
+metaTitle: ""
+metaDescription: ""
 subtitle: "Adapt industry standards and certifications to design stronger, safer, more reliable products and getting complaince approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc)."
 date: 2020-05-17T15:04:10.000Z
 featuredpost: true

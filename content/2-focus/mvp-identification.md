@@ -2,6 +2,8 @@
 templateKey: 'model-post'
 indexingField: 4-Focus
 title: '2-MVP Identification'
+metaTitle: ""
+metaDescription: ""
 subtitle: 'Planning a Minimum Viable Product'
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
