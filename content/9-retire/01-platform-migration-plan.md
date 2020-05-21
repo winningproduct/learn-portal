@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 11-Retire
-title: "1-Platform migration plan"
+title: "Platform Migration Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Strategy and action plan to migrate all technology platform components from old system to new system"

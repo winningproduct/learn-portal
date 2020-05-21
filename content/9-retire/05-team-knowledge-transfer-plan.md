@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 11-Retire
-title: "3-Team knowledge transfer plan"
+title: "Team Knowledge Transfer Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge"

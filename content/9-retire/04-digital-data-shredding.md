@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 11-Retire
-title: "2-Digital-data-shredding"
+title: "Digital Data Shredding"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Removal of unwanted data"

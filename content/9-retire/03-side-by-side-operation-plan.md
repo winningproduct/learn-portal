@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 11-Retier
-title: "4-Side by side operation plan"
+title: "Side by Side Operation Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
