@@ -118,7 +118,7 @@ Team structure should define key roles, responsibilities, boundaries and values
 ## Build (Validate the Primary Assumptions)
 Execute the plan with the goal to validate assumptions (technical, requirements, business) faster and cheaper.
 #### Architectural Runway #TechArchitecture
-- Bolster the architecture to support future features and technical improvements without changing the core. Keep investing on the architecture in each iteration to keep it up to date and ahead of feature development.
+- Incrementally prepare the architecture to support upcoming features and other requirements. Strike a balance between Big-Up-Front (BUF) and No-Up-Front (NUF). Set up architectural collaboration between the teams as the project gets bigger.
 #### Go-to-market Planning & Checklist
 - The tactical action plan that outlines the steps necessary to do before, on and after the product launch.
 #### Lead capture/CMS
