@@ -1,5 +1,5 @@
 ---
-title: "1-Explore"
+title: "Explore"
 metaTitle: "Explore"
 metaDescription: "Explore"
 ---

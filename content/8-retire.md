@@ -1,5 +1,5 @@
 ---
-title: "8-Retire"
+title: "Retire"
 metaTitle: "Retire"
 metaDescription: "Retire"
 ---

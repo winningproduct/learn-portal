@@ -16,10 +16,8 @@ tags:
   - Winning products
   - types of software
 ---
-![flavor wheel](/img/overview-to-the-canvas-img-1.jpeg)
+
 Winning Product Canvas can appear overwhelming at the first glance. But if you look close, there is nothing complicated about it to anyone who had been a part of developing and taking a product to market.
-
-
 
 All product development projects go through a set of different "product phases" over time. During each phase, there are certain "strategic activities" team must engage with. These strategic activities are diverse and span across different "areas of interest". In order to add value, there is an important "product mindset" every team member should cultivate within to transform them into a 'product engineers'.
 

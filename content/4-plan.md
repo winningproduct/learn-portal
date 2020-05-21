@@ -1,5 +1,5 @@
 ---
-title: "4-Plan"
+title: "Plan"
 metaTitle: "Plan"
 metaDescription: "Plan"
 ---

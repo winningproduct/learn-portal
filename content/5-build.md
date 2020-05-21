@@ -1,5 +1,5 @@
 ---
-title: "5-Build"
+title: "Build"
 metaTitle: "Build"
 metaDescription: "Build"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "3-Immerse"
+title: "Immerse"
 metaTitle: "Immerse"
 metaDescription: "Immerse"
 ---
