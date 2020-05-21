@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "2-Adward design"
+title: "Customer support"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -12,7 +12,7 @@ description: "Max word count (160)"
 
 tags:
   - Optimize
-  - Adward design
+  - Documentation and user training
   - Winning Product Canvas
 ---
 

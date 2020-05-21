@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "1-Documentation and user training"
+title: "Analytics review process"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -12,7 +12,7 @@ description: "Max word count (160)"
 
 tags:
   - Optimize
-  - Documentation and user training
+  - Data analytics plan
   - Winning Product Canvas
 ---
 
