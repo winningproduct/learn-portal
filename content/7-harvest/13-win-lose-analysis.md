@@ -1,15 +1,14 @@
 ---
 templateKey: "model-post"
-indexingField: 9-Harvest
-title: "11-Win-lose Analysis"
+indexingField: 7-Harvest
+title: "Win-lose Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Analysis on how many business opportunities are won or lost and most importantly, why?"
 date: 2020-05-14T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/win-loss-analysis.jpg"
-description: "Win-loss analysis is a highly specialized market research done to understand how a company markets and sell their products from a prospect's perspective. This will analyse both the product and the performance of your organization. The goal is to understand your strength and weaknesses and push for continuous improvements.
-"
+description: "Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind."
 
 tags:
   - Harvest

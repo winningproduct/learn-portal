@@ -1,6 +1,6 @@
 ---
 templateKey: "model-post"
-indexingField: 9-Optimize
+indexingField: 7-Harvest
 title: "Referrals and Upsales Plan"
 metaTitle: ""
 metaDescription: ""
@@ -8,10 +8,10 @@ subtitle: "Referral marketing is the method of promoting products or services to
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "img/8-optimize-referral-marketting.jpg"
-description: "A referral is a trusted recommendation from another individual. As a business owner, customer engagement specialist, or marketer, you want to ensure that when people are asking about your services, your current customers are quick to recommend you. Either people can agree or disagree, referrals are one of the most crucial components of a successful inbound sales strategy. In fact, there’s no more reliable way to grow any business than through sourcing referrals, but only if it's done in a systematic, smart way. With a follow up system in place, you’ll know exactly when and how to ask your clients for referrals and actually get them. Because if you’re only asking clients for a review once after your sale and never again, you’re not tapping into this massive sales and growth engine. And unfortunately, it’s costing you serious revenue."
+description: "Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales)"
 
 tags:
-  - Optimize
+  - Harvest
   - Referrals and upsales plan
   - Winning Product Canvas
 ---
