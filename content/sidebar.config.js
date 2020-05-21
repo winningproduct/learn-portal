@@ -6,8 +6,7 @@ const config = {
         '/3-immerse',
         '/4-plan',
         '/5-build',
-        '/6-stabilize',
-        '/7-optimize',
+        '/6-optimize',
         '/8-harvest',
         '/9-retire',
         '/formatting-guidelines'

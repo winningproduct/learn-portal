@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "1-Architectural runway"
+title: "Architectural Runway"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
