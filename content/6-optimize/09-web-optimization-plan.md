@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "3-Web optimization plan"
+title: "Web optimization plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "9-Performance tuning plan"
+title: "Promotions process"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -12,7 +12,7 @@ description: "Max word count (160)"
 
 tags:
   - Optimize
-  - Performance tuning plan
+  - Promotions plan
   - Winning Product Canvas
 ---
 
