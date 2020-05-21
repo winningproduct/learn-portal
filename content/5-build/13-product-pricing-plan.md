@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "7-product pricing plan"
+title: "Product Pricing Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Pricing is way more than coming up with a number - there are many strategies for pricing a product, so we must ensure we select one that is relevant to both product and brand position"

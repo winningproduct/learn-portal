@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "11-Test Automation Setup"
+title: "Test Automation Setup"
 metaTitle: ""
 metaDescription: ""
 subtitle: "“Quality is free, but only to those who are willing to pay heavily for it.” – T. DeMarco and T. Lister"

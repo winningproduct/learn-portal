@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "8-Release gate review"
+title: "Release Gate Review"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Have enough quality gates to ensure a quality product"

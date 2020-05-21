@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "4-Innovation Accounting"
+title: "Innovation Accounting"
 metaTitle: ""
 metaDescription: ""
 subtitle: "A way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero - Eric Ries"

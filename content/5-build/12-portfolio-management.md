@@ -1,7 +1,7 @@
 --- 
 templateKey: "model-post" 
 indexingField: 6-Build 
-title: "15-portfolio management"
+title: "Portfolio Management"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Aspects to consider when moving from product management to portfolio management consisting of several products" 

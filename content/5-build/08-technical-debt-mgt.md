@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "10-technical debt management"
+title: "Technical Debt Management"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Escaping the black hole of technical debt"

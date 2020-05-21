@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "5-Lead capture/cms"
+title: "Lead capture/cms"
 metaTitle: ""
 metaDescription: ""
 subtitle: "The lead generation process starts by finding out where your target market 'lives' on the web - Wayne Davis"

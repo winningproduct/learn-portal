@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "9-Team On-boarding & Learning Plan"
+title: "Team On-boarding & Learning Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Assimilating new recruits via an effective Team On-boarding & Learning Plan"

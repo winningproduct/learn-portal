@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "12-User Behavior Analysis"
+title: "User Behavior Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

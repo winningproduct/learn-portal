@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "2-Data Privacy Protection"
+title: "Data Privacy Protection"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

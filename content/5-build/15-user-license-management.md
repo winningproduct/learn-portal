@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "13-User License Management"
+title: "User License Management"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Getting it right can help you grow, acquire new customers, and outlast your competition."

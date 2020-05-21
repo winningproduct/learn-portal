@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "6-market feedback capture"
+title: "Market Feedback Capture"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Market feedback is the cornerstone of business improvement"

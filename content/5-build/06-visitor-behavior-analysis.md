@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 7-Build
-title: "14-Visitor behaviour analysis"
+title: "Visitor Behaviour Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Understand the real behavior of your website users"
