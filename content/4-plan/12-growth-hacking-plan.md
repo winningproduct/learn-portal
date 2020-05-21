@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/growth-hacking.jpg)
 
 ## Why
 Usually growth hacking comes in handy when you desire a certain level of growth but you don’t have the necessary resources (i.e: time and money) to do it in traditional means.

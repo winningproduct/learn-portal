@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![commercial-viability](/img/commercial-viability-img-1.jpg)
 
 ## Why
 

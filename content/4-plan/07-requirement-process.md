@@ -16,12 +16,12 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel]()
 
 ## Why
-
+Coming soon..
 
 ## How
-
+Coming soon..
 
 ## References
+Coming soon..

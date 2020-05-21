@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Customer Onboarding](/img/customer-onboarding.png)
 
 ## Why
 

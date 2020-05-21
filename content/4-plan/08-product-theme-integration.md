@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Produt Theme](/img/product-theme.jpg)
 
 ## Why
 Building your product roadmap to convey your vision in a compelling way is challenging. But by grouping initiatives together into themes, you can organize your roadmap in a way that describes the value to customers and other stakeholders. Themes can help you put together a roadmap that creates a story

@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Key Metrics Testing](/img/key-metric-test.jpg)
 
 ## Why
 Software testing metrics or software test measurement is the quantitative indication of extent, capacity, dimension, amount or size of some attribute of a process or product. Testing key metrics helps to take decisions for the next phase of of activities in case of technology or the process change. They act as evidenve of the cliam or prediction.

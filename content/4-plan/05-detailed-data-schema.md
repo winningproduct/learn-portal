@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Detailed data schema](/img/detailed-schema-deign.jpg)
 
 ## Why
 Data is important, only if it can be interpreted and analyzed. Every business has lots of data and information within its data warehouses and systems and software solutions but, without a way to understand the data it is useless. In order to understand data it has be structured, related and easy to retrieve. On the other hand, modern day ubiquitous computing demands data to be used at any device, in any location, and in any format. Business has to address the data complexities of ubiquitous computing, in order to reach their customers. 

@@ -17,7 +17,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
 
 ## Why
 

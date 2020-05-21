@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Megatrend Analysis](/img/megatrend-analysis.jpg)
 
 ## Why
 An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analysing and acting in accordance with megatrends is essential for success in the market. Using megatrend analysis companies can develop proactive long-term strategies and apply them to their own growth strategy

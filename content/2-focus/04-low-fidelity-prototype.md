@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/prototype.jpeg)
 
 ## Why
 The first and most important role of lo-fi prototypes is to check and test functionality rather than the visual appearance of the product

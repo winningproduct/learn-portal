@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Persona/User Journey](/img/Persona.png)
 
 ## Why
 It is not easy to handle and pay attention to all research conducted in a process. Therefore Persona will be the most realistic approach since it represents the image of a typical user. It can also remind us of the user’s needs and help us to create a better user experience model it will make users feel comfortable while using the product. And this is how it facilitates development. Personas demonstrate the goals and requirements of users, the axis of the work for the UX design group, which will make the first version of the product come with a better usability design. With Personas, when it appears conflict of design, the design group can adapt their decision based on the model. Personas can help the group develop the most useful features instead of designing features that will never be used. Personas will also help the product team figure out the essential design element.

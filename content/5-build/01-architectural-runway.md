@@ -9,7 +9,6 @@ tags:
 - Winning Product Canvas
 ---
 
-![Architectural runway](/img/<content-main-image>.jpeg)
 
 
 ## What

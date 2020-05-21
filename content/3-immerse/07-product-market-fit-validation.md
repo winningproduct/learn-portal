@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/product-market-fit.jpg)
 
 ## Why
 If you want your business to succeed, you need to build products that your target customers really want. Building a product your customer really wants means you have found your product market fit.

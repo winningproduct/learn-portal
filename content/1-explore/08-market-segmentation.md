@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Market Segmentation](/img/segmentation.jpg)
 
 ## Why
 The information about potential target markets and customer segments helps to identify the pros/cons of them and personalize the marketing campaigns accordingly. It will help marketers to be efficient and minimize the risk of unsuccessful and ineffective marketing campaigns. 

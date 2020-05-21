@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
-
 ## Why
 Following benefits have made businesses realize the importance of log indexing and analysis. 
 

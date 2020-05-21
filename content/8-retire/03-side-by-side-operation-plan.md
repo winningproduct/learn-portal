@@ -11,23 +11,17 @@ featuredimage: "/img/<content-main-image>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Retier
+  - Retire
   - Side by side operation plan
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
-
-## Why(word count 200)
-{paragraph}
-
-## How(in bullet points)
-
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+## Why
+Coming soon..
 
 ## How
+Coming soon..
 
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+## References
+Coming soon..
+

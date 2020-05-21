@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Feature Prioratization](/img/feature-prioratization.jpg)
 
 ## Why
 If we do not select proper features in the planning stage, which need to be in the end product, it takes forever to deliver even an MVP(Minimum Viable Product). And sometimes, valuable time of teams are wasted developing features that no one needs. This can be catastrophic for businesses with limited time and budget, and especially for startups

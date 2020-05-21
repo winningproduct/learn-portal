@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Data Architecture](/img/data-architecture.jpg)
 
 ## Why
 Data architecture provides clarity about every aspect of the data, which enables data scientists to work with trustable data efficiently and to solve complex business problems. It also prepares an organization to quickly take advantage of new business opportunities by leveraging emerging technologies and improves operational efficiency by managing complex data and information delivery throughout the enterprise.

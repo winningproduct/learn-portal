@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Innovation Accounting](/img/innovation-accounting.jpg)
 
 ## Why
 Typical business projects are executing the business plan and doing that in relatively known environments using KPIs that are developed to measure their performance. Innovation projects, however, are looking for sustainable business models in unfamiliar environments and are often pushed into using the same KPIs as other business projects. Because of different natures of the projects, we believe companies should separate those 2 activities as much as possible and develop a tailored set of KPIs suitable for innovation projects.

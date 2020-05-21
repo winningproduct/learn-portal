@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Team Structure](/img/team-structure.jpg)
 
 ## Why
 Proper team structure is required to efficiently deliver values to your customers. A team can perfrom at its best and win any stategies when clear communication, team competence and team focus are built into the team structure.
@@ -37,6 +36,6 @@ The followoing checklist can be used to build an efficient team that delivers va
 - Include all team members in the communication process.
 - Write an escalation policy for the resolution of conflicts.
 
-## Reference
+## References
 - [How to Build a Successful Software Development Team](https://clutch.co/developers/resources/how-to-hire-successful-software-development-team)
 - [Forming a team that fits your project](https://www.scnsoft.com/blog/software-development-team)

@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Road Map](/img/product-roadmap.jpg)
 
 ## Why
 The product roadmap has several ultimate goals

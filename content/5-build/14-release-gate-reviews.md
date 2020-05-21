@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Release Gates](/img/release-gates.jpg)
-
 ## Why
 Release gate reviews helps projects to,
 
@@ -37,4 +35,4 @@ Release gate reviews helps projects to,
 - The team may conditionally proceed to the next phase if certain deliverables from the preceding phase have not met the accepted completion criteria. Exceptions as such should be communicated to all stakeholders and approvals if required should be obtained. 
 
 ## References
-[How to use quality gates to guide IT projects](https://www.techrepublic.com/article/how-to-use-quality-gates-to-guide-it-projects/)
+- [How to use quality gates to guide IT projects](https://www.techrepublic.com/article/how-to-use-quality-gates-to-guide-it-projects/)

@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/brand-guide.jpg)
 
 ## Why
 Brand guide ensures that there is consistency across all branding collateral published by the company so there no confusion to the target audience it is reaching and distinguish the brand image strongly from the competition

@@ -14,7 +14,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/error-and-exception-handling.jpg)
 
 ## What
 Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.

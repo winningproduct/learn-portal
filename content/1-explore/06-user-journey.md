@@ -18,8 +18,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/user-jorney-map.png)
-
 ## Why
   A user journey map helps a product team to find the answer to the “What if..?” questions. Also, a user journey map can be helpful when the company tracks quantitative KPIs. In this case, a user journey map has an opportunity to become a cornerstone of strategic recommendations.
   What journey maps and customer narratives don’t show is the internal workings of the organization. The service blueprint seeks to uncover and document (often for the first time!) all the things that go on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your company works, the deep, dark inner workings of how the things customer experiences are produced.

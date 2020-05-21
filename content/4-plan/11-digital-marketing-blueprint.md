@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/marketing-plan.jpg)
 
 ## Why
 Exponential digital growth across the world means that a strong focus on digital marketing is required right from the start. Why? Because digital marketing transcends physical borders. More and more of your consumers are online and a good digital marketing strategy will allow you to reach a global marketplace from anywhere in the world, for less money than traditional marketing. More importantly, you can get to know your audience personally and track responses to your marketing efforts - immediately. You can then realign your marketing according to responses to ensure a fully optimised digital marketing strategy.

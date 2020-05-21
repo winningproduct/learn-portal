@@ -34,6 +34,6 @@ Here are nine steps you can take to make sure all of your SEO bases are covered:
 - Measure and track your content's success.
 
 ## References
-[How to Create an SEO Strategy ](https://blog.hubspot.com/marketing/seo-strategy)
-[How to Build An SEO Plan From Scratch](https://www.quicksprout.com/seo-planning/)
-[The 8-Step SEO Strategy](https://moz.com/blog/the-8step-seo-strategy-step-1-define-your-target-audience-and-their-needs)
+- [How to Create an SEO Strategy ](https://blog.hubspot.com/marketing/seo-strategy)
+- [How to Build An SEO Plan From Scratch](https://www.quicksprout.com/seo-planning/)
+- [The 8-Step SEO Strategy](https://moz.com/blog/the-8step-seo-strategy-step-1-define-your-target-audience-and-their-needs)

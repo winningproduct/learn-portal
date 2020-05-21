@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Pricing Plan](/img/product-pricing-plan.jpg)
-
 ## Why
 When the price, value proposition and positioning are aligned, the business is in the best situation to maximize revenue and profits.
 There are many factors to consider when developing the pricing strategy, both short- and long-term. For example, pricing needs to:
@@ -49,4 +47,3 @@ In the marketing mix, pricing is the only thing that brings revenue and as such,
 ## References
 
 - [How to develop a pricing strategy](http://www.marketingmo.com/strategic-planning/how-to-develop-a-pricing-strategy/)
-- [How to develop a pricing strategy](https://articles.bplans.com/7-strategic-ways-to-price-your-products-and-services/)

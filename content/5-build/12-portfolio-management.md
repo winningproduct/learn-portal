@@ -18,8 +18,6 @@ tags:
 
 --- 
 
-![portfolio-management](/img/portfolio-management.png) 
-
 ## Why
 
 Businesses would want to add multiple products in order to capitalize on different market segments or to provide a more appealing value proposition to selected markets. Portfolio management helps businesses increase ROI in multiple products while optimizing their market message, UX, and integrations.

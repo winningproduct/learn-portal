@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![User License Management](/img/user-license-mgmt.jpg)
-
 ## Why
 User license management is also used by software vendors to monitor and ensure compliance with the developer's software license. This helps prevent the developer's software from being copied, shared or otherwise illegally used (pirated) by non-licensed users. License management on the software vendor's side may also involve creating trial, personal, corporate and/or subscription-based license keys via a license generator; software product activation; product deactivation; and similar tasks.
 

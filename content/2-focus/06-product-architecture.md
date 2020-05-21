@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/software-architecture.jpg)
 
 ## Why
 The product architecture blue print is an essential early starter to determine the direction of the solution development. Following are the main reasons why it is a must to focus on the product architecture at the beginning.

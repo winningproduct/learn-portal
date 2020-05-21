@@ -16,19 +16,13 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
 
-## Why(word count 200)
-{paragraph}
+## Why
+Coming soon..
 
-## How(in bullet points)
-
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
+## How
+Coming soon..
 
 
 ## References
-
-[Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+Coming soon..

@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/product-concept-pitch.jpeg)
 
 ## Why
 

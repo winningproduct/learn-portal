@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/contingency-and-reliability-reviews.jpg)
-
 ## Why
 
 Any company operates on many external factors which are beyond control and a disaster could strike at any time. While you cannot really control how and when a disaster may happen, you could always control your preparedness for it and how you react to it.

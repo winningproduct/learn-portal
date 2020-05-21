@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Competitor Analysis - Two-dimensional matrix](/img/Competitor-Analysis-Template.png)
 
 ## Why
 By measuring your products or service against competition allows you to position the product in the market effectively. Furthermore, the continuous monitoring of market dynamics helps to respond to the market changes timely.

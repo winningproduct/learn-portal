@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/engineering-estimation.jpg)
 
 ## Why
 Engineering estimations convey product managers how much cost and effort will be required for various enginnering activities. It helps them to make informed decisions to control the project more efficiently and effectively.

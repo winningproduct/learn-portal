@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](img/8-optimize-referral-marketting.jpg)
 
 ## Why
 Referral marketing works because everyone trusts the opinions of real people who have used a product or a service more than they trust traditional advertising. In fact researchers says that people are four times more likely to buy a product or service when it’s referred by a friend. While referrals usually come from friends and acquaintances, but now a days it doesn't have to be that only. In fact, influencer marketing is considered a form of referral marketing, as influencers often share their favorite products with followers via organic sharing and sponsored posts. Referral marketing can come from friends, influencers, celebrities, and even online reviews.

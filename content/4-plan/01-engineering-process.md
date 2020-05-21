@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/wpo-project-process.jpg)
 
 ## Why
 A process approach makes the software engineering predictable and repeatable.

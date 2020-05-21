@@ -20,7 +20,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Market Feedback](/img/market-feedback.png)
 
 ## Why
 

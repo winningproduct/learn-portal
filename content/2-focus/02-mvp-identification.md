@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/mvp.jpg)
  
 ## Why
 The main intention of an MVP is to test the market. So, you can build the least amount of features required to deliver your value proposition. It allows flexibility in a situation where you want to change requirements, and in case your idea fails in front of the customer, then you know that with the least amount of effort. The primary value of the MVP is to build a product immediately while cutting costs, and in an unfortunate event of product going south, fail fast.

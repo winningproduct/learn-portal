@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/ci-cd-pipeline.jpg)
 
 ## Why
 Having CI/CD Implemented allows you to enable fast flow of work from your development to production while ensuring the quality of the changes you are making with your development activities.It will also allow you to have greater confidence in the product that is critical for fast flow of work.

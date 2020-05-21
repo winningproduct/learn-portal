@@ -17,7 +17,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/product-positioning.jpg)
 
 ## Why
 The ultimate goal is to identify positions in the market that represents unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from the competition.

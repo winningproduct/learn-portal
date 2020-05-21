@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Lead Capture](/img/lead-generation.jpg)
 
 ## Why
 A lead is simply the contact information of a prospective customer or action taker. Capturing customer details allows you to continue to market to them as they move down your funnel, where you can educate, build trust and convert your visitors into customers.

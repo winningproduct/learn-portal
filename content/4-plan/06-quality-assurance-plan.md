@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Quality Assurance Plan](/img/quality-assurance.jpg)
-
 ## Why
 
 Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to;

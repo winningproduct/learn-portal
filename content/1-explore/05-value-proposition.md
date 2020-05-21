@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/value-proposition-canvas.jpg)
 
 ## What
 A product or service is introduced to the market to provide a solution for a problem. It is very much required to understand what sort of tasks are to being sought by the targeted audience, the pains currently faced, and what gains and how they measure it. On the other hand, it is essential to identify the products and services offered, how those provide relief to the pains faced by the audience, and how those could extend the gains required by them. For this purpose, a Value Proposition Canvas is used. 

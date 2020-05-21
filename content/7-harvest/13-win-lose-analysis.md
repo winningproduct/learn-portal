@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![commercial-viability](/img/win-loss-analysis.jpg)
-
 ## Why
 
 Regardless of how your sales process is, it is inevitable that you may loose some prospects. In such situations though the sale is not won, it is useful to understand what made the prospect choose a competitive product over yours. In other words this will express what is missing from your offering. In addition to the assessment of the product itself, doing a win-loss analysis also determines the strength of your sales process. Here are some of the things that you can learn from a win-loss analysis.

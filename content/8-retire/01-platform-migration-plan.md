@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/platform-migration-plan.jpg)
-
 ## Why
 
 'Recycle' is the key word here. You should reuse anything that can be salvaged from the legacy system to avoid reinventing the wheel. Why you would have components which are worthy of migrating in the first place is, that despite the technology improvements, your business logic is likely remain the same. In otherworld, if your new products intends to solve the same problem then it is likely that there will be core business logic components which can easily work in the new system. Technologies might change, but the domain driven core business logic may not change. 

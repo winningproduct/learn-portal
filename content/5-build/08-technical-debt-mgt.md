@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Technical Debt Management](/img/technical-debt.jpg)
-
 ## Why
 Technical debt is a form of accumulated bugs or technical shortcuts used during development. This should be managed during the product life cycle. This does not imply that there should be zero technical debt. This is more about managing product code deficiencies in a more effective manner that add value to business & product.
 

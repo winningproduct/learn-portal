@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Architecture blueprint in code](/img/architecture-blueprint.jpg)
 
 ## Why
 Many applications today are quite complicated and require a load balancer, one or more web servers, database servers, and queue processing systems. A systems administrator spends hours provisioning and managing these interlocking systems. IaC reduces that time window to mere minutes and usually happens automatically! Engineers define the basic building blocks necessary for their application, and the IaC framework does the work to shape the environment correctly. The framework does this by provisioning virtual servers, installing software packages, creating users or starting code processes.

@@ -17,8 +17,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/operational-estimate.jpg)
-
 ## Why
 Estimation is commonly regarded as a process of judging or providing a rough calculation for a value.
 For an organisation to function smoothly it is important to budget different costs. Thus, estimating the operations upfront is crucial to provide the business with a clear idea on how much should be allocated for operations.

@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Visitor Behaviour Analysis](/img/visitor-behaviour-analysis.jpg)
 
 ## Why
 Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. It empowers you to step into your visitors’ shoes, see what they saw, experience what they experienced and draw actionable insights from them which can be tested and deployed in the optimization stage. Whenever a visitor visits your website, visitor behavior analysis assumes the role of website visitor tracking software and maps their entire journey online. The result of the analysis can be used to,

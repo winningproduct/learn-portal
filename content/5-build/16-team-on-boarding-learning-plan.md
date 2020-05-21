@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Team Onboarding](/img/team-onboarding.jpg)
-
 ## Why
 An effective team On-boarding and Learning process will provide an organization the following benefits.
 
@@ -62,4 +60,4 @@ An employee on-boarding checklist should be maintained to track the following on
   - Evaluate the new employee learning by continuous evaluation
 
 ## References
-[Onboarding New Employees: Maximizing Success](https://www.shrm.org/hr-today/trends-and-forecasting/special-reports-and-expert-views/Documents/Onboarding-New-Employees.pdf)
+- [Onboarding New Employees: Maximizing Success](https://www.shrm.org/hr-today/trends-and-forecasting/special-reports-and-expert-views/Documents/Onboarding-New-Employees.pdf)

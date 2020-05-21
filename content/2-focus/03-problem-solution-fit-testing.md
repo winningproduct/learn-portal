@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/problem-solution-fit.png)
 
 ## Why
 Because it shows us that our product has the potential of scaling, and getting to product-market fit. Before investing months or years of effort towards building a product, the first step is determining if this product is something worth doing.

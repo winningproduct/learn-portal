@@ -18,7 +18,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
 
 ## Why
 A contract specifies the activities entered into by both parties planning to do business together and the terms through which they will each fulfill their parts of the agreement. Contracts affect business profitability in a very large way due to the emphasis on revenue and expenses.

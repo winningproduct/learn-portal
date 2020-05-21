@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/team-knowledge-transfer-plan.jpg)
-
 ## Why
 
 There are many reasons to justify why knowledge transfer is absolutely necessary. 
@@ -44,5 +42,5 @@ Consider the following when you want to establish a good knowledge transfer plan
 
 ## References
 
-[Knowledge transfer within and among teams](https://www.wolfmotivation.com/programs/knowledge-transfer-within-and-among-teams)
+- [Knowledge transfer within and among teams](https://www.wolfmotivation.com/programs/knowledge-transfer-within-and-among-teams)
 

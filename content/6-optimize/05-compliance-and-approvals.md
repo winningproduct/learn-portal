@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Compliance and Approvals](/img/compliance-and-approvals.jpg)
-
 ## Why
 Proper management of product compliance and the processes around it enables product managers to save time, reduce costs and mitigate risks. When damages are incurred due to non-compliance, the consequences are severe: hefty fines, and potentially long-term damage to brand reputation.
 
@@ -42,5 +40,5 @@ Proper management of product compliance and the processes around it enables prod
 
 ## References
 
-[GDPR](https://gdpr-info.eu/)
-[ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)
+- [GDPR](https://gdpr-info.eu/)
+- [ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)

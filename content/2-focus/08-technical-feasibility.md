@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Technical Feasibility](/img/feasibility-report.jpg)
 
 ## Why
 

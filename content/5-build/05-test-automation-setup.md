@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Test Automation Setup](/img/Automation-testing.png)
 
 ## Why
 Businesses are nowadays adopting DevOps and Cloud Computing. DevOps makes the team agile as well as focuses on delivering value and changing the dynamics of development, operation, and quality assurance teams. Cloud computing has changed software in service. To increase the effectiveness of DevOps adoption requires the knowledge of Automation Testing. Automation testing is the management and performance of test activities, to include the development and execution of test scripts so as to verify test requirements, using an automation testing tool. It helps in the comparison of actual outcomes with predicted outcomes. Thus, automation testing has become an indispensable part of quality assurance. Automation testing helps team reduce human error during repetitive testing. In a world where continuous release and testing is increasingly becoming the norm, it is vital that the test activities must be performed accurately and efficiently. Automation testing also reduces time consumption of testing, as it is faster than human testing and an execution can be triggered multiple times immediately one after another and sometimes in parallel.

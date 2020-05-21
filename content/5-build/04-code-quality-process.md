@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Code-quality](/img/code-quality-process.jpg)
 
 ## Why
 
