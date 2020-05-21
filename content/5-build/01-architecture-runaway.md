@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-indexingField: 11-Retier
-title: "Side by Side Operation Plan"
+indexingField: 8-Stabilize
+title: "1-Architectural runway"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -11,8 +11,8 @@ featuredimage: "/img/<content-main-image>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Retier
-  - Side by side operation plan
+  - Stabilize
+  - Architectural runway
   - Winning Product Canvas
 ---
 
