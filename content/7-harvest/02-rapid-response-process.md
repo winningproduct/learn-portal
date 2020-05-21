@@ -1,18 +1,18 @@
 ---
 templateKey: "model-post"
-indexingField: 10-Harvest
-title: "8-User issue tracking"
+indexingField: 7-Harvest
+title: "Rapid Response Process"
 metaTitle: ""
 metaDescription: ""
-subtitle: "Max word count (140)"
+subtitle: ""
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+description: "User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends."
 
 tags:
   - Harvest
-  - User issue tracking
+  - Scalability assessment
   - Winning Product Canvas
 ---
 
@@ -30,4 +30,4 @@ tags:
 refernces/further readings(links)
 
 [Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+

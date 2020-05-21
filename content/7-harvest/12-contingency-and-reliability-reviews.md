@@ -1,16 +1,14 @@
 ---
 templateKey: "model-post"
-indexingField: 10-Harvest
-title: "13-Contingency and reliability reviews"
+indexingField: 7-Harvest
+title: "Contingency and reliability reviews"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Plan and action business continuity strategy to minimize risks, considering technical, market and environmental factors"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/contingency-and-reliability-reviews.jpg"
-description: "It is easily to get carried away with demanding daily tasks especially when you operate a growing business. However, contingency planning has to be a part of any business continuity process of a company. Worst could happen at any time and if not planned properly everything could be lost literally overnight.
-
-Contingency planning basically means putting a plan in place to continue the business as much as normal in an unplanned event. Those who have proactively invested on such a plan are more likely to avoid a big disaster when a rainy day comes."
+description: "Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness."
 
 tags:
   - Harvest

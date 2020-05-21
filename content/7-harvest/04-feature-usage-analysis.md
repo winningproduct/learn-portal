@@ -1,18 +1,18 @@
 ---
 templateKey: "model-post"
-indexingField: 10-Harvest
-title: "2-Product support organization"
+indexingField: 7-Harvest
+title: "Feature usage analysis"
 metaTitle: ""
 metaDescription: ""
-subtitle: "Max word count (140)"
+subtitle: ""
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+description: "How can you calculate feature usage so that you are left with clear, actionable insights"
 
 tags:
   - Harvest
-  - Product support organization
+  - Feature usage analysis
   - Winning Product Canvas
 ---
 

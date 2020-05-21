@@ -1,18 +1,18 @@
 ---
 templateKey: "model-post"
-indexingField: 10-Harvest
-title: "1-Feature usage analysis"
+indexingField: 7-Harvest
+title: "Technology Revamp/Migration Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+description: "Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility"
 
 tags:
   - Harvest
-  - Feature usage analysis
+  - Technology Revamp/Migration Plan
   - Winning Product Canvas
 ---
 
@@ -30,4 +30,4 @@ tags:
 refernces/further readings(links)
 
 [Reference-name](http://website.com)
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
+
