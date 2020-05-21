@@ -1,0 +1,3 @@
+[build]
+  publish = "portal/public"
+  command = "cd portal && npm run build"
