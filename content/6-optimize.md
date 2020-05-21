@@ -1,5 +1,5 @@
 ---
-title: "6-Optimize"
+title: "Optimize"
 metaTitle: "Optimize"
 metaDescription: "Optimize"
 ---

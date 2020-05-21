@@ -1,5 +1,5 @@
 ---
-title: "7-Harvest"
+title: "Harvest"
 metaTitle: "Harvest"
 metaDescription: "Harvest"
 ---

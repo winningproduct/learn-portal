@@ -1,5 +1,5 @@
 ---
-title: "2-Focus"
+title: "Focus"
 metaTitle: "Focus"
 metaDescription: "Focus"
 ---

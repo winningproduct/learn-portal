@@ -16,8 +16,6 @@ tags:
   - Winning products
 ---
 
-![flavor wheel](/img/what-is-winning-product-img-1.jpeg)
-
 You may realize that a winning product should have much more than mere engineering excellence. The ultimate validation of a great product is by the market and the users. Below are some of the characteristics through which you may identify a market winning product.
 
 
