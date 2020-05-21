@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![Feature Prioratization](/img/feature-prioratization.jpg)
 
-##Why
+## Why
 If we do not select proper features in the planning stage, which need to be in the end product, it takes forever to deliver even an MVP(Minimum Viable Product). And sometimes, valuable time of teams are wasted developing features that no one needs. This can be catastrophic for businesses with limited time and budget, and especially for startups
 
-##How
+## How
 Feature prioritization starts with a shared vision and purpose. There are some incredibly smart and easy strategies for diving deep into product decisions and help you prioritize features, improvements, and ideas.
 
 - Place features into themes to avoid choice paralysis
@@ -43,7 +42,7 @@ Feature prioritization starts with a shared vision and purpose. There are some i
 - Use the Kano Method to prioritize features by delight
 - Prioritize features by constraints
 
-#References
+## References
 
 - [7 Ways to Prioritize Features and Product Improvements](https://plan.io/blog/feature-prioritization/)
 - [7 Strategies to Choose the Best Features for Your Product](https://www.productplan.com/strategies-prioritize-product-features/)

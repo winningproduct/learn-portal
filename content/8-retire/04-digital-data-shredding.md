@@ -16,8 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/digital-data-shredding.jpg)
-
 ## Why
 
 Ownership of the data is somewhat of a tricky concepts. There are legal considerations that needs to be adhered to when storing users' private data. Laws such as GDPR has strict guidance on this and disobeying can lead to serious penalties. So there is a very good reason not to hold on to any data that your system doesn't absolutely need.
@@ -43,5 +41,5 @@ You may employee a manual or an automated data shredding procedure. Either way, 
 
 ## References
 
-[Data erasure](https://en.wikipedia.org/wiki/Data_erasure#Regulatory_compliance)
-[What Are Current Data Destruction Standards?](https://www.compucycle.com/2019/01/10/current-data-destruction-standards/)
+- [Data erasure](https://en.wikipedia.org/wiki/Data_erasure#Regulatory_compliance)
+- [What Are Current Data Destruction Standards?](https://www.compucycle.com/2019/01/10/current-data-destruction-standards/)

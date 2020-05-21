@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Code-quality](/img/code-quality-process.jpg)
 
 ## Why
 
@@ -58,7 +57,7 @@ Manages risk of customer dissatisfaction, data loss, security incidents, and sca
   - Continuous KT sessions to make sure the necessary knowledge is with everyone in the team
   - Discuss root causes and find ways to avoid them
 
-# Refernces
+## References
 
 - [Comprehensive Guide to Code Quality](https://codingsans.com/blog/code-quality)
 - [Revelry](https://revelry.co/code-quality-process/)

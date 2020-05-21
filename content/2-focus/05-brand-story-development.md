@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/golden-circle.png)
 
 ## What
 A brand for an organization is analogous to a child and a parent. Similar to what a parent feeds the child, teaches the child, what core values are influenced on the child and etc would at the end of the day define how the child is perceived by the community. Similarly creating an identity which enables the stakeholders of an organization to perceive the entity in a given way is considered as a Brand story development. Therefore at the core of Brand story development is sharing “Why” or “The purpose” of the entity to exist. As a result of successful Brand Story Development, the stakeholders could feel at an emotional level what the entity represents, for instance, Apple - “To Think Different”, Volkswagen - “Safety”, Facebook - “Connecting people” and so on.

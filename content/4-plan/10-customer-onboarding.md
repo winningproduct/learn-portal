@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![Customer Onboarding](/img/customer-onboarding.png)
 
 ## Why
 
@@ -61,6 +60,6 @@ There are objective and subjective means to measure the quality and success of y
    - How many features they explore
    - How many wins they get by using the features
 
-##Reference
+## References
  - [What is Customer Onboarding](https://tallyfy.com/definition-customer-onboarding/)
  - [SaaS onboarding guide](https://blog.chartmogul.com/a-guide-to-saas-customer-onboarding/)

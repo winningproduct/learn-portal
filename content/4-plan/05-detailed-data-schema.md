@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![Detailed data schema](/img/detailed-schema-deign.jpg)
 
-##Why
+## Why
 Data is important, only if it can be interpreted and analyzed. Every business has lots of data and information within its data warehouses and systems and software solutions but, without a way to understand the data it is useless. In order to understand data it has be structured, related and easy to retrieve. On the other hand, modern day ubiquitous computing demands data to be used at any device, in any location, and in any format. Business has to address the data complexities of ubiquitous computing, in order to reach their customers. 
 
-##How
+## How
 In planning the detailed data schema, consider following areas.
 - Online Transaction Processing(OLTP) and Online Analytics Processing(OLAP) use-cases
   - It helps you to decide the data schema for the application. You may use OLTP optimzed database, OLAP optimized database or purpose-built databases.
@@ -35,7 +34,7 @@ In planning the detailed data schema, consider following areas.
   - Optimally creating and structuring database tables to answer business questions.
 
 
-#References
+## References
 - [Data Modeling Examples for Analytics](https://panoply.io/analytics-stack-guide/data-modeling-examples-for-analytics/)
 - [CQRS Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [Web API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)

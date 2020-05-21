@@ -17,7 +17,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
 
 ## Why
 
@@ -42,6 +41,6 @@ The method of software migration should be chosen carefully. Here are some of th
 
 - Package Implementation - You want to move off legacy applications, but don’t want to devote the resources to entirely re-engineer them. It’s especially well-suited to agile organizations.
 
-#Refernces
+## References
 
 - [For more information](https://www.smartsheet.com/all-about-software-migration-planning)

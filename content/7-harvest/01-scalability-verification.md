@@ -16,18 +16,12 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/<content-main-image>.jpeg)
+## Why
+Coming soon..
 
-##why(word count 200)
-{paragraph}
+## How
+Coming soon..
 
-##how(in bullet points)
-
-- Bullet list
-  - Nested bullet
-    - Sub-nested bullet etc
-
-refernces/further readings(links)
-
-[Reference-name](http://website.com)
+## References
+Coming soon..
 

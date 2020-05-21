@@ -16,9 +16,8 @@ tags:
   - Winning Product Canvas
 ---
 
-![Visitor Behaviour Analysis](/img/visitor-behaviour-analysis.jpg)
 
-##Why
+## Why
 Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. It empowers you to step into your visitors’ shoes, see what they saw, experience what they experienced and draw actionable insights from them which can be tested and deployed in the optimization stage. Whenever a visitor visits your website, visitor behavior analysis assumes the role of website visitor tracking software and maps their entire journey online. The result of the analysis can be used to,
 
 - Segment audience based on common traits
@@ -28,7 +27,7 @@ Visitor behavior analysis helps you answer behavioral questions about your visit
 - Gets the best ROI from channels
 - Defining an appropriate targeting strategy for different audience segments
 
-##How
+## How
 
 Following are the commonly used methods for visitor behaviour analysis.
 
@@ -52,7 +51,7 @@ Following are the commonly used methods for visitor behaviour analysis.
 - Website Form Analytics
   - Website form analytics provides conversion-centric information regarding the performance of your website’s forms by track metrics like interaction time, hesitation time, abandonment rate, total time spent, and so on for each field of the forms.
 
-#References
+## References
 
-[Visitor Behaviour Analysis](https://vwo.com/visitor-behavior-analysis/)
-[Understanding Visitor Behavior](https://www.practicalecommerce.com/Web-Analytics-Understanding-Visitor-Behavior)
+- [Visitor Behaviour Analysis](https://vwo.com/visitor-behavior-analysis/)
+- [Understanding Visitor Behavior](https://www.practicalecommerce.com/Web-Analytics-Understanding-Visitor-Behavior)

@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![Key Metrics Testing](/img/key-metric-test.jpg)
 
-##Why
+## Why
 Software testing metrics or software test measurement is the quantitative indication of extent, capacity, dimension, amount or size of some attribute of a process or product. Testing key metrics helps to take decisions for the next phase of of activities in case of technology or the process change. They act as evidenve of the cliam or prediction.
 
-##How
+## How
 There are three main types of testing metrics
 
 - Process Metrics
@@ -44,7 +43,7 @@ Once the correct testing metric is identified, you may follow these steps
 - Identify the areas of improvement depending on the interpretation of defined metrics
   - E.g. The Test Case execution falls below the goal set, we need to investigate the reason and suggest the improvement measures
 
-#References
+## References
 
 - [The Fundamental Software Testing Metrics:](https://www.thinksys.com/qa-testing/software-testing-metrics-kpis/)
 - [Software Testing Metrics: What is, Types & Example](https://www.guru99.com/software-testing-metrics-complete-tutorial.html#6)

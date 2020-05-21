@@ -29,6 +29,6 @@ In essence, the above paragraph summarizes the 'Winning Product Canvas'. Let's l
 
 
 
-###Product Phases
-##Conceive Phase
+### Product Phases
+## Conceive Phase
 This is the first stage the entrepreneur/intrepreneur

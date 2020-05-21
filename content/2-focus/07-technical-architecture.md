@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/technical-architecture.jpg)
 
 ## Why
 Technical architecture helps product teams to make decisions for the product respecting the system goals, functional and non-functional requirements defined by the stakeholders or the domain. 

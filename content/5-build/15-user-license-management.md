@@ -16,12 +16,10 @@ tags:
   - Winning Product Canvas
 ---
 
-![User License Management](/img/user-license-mgmt.jpg)
-
-##Why
+## Why
 User license management is also used by software vendors to monitor and ensure compliance with the developer's software license. This helps prevent the developer's software from being copied, shared or otherwise illegally used (pirated) by non-licensed users. License management on the software vendor's side may also involve creating trial, personal, corporate and/or subscription-based license keys via a license generator; software product activation; product deactivation; and similar tasks.
 
-##How
+## How
 All software has a license attached, whether the program is a simple freeware tool or an expensive enterprise suite.
 Here are the most common licensing types:
 
@@ -46,7 +44,7 @@ Here are the most common licensing types:
 - Freeware
   - Means it’s free to use, but the creator holds the copyright.
 
-#Referenes
+## References
 
 - [Software License Management](https://www.webopedia.com/TERM/L/license_management.html)
 - [User License Management ](https://www.sciencedirect.com/topics/computer-science/platform-architecture)

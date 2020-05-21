@@ -16,9 +16,8 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/software-architecture.jpg)
 
-##Why
+## Why
 The product architecture blue print is an essential early starter to determine the direction of the solution development. Following are the main reasons why it is a must to focus on the product architecture at the beginning.
 
 - The types of software building blocks to use
@@ -27,7 +26,7 @@ The product architecture blue print is an essential early starter to determine t
 - The cost of the decision
   90% of the times, it is possible to make changes to the product architecture during its early phases. However the fact to to consider and plan here is the cost of change. The cost of change, which is a function of cost and time can increase exponentially with time. In-contra the cost or the effort needed in making informed decisions decreases with time by better getting to know the product domain and associated technicalities.
 
-##How
+## How
 This will be described mainly using the 4+1 architectural view model.
 
 - Use Case Diagram
@@ -64,4 +63,6 @@ Technical and Non-Technical Aspects
   - Technical documentation /Online help requirements
   - etc...
 
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
+## References
+
+- [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)

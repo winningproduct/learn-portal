@@ -14,7 +14,6 @@ tags:
   - Winning Product Canvas
 ---
 
-![IPR Management](/img/ip-rights.jpg)
 
 ## What
 Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses.

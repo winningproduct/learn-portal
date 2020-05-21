@@ -16,9 +16,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![Quality Assurance Plan](/img/quality-assurance.jpg)
-
-##Why
+## Why
 
 Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to;
 
@@ -30,7 +28,7 @@ Quality Assurance Plan is a critical part of any project, as it enables to agree
 - Objects to be addressed.
 - Steps in the processes that create the procedures of the organization.
 
-##How
+## How
 
 Quality plan mainly consists of 3 elements.
 
@@ -86,8 +84,8 @@ QA plan need to have following contents.
 - Details of test environment.
 - Define task and the schedule.
 
-##References
+## References
 
-[Sample QA Plan ](https://www.brighthubpm.com/project-planning/30414-how-to-create-an-effective-quality-assurance-plan/)
+- [Sample QA Plan ](https://www.brighthubpm.com/project-planning/30414-how-to-create-an-effective-quality-assurance-plan/)
 
-[QA Plan](https://www.santecindia.com/quality-assurance-plan.html)
+- [QA Plan](https://www.santecindia.com/quality-assurance-plan.html)

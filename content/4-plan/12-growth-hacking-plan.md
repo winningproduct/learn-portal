@@ -16,13 +16,12 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/growth-hacking.jpg)
 
-##Why
+## Why
 Usually growth hacking comes in handy when you desire a certain level of growth but you don’t have the necessary resources (i.e: time and money) to do it in traditional means.
 Even though you have enough resources, most business ideas are naturally executed on the default path of thinking, few growth hacks on the way helps product to take leaps that increases the chance of succeeding.
 
-##How
+## How
 
 - Identify the Pirate Tunnel (Awareness, Acquisition, Activation, Retention, Revenue and Referral) for your product with good understanding of each stage and statistics associated with them.
 - Do some homework within the team! Come up with a few possible ideas for Growth hacking - just to warm up and make sure everyone’s on the same page.
@@ -31,6 +30,6 @@ Even though you have enough resources, most business ideas are naturally execute
 - Prioritize these experiments and create a plan to execute.
 - Iterate through Build-Measure-Learn cycles to conduct and measure the success of experiments to reach desired growth.
 
-#References
+## References
 
 [Growth Hacking: Data and Product Driven Marketing](https://www.youtube.com/watch?v=ajccEoAhfmc)

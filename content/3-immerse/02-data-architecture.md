@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![Data Architecture](/img/data-architecture.jpg)
 
-##Why
+## Why
 Data architecture provides clarity about every aspect of the data, which enables data scientists to work with trustable data efficiently and to solve complex business problems. It also prepares an organization to quickly take advantage of new business opportunities by leveraging emerging technologies and improves operational efficiency by managing complex data and information delivery throughout the enterprise.
 
-##How
+## How
 A successful enterprise needs to have a top-down coherent data architecture designed based on the business processes and operations. Usually there are three different layers for a data architecture.
 - Conceptual Level Data Architecture Design based on Business Process and Operations
   - It should include,
@@ -41,5 +40,5 @@ A successful enterprise needs to have a top-down coherent data architecture desi
 - Physical/technology model
   - Provides the data mechanism for a specific process and functionality, or how the actual data architecture is implemented on underlying technology infrastructure
 
-##References
+## References
 - [Data architecture](https://en.wikipedia.org/wiki/Data_architecture)

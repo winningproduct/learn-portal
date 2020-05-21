@@ -17,9 +17,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/operational-estimate.jpg)
-
-##Why
+## Why
 Estimation is commonly regarded as a process of judging or providing a rough calculation for a value.
 For an organisation to function smoothly it is important to budget different costs. Thus, estimating the operations upfront is crucial to provide the business with a clear idea on how much should be allocated for operations.
 
@@ -28,7 +26,7 @@ It helps to,
 - Avoid under utilizing resources thus incurring unwanted costs
 - Identify ROI for the business
 
-##How
+## How
 One of the best proven methodologies for operational estimation is TCO (total cost of ownership). This process is regarded as one of the most basic and important processes in cost estimation. During any process it is important to capture the qualitative and non-functional requirements of the product coming in from the product architecture(reliability, scalability etc).
 
 Under the process of identifying TCO many key activities should be carried out under 3 stages.
@@ -49,7 +47,7 @@ Under the process of identifying TCO many key activities should be carried out u
 
 - Identifying Retirement Costs
 
-#References
+## References
 
 - [Cloud Capacity Planning](https://increment.com/cloud/an-engineers-guide-to-cloud-capacity-planning/)
 - [Calculating the total cost of ownership](https://www.cio.com/article/3005705/calculating-the-total-cost-of-ownership-for-enterprise-software.html)

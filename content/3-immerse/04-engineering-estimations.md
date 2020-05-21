@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/engineering-estimation.jpg)
 
-##Why
+## Why
 Engineering estimations convey product managers how much cost and effort will be required for various enginnering activities. It helps them to make informed decisions to control the project more efficiently and effectively.
 
-##How
+## How
 There are several methods to perform engineering estimations. They have their advantages and disadvantages. However the most popular engieering estimation method is Tast/Method estimation also known as "Bottom up Estimation"
 
 - Task/Method Estimation
@@ -34,7 +33,7 @@ There are several methods to perform engineering estimations. They have their ad
 
 - Heuristic Method
 
-#References
+## References
 
 - [What is the Difference Between an Estimate and a Bid?](https://sites.google.com/site/mullsengineeringmanagement/articles/three-methods-of-engineering-estimation/estimate-vs-bid)
 

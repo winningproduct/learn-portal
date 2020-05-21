@@ -16,9 +16,7 @@ tags:
   - Winning Product Canvas
 ---
 
-![User Behavior Analysis](/img/user-behavior-analysis.png)
-
-## why
+## Why
 User behavior analytics (UBA) is the tracking and assessing of how users make use of the features provided. Data collection and analysis is primarily done through automated monitoring systems where manual intervention may be required in decision making. UBA is important to know:
   - What features users are mostly interested and caring
   - Where do they get stuck and having troubles with
@@ -28,7 +26,7 @@ User behavior analytics (UBA) is the tracking and assessing of how users make us
 
 With UBA, you no longer have to do guess work or take decisions based on opinions. Your decisions on product roadmap and improvements becomes objective and data driven.
 
-## how
+## How
 - Understand the type of tools that can be employed to track user behavior. There are multiple tool categories such as:
   - Activity heat maps
   - Funnel views of user journey
@@ -41,7 +39,7 @@ With UBA, you no longer have to do guess work or take decisions based on opinion
 - Set up a routine process with relevant stakeholders to review and take actions based on the collected data
 - Make it a practice to refer to the collected data in requirement related meetings such as backlog grooming, roadmap discussions, etc.
 
-## references/further readings
+## References
  - [11 Tools to Compare](https://mopinion.com/11-visitor-recording-and-session-replay-tools-an-overview/)
  - [FullStory](https://www.fullstory.com/)
  - [HotJar](https://www.hotjar.com/)

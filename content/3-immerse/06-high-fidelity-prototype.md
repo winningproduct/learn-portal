@@ -16,15 +16,14 @@ tags:
   - Winning Product Canvas
 ---
 
-![flavor wheel](/img/high-fidelity-prototype.jpg)
 
-##Why
+## Why
 
 The main purpose of interactive prototypes is their use in the usability testing of the product have target users validate it. It is important to test our product before launching it in the market to foresee any issues or failures. Getting the most out of the feedback can be done with a prototype that is closest to the final product in its detail and functionality.
 
 In addition to validating designs, interactive prototypes can be used for presentations and pitches. When we want to communicate the designs and functionalities of our product to our team members, clients or other stakeholders in the project, and when the functional build of the software is not developed, a high fidelity prototype does the job very well.
 
-##How
+## How
 
 In order to create good high fidelity prototype, we need to get all our ingredients ready. Followings are the prerequisites that required for quality outcome.  
 
@@ -45,6 +44,6 @@ When selecting a proper tool for crating a high fidelity prototype, the web has 
 - Collaboration, in terms of allowing colleagues or others to comment or feedback on features
 
 
-##References
+## References
 
-[High Fidelity Prototyping](https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4)
+- [High Fidelity Prototyping](https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4)

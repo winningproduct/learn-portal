@@ -16,12 +16,10 @@ tags:
   - Winning Product Canvas
 ---
 
-![Business Model](/img/bcanvas_1.jpg)
-
-##Why
+## Why
 To initiate a new business or operate an existing business it is important to understand the complexity and internal workings of the business. This understanding will enable managers to fine-tune their offerings to maximize profitability. For a startup, this understanding is important to evaluate the viability of the business idea. A business contains various touchpoints which makes it very hard to comprehend. As such it has become very important that the business is synthesized in a simple understandable format. The business model canvas serves as a document that summarises how a business owner is planning to create value(profit) by offering services and products to customers. It also serves as a base document to explain how the company plans to make a profit thus attracting investors. In a nutshell, the business model canvas is an A4 paper sized document synthesizing the business.
 
-##How
+## How
 
 Building a business model follows a procedure of filling in each cell in the canvas in predefined order as mentioned below. When filling in each cell one must answer some critical questions. When answered in the order described, the business can operations is elaborated in simple terms.
 
@@ -40,7 +38,7 @@ So far the right side of the business model is defined. It will give answers to 
 
 Now the left side of the business model is defined. The left section is inward-facing and focusses on how the company plans to create products or services and who are the key resources and partners. This will explain the internal working of a business. All of this will boil down to the overall cost of operation which is explained as cost structure.
 
-#References
+## References
 
 - [How to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
 

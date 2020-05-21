@@ -16,12 +16,11 @@ tags:
   - Winning Product Canvas
 ---
 
-![Lead Capture](/img/lead-generation.jpg)
 
-##Why
+## Why
 A lead is simply the contact information of a prospective customer or action taker. Capturing customer details allows you to continue to market to them as they move down your funnel, where you can educate, build trust and convert your visitors into customers.
 
-##How
+## How
 Most common lead capture mechanisms are as follows. You may use a tool like Hubspot to help you in the process.
 
 - Web to lead
@@ -33,7 +32,7 @@ Most common lead capture mechanisms are as follows. You may use a tool like Hubs
 - Social to lead
   - An incoming message, question or comment via social network or messenger (such as Facebook, Twitter, Slack, Skype, WhatsApp) is automatically entered as a new lead, unless it's already in the database
 
-#References
+## References
 
 - [Lead capture in CRM](https://www.bitrix24.com/glossary/what-is-lead-capture-crm-definition.php)
 - [What is a Lead Capture Page](https://instapage.com/what-is-a-lead-capture-page)

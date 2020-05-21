@@ -16,10 +16,10 @@ tags:
   - Winning Product Canvas
 ---
 
-##why
+## Why
 Every Software product needs to be evolved with the time to retain existing customers and attract more customers.These changes can be bug fixes, new features, improving non functional aspets ( performance, security, etc..), technology shift, UX revamp, etc.. Further these changes be long as monthly. quarterly or even annually. With the emerge of cloud technologies and new concepts like continous integration and deployment, software product tend to do the changes to the product and make available to the users bi weekly, daily, or even every couple of hours. There are many concepts, methodlogies, best practices and techniques exist to manage these kind of changes to a software system.
 
-##how
+## How
 
 - With these practices we will be able to deliver new changes to system faster, safer and with best quality
 - And enable developers to get their code out quickly and correctly to the people who use it, in safe, small, incremental steps.
@@ -36,11 +36,10 @@ Every Software product needs to be evolved with the time to retain existing cust
   - Continous Deployment: Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing phase is automatically released into the production environment, making changes that are visible to the software's users.
 
   -  Agile Development: Agile software development refers to software development methodologies centered round the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams
-refernces/further readings(links)
 
+## References 
   - DevOps: is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably.
   - Test Driven Development: The Test Driven Development (TDD) is a software engineering practice that requires unit tests to be written before the code they are supposed to validate.
   - End to End Testing: End-to-end testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems
   
   - Dogfooding: dogfooding occurs when an organization uses its own product.This can be a way for an organization to test its products in real-world usage
-[Reference-name](https://techbeacon.com/devops/release-management-age-cd-are-you-ready-responsibility)
