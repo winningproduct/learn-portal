@@ -4,4 +4,4 @@ metaTitle: "Introduction"
 metaDescription: "Introduction"
 ---
 
-Introduction to winning product
+Introduction to winning product toolkit
