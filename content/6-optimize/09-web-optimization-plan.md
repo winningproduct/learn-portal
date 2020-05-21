@@ -17,10 +17,10 @@ tags:
 ---
 
 
-##Why
+## Why
 An SEO strategy is essential to help generate organic, qualified leads to your website. By optimizing a web page around topics, then keywords within that topic, you can increase your expertise in the eyes of a search engine and rank well for long-tail keywords related to that topic.
 
-##How
+## How
 Here are nine steps you can take to make sure all of your SEO bases are covered:
 
 - Make a list of topics.
@@ -33,7 +33,7 @@ Here are nine steps you can take to make sure all of your SEO bases are covered:
 - Stay current on SEO news & practices.
 - Measure and track your content's success.
 
-#References
+## References
 [How to Create an SEO Strategy ](https://blog.hubspot.com/marketing/seo-strategy)
 [How to Build An SEO Plan From Scratch](https://www.quicksprout.com/seo-planning/)
 [The 8-Step SEO Strategy](https://moz.com/blog/the-8step-seo-strategy-step-1-define-your-target-audience-and-their-needs)

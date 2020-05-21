@@ -18,12 +18,12 @@ tags:
 
 ![flavor wheel](/img/product-market-fit.jpg)
 
-##Why
+## Why
 If you want your business to succeed, you need to build products that your target customers really want. Building a product your customer really wants means you have found your product market fit.
 
 “The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers.” which is what we all want for our business.
 
-##How
+## How
 
 According to Steve Blank, there are four stages before finding a product-market fit — four stages that a startup business has to pass through, to discover the scale potential of its business model. These stages are:
 
@@ -53,5 +53,5 @@ Few practical ways to measure product-market fit is:
 - Product Usage Interval
 - Growth Rate
 
-##References
-[Product-Market Fit Analysis](https://www.growthsandwich.com/resources/product-market-fit-analysis/)
+## References
+- [Product-Market Fit Analysis](https://www.growthsandwich.com/resources/product-market-fit-analysis/)

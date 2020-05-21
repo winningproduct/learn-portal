@@ -41,5 +41,5 @@ Consider the following pointers when you want to establish a contingency plan.
 
 ## References
 
-[Contingency planning for entrepreneurs](https://minutehack.com/guides/contingency-planning-for-entrepreneurs)
+- [Contingency planning for entrepreneurs](https://minutehack.com/guides/contingency-planning-for-entrepreneurs)
 

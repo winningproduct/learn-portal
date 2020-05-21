@@ -18,10 +18,10 @@ tags:
 
 ![flavor wheel](/img/marketing-plan.jpg)
 
-##Why
+## Why
 Exponential digital growth across the world means that a strong focus on digital marketing is required right from the start. Why? Because digital marketing transcends physical borders. More and more of your consumers are online and a good digital marketing strategy will allow you to reach a global marketplace from anywhere in the world, for less money than traditional marketing. More importantly, you can get to know your audience personally and track responses to your marketing efforts - immediately. You can then realign your marketing according to responses to ensure a fully optimised digital marketing strategy.
 
-##How
+## How
 
 - Build your customer personas
 
@@ -42,7 +42,7 @@ Exponential digital growth across the world means that a strong focus on digital
 - Bring it all together
   - By this point, you should have clear customer personas, marketing-specific goals, an evaluation of your existing digital channels and a content plan. Now bring it together in a cohesive document - a spreadsheet makes a good canvas.
 
-#References
+## References
 [Structuring a Digital Marketing Plan](https://www.wearemarketing.com/blog/a-step-by-step-guide-to-structuring-a-digital-marketing-plan.html)
 
 [7 Digital Marketing Strategies](https://blog.hubspot.com/marketing/digital-strategy-guide)

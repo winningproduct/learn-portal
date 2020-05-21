@@ -18,7 +18,7 @@ tags:
 
 ![Road Map](/img/product-roadmap.jpg)
 
-##Why
+## Why
 The product roadmap has several ultimate goals
 
 - Describe the vision and strategy
@@ -27,7 +27,7 @@ The product roadmap has several ultimate goals
 - Facilitate discussion of options and scenario planning
 - Help communicate with external stakeholders, including customers
 
-##How
+## How
 Product road maps evolve with the time. Based on which stage the project is, the focus can be changed in the road map.It is always best to create a road map at the start of each project and evolve it as the project grows. All product road maps will fall in to following three categories based on the different stages of the project.
 
 - The no-dates road map
@@ -51,7 +51,7 @@ Tools that can be used to build road maps are listed below.
 - Taskworld (https://www.taskworld.com/)
 - Hygger (https://hygger.io/?utm_source=habrahabr%20article&utm_medium=link&utm_campaign=roadmaps)
 
-#References
+## References
 
 - [Everything You Need to Know About Product Roadmaps](https://www.productplan.com/what-is-a-product-roadmap/)
 - [An Agile Product Roadmap](https://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)

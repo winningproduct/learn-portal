@@ -19,10 +19,10 @@ tags:
 
 ![flavor wheel](/img/product-positioning.jpg)
 
-##Why
+## Why
 The ultimate goal is to identify positions in the market that represents unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from the competition.
 
-##How
+## How
 Marketers must take into account each of the following when positioning.
 
 - Premise
@@ -49,7 +49,7 @@ Types of product positioning
 - Service
   - Various services offered help to position a product. E.g. Open 24/7. "No Hassle" return policy
 
-#Refernces
+## References
 
 - [Positioning](<https://en.wikipedia.org/wiki/Positioning_(marketing)>)
 - Boone, Louis E., and David L. Kurtz. Contemporary Marketing. Thomson South-Western, 2006.

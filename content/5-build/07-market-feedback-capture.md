@@ -22,7 +22,7 @@ tags:
 
 ![Market Feedback](/img/market-feedback.png)
 
-##Why
+## Why
 
 - To help adjust and improve the product
 
@@ -39,7 +39,7 @@ tags:
 - A reliable source of information to other customers
   - Positive direct user feedback is a powerful means for marketing the product. Opinions provided by real users who have already used a product are more reliable source for information these days. Hence, many companies today incorporate review system in their services and products. E.g. Uber, AirBnb.
 
-##How
+## How
 
 1. Direct feedback: This is the type of feedback the customers intend to provide to the business. This can be captured at any touch-point in the customer journey whereby the customer expects the business to be listening. Direct feedback, typically, comes in the form of a survey, market research, written complaint, formal letter, or a forum/panel.
    a. Surveys
@@ -63,11 +63,6 @@ tags:
    b. Purchase history and transactional data  
    This type of feedback is extracted from historical data and is the hardest to capture. This requires analysing patterns of transactional data in order to derive user’s perspectives.
 
-#References
+## References
 
-- [User Feedbaci](https://www.hotjar.com/blog/user-feedback/)
-- (https://blog.startquestion.com/7-reasons-why-customer-feedback-is-important-to-your-business-28e99c00eba7)
-- (https://neilpatel.com/blog/best-ways-to-get-feedback/)
-- (https://uxplanet.org/20-tools-to-test-how-your-users-experience-your-website-1a776c61ebce)
-- (https://surveypal.com/2017/voice-of-the-customer-voc-feedback-sources/)
-- (https://www.sciencedirect.com/topics/computer-science/clickstream-data)
+- [User Feedback](https://www.hotjar.com/blog/user-feedback/)

@@ -18,7 +18,7 @@ tags:
 
 ![Team Onboarding](/img/team-onboarding.jpg)
 
-##Why
+## Why
 An effective team On-boarding and Learning process will provide an organization the following benefits.
 
 - Allows the new employee to quickly acquire the necessary knowledge, skills and behaviors required to effectively adapt to his/her job role within the Company. It’ll reduce new employee ramp-up time
@@ -26,7 +26,7 @@ An effective team On-boarding and Learning process will provide an organization 
 - Reduces new employee anxiety/stress
 - Increases employee retention
 
-##How
+## How
 Team On-boarding and Learning process doesn’t begin and end on new employee’s first couple of days at work. It begins when you initiate the hiring process and ends when the new employee is fully settled into his/her role.
 
 An employee on-boarding checklist should be maintained to track the following on-boarding process(in order to stay compliant).
@@ -61,5 +61,5 @@ An employee on-boarding checklist should be maintained to track the following on
   - Identify any training needs for the new employee to effectively perform the job and arrange them
   - Evaluate the new employee learning by continuous evaluation
 
-#References
+## References
 [Onboarding New Employees: Maximizing Success](https://www.shrm.org/hr-today/trends-and-forecasting/special-reports-and-expert-views/Documents/Onboarding-New-Employees.pdf)

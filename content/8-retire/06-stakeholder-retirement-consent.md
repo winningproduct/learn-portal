@@ -18,16 +18,16 @@ tags:
 
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
-##why(word count 200)
+## Why
 {paragraph}
 
-##how(in bullet points)
+## How
 
 - Bullet list
   - Nested bullet
     - Sub-nested bullet etc
 
-refernces/further readings(links)
+## References
 
 [Reference-name](http://website.com)
 ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)

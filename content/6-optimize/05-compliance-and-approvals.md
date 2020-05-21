@@ -18,7 +18,7 @@ tags:
 
 ![Compliance and Approvals](/img/compliance-and-approvals.jpg)
 
-##Why
+## Why
 Proper management of product compliance and the processes around it enables product managers to save time, reduce costs and mitigate risks. When damages are incurred due to non-compliance, the consequences are severe: hefty fines, and potentially long-term damage to brand reputation.
 
 - Meet legal requirements:  Comply with increasingly rigid regulatory requirements set out. E.g. PCIDS, HIPAA, GDPR.
@@ -28,7 +28,7 @@ Proper management of product compliance and the processes around it enables prod
 - Brand reputation:  Demonstrate that the product is of high quality and can be used with confidence
 
 
-##How
+## How
 
 - Find out what standards, regulations required to be complied. There are some key types of regulatory requirements to be aware of.
 	- Country/Region Regulations: Such as GDPR, The EU-U.S. Privacy Shield Framework
@@ -40,7 +40,7 @@ Proper management of product compliance and the processes around it enables prod
 - Perform regular audits to certify the compliances. 
 
 
-Refernces/Further Readings
+## References
 
 [GDPR](https://gdpr-info.eu/)
 [ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)

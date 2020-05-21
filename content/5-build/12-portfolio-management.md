@@ -44,16 +44,16 @@ Portfolio management needs to cover below listed aspects in order to successfull
 
   - UVP derived from total set of products can be greater than individual products. This should be a compelling UVP to the target market(s).  
 
-## Type of activities 
+### Type of activities 
 
 Portfolio management is a continuous activity which includes, planning, execution, and feedback from each product and making above aspects successful.  
  
 
-## How to measure the success? 
+### How to measure the success? 
 
 Total Return on Investment can be a clear indicator of success of the total product set. In this some products may not achieve profit while it can be a critical element in the value proposition of the customer segments. 
   
-# References 
+## References 
 
 - [Using agile product portfolio management](https://disruptorleague.com/2016/10/27/using-agile-product-portfolio-management/)
 

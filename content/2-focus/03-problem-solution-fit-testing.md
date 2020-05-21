@@ -18,18 +18,18 @@ tags:
 
 ![flavor wheel](/img/problem-solution-fit.png)
 
-##Why
+## Why
 Because it shows us that our product has the potential of scaling, and getting to product-market fit. Before investing months or years of effort towards building a product, the first step is determining if this product is something worth doing.
 
-##How
+## How
 
 - You have already built an MVP (minimum viable product),
 - You have found your early adopters (people to use your MVP),
 - You have managed to solve a problem that your early adopters have,
 - You have managed to charge enough for your solution so that users are happy.
 
-##References
+## References
 
-[Problem-Solution Fit](https://leansteps.wordpress.com/11-2/step-3-lean-experiment/problem-solution-fit/)
-[What's the right time to pivot](https://www.growthsandwich.com/resources/problem-solution-fit-time-to-pivot/)
-[The Problem-Solution Fit canvas](https://medium.com/@epicantus/problem-solution-fit-canvas-aa3dd59cb4fe)
+- [Problem-Solution Fit](https://leansteps.wordpress.com/11-2/step-3-lean-experiment/problem-solution-fit/)
+- [What's the right time to pivot](https://www.growthsandwich.com/resources/problem-solution-fit-time-to-pivot/)
+- [The Problem-Solution Fit canvas](https://medium.com/@epicantus/problem-solution-fit-canvas-aa3dd59cb4fe)

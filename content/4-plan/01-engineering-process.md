@@ -18,10 +18,10 @@ tags:
 
 ![flavor wheel](/img/wpo-project-process.jpg)
 
-##Why
+## Why
 A process approach makes the software engineering predictable and repeatable.
 
-##How
+## How
 Generally a product development process should cover requirements coming from following four different sources;
 
 - Business requirements.
@@ -35,5 +35,5 @@ Once the requirements are identified those should be arranged and documented in 
 - Procedure.
 - Work instruction.
 
-#References
-[ISO 9000 2015](https://www.praxiom.com/iso-definition.htm)
+## References
+- [ISO 9000 2015](https://www.praxiom.com/iso-definition.htm)

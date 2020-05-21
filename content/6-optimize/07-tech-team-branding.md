@@ -19,10 +19,10 @@ tags:
 
 ![Tech Team Branding](/img/tech-team-branding.jpeg)
 
-##Why
+## Why
 A strong positive brand will help you to get things done more effectively because it establishes specialization and enhances value delivery. Team branding can also provide an invaluable path to productivity. It will further create renewed inspiration and engagement within the team to become a high-performing product engineering team. Effective team branding results in recognition from customers and peers. With recognition comes feedback and insight, which assists in making your team even more streamlined and efficient.
 
-##How
+## How
 To create a team brand, the team needs to have a clear understanding of its domain expertise, its core technical competencies, the value it delivers and its brand personality (what is distinctive about the way the team does things?).
 Crafting a brand for a team is strikingly similar to creating one for a business or even a personal brand. Following are some tips to build a team branding.
 - Maintain a team blog and share the team’s experience in product engineering
@@ -34,7 +34,8 @@ Crafting a brand for a team is strikingly similar to creating one for a business
 - Inspire each team member to build their own personal brand in product engineering
 
 
-##References/Further Readings
-[3 Tech Team Branding Ideas](https://www.stackoverflowbusiness.com/blog/3-employer-branding-ideas-that-highlight-your-technical-team)
-[Why you need team branding](https://www.inc.com/karen-tiber-leland/your-team-brand-can-be-just-as-powerful-as-your-business-brand-heres-why.html)
-[Personal Branding for Devs](https://dzone.com/articles/how-to-build-a-personal-brand-and-reputation-as-a)
+## References
+
+- [3 Tech Team Branding Ideas](https://www.stackoverflowbusiness.com/blog/3-employer-branding-ideas-that-highlight-your-technical-team)
+- [Why you need team branding](https://www.inc.com/karen-tiber-leland/your-team-brand-can-be-just-as-powerful-as-your-business-brand-heres-why.html)
+- [Personal Branding for Devs](https://dzone.com/articles/how-to-build-a-personal-brand-and-reputation-as-a)

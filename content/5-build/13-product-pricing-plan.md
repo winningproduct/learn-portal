@@ -18,7 +18,7 @@ tags:
 
 ![Pricing Plan](/img/product-pricing-plan.jpg)
 
-##Why
+## Why
 When the price, value proposition and positioning are aligned, the business is in the best situation to maximize revenue and profits.
 There are many factors to consider when developing the pricing strategy, both short- and long-term. For example, pricing needs to:
 
@@ -28,7 +28,7 @@ There are many factors to consider when developing the pricing strategy, both sh
 - Enable you to reach your revenue and market share goals
 - Maximize your profits
 
-##How
+## How
 In the marketing mix, pricing is the only thing that brings revenue and as such, it is vitally important that the business becomes familiar with the ways the business can use it to its advantage. These methods include (but are not limited to) the following:
 
 - Penetration pricing
@@ -46,7 +46,7 @@ In the marketing mix, pricing is the only thing that brings revenue and as such,
 - Price leadership
   - This is the point at which your business becomes self-sufficient and is able to dictate prices within the marketplace. As such, it is an ideal goal to aim for and will work best for businesses operating in industries where competition is scarce.
 
-#References
+## References
 
 - [How to develop a pricing strategy](http://www.marketingmo.com/strategic-planning/how-to-develop-a-pricing-strategy/)
 - [How to develop a pricing strategy](https://articles.bplans.com/7-strategic-ways-to-price-your-products-and-services/)

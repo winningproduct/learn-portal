@@ -18,7 +18,7 @@ tags:
 
 ![commercial-viability](/img/win-loss-analysis.jpg)
 
-##Why
+## Why
 
 Regardless of how your sales process is, it is inevitable that you may loose some prospects. In such situations though the sale is not won, it is useful to understand what made the prospect choose a competitive product over yours. In other words this will express what is missing from your offering. In addition to the assessment of the product itself, doing a win-loss analysis also determines the strength of your sales process. Here are some of the things that you can learn from a win-loss analysis.
 - What features are truly important to the customers that they are willing to pay for
@@ -29,7 +29,7 @@ Regardless of how your sales process is, it is inevitable that you may loose som
 
 The outcome of this analysis is a good input to your feature prioritization process. Focus on what's missing and focus on getting it developed & released to market.
 
-##How
+## How
 
 There are primarily two ways in which you can do the win-loss analysis. A quick and easy approach is to outsource to a specialized 3rd party vendor. If this financially is an option then it is recommended to do so as you can actually use that time to focus on the improvements that matter. Also prospects are known to give more accurate information about your product to a 3rd party rather than to your face in certain cultures.
 
@@ -40,7 +40,7 @@ Nevertheless, there could be number of reasons why this might not be a possibili
 - Keep it short: You should be glad that the prospect agreed to spend some time for this in the first place. Just keep it very short, stick to the basics and utilize the time as much as possible. Try online meetings or a phone call on the go for customers' convenience.
 - Give them a benefit: Return the favor, offer them an incentive. This could be a coupon or a discount for a future product or a financial reward. 
 
-##References
+## References
 
 - [Win-loss analysis: A tool to gain product and market information](https://learn.marsdd.com/article/win-loss-analysis/)
 

@@ -18,10 +18,10 @@ tags:
 
 ![flavor wheel](/img/ci-cd-pipeline.jpg)
 
-##Why
+## Why
 Having CI/CD Implemented allows you to enable fast flow of work from your development to production while ensuring the quality of the changes you are making with your development activities.It will also allow you to have greater confidence in the product that is critical for fast flow of work.
 
-##How
+## How
 
 - Continuous Integration
 
@@ -63,7 +63,7 @@ Having CI/CD Implemented allows you to enable fast flow of work from your develo
   - Dogfooding
   - Feature Toggles
 
-#References
+## References
 
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 - [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)

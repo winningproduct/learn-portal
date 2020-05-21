@@ -17,11 +17,11 @@ tags:
 ---
 
 ![flavor wheel](/img/mvp.jpg)
-
-##Why
+ 
+## Why
 The main intention of an MVP is to test the market. So, you can build the least amount of features required to deliver your value proposition. It allows flexibility in a situation where you want to change requirements, and in case your idea fails in front of the customer, then you know that with the least amount of effort. The primary value of the MVP is to build a product immediately while cutting costs, and in an unfortunate event of product going south, fail fast.
 
-##How
+## How
 
 - Vision & success criteria
   The First step to build the MVP is to identify the overall vision of the product. Once you have a good idea about the vision, then define a success criterion to measure it.
@@ -35,6 +35,6 @@ The main intention of an MVP is to test the market. So, you can build the least 
 - Roadmap
   The selected features then needs to be placed in a MVP roadmap.
 
-##References
+## References
 
 - [What is a Minimum Viable Product?](http://ask.leanstack.com/en/articles/902991-what-is-a-minimum-viable-product-mvp)

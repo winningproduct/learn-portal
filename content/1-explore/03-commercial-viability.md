@@ -18,7 +18,7 @@ tags:
 
 ![commercial-viability](/img/commercial-viability-img-1.jpg)
 
-##Why
+## Why
 
 When you have a business idea, product, or service you would like to deliver to the market, the first thing to consider is that this idea would sell and make money? Like every other product, you inevitably encounter competitors at some point in your product life span. When you do, will your product/idea be able to compete and survive against these competitors? Or will your product fail due to market pressure?
 The art of making your product profitable, survivable in the face of competition and making it commercially sustainable in the long-run can be defined as the Commercial Viability. Commercial Viability includes but not limited to,
@@ -28,7 +28,7 @@ The art of making your product profitable, survivable in the face of competition
 - Identifying your strengths and weaknesses
 - Formulating a business plan which makes you win the market over your competitors
 
-##How
+## How
 
 - Determine the level of commercially viable of a product or services by fulfilling the following requirements.
   - Product
@@ -42,7 +42,7 @@ The art of making your product profitable, survivable in the face of competition
   - Financials
     - Will your sales exceed your expenses, and have you prepared cash flow projections?
 
-##References
+## References
 
 - [7 Steps To Assess Your Competition — Market Viability](https://medium.com/plusacumen/market-viability-7-steps-to-assess-your-competition-e4f67de84979)
 

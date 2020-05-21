@@ -18,16 +18,15 @@ tags:
 
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
-##why(word count 200)
+## Why(word count 200)
 {paragraph}
 
-##how(in bullet points)
+## How(in bullet points)
 
 - Bullet list
   - Nested bullet
     - Sub-nested bullet etc
 
-refernces/further readings(links)
-
-[Reference-name](http://website.com)
+## References
+- [Reference-name](http://website.com)
 

@@ -18,10 +18,10 @@ tags:
 
 ![Competitor Analysis - Two-dimensional matrix](/img/Competitor-Analysis-Template.png)
 
-##Why
+## Why
 By measuring your products or service against competition allows you to position the product in the market effectively. Furthermore, the continuous monitoring of market dynamics helps to respond to the market changes timely.
 
-##How
+## How
 - Define the industry you are in – scope and nature of the industry.
 - Determine who the relevant competitors are.
 - Determine the customer segments they target and the primary benefits provided.
@@ -31,7 +31,7 @@ By measuring your products or service against competition allows you to position
 
 This analysis can be performed on a two-dimensional matrix where competitors listed as columns and key success factors as rows.
 
-##References
+## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Competitor_analysis)
 

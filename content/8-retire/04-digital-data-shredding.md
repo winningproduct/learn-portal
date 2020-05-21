@@ -43,5 +43,5 @@ You may employee a manual or an automated data shredding procedure. Either way, 
 
 ## References
 
-[Data erasure](https://en.wikipedia.org/wiki/Data_erasure#Regulatory_compliance)
-[What Are Current Data Destruction Standards?](https://www.compucycle.com/2019/01/10/current-data-destruction-standards/)
+- [Data erasure](https://en.wikipedia.org/wiki/Data_erasure#Regulatory_compliance)
+- [What Are Current Data Destruction Standards?](https://www.compucycle.com/2019/01/10/current-data-destruction-standards/)

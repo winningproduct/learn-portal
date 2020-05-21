@@ -18,10 +18,10 @@ tags:
 
 ![Architecture blueprint in code](/img/architecture-blueprint.jpg)
 
-##Why
+## Why
 Many applications today are quite complicated and require a load balancer, one or more web servers, database servers, and queue processing systems. A systems administrator spends hours provisioning and managing these interlocking systems. IaC reduces that time window to mere minutes and usually happens automatically! Engineers define the basic building blocks necessary for their application, and the IaC framework does the work to shape the environment correctly. The framework does this by provisioning virtual servers, installing software packages, creating users or starting code processes.
 
-##How
+## How
 
 You can use an appropriate IaC tool/framework. Following configuration orchestration and management tools can be used to implement Infrastructure as Code and help you automate your infrastructure.
 
@@ -45,7 +45,7 @@ You can use an appropriate IaC tool/framework. Following configuration orchestra
   - Vagrant is another IaC tool built by HashiCorp, the makers of Terraform
 -
 
-#References
+## References
 
 - [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 - [IaS](https://www.plutora.com/blog/infrastructure-as-code)

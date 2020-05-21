@@ -18,10 +18,10 @@ tags:
 
 ![flavor wheel]()
 
-##Why
+## Why
 
 
-##How
+## How
 
 
-##Reference
+## References

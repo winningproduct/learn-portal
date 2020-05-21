@@ -18,14 +18,14 @@ tags:
 
 ![flavor wheel](/img/prototype.jpeg)
 
-##Why
+## Why
 The first and most important role of lo-fi prototypes is to check and test functionality rather than the visual appearance of the product
 Inexpensive. The clear advantage of low-fidelity prototyping is its extremely low cost.
 Fast. It’s possible to create a lo-fi paper prototype in just five to ten minutes. This allows product teams to explore different ideas without too much effort.
 Collaborative. This type of prototyping stimulates group work. Since lo-fi prototyping doesn’t require special skills, more people can be involved in the design process. Even non-designers can play an active part in the idea-formulation process.
 Clarifying. Both team members and stakeholders will have a much clearer expectation about an upcoming project
 
-##How
+## How
 
 - Paper Prototyping
 - Clickable Wireframe
@@ -37,6 +37,6 @@ Clarifying. Both team members and stakeholders will have a much clearer expectat
   - moqups.com
   - Wireframe.cc
 
-##References
+## References
 
 - [Low fidelty high fidelty prototype](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/)

@@ -44,6 +44,6 @@ Trickle migration:- This refers to the process of migrating in phases. If there 
 - Verification
 Last piece of the puzzle is verifying that the migrated components indeed work as they are expected and they meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as in the old architecture.
 
-#References
+## References
 
 - [Understanding Data Migration: Strategy and Best Practices](https://www.talend.com/resources/understanding-data-migration-strategies-best-practices/)

@@ -18,7 +18,7 @@ tags:
 
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
-## Why?
+## Why
 Following benefits have made businesses realize the importance of log indexing and analysis. 
 
 - **Assist post-event analysis and troubleshooting** 
@@ -41,7 +41,7 @@ Following benefits have made businesses realize the importance of log indexing a
 
     For example, customer log analysis could uncover that users are unlikely to make a purchase in the middle of the week. This could assist in deciding when to introduce a sales promotion. Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI. 
 
-## How?
+## How
 
 Log Indexing and Analysis process can be broken down into the following steps.
 
@@ -139,7 +139,7 @@ Considering following facts might assist you in this regard.
     - Try to include comparisons in your charts and reports for better insights (as comparisons provide readers a better perspective on data) 
 
 
-## References/Further Readings
+## References
 
 - [The Complete Guide to Log Analysis: What it is, How it Works, Use Cases & Tools](https://sematext.com/blog/log-analysis/)
 - [Log Management](https://sematext.com/guides/log-management/)
