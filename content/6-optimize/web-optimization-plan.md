@@ -1,22 +1,21 @@
 ---
 templateKey: "model-post"
-indexingField: 6-Plan
-title: "SEO Planning"
+indexingField: 9-Optimize
+title: "3-Web optimization plan"
 metaTitle: ""
 metaDescription: ""
-subtitle: "If you were to start optimizing a site for search engines from ground up, what would you do?"
+subtitle: "Max word count (140)"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/seo-planning.jpg"
-description: "SEO strategy is the process of organizing a website's content by topic, which helps search engines like Google understand a user's intent when searching."
+featuredimage: "/img/<content-main-image>.jpeg"
+description: "Max word count (160)"
 
 tags:
-  - Plan
-  - SEO planning
+  - Optimize
+  - Web optimization plan
   - Winning Product Canvas
 ---
 
-![SEO Planning](/img/seo-planning.jpg)
 
 ##Why
 An SEO strategy is essential to help generate organic, qualified leads to your website. By optimizing a web page around topics, then keywords within that topic, you can increase your expertise in the eyes of a search engine and rank well for long-tail keywords related to that topic.
