@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "Tech team branding"
+title: "Tech Team Branding"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Defining a brand of the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization."

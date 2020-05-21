@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "Analytics review process"
+title: "Analytics Review Process"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "Customer support"
+title: "Customer Support"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"

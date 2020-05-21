@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "11-Log indexing and analysis"
+title: "Log indexing and Analysis"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Gain better insights via log analytics"
