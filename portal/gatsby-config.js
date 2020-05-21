@@ -2,12 +2,6 @@ require("dotenv").config();
 const queries = require("./src/utils/algolia");
 const config = require("./config");
 const plugins = [
-  {
-    resolve: "gatsby-plugin-netlify-cache",
-    options: {
-      cachePublic: false
-    }
-  },
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
   {

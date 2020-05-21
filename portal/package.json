@@ -27,7 +27,6 @@
     "gatsby-plugin-layout": "^1.1.18",
     "gatsby-plugin-manifest": "^2.2.33",
     "gatsby-plugin-mdx": "^1.0.61",
-    "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-offline": "^3.0.29",
     "gatsby-plugin-react-helmet": "^3.1.18",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
