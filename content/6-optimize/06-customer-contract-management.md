@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "5-Customer contract management"
+title: "Customer contract management"
 metaTitle: ""
 metaDescription: ""
 subtitle: "This section describes customer contract management"

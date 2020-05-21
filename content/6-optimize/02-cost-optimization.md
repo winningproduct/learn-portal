@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 9-Optimize
-title: "10-Data analytics plan"
+title: "Cost optimization"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -12,7 +12,7 @@ description: "Max word count (160)"
 
 tags:
   - Optimize
-  - Data analytics plan
+  - Adward design
   - Winning Product Canvas
 ---
 
