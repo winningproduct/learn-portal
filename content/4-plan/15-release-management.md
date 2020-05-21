@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
 indexingField: 8-Stabilize
-title: "12-Release management"
+title: "Release Management"
 metaTitle: ""
 metaDescription: ""
 subtitle: "A better release management practices play a major role in stabilizing the product in long run"
