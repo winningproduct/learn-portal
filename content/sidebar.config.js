@@ -7,8 +7,8 @@ const config = {
         '/4-plan',
         '/5-build',
         '/6-optimize',
-        '/8-harvest',
-        '/9-retire',
+        '/7-harvest',
+        '/8-retire',
         '/formatting-guidelines'
       ]
   };
