@@ -17,7 +17,7 @@ tags:
   - Winning Product Canvas
 ---
 
-[EDITORIAL DRAFT]
+<span style="color:#dc3545;border: 1px dashed #dc3545;padding: 5px">EDITORIAL DRAFT</span
 ## Why
 A strong positive brand will help you to get things done more effectively because it establishes specialization and enhances value delivery. Team branding can also provide an invaluable path to productivity. It will further create renewed inspiration and engagement within the team to become a high-performing product engineering team. Effective team branding results in recognition from customers and peers. With recognition comes feedback and insight, which assists in making your team even more streamlined and efficient.
 
