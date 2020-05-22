@@ -1,10 +1,10 @@
 ---
-title: 'Winning Product Introduction'
-metaTitle: 'Winning Product Introduction | WP'
-metaDescription: 'Winning Product Introduction'
+title: 'Winning Product Background'
+metaTitle: 'Winning Product Background | WP'
+metaDescription: 'Winning Product Background'
 
 tags:
-  - Winning Product Introduction
+  - Winning Product Background
   - Winning Product
 ---
 
