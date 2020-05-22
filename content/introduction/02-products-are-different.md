@@ -51,3 +51,26 @@ To make things further complicated, in certain business models, the product may 
 ## ROI Expectations
 
 RoI is usually immediate as in a custom deployed bespoke application. In contrast, products take longer time to return financial benefits as it may take time to establish in the market. Until such time the product must stay trendy and relevant and be competitive. Such requires sophistication in engineering practices such as automation, delivery, quality controls, etc. Apart from that a higher degree of maintainability with a sustainable cost of operation is essential. 
+
+## Different Types of Products
+
+## Deployment model
+1. Packaged Software Products
+2. Software As a Service
+
+
+## Sales strategies
+1. Stand alone Product (e.g: Trello)
+2. Product Suit (e.g.: Office 365)
+
+
+## Target market
+1. Enterprise
+2. Business to Consumer
+3. Business to Business
+
+
+## Licensing
+1. Perpetual license
+2. Subscription
+3. Pay per use
