@@ -70,6 +70,8 @@ export default class MDXRuntimeTest extends Component {
 
     const metaDescription = mdx.frontmatter.metaDescription;
 
+    const isDraft = !mdx.frontmatter.published;
+
     let canonicalUrl = config.gatsby.siteUrl;
 
     canonicalUrl =
@@ -101,6 +103,7 @@ export default class MDXRuntimeTest extends Component {
           </Edit>
         </div>
         <StyledMainWrapper>
+          {isDraft? (<span style={{color: "#dc3545", border: "2px dashed #dc3545", padding: "5px", display: "block", width: "100%", fontSize: "large"}}>EDITORIAL DRAFT</span>) : null}
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
@@ -135,6 +138,7 @@ export const pageQuery = graphql`
       frontmatter {
         metaTitle
         metaDescription
+        published
       }
     }
     allMdx {
