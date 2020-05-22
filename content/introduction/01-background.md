@@ -1,32 +1,22 @@
 ---
-templateKey: 'model-post'
-title: 'Background'
-indexingField: Introduction
-date: 2019-07-25T15:04:10.000Z
-featuredimage: '/img/default-image.png'
-featuredpost: true
-description: 'What is WPO Canvas'
+title: 'Winning Product Background'
+metaTitle: 'Winning Product Background | WP'
+metaDescription: 'Winning Product Background'
 
 tags:
-  - WPO introduction
-  - Value Proposition
-  - Organization
-  - WPO canvas
-  - Winning product organization
+  - Winning Product Background
+  - Winning Product
 ---
-Creating a market winning product requires a mammoth of additional knowledge and skills compared to software development. Product engineers
-require a great sense of the domain and the market, product management techniques, customer engagement ability, superior engineering
-capabilities, etc. Such skills are not taught at universities nor gained by engaging traditional software development work.
 
-Majority of the global ISVs and Startups are heavily investing on digital first business services using Software Product geared for SaaS economy.
-This market is forecasted to jump from 71B to 122B by 2025. Unfortunately, a major portion of the Software Products that are released into the
-market never really reach its full potential and ROI due to fundamental issues in the approach. Therefore traditional ISVs with legacy products as
-well as new Startups need a market winning product development formula covering all aspects of product development.
+## Global Market
+Yearly, a large number of global ISVs and Startups are investing on digital services to be provided to their customers. SaaS market itself is forecasted to jump beyond 100 B USD by 2025 with around 16% CAGR. 
 
+## ISV Challenges
+Despite the lucrative trend, a major portion of the Software Products that are released into the market fail to reach the full potential and fair to reap ROI due to fundamental issues in the product management and engineering approach. 
 
+Creating a market leading (winning) product requires a mammoth of additional knowledge and skills compared to mere software development. Product engineers require a broader sense of the domain, market trends, product management techniques, customer engagement ability, resilient engineering capabilities, etc. Most of such skills are not taught at universities nor gained by engaging general software development work.
 
-The Winning Product Canvas covers important strategic activities a team should consider from product ideation to retirement of the product. It is 
-technology and platform agnostic and caters to ISVs/Startups covering different stages of product lifecycles to maximize the product’s ability to stay 
-ahead of competition. This framework covers disciplines such as User Experience, Product Marketing, Technology & Engineering, DevOps, Customer Support, etc.
+## Winning Product
+The idea of the 'Winning Product' initiative is to help product teams on important strategic activities that should be considered from product ideation to retirement of the product to maximize the product’s ability to stay ahead of competition. The framework covers disciplines such as User Experience, Product Marketing, Technology & Engineering, Customer Success, etc.
 
 

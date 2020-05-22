@@ -4,4 +4,6 @@ metaTitle: "Focus"
 metaDescription: "Focus"
 ---
 
-Now that you have explored different avenues, start locking-down on a specific area with best potential.
+During the explore stage, team usually comes up with vast amount of ideas and value propositions the product may offer. Success of a product has no direct relevance to the plethora of features it offers. A smaller set of cohesive, tuned (targeted) feature set is usually more effective than a large set of features. 
+
+Focus is the stage to narrow down the attention to the most important aspects such as market segment, value proposition, brand story and the overall solution architecture.
