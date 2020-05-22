@@ -159,11 +159,11 @@ Fine tune the product to achieve the maximum output.
 #### Cost optimization 
 - Platform services, tech debt, team organizing, process improvements etc
 #### Promotions Process
-- detail plan inlcuding frequency, customer segments, market conditions , offerings, adword design and message.
+- detail plan including frequency, customer segments, market conditions , offerings, ad-word design and message.
 #### Customer support 
 - Plan and organize tools (forum, ticketing system), establish documentation, training, and troubleshooting. Product support organization
 #### Compliance & Approvals
-- Adapt industry standards and certifications to design stronger, safer, more reliable products and getting complaince approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc) .
+- Adapt industry standards and certifications to design stronger, safer, more reliable products and getting compliance approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc).
 #### Customer Contract Management
 - How to correctly manage contracts (versioning, tools etc), SLAs for customers
 #### Tech Team Branding
@@ -178,7 +178,7 @@ Your product is now cash cow. Milk it the maximum while you can.
 #### Scalability Verification #TechArchitecture
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 #### Rapid Response Process??
-- User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
+- User behavior funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
 #### Continuous improvement strategy??
 Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
 #### Feature Usage Analysis
@@ -191,8 +191,8 @@ Rapidly respond to market conditions and learnings to sustain competitive edge. 
 - Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
 #### Lead Nurture Process
 - Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-#### Referrals & Upsales Plan
-- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales).
+#### Referrals & Up-sales Plan
+- Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (up-sales).
 #### Technology Revamp/Migration Plan
 - Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility
 #### Public Relations Activity Plan
