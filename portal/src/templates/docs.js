@@ -5,6 +5,7 @@ import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 
 import { Layout, Link } from '$components';
 import NextPrevious from '../components/NextPrevious';
+import Draft from '../components/Draft';
 import config from '../../config';
 import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
 
@@ -103,7 +104,7 @@ export default class MDXRuntimeTest extends Component {
           </Edit>
         </div>
         <StyledMainWrapper>
-          {isDraft? (<span style={{color: "#dc3545", border: "2px dashed #dc3545", padding: "5px", display: "block", width: "100%", fontSize: "large"}}>EDITORIAL DRAFT</span>) : null}
+          {isDraft? (<Draft></Draft>) : null}
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
