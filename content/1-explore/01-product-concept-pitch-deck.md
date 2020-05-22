@@ -7,7 +7,6 @@ indexingField: 2-Conceive
 subtitle: "How to pitch your product for investors and potential customers"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-published: true
 featuredimage: "/img/product-concept-pitch.jpeg"
 description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
 
