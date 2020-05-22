@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-
 ## Why
 
 A great product has excellent followership. Effective communication and convincing are essential to acquire such followership of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
