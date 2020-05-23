@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-[EDITORIAL DRAFT]
 ## Why
 An SEO strategy is essential to help generate organic, qualified leads to your website. By optimizing a web page around topics, then keywords within that topic, you can increase your expertise in the eyes of a search engine and rank well for long-tail keywords related to that topic.
 

@@ -18,7 +18,6 @@ tags:
   - Winning Product Canvas
 ---
 
-[EDITORIAL DRAFT]
 ## Why
 A contract specifies the activities entered into by both parties planning to do business together and the terms through which they will each fulfill their parts of the agreement. Contracts affect business profitability in a very large way due to the emphasis on revenue and expenses.
 When a contract management strategy is successfully implemented, organizations can expect to see:
