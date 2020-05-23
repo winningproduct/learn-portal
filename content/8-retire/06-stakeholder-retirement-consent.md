@@ -7,7 +7,7 @@ metaDescription: ""
 subtitle: "Identifying the circamstances under which the stakeholders will retire the the product"
 date: 2019-07-25T15:04:10.000Z
 featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
+featuredimage: "/img/win95.png"
 description: "Max word count (160)"
 
 tags:
