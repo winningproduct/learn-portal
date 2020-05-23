@@ -2,19 +2,23 @@
 templateKey: "model-post"
 indexingField: 7-Harvest
 title: "Win-lose Analysis"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Analysis on how many business opportunities are won or lost and most importantly, why?"
+metaTitle: "Win-lose Analysis | WP"
+metaDescription: "Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind."
 date: 2020-05-14T15:04:10.000Z
 featuredpost: true
 featuredimage: "/img/win-loss-analysis.jpg"
-description: "Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind."
+
 
 tags:
   - Harvest
   - Win-lose Analysis
   - Winning Product Canvas
 ---
+
+## What
+
+Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
+
 
 ## Why
 

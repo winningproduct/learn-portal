@@ -37,7 +37,7 @@ Create a pitch deck (or equivalent) to present the idea to different stakeholder
 #### Personas
 - Analysis of related user personas to understand pains, gains and behavior of users
 #### Value Proposition
-- List down the primary benefits to users in relieving their pains and providing gains
+- The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale
 #### Service Blueprint/User Journey
 - Understand different paths a user takes to accomplish goals using the product
 #### Mega Trend Analysis
