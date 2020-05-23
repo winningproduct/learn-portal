@@ -72,5 +72,8 @@ This may include the release of sourcecode for other parties to carry on from th
 
 ## References
 https://www.capgemini.com/wp-content/uploads/2017/07/2013-04-10_application_retirement_methodology_whitepaper_web.pdf
+
 http://www.enterpriseunifiedprocess.com/essays/retirementPhase.html
+
 https://helpdeskgeek.com/featured-posts/what-does-end-of-life-mean-for-software-and-should-you-care/
+
