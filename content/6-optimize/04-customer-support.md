@@ -16,7 +16,6 @@ tags:
   - Winning Product Canvas
 ---
 
-<span style="color:#dc3545;border: 1px dashed #dc3545;padding: 5px">EDITORIAL DRAFT</span
 ## Why
 Coming soon..
 
