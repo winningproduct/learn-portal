@@ -51,14 +51,11 @@ Following is an image connecting the Value Map with the Customer Profile items.
 
 ![Making the match](../../img/connected-value-map.PNG)
 
+
 ## References
 
 - [Strategyzer's Value Proposition Canvas Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0)
-
 - [Press : Simon Kucher & Partners 2014](https://www.simon-kucher.com/sites/default/files/simon-kucher_global_pricing_study_2014.pdf)
-
 - [Value Proposition Canvas Explained](https://www.youtube.com/watch?v=aN36EcTE54Q)
-
 - [What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
-
 - [Value Proposition](https://www.investopedia.com/terms/v/valueproposition.asp)
