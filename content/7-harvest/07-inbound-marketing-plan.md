@@ -10,6 +10,7 @@ tags:
 ---
 
 ## What
+Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
 
 ## Why
 A go to market strategy serves a couple of purposes. First, it clarifies why you’re launching your product, who it’s for, and how you’re going to tackle the never-easy job of getting them to engage with and buy it. Second, it forces you to think through all the issues your customers will face when presented with your product. This helps make sure you can give them the best experience possible and build trust with them
