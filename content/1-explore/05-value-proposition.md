@@ -4,10 +4,11 @@ metaTitle: "Value Proposition | WP"
 metaDescription: "The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale."
 metaDocument: "UVP"
 metaTags:
+  - Winning Product
   - Explore
   - Value Proposition
-  - Winning Product
   - UVP
+  - Unique Value Proposition
 ---
 
 
