@@ -1,14 +1,10 @@
 ---
-templateKey: 'model-post'
-indexingField: 4-Focus
-title: 'Technical Architecture'
-metaTitle: ""
-metaDescription: ""
-subtitle: Underline architecture of the platform, including hosting considerations, DevOps and tech-stack selection 
+templateKey: "model-post"
+indexingField: "4-Focus"
+title: "Technical Architecture"
+metaTitle: "Technical Architecture' | WP"
+metaDescription: "Verify if the solution is technology feasible to implement with available resources"
 date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/technical-architecture.jpg"
-description: Technical architecture defines and justifies the decisions and constructs of the underline platform of the software product. It includes functional and non-functional considerations, tech-stack selection, architecture diagrams, deployment platform, and DevOps process
 
 tags:
   - Focus
@@ -17,10 +13,20 @@ tags:
 ---
 
 
+## What
+
+Verify if the solution is technology feasible to implement with available resources.
+
+Technical architecture defines and justifies the decisions and constructs of the underline platform of the software product. It includes functional and non-functional considerations, tech-stack selection, architecture diagrams, deployment platform, and DevOps process.
+
+
 ## Why
-Technical architecture helps product teams to make decisions for the product respecting the system goals, functional and non-functional requirements defined by the stakeholders or the domain. 
+
+Technical architecture defines and justifies the decisions and constructs of the underline platform of the software product. It includes functional and non-functional considerations, tech-stack selection, architecture diagrams, deployment platform, and DevOps process. This helps product teams to make decisions for the product respecting the system goals defined by the stakeholders or the domain. 
+
 
 ## How
+
 Technical architecture is defined in a document which layouts the functional and non-functional requirements of the product. It typically includes,
 - Background
 - Requirements
@@ -35,5 +41,6 @@ Technical architecture is defined in a document which layouts the functional and
 
 
 ## References
+
 - [DevOps](https://en.wikipedia.org/wiki/DevOps)
 - [Non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement)
