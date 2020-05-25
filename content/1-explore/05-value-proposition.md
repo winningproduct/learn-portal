@@ -1,21 +1,20 @@
 ---
-templateKey: "model-post"
 title: "Value Proposition"
 metaTitle: "Value Proposition | WP"
 metaDescription: "The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale."
-indexingField: 3-Explore
-date: 2019-07-25T15:04:10.000Z
-
-tags:
+metaDocument: "UVP"
+metaTags:
+  - Winning Product
   - Explore
   - Value Proposition
-  - Winning Product Canvas
+  - UVP
+  - Unique Value Proposition
 ---
 
 
 ## What
 
-The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale.
+_The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale._
 
 
 ## Why
@@ -51,14 +50,10 @@ Following is an image connecting the Value Map with the Customer Profile items.
 
 ![Making the match](../../img/connected-value-map.PNG)
 
+
 ## References
-
 - [Strategyzer's Value Proposition Canvas Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0)
-
 - [Press : Simon Kucher & Partners 2014](https://www.simon-kucher.com/sites/default/files/simon-kucher_global_pricing_study_2014.pdf)
-
 - [Value Proposition Canvas Explained](https://www.youtube.com/watch?v=aN36EcTE54Q)
-
 - [What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
-
 - [Value Proposition](https://www.investopedia.com/terms/v/valueproposition.asp)
