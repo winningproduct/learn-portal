@@ -1,28 +1,27 @@
 ---
-templateKey: "model-post"
 title: "Value Proposition"
 metaTitle: "Value Proposition | WP"
 metaDescription: "The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale."
-indexingField: "3-Explore"
-date: 2019-07-25T15:04:10.000Z
-
-tags:
+metaDocument: "UVP"
+metaTags:
+  - Winning Product
   - Explore
   - Value Proposition
-  - Winning Product Canvas
+  - UVP
+  - Unique Value Proposition
 ---
 
 
 ## What
 
-The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale.
-
-A product or service is introduced to the market to provide a solution for a problem. It is very much required to understand what sort of tasks are to being sought by the targeted audience, the pains currently faced, and what gains and how they measure it. On the other hand, it is essential to identify the products and services currently been offered, how those provide relief to the pains faced by the audience, and how those could extend the gains required by them. 
+_The primary value that the company promises to deliver to customers. This is the declaration of intent or company's brand statement to consumers to communicate what the company stands for, how it operates, and why it deserves their sale._
 
 
 ## Why
 
-According to the research by Simon Kucher & Partners 2014, it is proved that over 72% of new products and services introduced to the market fail. Customers reject nearly 7 out of 10 new products and services launched to the market. The reason is for not being able to cater to the pain points faced by the targeted audience. Therefore it is essential to identify the value map for the products or services offered. The Value Proposition Canvas is widely used for this purpose, and when a proper link is built between the pains and the pain relievers provided, it is considered that the Product-Market fit has been achieved. 
+A product or service is introduced to the market to provide a solution for a problem. It is very much required to understand what sort of tasks are to being sought by the targeted audience, the pains currently faced, and what gains and how they measure it. On the other hand, it is essential to identify the products and services currently been offered, how those provide relief to the pains faced by the audience, and how those could extend the gains required by them. 
+
+However, According to the research by Simon Kucher & Partners 2014, it is proved that over 72% of new products and services introduced to the market fail. Customers reject nearly 7 out of 10 new products and services launched to the market. The reason is for not being able to cater to the pain points faced by the targeted audience. Therefore it is essential to identify the value map for the products or services offered. The Value Proposition Canvas is widely used for this purpose, and when a proper link is built between the pains and the pain relievers provided, it is considered that the Product-Market fit has been achieved. 
 
 However, it is important to note that, even though a proper Product-Market fit is made, the business may fail if the business model is flawed.
 
@@ -53,7 +52,6 @@ Following is an image connecting the Value Map with the Customer Profile items.
 
 
 ## References
-
 - [Strategyzer's Value Proposition Canvas Explained](https://www.youtube.com/watch?v=ReM1uqmVfP0)
 - [Press : Simon Kucher & Partners 2014](https://www.simon-kucher.com/sites/default/files/simon-kucher_global_pricing_study_2014.pdf)
 - [Value Proposition Canvas Explained](https://www.youtube.com/watch?v=aN36EcTE54Q)
