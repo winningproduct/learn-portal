@@ -161,7 +161,7 @@ Fine tune the product to achieve the maximum output.
 #### Promotions Process
 - detail plan including frequency, customer segments, market conditions , offerings, ad-word design and message.
 #### Customer support 
-- Plan and organize tools (forum, ticketing system), establish documentation, training, and troubleshooting. Product support organization
+- Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service.
 #### Compliance & Approvals
 - Adapt industry standards and certifications to design stronger, safer, more reliable products and getting compliance approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc).
 #### Customer Contract Management
