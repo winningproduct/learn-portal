@@ -19,7 +19,7 @@ If right scalability strategies are not implemented during architecting the prod
 
 ## How
 
-Scalability verification needs to be done based on the performance benchmarks defined during the product architecting and verify that system can perform as expected when its loaded with  
+Scalability verification needs to be done based on the performance benchmarks defined during the product architecting and verify that system can perform as expected with different loaded scenarious 
 
 - Extract performance benchmarks defined during architecting
 
