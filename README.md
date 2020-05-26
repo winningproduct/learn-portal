@@ -157,7 +157,7 @@ Fine tune the product to achieve the maximum output.
 #### Analytics Review Process #DataModel 
 - Gathering correct and current data and process them to identify patterns and make predictions. Use this to enable data driven decision making.
 #### Cost optimization 
-- Platform services, tech debt, team organizing, process improvements etc
+- Focusing on reducing cost. Consider shredding anu unnecessary waste in platform services, tech debt backlog or team structure. Look into on process improvements.
 #### Promotions Process
 - detail plan including frequency, customer segments, market conditions , offerings, ad-word design and message.
 #### Customer support 
