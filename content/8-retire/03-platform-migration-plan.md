@@ -20,19 +20,19 @@ Contrary to the popular belief, the existence of migratable/reusable components 
 
 Recommended approach to do a platform migration is four fold.
 
-- Investigation
+### Investigation
 First you must investigate what components are actually required to be considered for migration given the requirements of the new system.
 
-- Assessment
+### Assessment
 Those identified components need to be then assessed to measure their fit in the new system. First you need to get a good feel of the existing performance of the component and must assess whether that they meet the functional and non functional requirement of the new system. 
 Compatibility of migrating components also need to be considered next given the technology difference in platform architectures.
 
-- Approach
+### Approach
 When it comes to actual migration of the component, there are two main alternatives.
 Lift & shift:- As the title suggest this is the big bang approach. Just take the whole thing and try to move it in to the new system as it is. However, you need to consider possible alterations to the component when taking this approach. 
 Trickle migration:- This refers to the process of migrating in phases. If there are many component in the platform architecture to migrate then trickle migration strategy might be a good option. It also gives more comfort in an unfortunate situation where you might have to rollback.
 
-- Verification
+### Verification
 Last piece of the puzzle is verifying that the migrated components indeed work as they are expected and they meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as in the old architecture.
 
 ## References
