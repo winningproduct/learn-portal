@@ -1,19 +1,12 @@
 ---
-templateKey: 'model-post'
-indexingField: 4-Focus
 title: 'Brand Story Development'
-metaTitle: ""
-metaDescription: ""
-subtitle: 'Brand Story Development'
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: '/img/golden-circle.png'
-description: "People don't buy products, people buy brands. Therefore it is very much important to develop a brand story that triggers the positive decisions on your stakeholders."
+metaTitle: "Brand Story Development | WP"
+metaDescription: "People don't buy products, people buy brands. Therefore it is very much important to develop a brand story that triggers the positive decisions on your stakeholders."
 
 metaTags:
   - Focus
   - brand story development
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
