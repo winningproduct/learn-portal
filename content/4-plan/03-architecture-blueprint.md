@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
-title: "Architecture Blueprint in Code"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Automate your infrastructure for fast recovery"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/architecture-blueprint.jpg"
-description: "Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using the same versioning as DevOps team uses for source code. Like the principle that the same source code generates the same binary, an IaC model generates the same environment every time it is applied. IaC is a key DevOps practice and is used in conjunction with continuous delivery."
+title: "Architecture Blueprint"
+metaTitle: "Architecture Blueprint | WP"
+metaDescription: "Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using the same versioning as DevOps team uses for source code. Like the principle that the same source code generates the same binary, an IaC model generates the same environment every time it is applied. IaC is a key DevOps practice and is used in conjunction with continuous delivery."
 
 metaTags:
   - Plan
-  - Architecture Blueprint in Code
-  - Winning Product Canvas
+  - Architecture Blueprint
+  - Winning Product 
 ---
 
 
