@@ -1,24 +1,19 @@
 ---
-templateKey: 'model-post'
-indexingField: 4-Focus
-title: 'Problem Solution Fit Testing'
-metaTitle: ""
-metaDescription: ""
-subtitle: 'Translate problems into solutions that will be adopted.'
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: '/img/problem-solution-fit.png'
-description: "According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want. The problem solution fit is all about identifying an existing problem and to solve it with a solution that customers find useful and satisfying. It is the evidance that a product, or a service solves a customer's problem."
+title: "Problem Solution Fit Testing"
+metaTitle: "Problem Solution Fit Testing | WP"
+metaDescription: "The problem solution fit is all about identifying an existing problem and to solve it with a solution that customers find useful and satisfying. It is the evidence that a product, or a service solves a customer's problem."
 
 metaTags:
   - Focus
   - Problem Solution Fit Testing
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
 ## Why
-Because it shows us that our product has the potential of scaling, and getting to product-market fit. Before investing months or years of effort towards building a product, the first step is determining if this product is something worth doing.
+According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want.
+
+Before investing months or years of effort towards building a product, the first step is determining if this product is something worth doing.
 
 ## How
 
