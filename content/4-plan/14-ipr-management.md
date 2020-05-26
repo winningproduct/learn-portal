@@ -1,22 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: "IPR Management"
-metaTitle: "Establish and protect your intellectual property"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/ip-rights.jpg"
+metaTitle: "IPR Management | WP"
 metaDescription: "Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses."
 
 metaTags:
   - Plan
   - IPR Management
-  - Winning Product Canvas
+  - Winning Product 
 ---
-
-
-## What
-Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses.
 
 ## Why
 Delivering innovations better than competitors is a primary goal of a winning product. Establishing and protecting your intellectual rights is important to achieve this goal. In addition, the team must ensure that the product does not violate the IP rights of any other party to avoid possible legal complications. 
