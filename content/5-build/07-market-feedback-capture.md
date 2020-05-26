@@ -1,25 +1,14 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Market Feedback Capture"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Market feedback is the cornerstone of business improvement"
-date: 2020-02-21T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/market-feedback.png"
-description: "The market feedback can be defined as the perceptions (insights/opinions) of the current customers and potential customers about the product. The aim is to capture the way in which the product is regarded, understood, or interpreted by the target markets (groups of users at which the product is aimed). Such feedback information is used as a basis to adjust the product. 
-Capturing market feedback can be three fold, as follows;
-Direct feedback
-Indirect feedback
-Inferred feedback"
+metaTitle: "Market Feedback Capture | WP"
+metaDescription: "The market feedback can be defined as the perceptions (insights/opinions) of the current customers and potential customers about the product. The aim is to capture the way in which the product is regarded, understood, or interpreted by the target markets (groups of users at which the product is aimed)"
 
 metaTags:
   - Build
   - Market Feedback Capture
   - Winning Product Canvas
 ---
-
 
 ## Why
 

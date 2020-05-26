@@ -1,9 +1,8 @@
 ---
-templateKey: "model-post"
-indexingField: "7-Build"
+published: false
 title: "Data Privacy Protection"
 metaTitle: "Data Privacy Protection | WP"
-metaDescription: "Understand the data protection policies in target markets. Device strategies for data segregation and limiting access to production data."
+metaDescription: "Understand the data protection policies in target markets. Device strategies for data segregation and limiting access to production data"
 
 metaTags:
   - Build
