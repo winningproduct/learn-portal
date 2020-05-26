@@ -155,13 +155,13 @@ Execute the plan with the goal to validate assumptions (technical, requirements,
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output.
 #### Analytics Review Process #DataModel 
-- Process logs and data analytics to organize and escalate for decision making based on data patterns
+- Gathering correct and current data and process them to identify patterns and make predictions. Use this to enable data driven decision making.
 #### Cost optimization 
-- Platform services, tech debt, team organizing, process improvements etc
+- Focusing on reducing cost. Consider shredding anu unnecessary waste in platform services, tech debt backlog or team structure. Look into on process improvements.
 #### Promotions Process
 - detail plan including frequency, customer segments, market conditions , offerings, ad-word design and message.
 #### Customer support 
-- Plan and organize tools (forum, ticketing system), establish documentation, training, and troubleshooting. Product support organization
+- Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service.
 #### Compliance & Approvals
 - Adapt industry standards and certifications to design stronger, safer, more reliable products and getting compliance approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc).
 #### Customer Contract Management
@@ -177,8 +177,6 @@ Fine tune the product to achieve the maximum output.
 Your product is now cash cow. Milk it the maximum while you can.
 #### Scalability Verification #TechArchitecture
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
-#### Rapid Response Process??
-- User behavior funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends.
 #### Continuous improvement strategy??
 Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
 #### Feature Usage Analysis
@@ -202,17 +200,17 @@ Rapidly respond to market conditions and learnings to sustain competitive edge. 
 #### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
-## Retire (Consider to distrupt with a new generation product)
+## Retire (Consider to disrupt with a new generation product)
 The product's time is up. Re-invent the technology platform / business model to keep up with the market.
-#### Platform Migration Plan
-- Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
-#### Account Migration Plan
-- Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities.
 #### Stakeholder Retirement Consent
 - Identify under which circumstances the stakeholders will agree to retire the product in the view of migrating to the new product along with end-of-service support models.
-#### Digital Data Shredding
-- With customer's consent to close the account, permenantly delete data and provide a mechanism to export customer's data on request.
-#### Team Knowlege Transfer Plan
+#### Account Migration Plan
+- Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities.
+#### Platform Migration Plan
+- Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
+#### Team Knowledge Transfer Plan
 - Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge.
+#### Digital Data Shredding
+- With customer's consent to close the account, permanently delete data and provide a mechanism to export customer's data on request.
 
 #TechArchitecture #DeliveryProcess #CostBook #DataModel 

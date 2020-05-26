@@ -1,24 +1,29 @@
 ---
 templateKey: "model-post"
-indexingField: 6-Plan
+indexingField: "6-Plan"
 title: "Delivery Pipeline"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Identifying bugs at early stages "
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/ci-cd-pipeline.jpg"
+metaTitle: "Delivery Pipeline | WP"
+metaDescription: "Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc."
 description: "A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment."
 
-tags:
+metaTags:
   - Plan
   - CI/CD Pipeline
   - Winning Product Canvas
 ---
 
 
+## What
+
+Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc.
+
+A CI/CD pipeline helps to automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment.
+
+
 ## Why
-Having CI/CD Implemented allows you to enable fast flow of work from your development to production while ensuring the quality of the changes you are making with your development activities.It will also allow you to have greater confidence in the product that is critical for fast flow of work.
+
+Having CI/CD Implemented allows a fast flow of work from your development to production while ensuring the quality of the changes you are making with your development activities. It will also allow you greater confidence in the product that is critical for fast flow of work.
+
 
 ## How
 
@@ -61,6 +66,7 @@ Having CI/CD Implemented allows you to enable fast flow of work from your develo
   - Zero-Downtime Deployments
   - Dogfooding
   - Feature Toggles
+
 
 ## References
 

@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Technical Debt Management"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Escaping the black hole of technical debt"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/technical-debt.jpg"
-description: "Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer."
+metaTitle: "Technical Debt Management | WP"
+metaDescription: "Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer"
 
-tags:
+metaTags:
   - Build
   - Technical Debt Management
   - Winning Product Canvas

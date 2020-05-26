@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/key-metric-test.jpg"
 description: "Software Testing Metric is be defined as a quantitative measure that helps to estimate the progress, quality, and health of a software testing effort. A Metric defines in quantitative terms the degree to which a system, system component, or process possesses a given attribute. The ideal example to understand metrics would be a weekly mileage of a car compared to its ideal mileage recommended by the manufacturer."
 
-tags:
+metaTags:
   - Plan
   - Key Metric Tests
   - Winning Product Canvas

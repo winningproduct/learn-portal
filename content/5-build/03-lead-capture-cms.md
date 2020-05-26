@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
-title: "Lead capture/cms"
-metaTitle: ""
-metaDescription: ""
-subtitle: "The lead generation process starts by finding out where your target market 'lives' on the web - Wayne Davis"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/lead-generation.jpg"
-description: "In most CRM systems, the term lead capture designates a process of saving lead information in order to attempt converting the lead to a paying customer. An example of a lead capture page or a lead capture form is a newsletter subscription or a quote request form on a website. Lead name, email address and phone numbers are usually captured, although complex web forms may contact much more information, such as company size, industry, title of the person, postal address and so on."
+published: false
+title: "Lead Capture/CMS"
+metaTitle: "Lead Capture/CMS | WP"
+metaDescription: "In most CRM systems, the term lead capture designates a process of saving lead information in order to attempt converting the lead to a paying customer. An example of a lead capture page or a lead capture form is a newsletter subscription or a quote request form on a website. Lead name, email address and phone numbers are usually captured, although complex web forms may contact much more information, such as company size, industry, title of the person, postal address and so on."
 
-tags:
+metaTags:
   - Build
   - Lead Capture/CMS
   - Winning Product Canvas

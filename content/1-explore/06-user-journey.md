@@ -11,7 +11,7 @@ featuredimage: "/img/user-jorney-map.png"
 description: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services.
 Yet these two methods are often confused; what is a journey map, and what is a service blueprint, and how are they different."
 
-tags:
+metaTags:
   - Explore
   - User Journey
   - Service blueprint

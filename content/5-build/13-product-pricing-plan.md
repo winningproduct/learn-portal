@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Product Pricing Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Pricing is way more than coming up with a number - there are many strategies for pricing a product, so we must ensure we select one that is relevant to both product and brand position"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-pricing-plan.jpg"
-description: "Pricing is one of the four Ps of marketing (product, price, place, promotion) and it is one of the key elements of every B2C strategy. When a business offers a truly unique product or service with little direct competition, it would be challenging to establish the price. Define a strong strategy and competitive analysis so you can view, What your prospects might pay for other solutions to their problems and Where your price should fall in relation to theirs"
+metaTitle: "Product Pricing Plan | WP"
+metaDescription: "Pricing is one of the four Ps of marketing (product, price, place, promotion) and it is one of the key elements of every B2C strategy. When a business offers a truly unique product or service with little direct competition, it would be challenging to establish the price. Define a strong strategy and competitive analysis so you can view, What your prospects might pay for other solutions to their problems and Where your price should fall in relation to theirs"
 
-tags:
+metaTags:
   - Build
   - Product Pricing Plan
   - Winning Product Canvas

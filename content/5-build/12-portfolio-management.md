@@ -1,21 +1,13 @@
 --- 
-templateKey: "model-post" 
-indexingField: 6-Build 
+published: false
 title: "Portfolio Management"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Aspects to consider when moving from product management to portfolio management consisting of several products" 
-date: 2019-07-25T15:04:10.000Z 
-featuredpost: true
-featuredimage: "/img/portfolio-management.png" 
-description: "Enable productization to extend your product into a portfolio. Define unified user experience, each product's UVP, integration between products, and formulation of clear message to market" 
+metaTitle: "Portfolio Management | WP"
+metaDescription: "Enable productization to extend your product into a portfolio. Define unified user experience, each product's UVP, integration between products, and formulation of clear message to market"
 
-tags: 
-
+metaTags: 
 - Build 
 - Portfolio Management 
 - Winning Product Canvas 
-
 --- 
 
 ## Why

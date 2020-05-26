@@ -1,16 +1,11 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Innovation Accounting"
-metaTitle: ""
-metaDescription: ""
+metaTitle: "Innovation Accounting | WP"
+metaDescription: "Innovation Accounting is a way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero. In general, it refers to ways to communicate the process and progress of innovation projects through relevant KPIs (key performance indicators)."
 subtitle: "A way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero - Eric Ries"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/innovation-accounting.jpg"
-description: "Innovation Accounting is a way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero. In general, it refers to ways to communicate the process and progress of innovation projects through relevant KPIs (key performance indicators)."
 
-tags:
+metaTags:
   - Build
   - Innovation Accounting
   - Winning Product Canvas

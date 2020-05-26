@@ -1,17 +1,15 @@
 ---
 title: 'What is a Winning Product'
 metaTitle: 'What is a Winning Product | WP'
-metaDescription: 'What is a Winning Product'
+metaDescription: 'The ultimate validation of a great product is by the market and the users. Therefore building a winning product require much more than engineering excellence.'
+published: true
 
-tags:
+metaTags:
   - What is a Winning Product
   - Winning Product
 ---
 
-
-The ultimate validation of a great product is by the market and the users. Therefore building a winning product require much more than engineering excellence. 
-
-Below sections list down some of the characteristics through which you may identify your product as a market winning product. There characteristics are explained through 4 main 'areas of excellence' that contribute to the success of the product. These areas are:
+Below sections list down some of the characteristics through which you may identify a product as a market winning product. There characteristics are explained through 4 main 'areas of excellence' that contribute to the success of the product. These areas are:
  - Market sense
  - User experience
  - Technology sophistication

@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Feature Prioritization Process"
-metaTitle: ""
-metaDescription: ""
-subtitle: "If the team doesn’t agree on the big picture, then they certainly won’t agree on a single feature."
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/feature-prioratization.jpg"
-description: "Feature prioratization process is about, What gets done first? How do you decide what features or experiences stay and what gets cut or postponed? Should I listen to customers or my boss when picking features to implement?"
+metaTitle: "Feature Prioritization Process | WP"
+metaDescription: "Feature prioratization process is about, What gets done first? How do you decide what features or experiences stay and what gets cut or postponed? Should I listen to customers or my boss when picking features to implement?"
 
-tags:
+metaTags:
   - Build
   - Feature Prioritization Process
   - Winning Product Canvas

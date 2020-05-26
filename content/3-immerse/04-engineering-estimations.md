@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/engineering-estimation.jpg"
 description: "An Estimate is a best faith prediction of the effort that will be expended to perform a task.  It has tolerance and distribution, and may depend on other factors beyond the estimators control.  An Estimate is the opinion of a professional"
 
-tags:
+metaTags:
   - Immerse
   - Engineering Estimations
   - Winning Product Canvas

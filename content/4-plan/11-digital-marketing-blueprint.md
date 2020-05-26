@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/marketing-plan.jpg"
 description: "A digital marketing plan is a document sharing the details for all the planning for your digital marketing campaigns or actions."
 
-tags:
+metaTags:
   - Plan
   - Digital Marketing Plan
   - Winning Product Canvas

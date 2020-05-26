@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "User Behavior Analysis"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/user-behavior-analysis.png"
-description: "Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX."
+metaTitle: "User Behavior Analysis | WP"
+metaDescription: "Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX"
 
-tags:
+metaTags:
   - Build
   - User Behavior Analysis
   - Winning Product Canvas

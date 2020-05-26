@@ -2,6 +2,7 @@
 title: "Build"
 metaTitle: "Build"
 metaDescription: "Build"
+published: true
 ---
 
 This is the stage you have the highest flexibility to change the solution implementation at a lower cost. Once the product passes this stage, changes become costly due to the involvement of other stakeholders such as customers. Therefore the team should make use of this stage to validate all the assumptions (technical, requirements, business) they have made during the previous stages.

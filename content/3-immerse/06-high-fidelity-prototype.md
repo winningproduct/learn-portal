@@ -1,27 +1,31 @@
 ---
 templateKey: "model-post"
-indexingField: 5-Immerse
+indexingField: "5-Immerse"
 title: "High Fidelity Prototype"
-metaTitle: ""
-metaDescription: ""
-subtitle: "High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions"
+metaTitle: "High Fidelity Prototype | WP"
+metaDescription: "Build a detailed prototype to demonstrate how the final product would operate and obtain feedback."
 date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/high-fidelity-prototype.jpg"
-description: "A high fidelity prototype is a computer-based interactive representation of the product in its closest resemblance to the final design in terms of details and functionality. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behaviour."
 
-tags:
+metaTags:
   - Immerse
   - High Fidelity Prototype
   - Winning Product Canvas
 ---
 
 
+## What
+
+Build a detailed prototype to demonstrate how the final product would operate and obtain feedback.
+
+High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions. This is a computer-based interactive representation of the product in its closest resemblance to the final design in terms of details and functionality. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behaviour.
+
+
 ## Why
 
-The main purpose of interactive prototypes is their use in the usability testing of the product have target users validate it. It is important to test our product before launching it in the market to foresee any issues or failures. Getting the most out of the feedback can be done with a prototype that is closest to the final product in its detail and functionality.
+The main purpose of interactive prototypes is their use in the usability testing of the product and have target users validate it. It is important to test our product before launching it in the market to foresee any issues or failures. Getting the most out of the feedback can be done with a prototype that is closest to the final product in its detail and functionality.
 
 In addition to validating designs, interactive prototypes can be used for presentations and pitches. When we want to communicate the designs and functionalities of our product to our team members, clients or other stakeholders in the project, and when the functional build of the software is not developed, a high fidelity prototype does the job very well.
+
 
 ## How
 

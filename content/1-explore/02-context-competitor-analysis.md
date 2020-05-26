@@ -1,16 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
 title: "Context Competitor Analysis"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Understanding the market context for smart positioning"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/competitor-analysis.png"
-description: "For any software product, it is essential to know how well it is doing against the competition. Competitor analysis is used to measure how competitive your product or service against the competition."
+metaTitle: "Context Competitor Analysis"
+metaDescription: "For any software product, it is essential to know how well it is doing against the competition. Competitor analysis is used to measure how competitive your product or service against the competition"
+published: false
 
-tags:
+metaTags:
   - Explore
   - Context Competitor Analysis
   - Winning Product Canvas

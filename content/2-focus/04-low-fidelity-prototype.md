@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: '/img/prototype.jpeg'
 description: 'A prototype is a simulation of how a finished product will work. It allows product teams to test the usability and feasibility of their designs. Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. Should not be so concrete.'
 
-tags:
+metaTags:
   - Focus
   - low fidelty prototype
   - Winning Product Canvas
