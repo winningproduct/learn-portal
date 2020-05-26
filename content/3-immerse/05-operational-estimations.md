@@ -1,14 +1,7 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: 'Operational Estimation'
-metaTitle: ""
-metaDescription: ""
-subtitle: "Estimating for People, Technology and Support/Maintenance"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/operational-estimate.jpg"
-description: "Operational Estimation can cover three distinct aspects. i.e. Technology, People, and Support/Maintenance. In the current era businesses leveraging cloud is a common phenomenon, this makes estimating infrastructure costs more accurate and effortless with structured approaches. When it comes to estimating workforce and support and maintenance many recommend traditional methodologies can be utilised. 
+metaTitle: "Operational Estimation | WP"
+metaDescription: "Operational Estimation can cover three distinct aspects. i.e. Technology, People, and Support/Maintenance. In the current era businesses leveraging cloud is a common phenomenon, this makes estimating infrastructure costs more accurate and effortless with structured approaches. When it comes to estimating workforce and support and maintenance many recommend traditional methodologies can be utilised. 
 Operational estimation is a continuous process within a business. It can be applied to both green field and brown field project"
 
 metaTags:
@@ -19,7 +12,7 @@ metaTags:
 
 ## Why
 Estimation is commonly regarded as a process of judging or providing a rough calculation for a value.
-For an organisation to function smoothly it is important to budget different costs. Thus, estimating the operations upfront is crucial to provide the business with a clear idea on how much should be allocated for operations.
+For an organization to function smoothly it is important to budget different costs. Thus, estimating the operations upfront is crucial to provide the business with a clear idea on how much should be allocated for operations.
 
 It helps to,
 
