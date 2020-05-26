@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Immerse
 title: "Product Roadmap"
-metaTitle: ""
-metaDescription: ""
-subtitle: "The statement of intent"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-roadmap.jpg"
-description: "A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. A roadmap is a guiding strategic document as well as a plan for executing the strategy."
+metaTitle: "Product Roadmap"
+metaDescription: "A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. A roadmap is a guiding strategic document as well as a plan for executing the strategy."
 
 metaTags:
   - Immerse
   - Product Roadmap
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
