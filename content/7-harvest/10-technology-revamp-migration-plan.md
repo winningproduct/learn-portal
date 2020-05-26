@@ -12,7 +12,6 @@ metaTags:
 
 
 ## Why
-
 `the only thing that is constant is change.` - _Heraclitus_
 This is also true for environment which software product businesses are in, therefore to meet the needs of the business ecosystem software must constantly evolve both in terms of business model and technology. Not having up to date technologies can lead to inability to change product features on time to meet business needs such as releasing important features on time, scale out on demand, reduce operation cost, improve security, improve user experience etc.   
 
