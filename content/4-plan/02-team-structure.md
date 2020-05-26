@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Team Structure"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Team structure should define key roles, responsibilities, boundaries and values of the team"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/team-structure.jpg"
-description: "There are 3 common types of development team structure: generalists, specialists, and a hybrid team. Each of them can be efficient in one project and get stuck regularly in another. To prevent the latter, consider your project’s complexity, time and budget and then decide which team structure suits it most."
+metaTitle: "Team Structure"
+metaDescription: "Team structure should define key roles, responsibilities, boundaries and values of the team.There are 3 common types of development team structure: generalists, specialists, and a hybrid team. Each of them can be efficient in one project and get stuck regularly in another. To prevent the latter, consider your project’s complexity, time and budget and then decide which team structure suits it most."
 
 metaTags:
   - Immerse
   - Team Structure
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
