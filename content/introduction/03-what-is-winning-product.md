@@ -8,7 +8,6 @@ metaTags:
   - Winning Product
 ---
 
-
 The ultimate validation of a great product is by the market and the users. Therefore building a winning product require much more than engineering excellence. 
 
 Below sections list down some of the characteristics through which you may identify your product as a market winning product. There characteristics are explained through 4 main 'areas of excellence' that contribute to the success of the product. These areas are:
