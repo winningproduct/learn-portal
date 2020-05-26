@@ -28,13 +28,17 @@ Migrations of this type are done to improve efficiency or bring all applications
 ## How
 The method of software migration should be chosen carefully. Here are some of the primary ways to perform the task:
 
-- Traditional Uninstall and Reinstall - The software in question installs relatively quickly and easily with few custom configurations. An example might be upgrading the enterprise OS the company uses. If it takes less time than any other option, it’s the best choice.
+### Traditional Uninstall and Reinstall 
+The software in question installs relatively quickly and easily with few custom configurations. An example might be upgrading the enterprise OS the company uses. If it takes less time than any other option, it’s the best choice.
 
-- Reengineering - The legacy system is holding you back in innumerable ways, but modern off-the-shelf solutions are still lacking the specific function. It’s also a good idea when the company itself is built for these purposes, and has entire development or engineering departments.
+### Re-engineering 
+The legacy system is holding you back in innumerable ways, but modern off-the-shelf solutions are still lacking the specific function. It’s also a good idea when the company itself is built for these purposes, and has entire development or engineering departments.
 
-- Re-hosting - There are no major changes necessary to your legacy applications, but a new platform is required for the sake of system modernization. It’s also ideal as a temporary step while preparing to remove legacy hardware, like old mainframes and outdated servers.
+### Re-hosting 
+There are no major changes necessary to your legacy applications, but a new platform is required for the sake of system modernization. It’s also ideal as a temporary step while preparing to remove legacy hardware, like old mainframes and outdated servers.
 
-- Package Implementation - You want to move off legacy applications, but don’t want to devote the resources to entirely re-engineer them. It’s especially well-suited to agile organizations.
+### Package Implementation 
+You want to move off legacy applications, but don’t want to devote the resources to entirely re-engineer them. It’s especially well-suited to agile organizations.
 
 
 ## References
