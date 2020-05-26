@@ -1,26 +1,17 @@
 ---
-templateKey: "model-post"
-indexingField: "5-Immerse"
 title: "High Fidelity Prototype"
 metaTitle: "High Fidelity Prototype | WP"
 metaDescription: "Build a detailed prototype to demonstrate how the final product would operate and obtain feedback."
-date: 2019-07-25T15:04:10.000Z
 
 metaTags:
   - Immerse
   - High Fidelity Prototype
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
-## What
-
-Build a detailed prototype to demonstrate how the final product would operate and obtain feedback.
-
-High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions. This is a computer-based interactive representation of the product in its closest resemblance to the final design in terms of details and functionality. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behaviour.
-
-
 ## Why
+High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions. This is a computer-based interactive representation of the product in its closest resemblance to the final design in terms of details and functionality. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behavior.
 
 The main purpose of interactive prototypes is their use in the usability testing of the product and have target users validate it. It is important to test our product before launching it in the market to foresee any issues or failures. Getting the most out of the feedback can be done with a prototype that is closest to the final product in its detail and functionality.
 
