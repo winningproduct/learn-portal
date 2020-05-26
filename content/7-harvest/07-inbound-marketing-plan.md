@@ -3,7 +3,7 @@ title: "Inbound Market Planning"
 metaTitle: "Inbound Market Planning | WP"
 metaDescription: "Increase ‘quality’ traffic to the web site by pushing relevant content to the right minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers."
 
-tags:
+metaTags:
   - Harvest
   - Inbound Marketing Plan
   - Winning Product 

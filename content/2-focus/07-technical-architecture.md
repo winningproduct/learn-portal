@@ -6,7 +6,7 @@ metaTitle: "Technical Architecture' | WP"
 metaDescription: "Verify if the solution is technology feasible to implement with available resources"
 date: 2019-07-25T15:04:10.000Z
 
-tags:
+metaTags:
   - Focus
   - Technical Architecture
   - Winning Product Canvas

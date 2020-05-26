@@ -11,7 +11,7 @@ featuredimage: "/img/<content-main-image>.jpeg"
 description: "Software migration is the practice of transferring data, accounts, and functionality from one operating environment to another. It could also refer to times when users are migrating the same software from one piece of computer hardware to another, or changing both software and hardware simultaneously. Software migration is a generic term that can refer to either a sort of transfer for applications, operating systems, databases, networks, content management systems (CMS), or even an entire IT infrastructure.
 Application, app, program, and software migration all refer to the same type of transfer: the process of moving an application from one environment to another (like from an on-premises enterprise server to a cloud-based environment, from one server to another, or from cloud-to-cloud)."
 
-tags:
+metaTags:
   - Retier
   - Account migration plan
   - Winning Product Canvas

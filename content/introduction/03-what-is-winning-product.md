@@ -3,7 +3,7 @@ title: 'What is a Winning Product'
 metaTitle: 'What is a Winning Product | WP'
 metaDescription: 'What is a Winning Product'
 
-tags:
+metaTags:
   - What is a Winning Product
   - Winning Product
 ---

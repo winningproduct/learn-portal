@@ -6,7 +6,7 @@ metaTitle: "Growth Hacker Plan | WP"
 metaDescription: "Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales."
 date: 2019-07-25T15:04:10.000Z
 
-tags:
+metaTags:
   - Plan
   - Growth Hacker Plan
   - Winning Product Canvas

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: '/img/problem-solution-fit.png'
 description: "According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want. The problem solution fit is all about identifying an existing problem and to solve it with a solution that customers find useful and satisfying. It is the evidance that a product, or a service solves a customer's problem."
 
-tags:
+metaTags:
   - Focus
   - Problem Solution Fit Testing
   - Winning Product Canvas

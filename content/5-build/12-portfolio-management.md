@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/portfolio-management.png" 
 description: "Enable productization to extend your product into a portfolio. Define unified user experience, each product's UVP, integration between products, and formulation of clear message to market" 
 
-tags: 
+metaTags: 
 
 - Build 
 - Portfolio Management 

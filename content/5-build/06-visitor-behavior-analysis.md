@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<visitor-behaviour-analysis.jpg"
 description: "Visitor behavior analysis is a method of conducting qualitative research on visitors’ website behavior. Visitor behavior analysis involves employing multiple qualitative tools that help you track your website’s performance, understand website visitors’ on-site behavior, identify experience breakages, connect with individual visitors for feedback and suggestions, and then utilize all the insights to optimize the site-wide experience."
 
-tags:
+metaTags:
   - Build
   - Visitor Behaviour Analysis
   - Winning Product Canvas

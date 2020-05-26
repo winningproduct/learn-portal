@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production."
 
-tags:
+metaTags:
   - Harvest
   - Hot fix process
   - Winning Product Canvas

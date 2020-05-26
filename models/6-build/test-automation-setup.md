@@ -8,7 +8,7 @@ featuredpost: true
 featuredimage: "/img/<your-image-name>.jpeg"
 description: "Automated Testing is a software testing technique which can test and compare the actual outcome against the expected result. Test automation requires considerable about of human involevement until the test suite is created. Once the test suite is created no human intervention is needed. So this reduces the time and cost of testing"
 
-tags:
+metaTags:
   - Build
   - technical debt management
   - Winning Product Canvas
@@ -16,21 +16,6 @@ tags:
 
 ![flavor wheel](/img/Automation-testing.png)
 
-<<<<<<< HEAD
-##why
-
-Businesses are nowadays adopting DevOps and Cloud Computing. DevOps makes the team agile as well as focuses on delivering value and changing the dynamics of development, operation, and quality assurance teams. Cloud computing has changed software in service. To increase the effectiveness of DevOps adoption requires the knowledge of Automation Testing. Automation testing is the management and performance of test activities, to include the development and execution of test scripts so as to verify test requirements, using an automation testing tool. It helps in the comparison of actual outcomes with predicted outcomes. Thus, automation testing has become an indispensable part of quality assurance. Automation testing helps team reduce human error during repetitive testing. In a world where continuous release and testing is increasingly becoming the norm, it is vital that the test activities must be performed accurately and efficiently. Automation testing also reduces time consumption of testing, as it is faster than human testing and an execution can be triggered multiple times immediately one after another and sometimes in parallel. 
-
-##how(in bullet points)
-
-Benefits of automation testing can be reaped maximum if following points are considered when building up the automation framework:
-Decide what Test Cases to Automate
-Test Early and Test Often
-Select the Right Automated Testing Tool
-Divide your Automated Testing Efforts
-Create Good, Quality Test Data
-Create Automated Tests that are Resistant to Changes in the UI
-=======
 ##why(word count 200)
 <!-- {paragraph} -->
 Test automation has become very much important due to the following reasons.
@@ -81,13 +66,8 @@ Test automation process can be defined as follows
     As new functionalities added automation scripts need to be added, reviewed and maintained for each release cycle.
     
 
->>>>>>> upstream/master
 
 refernces/further readings(links)
 
 [Reference-name](http://website.com)
-<<<<<<< HEAD
-ex-[Reference](https://www.sciencedirect.com/topics/computer-science/platform-architecture)
-=======
 ex-[Reference](https://www.guru99.com/automation-testing.html)
->>>>>>> upstream/master

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/wpo-project-process.jpg"
 description: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
 
-tags:
+metaTags:
   - Immerse
   - Project Process
   - Winning Product Canvas

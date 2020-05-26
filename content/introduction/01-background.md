@@ -3,7 +3,7 @@ title: 'Winning Product Background'
 metaTitle: 'Winning Product Background | WP'
 published: true
 
-tags:
+metaTags:
   - Winning Product Background
   - Winning Product
 ---

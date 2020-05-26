@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/Persona.png"
 description: Megatrends are long-term changes that impact us all globally on a permanent basis. A megatrend is not a short-term fad, rather it is a trend with longevity, one which represents a fundamental shift in behaviour that is defining consumer markets. Some of the megatrend drivers are Technology shifts, Shifts in economic power, Environmental shifts, Population change, Value changes etc...
 
-tags:
+metaTags:
   - Explore
   - Megatrend Analysis
   - Winning Product Canvas

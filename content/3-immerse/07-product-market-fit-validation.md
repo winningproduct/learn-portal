@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/product-market-fit.jpg"
 description: "Finding product-market fit means that a startup or a business found the way to add value to a set of customers and is now ready to scale, to grow. It further means the business has found a set of customers that resonate with their product."
 
-tags:
+metaTags:
   - Immerse
   - Product Market Fit Validation
   - Winning Product Canvas

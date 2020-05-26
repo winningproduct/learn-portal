@@ -6,7 +6,7 @@ metaTitle: "Win-lose Analysis | WP"
 metaDescription: "Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind."
 date: 2020-05-14T15:04:10.000Z
 
-tags:
+metaTags:
   - Harvest
   - Win-lose Analysis
   - Winning Product Canvas

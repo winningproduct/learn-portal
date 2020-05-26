@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/brand-guide.jpg"
 description: "Brand guidelines, also known as a brand style guide, govern the composition, design, and general look-and-feel of a company's branding. Brand guidelines can dictate the content of a logo, blog, website, advertisement, and similar marketing collateral."
 
-tags:
+metaTags:
   - Immerse
   - Brand Guide
   - Winning Product Canvas

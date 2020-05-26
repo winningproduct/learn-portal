@@ -8,5 +8,6 @@ export const StyledDraft = styled('div')`
     display: block; 
     width: 100%;
     font-size: large;
+    margin-bottom: 20px;
   }
 `;

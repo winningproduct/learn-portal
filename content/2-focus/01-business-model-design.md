@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/businessmodel.jpeg"
 description: "A business model is a visualization of how a company plans to operate and make money. In other words, it answers the question of how a company CREATES VALUE for ITSELF while delivering products or services to its customers. The traditional business model consists of nine cells that capture all aspects of a business. Information in these nine cells can be used to describe any company from a startup to a large enterprise."
 
-tags:
+metaTags:
   - Focus
   - business model design
   - Winning Product Canvas
