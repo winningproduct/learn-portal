@@ -2,6 +2,7 @@
 title: 'What is a Winning Product'
 metaTitle: 'What is a Winning Product | WP'
 metaDescription: 'The ultimate validation of a great product is by the market and the users. Therefore building a winning product require much more than engineering excellence.'
+published: true
 
 metaTags:
   - What is a Winning Product

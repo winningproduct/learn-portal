@@ -1,10 +1,11 @@
 ---
-title: 'Overview to WP Canvas'
-metaTitle: 'Overview to WP Canvas | WP'
+title: 'Overview to WP Content'
+metaTitle: 'Overview to WP Content | WP'
 metaDescription: 'Winning Product learning content may appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market.'
+published: true
 
 metaTags:
-  - Overview to WP Canvas
+  - Overview to WP Content
   - Winning Product
 ---
 
