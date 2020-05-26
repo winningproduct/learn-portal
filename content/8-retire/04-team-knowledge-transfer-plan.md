@@ -1,14 +1,7 @@
 ---
-templateKey: "model-post"
-indexingField: 11-Retire
 title: "Team Knowledge Transfer Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/team-knowledge-transfer-plan.jpg"
-description: "Knowledge transfer is an important part of product retirement. This process involves both documentation and learning of both tacit and implicit knowledge that the team has gathered over time. First, process and tools needs to be in place to record both technical and domain related knowledge. Thereafter, a process need to be in place for learning and getting new team members up to speed quickly with all relevant information"
+metaTitle: "Team Knowledge Transfer Plan | WP"
+metaDescription: "Plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge."
 
 metaTags:
   - Retire
@@ -17,6 +10,7 @@ metaTags:
 ---
 
 ## Why
+Knowledge transfer is an important part of product retirement. This process involves both documentation and learning of both tacit and implicit knowledge that the team has gathered over time. First, process and tools needs to be in place to record both technical and domain related knowledge. Thereafter, a process need to be in place for learning and getting new team members up to speed quickly with all relevant information.
 
 There are many reasons to justify why knowledge transfer is absolutely necessary. 
 
