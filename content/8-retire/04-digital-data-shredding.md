@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/digital-data-shredding.jpg"
 description: "Digital data shredding refers to the process of removal of unwanted data from your system. Basic rule of thumb is that you should remove all data which you do not absolutely need. When retiring your legacy system, the chances are you probably don't need any old data. Despite the case of storage expenses, there are many legal aspect which prevents you from keeping unneeded data. If there is a requirement to keep historical data for analytics purposes, consider removing sensitive information such as customers' personal data from raw data. This process is known as data anonymization. "
 
-tags:
+metaTags:
   - Retire
   - Digital data shredding
   - Winning Product Canvas

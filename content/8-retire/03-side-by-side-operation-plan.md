@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Max word count (160)"
 
-tags:
+metaTags:
   - Retire
   - Side by side operation plan
   - Winning Product Canvas

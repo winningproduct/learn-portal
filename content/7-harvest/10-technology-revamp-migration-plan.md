@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility"
 
-tags:
+metaTags:
   - Harvest
   - Technology Revamp/Migration Plan
   - Winning Product Canvas

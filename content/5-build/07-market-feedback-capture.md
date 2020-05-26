@@ -14,7 +14,7 @@ Direct feedback
 Indirect feedback
 Inferred feedback"
 
-tags:
+metaTags:
   - Build
   - Market Feedback Capture
   - Winning Product Canvas

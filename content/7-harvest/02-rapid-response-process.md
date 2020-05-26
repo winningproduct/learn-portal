@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "User behaviour funnels, direct feedback from customers, competitor insider information analysis, analysis of market trends."
 
-tags:
+metaTags:
   - Harvest
   - Scalability assessment
   - Winning Product Canvas

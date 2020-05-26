@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/detailed-schema-deign.jpg"
 description: "Detailed data schema focuses on how to store data efficiently for retrival, analytics, cost and performance."
 
-tags:
+metaTags:
   - Plan
   - Detailed Data Schema
   - Winning Product Canvas

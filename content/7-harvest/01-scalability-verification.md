@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations."
 
-tags:
+metaTags:
   - Harvest
   - Scalability verification
   - Winning Product Canvas

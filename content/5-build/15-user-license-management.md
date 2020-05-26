@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/user-license-mgmt.jpg"
 description: "User license management is a part of software assessment management (SAM) and is a process whose main focus is reducing and controlling overall IT costs. Software license management refers to the software tools or processes used by an organization to control and document where and how the company's software products are able to run in order to enforce and ensure compliance with software licenses (also known as an End-User License Agreement, or EULA)."
 
-tags:
+metaTags:
   - Build
   - User License Management
   - Winning Product Canvas

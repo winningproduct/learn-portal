@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/team-knowledge-transfer-plan.jpg"
 description: "Knowledge transfer is an important part of product retirement. This process involves both documentation and learning of both tacit and implicit knowledge that the team has gathered over time. First, process and tools needs to be in place to record both technical and domain related knowledge. Thereafter, a process need to be in place for learning and getting new team members up to speed quickly with all relevant information"
 
-tags:
+metaTags:
   - Retire
   - Team knowledge transfer plan
   - Winning Product Canvas

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/user-behavior-analysis.png"
 description: "Build mechanisms to track and analyze user behavior within the system with the aim of improving features and providing better UX."
 
-tags:
+metaTags:
   - Build
   - User Behavior Analysis
   - Winning Product Canvas

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/software-architecture.jpg"
 description: "Product architecture defines how the granular software components are engineered and organized together in a software deployment echo system to achieve the optimal value delivery of the features in demand. The product architecture disciplines shall mainly be governed by the product development requirements under the moderation of industry best practices associated with the selected technologies, services and relevant regulations."
 
-tags:
+metaTags:
   - Focus
   - Product Architecture
   - Winning Product Canvas

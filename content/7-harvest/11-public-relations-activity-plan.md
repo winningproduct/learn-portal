@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Strategize on enhance the image of the product brand and focus on influential media strategies."
 
-tags:
+metaTags:
   - Harvest
   - Public relations plan
   - Winning Product Canvas

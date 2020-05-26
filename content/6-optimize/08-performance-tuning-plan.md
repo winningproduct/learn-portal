@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Max word count (160)"
 
-tags:
+metaTags:
   - Optimize
   - Performance tuning plan
   - Winning Product Canvas

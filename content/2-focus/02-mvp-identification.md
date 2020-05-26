@@ -7,7 +7,7 @@ metaDescription: "Identify the minimum set of features that can gain maximum lea
 subtitle: "Planning a Minimum Viable Product"
 date: 2019-07-25T15:04:10.000Z
 
-tags:
+metaTags:
   - Focus
   - MVP identification
   - Winning Product Canvas

@@ -3,7 +3,7 @@ title: 'Products are Different'
 metaTitle: 'Products are Different | WP'
 metaDescription: 'Products are Different'
 
-tags:
+metaTags:
   - Products are Different
   - Winning Product
 ---

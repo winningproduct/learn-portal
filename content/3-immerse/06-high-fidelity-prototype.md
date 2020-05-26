@@ -6,7 +6,7 @@ metaTitle: "High Fidelity Prototype | WP"
 metaDescription: "Build a detailed prototype to demonstrate how the final product would operate and obtain feedback."
 date: 2019-07-25T15:04:10.000Z
 
-tags:
+metaTags:
   - Immerse
   - High Fidelity Prototype
   - Winning Product Canvas
