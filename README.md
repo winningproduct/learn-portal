@@ -159,7 +159,7 @@ Fine tune the product to achieve the maximum output.
 #### Cost optimization 
 - Focusing on reducing cost. Consider shredding anu unnecessary waste in platform services, tech debt backlog or team structure. Look into on process improvements.
 #### Promotions Process
-- detail plan including frequency, customer segments, market conditions , offerings, ad-word design and message.
+- Detail plan including frequency, customer segments, market conditions, offerings, ad-word design and message.
 #### Customer support 
 - Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service.
 #### Compliance & Approvals
