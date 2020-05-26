@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Focus
 title: 'Business Model Design'
-metaTitle: ""
-metaDescription: ""
-subtitle: "What is business model"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/businessmodel.jpeg"
-description: "A business model is a visualization of how a company plans to operate and make money. In other words, it answers the question of how a company CREATES VALUE for ITSELF while delivering products or services to its customers. The traditional business model consists of nine cells that capture all aspects of a business. Information in these nine cells can be used to describe any company from a startup to a large enterprise."
+metaTitle: "Business Model Design | WP"
+metaDescription: "A business model is a visualization of how a company plans to operate and make money. In other words, it answers the question of how a company CREATES VALUE for ITSELF while delivering products or services to its customers. The traditional business model consists of nine cells that capture all aspects of a business. Information in these nine cells can be used to describe any company from a startup to a large enterprise."
 
 metaTags:
   - Focus
   - business model design
-  - Winning Product Canvas
+  - Winning Product
 ---
 
 ## Why
@@ -23,18 +16,28 @@ To initiate a new business or operate an existing business it is important to un
 
 Building a business model follows a procedure of filling in each cell in the canvas in predefined order as mentioned below. When filling in each cell one must answer some critical questions. When answered in the order described, the business can operations is elaborated in simple terms.
 
-- Value Proposition: What are you building for your customers? What pain are you solving and what gain are you creating? What is unique about you that makes you stand out in the market? This is the place where you list all of your features, products or services describes as value to customers.
-- Customer Segments: Who are my customers? What are the geographic, social characteristics and demographics? List down the persona of all of your customers.
-- Channels: How do you get your product or service to customers. In the product development context, channels could be a web application, mobile app, etc.
-- Customer Relationships: It answers the question – How do I GET, KEEP and GROW customers. This differs based on the channel adopted.
-- Revenue Stream: How do you make money by selling your services or products to your customer segments. What strategy/revenue model is adopted to make money.
+### Value Proposition: 
+What are you building for your customers? What pain are you solving and what gain are you creating? What is unique about you that makes you stand out in the market? This is the place where you list all of your features, products or services describes as value to customers.
+### Customer Segments: 
+Who are my customers? What are the geographic, social characteristics and demographics? List down the persona of all of your customers.
+### Channels: 
+How do you get your product or service to customers. In the product development context, channels could be a web application, mobile app, etc.
+### Customer Relationships: 
+It answers the question – How do I GET, KEEP and GROW customers. This differs based on the channel adopted.
+### Revenue Stream: 
+How do you make money by selling your services or products to your customer segments. What strategy/revenue model is adopted to make money.
+
 
 So far the right side of the business model is defined. It will give answers to what the company plans to produce, how it plans to deliver and to whom it plans to deliver. This half is the outward-facing side of the business which focuses on the customer needs and explains how the revenue streams are created.
 
-- Key Resources: What key assets and resources are required to run the business? From a software product perspective, some of the key resources could be people and intellectual property rights
-- Key Partners: Who do we need to outside our business to help us operate the business?
-- Key Activities: What are the most important things need to be done to make the business model work?
-- Cost Structure: What are the costs and expenses to operate the business
+### Key Resources: 
+What key assets and resources are required to run the business? From a software product perspective, some of the key resources could be people and intellectual property rights
+### Key Partners: 
+Who do we need to outside our business to help us operate the business?
+### Key Activities: 
+What are the most important things need to be done to make the business model work?
+### Cost Structure: 
+What are the costs and expenses to operate the business
 
 Now the left side of the business model is defined. The left section is inward-facing and focusses on how the company plans to create products or services and who are the key resources and partners. This will explain the internal working of a business. All of this will boil down to the overall cost of operation which is explained as cost structure.
 
