@@ -1,19 +1,11 @@
 ---
-templateKey: "model-post"
-indexingField: 10-Harvest
-title: "5-Stakeholder retirement consent"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Identifying the circamstances under which the stakeholders will retire the the product"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/win95.png"
-description: "Max word count (160)"
+title: "Stakeholder retirement consent"
+metaTitle: "Stakeholder retirement consent | WP"
+metaDescription: "Identify under which circumstances the stakeholders will agree to retire the product in the view of migrating to the new product along with end-of-service support models."
 
 metaTags:
-  - Harvest
   - Stakeholder retirement consent
-  - Winning Product Canvas
+  - Winning Product 
   - Retire
 ---
 

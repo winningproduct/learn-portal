@@ -1,24 +1,19 @@
 ---
-templateKey: "model-post"
-indexingField: 11-Retier
 title: "Account Migration Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "In this section it is discribed the account migration plan method"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
-description: "Software migration is the practice of transferring data, accounts, and functionality from one operating environment to another. It could also refer to times when users are migrating the same software from one piece of computer hardware to another, or changing both software and hardware simultaneously. Software migration is a generic term that can refer to either a sort of transfer for applications, operating systems, databases, networks, content management systems (CMS), or even an entire IT infrastructure.
-Application, app, program, and software migration all refer to the same type of transfer: the process of moving an application from one environment to another (like from an on-premises enterprise server to a cloud-based environment, from one server to another, or from cloud-to-cloud)."
+metaTitle: "Account Migration Plan | WP"
+metaDescription: "Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities."
 
 metaTags:
-  - Retier
+  - Retire
   - Account migration plan
-  - Winning Product Canvas
+  - Winning Product
 ---
 
 
 ## Why
+Software migration is the practice of transferring data, accounts, and functionality from one operating environment to another. It could also refer to times when users are migrating the same software from one piece of computer hardware to another, or changing both software and hardware simultaneously. Software migration is a generic term that can refer to either a sort of transfer for applications, operating systems, databases, networks, content management systems (CMS), or even an entire IT infrastructure.
+
+Application, app, program, and software migration all refer to the same type of transfer: the process of moving an application from one environment to another (like from an on-premises enterprise server to a cloud-based environment, from one server to another, or from cloud-to-cloud).
 
 Migrations of this type are done to improve efficiency or bring all applications from a legacy system into a current one. Often, organizations want to virtualize their software, meaning to disassociate it with operating systems and host the programs in separate environments for sandboxing at runtime. Below are some migration areas.
 
@@ -29,8 +24,8 @@ Migrations of this type are done to improve efficiency or bring all applications
 - Content Management System Migration
 - IT Infrastructure Migration
 
-## How
 
+## How
 The method of software migration should be chosen carefully. Here are some of the primary ways to perform the task:
 
 - Traditional Uninstall and Reinstall - The software in question installs relatively quickly and easily with few custom configurations. An example might be upgrading the enterprise OS the company uses. If it takes less time than any other option, it’s the best choice.
@@ -41,6 +36,6 @@ The method of software migration should be chosen carefully. Here are some of th
 
 - Package Implementation - You want to move off legacy applications, but don’t want to devote the resources to entirely re-engineer them. It’s especially well-suited to agile organizations.
 
-## References
 
+## References
 - [For more information](https://www.smartsheet.com/all-about-software-migration-planning)

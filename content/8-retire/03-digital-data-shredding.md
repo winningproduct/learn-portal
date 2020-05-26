@@ -1,22 +1,16 @@
 ---
-templateKey: "model-post"
-indexingField: 11-Retire
 title: "Digital Data Shredding"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Removal of unwanted data"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/digital-data-shredding.jpg"
-description: "Digital data shredding refers to the process of removal of unwanted data from your system. Basic rule of thumb is that you should remove all data which you do not absolutely need. When retiring your legacy system, the chances are you probably don't need any old data. Despite the case of storage expenses, there are many legal aspect which prevents you from keeping unneeded data. If there is a requirement to keep historical data for analytics purposes, consider removing sensitive information such as customers' personal data from raw data. This process is known as data anonymization. "
+metaTitle: "Digital Data Shredding | WP"
+metaDescription: "With customer's consent to close the account, permanently delete data and provide a mechanism to export customer's data on request"
 
 metaTags:
   - Retire
   - Digital data shredding
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 ## Why
+Digital data shredding refers to the process of removal of unwanted data from your system. Basic rule of thumb is that you should remove all data which you do not absolutely need. When retiring your legacy system, the chances are you probably don't need any old data. Despite the case of storage expenses, there are many legal aspect which prevents you from keeping unneeded data. If there is a requirement to keep historical data for analytics purposes, consider removing sensitive information such as customers' personal data from raw data. This process is known as data anonymization. 
 
 Ownership of the data is somewhat of a tricky concepts. There are legal considerations that needs to be adhered to when storing users' private data. Laws such as GDPR has strict guidance on this and disobeying can lead to serious penalties. So there is a very good reason not to hold on to any data that your system doesn't absolutely need.
 
