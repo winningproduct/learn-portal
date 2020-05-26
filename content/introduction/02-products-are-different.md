@@ -15,7 +15,6 @@ Bespoke applications are usually custom made for a particular organizational con
 ### Unique Value Offering
 To succeed, products must have a uniqueness against the competition. This is why a customer buy your product, not your competitor's product. The success of the product depends on how well everybody in the the team (dev, support,sales and marketing) are aligned with this unique value offered to the market.
 
-
 ### Customer Onboarding
 Product must be seamlessly accessible by potential customers through integrated capabilities such as self-sign-up, trials, documentary, online payments.etc. The core product has to be engineered to support customer onboarding in a frictionless manner. Bespoke and enterprise applications have a straightforward onboarding process as the target user segments are known in advance.
 

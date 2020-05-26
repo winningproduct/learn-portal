@@ -1,16 +1,15 @@
 ---
-title: 'Overview to WP Canvas'
-metaTitle: 'Overview to WP Canvas | WP'
-metaDescription: 'Overview to WP Canvas'
+title: 'Overview to WP Content'
+metaTitle: 'Overview to WP Content | WP'
+metaDescription: 'Winning Product learning content may appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market.'
+published: true
 
 metaTags:
-  - Overview to WP Canvas
+  - Overview to WP Content
   - Winning Product
 ---
 
-Winning Product Canvas can appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market. All activities are strategic essentials practiced by teams who has built market leading products.
-
-Although products are developed iteratively, all products go through a set of different "phases" over time. During each phase, there are certain "strategic activities" that has to be initiated. These strategic activities are diverse and span across 4 different "areas of excellence". 
+Although products are developed iteratively, they go through a set of different "phases" over time. During each phase, there are certain "strategic activities" that has to be initiated and given focus for. These are diverse and span across 4 main "areas of excellence". 
 
 ## Areas of Excellence
  - Market Sense
@@ -44,7 +43,6 @@ This is the stage you have the highest flexibility to change the solution implem
 
 Every requirement should be treated as an assumption with a plan to validate. Such validation can come in the form of MVPs, demos, user testing, architecture POCs, etc. During the build stage, you should consider onboarding pilot customers as testers to validate the primary value propositions. 
 
-
 ### Optimize
 When you reach this stage all your major assumptions should be validated. Product UVP must be clear and willingness of the customers to pay for that value proposition has to be confirmed. This means most of the core features are available and tested by your early customers during 'Build' stage. 
 
@@ -54,7 +52,6 @@ During optimize you tune the product further to achieve the maximum performance.
 This is the stage your product returns back the investment mostly. The focus of this stage is to retain happy and loyal customers, up sell more and get referrals to grow the business. You need very stable operational processes to respond to the customer issues and inquiries. Build and tune your sales and marketing processes to capture a greater market share.
 
 ### Retire
-
 Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the market place. Such may require you to re-invent the technology platform / business model / user experience to keep an edge in the market. ISVs should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. 
 
 When a next gen product is planned it is important to do it with minimal disturbance to the existing customers. There has to be clear and pain-free migration paths available and provide incentives/motivation for them to move-on. Long-term side-by-side operation of 2 major versions can be extremely costly operation. For this reason, you must plan to complete migrating all your customers within a planned time span.
