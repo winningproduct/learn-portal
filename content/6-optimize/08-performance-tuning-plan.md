@@ -3,17 +3,10 @@ title: "Performance Tuning Plan"
 metaTitle: "Performance Tuning Plan | WP"
 metaDescription: "Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service."
 
-<<<<<<< HEAD
-tags:
-- Optimize
-- Winning Product
-- Performance Tuning Plan
-=======
 metaTags:
   - Optimize
   - Performance tuning plan
   - Winning Product Canvas
->>>>>>> 4fc73f0e63db82a90ae95141da83bbbfbf7a9b24
 ---
 
 ## What

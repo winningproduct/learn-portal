@@ -3,17 +3,10 @@ title: "Monitoring and Incident Management"
 metaTitle: "Monitoring and Incident Management | WP"
 metaDescription: "Monitor system health, detect and alert about system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware."
 
-<<<<<<< HEAD
-tags:
-- Optimize
-- Winning Product
-- Monitoring and Incident Management
-=======
 metaTags:
   - Harvest
   - Monitoring and Incident Management
   - Winning Product Canvas
->>>>>>> 4fc73f0e63db82a90ae95141da83bbbfbf7a9b24
 ---
 
 ## What
