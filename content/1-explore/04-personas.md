@@ -1,16 +1,11 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
 title: "Personas"
-metaTitle: ""
-metaDescription: ""
+metaTitle: "Personas"
+metaDescription: "Persona answers the question of, Whom do we design for. It's a powerful tool in the creation of product functions, and it represents all the users. It can be considered as the typical user behavior of all potential users."
 subtitle: A persona is a powerful tool used in the creation of product functions and it represents all the users.
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/Persona.png"
-description: Persona answers the question of, Whom do we design for. It's a powerful tool in the creation of product functions, and it represents all the users. It can be considered as the typical user behavior of all potential users.
+published: false
 
-tags:
+metaTags:
   - Explore
   - Persona/User Journey
   - Winning Product Canvas

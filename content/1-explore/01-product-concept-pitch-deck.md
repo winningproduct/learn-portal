@@ -1,17 +1,10 @@
 ---
-templateKey: "model-post"
 title: "Product Concept Pitch Desk"
-metaTitle: ""
-metaDescription: ""
-indexingField: 2-Conceive
-subtitle: "How to pitch your product for investors and potential customers"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
+metaTitle: "Product Concept Pitch Desk | WP"
+metaDescription: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
+metaDocument: ""
 published: true
-featuredimage: "/img/product-concept-pitch.jpeg"
-description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
-
-tags:
+metaTags:
   - Conceive
   - Product Concept Pitch Desk
   - Winning Product Canvas
