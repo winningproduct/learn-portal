@@ -202,17 +202,17 @@ Rapidly respond to market conditions and learnings to sustain competitive edge. 
 #### Win-lose Analysis
 - Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
-## Retire (Consider to distrupt with a new generation product)
+## Retire (Consider to disrupt with a new generation product)
 The product's time is up. Re-invent the technology platform / business model to keep up with the market.
-#### Platform Migration Plan
-- Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
-#### Account Migration Plan
-- Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities.
 #### Stakeholder Retirement Consent
 - Identify under which circumstances the stakeholders will agree to retire the product in the view of migrating to the new product along with end-of-service support models.
-#### Digital Data Shredding
-- With customer's consent to close the account, permenantly delete data and provide a mechanism to export customer's data on request.
-#### Team Knowlege Transfer Plan
+#### Account Migration Plan
+- Systematic plan to smoothly migrate users from the old platform to new platform without losing users’ data. Have a migration support strategy. Manage customer licenses and contracts to support migration activities.
+#### Platform Migration Plan
+- Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
+#### Team Knowledge Transfer Plan
 - Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge.
+#### Digital Data Shredding
+- With customer's consent to close the account, permanently delete data and provide a mechanism to export customer's data on request.
 
 #TechArchitecture #DeliveryProcess #CostBook #DataModel 
