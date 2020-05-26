@@ -1,16 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: "4-Focus"
 title: "MVP Identification"
 metaTitle: "MVP Identification | WP"
 metaDescription: "Identify the minimum set of features that can gain maximum learning and has low cost of implementation."
-subtitle: "Planning a Minimum Viable Product"
-date: 2019-07-25T15:04:10.000Z
 
 metaTags:
   - Focus
   - MVP identification
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
@@ -28,16 +24,16 @@ The main intention of an MVP is to test the market. So, you can build the least 
 
 ## How
 
-- Vision & success criteria
+### Vision & success criteria
   The First step to build the MVP is to identify the overall vision of the product. Once you have a good idea about the vision, then define a success criterion to measure it.
 
-- The breakdown features
+### The breakdown features
   At this stage, the broad vision needs to be broken down into more tangible areas where the impact of each feature can be assessed individually.
 
-- Identify ROI
+### Identify ROI
   The ROI of each feature is considered by comparing the learnability against cost. The success criteria of the MVP will be determined by maximizing the inclusions from high learnability, low cost quadrant.
 
-- Roadmap
+### Roadmap
   The selected features then needs to be placed in a MVP roadmap.
 
 
