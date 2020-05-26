@@ -1,28 +1,20 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: "Quality Assurance Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "What's measured improves - Peter Drucker"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/quality-assurance.jpg"
-description: "A quality assurance plan is a document, constructed by the project team, meant to ensure the final products are of the utmost quality. A quality assurance plan contains a set of documented activities meant to ensure that customers are satisfied with the goods or services a company provides."
+metaTitle: "Quality Assurance Plan"
+metaDescription: "A quality assurance plan is a document, constructed by the project team, meant to ensure the final products are of the utmost quality. A quality assurance plan contains a set of documented activities meant to ensure that customers are satisfied with the goods or services a company provides."
 
 metaTags:
   - Plan
   - Quality Assurance Plan
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 ## Why
-
 Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to;
 
-- Encourage consume trust and confidence in the buinsess and helps the business compete with others in the same market.
-- Monitoring and controlling the level of quality which further indicates the level of adherence to the tragets.
-- Direct and facilitate the establishment of quality assuarance activites within process used to deliver right product and services to the client.
+- Encourage consume trust and confidence in the business and helps the business compete with others in the same market.
+- Monitoring and controlling the level of quality which further indicates the level of adherence to the targets.
+- Direct and facilitate the establishment of quality assurance activities within process used to deliver right product and services to the client.
 - Enhance the quality of the product.
 - Describes the specific document standards, practices, procedures to be applied within the process used to deliver.
 - Objects to be addressed.
@@ -34,11 +26,11 @@ Quality plan mainly consists of 3 elements.
 
 **Quality Assurance (QA)**
 
-Quality Assuarance is one aspect of the larger discipline of quality management. Managing the quality production involves many details steps of planing, fulfiling and monitoring activities.
+Quality Assurance is one aspect of the larger discipline of quality management. Managing the quality production involves many details steps of planing, fulfilling and monitoring activities.
 
 This helps to ;
 
-- Ensure a high quality in prodcution during the development of products or services.
+- Ensure a high quality in production during the development of products or services.
 
 **Quality Control (QC)**
 
