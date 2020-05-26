@@ -2,6 +2,7 @@
 title: "Retire"
 metaTitle: "Retire"
 metaDescription: "Retire"
+published: true
 ---
 
 Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the market place. Such may require you to re-invent the technology platform / business model / user experience to keep an edge in the market. ISVs should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. 

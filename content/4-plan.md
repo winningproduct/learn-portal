@@ -2,6 +2,7 @@
 title: "Plan"
 metaTitle: "Plan"
 metaDescription: "Plan"
+published: true
 ---
 
 Since team has analyzed the impact of different variations during the immerse phase, they are in a position to create the initial plans for the rest of the project. Most of these plans are live documents that will be kept updated during rest of the stages. 

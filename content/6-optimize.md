@@ -2,6 +2,7 @@
 title: "Optimize"
 metaTitle: "Optimize"
 metaDescription: "Optimize"
+published: true
 ---
 
 When you reach this stage all your major assumptions should be validated. Product UVP must be clear and willingness of the customers to pay for that value proposition has to be confirmed. This means most of the core features are available and tested by your early customers during 'Build' stage. 

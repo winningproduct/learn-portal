@@ -2,6 +2,7 @@
 title: "Explore"
 metaTitle: "Explore"
 metaDescription: "Explore"
+published: true
 ---
 
 This is the initial stage where founder conceive the idea to solve a problem he/she identified. It is important at this stage to take a holistic view into the problem domain and explore broadly. This is where you explore into different possibilities before locking down on a focused product concept.
