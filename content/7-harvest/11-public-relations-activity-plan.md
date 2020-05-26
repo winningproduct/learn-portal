@@ -1,27 +1,39 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Harvest
-title: "Public relations plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
-description: "Strategize on enhance the image of the product brand and focus on influential media strategies."
+title: "Public Relations Activity Plan"
+metaTitle: "Public Relations Activity Plan | WP"
+metaDescription: "Strategize on enhance the image of the product brand and focus on influential media strategies."
 
 tags:
-  - Harvest
-  - Public relations plan
-  - Winning Product Canvas
+- Optimize
+- Winning Product
+- Public Relations Activity Plan
 ---
 
+## What
+_Strategize on enhance the image of the product brand and focus on influential media strategies_
+
 ## Why
-Coming soon..
+Earning trust of the marketplace, establish relationships within product ecosystem, and create branding awareness, all while doing business with customers and social media marketing, but with lower costs than traditional advertising
 
 ## How
-Coming soon..
+
+Types of relationships
+- Customer relations
+- Media relations
+- Investor relations
+- Public affairs
+- Community relations
+- Influencer marketing
+- Crisis Communication
+- Corporate Social Responsibility
+
+PR Activities
+- Press release
+- Events
+- Partnerships
+- Original Research
+- Press Conferences
+- Brochures
 
 ## References
-Coming soon..
-
+[Things every PR plan should have](https://www.axiapr.com/blog/5-things-every-pr-plan-should-have)
