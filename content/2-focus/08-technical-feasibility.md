@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Focus
 title: "Technical Feasibility"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Answer the question 'Can it actually be built?'"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/feasibility-report.jpg"
-description: "Technical feasibility assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems. Technical feasibility also involves the evaluation of the hardware, software, and other technical requirements of the proposed system."
+metaTitle: "Technical Feasibility | WP"
+metaDescription: "Answer the question 'Can it actually be built?'. Technical feasibility assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems. Technical feasibility also involves the evaluation of the hardware, software, and other technical requirements of the proposed system."
 
 metaTags:
   - Focus
   - Technical Feasibility
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
