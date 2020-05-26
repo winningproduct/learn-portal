@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/product-theme.jpg"
 description: "Themes are groupings of similar features, epics or initiatives. Ideally, themes describe customer value – what customers are going to be receiving or the job that you’ll help them accomplish. For example, “improve shopping cart experience” is an example of a customer-focused theme, and into this theme you would group the initiatives that support it."
 
-tags:
+metaTags:
   - Plan
   - Product Theme Integration
   - Winning Product Canvas

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/Release-Management.jpg"
 description: "Release management is typically a set of processes and practices to be followed when doing any changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
 
-tags:
+metaTags:
   - Stabilize
   - Release management
   - Winning Product Canvas

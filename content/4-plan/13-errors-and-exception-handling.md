@@ -8,7 +8,7 @@ featuredpost: true
 featuredimage: "/img/error-and-exception-handling.jpg"
 metaDescription: "Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams."
 
-tags:
+metaTags:
   - Plan
   - Errors and exception handling
   - Winning Product Canvas

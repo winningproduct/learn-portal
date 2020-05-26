@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import config from '../config';
+import favicon from './images/favicon.ico';
 
 export default class HTML extends React.Component {
   render() {
@@ -17,9 +18,7 @@ export default class HTML extends React.Component {
           {config.siteMetadata.ogImage ? (
             <meta property="twitter:image" content={config.siteMetadata.ogImage} />
           ) : null}
-          {config.siteMetadata.favicon ? (
-            <link rel="shortcut icon" type="image/svg" href={config.siteMetadata.favicon} />
-          ) : null}
+          <link rel="icon" href={favicon} />
           <noscript key="noscript"></noscript>
           {this.props.headComponents}
         </head>

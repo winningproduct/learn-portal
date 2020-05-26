@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/team-structure.jpg"
 description: "There are 3 common types of development team structure: generalists, specialists, and a hybrid team. Each of them can be efficient in one project and get stuck regularly in another. To prevent the latter, consider your project’s complexity, time and budget and then decide which team structure suits it most."
 
-tags:
+metaTags:
   - Immerse
   - Team Structure
   - Winning Product Canvas

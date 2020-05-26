@@ -1,21 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
 title: "Commercial Viability"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Commercial Viability refers to the ability of a business, product or service to compete effectively with its competitors and to be profitable."
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/commercial-viability-img-1.jpg"
-description: "The primary goal of a business, product, or service in a market is to make profits. Commercial Viability measures how well a company, product, or service competes with its competitors and its ability to make a profit. For a product to be successful in the long run, the two crucial factors are its ability to make profits and to survive in the market along with its competitors for a foreseeable amount of time. The combination of these two factors gives meaning to the term Commercial Viability"
-
-tags:
+metaTitle: "Commercial Viability"
+metaDescription: "The primary goal of a business, product, or service in a market is to make profits. Commercial Viability measures how well a company, product, or service competes with its competitors and its ability to make a profit. For a product to be successful in the long run, the two crucial factors are its ability to make profits and to survive in the market along with its competitors for a foreseeable amount of time. The combination of these two factors gives meaning to the term Commercial Viability"
+published: false
+metaTags:
   - Explore
   - Commercial Viability
   - Winning Product Canvas
 ---
-
 
 ## Why
 

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/win95.png"
 description: "Max word count (160)"
 
-tags:
+metaTags:
   - Harvest
   - Stakeholder retirement consent
   - Winning Product Canvas

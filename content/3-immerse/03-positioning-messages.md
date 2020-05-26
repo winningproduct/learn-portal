@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/product-positioning.jpg"
 description: "The way the product is defined by consumers on important attributes. Product positioning helps to place the product in the consumer's mind relative to competing products. E.g. Car companies position their products as fast, fun, exciting, fuel efficient etc..."
 
-tags:
+metaTags:
   - Immerse
   - Product Positioning
   - Positioning Messages

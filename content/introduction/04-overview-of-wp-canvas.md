@@ -3,7 +3,7 @@ title: 'Overview to WP Canvas'
 metaTitle: 'Overview to WP Canvas | WP'
 metaDescription: 'Overview to WP Canvas'
 
-tags:
+metaTags:
   - Overview to WP Canvas
   - Winning Product
 ---

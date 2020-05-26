@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/product-roadmap.jpg"
 description: "A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. A roadmap is a guiding strategic document as well as a plan for executing the strategy."
 
-tags:
+metaTags:
   - Immerse
   - Product Roadmap
   - Winning Product Canvas

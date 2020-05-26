@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/code-quality-process.jpg"
 description: "This is to have a code which does what it should, follows a consistent style, is easy to understand, has been well-documented, can be tested."
 
-tags:
+metaTags:
   - Build
   - code quality process
   - Winning Product Canvas

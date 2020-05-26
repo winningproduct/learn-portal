@@ -1,22 +1,21 @@
 ---
 title: 'Winning Product Background'
 metaTitle: 'Winning Product Background | WP'
-metaDescription: 'Winning Product Background'
+metaDescription: "The idea of the 'Winning Product' initiative is to help product teams on important strategic activities that should be considered  to stay ahead of competition."
+published: true
 
-tags:
+metaTags:
   - Winning Product Background
   - Winning Product
 ---
 
-## Global Market
-Yearly, a large number of global ISVs and Startups are investing on digital services to be provided to their customers. SaaS market itself is forecasted to jump beyond 100 B USD by 2025 with around 16% CAGR. 
+## Software product market
+Yearly, a large number of global ISVs (Independent Software vendors) and Startups are investing on digital services and products to be provided to their customer segments. According to a [researchandmakrkets.com report](https://www.researchandmarkets.com/reports/4852466/software-as-a-service-saas-global-market-report) the market size for SaaS based software products alone is valued at about $134.44 billion in 2018 and is expected to grow to $220.21 billion at a CAGR of 13.1% through 2022.
 
-## ISV Challenges
-Despite the lucrative trend, a major portion of the Software Products that are released into the market fail to reach the full potential and fair to reap ROI due to fundamental issues in the product management and engineering approach. 
+## Still the failure rate is high
+Despite the lucrative market trend, a majority of Software Products released to the market fail to reach the full potential due to fundamental issues in the product management and engineering approach. 
 
-Creating a market leading (winning) product requires a mammoth of additional knowledge and skills compared to mere software development. Product engineers require a broader sense of the domain, market trends, product management techniques, customer engagement ability, resilient engineering capabilities, etc. Most of such skills are not taught at universities nor gained by engaging general software development work.
+Creating a market winning (leading) product requires a mammoth of additional knowledge and skills compared to mere software development. Product engineers require a broader sense of the domain, market trends, product management techniques, customer engagement ability, resilient engineering capabilities. Most of such skills are not taught at universities nor gained by engaging general software development work.
 
-## Winning Product
-The idea of the 'Winning Product' initiative is to help product teams on important strategic activities that should be considered from product ideation to retirement of the product to maximize the product’s ability to stay ahead of competition. The framework covers disciplines such as User Experience, Product Marketing, Technology & Engineering, Customer Success, etc.
-
-
+## References
+[researchandmakrkets.com report](https://www.researchandmarkets.com/reports/4852466/software-as-a-service-saas-global-market-report)

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/release-gates.jpg"
 description: "Release Gate reviews are typically acceptance criteria reviews with predefined quality criteria that a project must meet in order to proceed from one stage of its lifecycle to the next."
 
-tags:
+metaTags:
   - Build
   - Release gate review
   - Winning Product Canvas

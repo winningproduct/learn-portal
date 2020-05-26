@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/<content-main-image>.jpeg"
 description: "Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines"
 
-tags:
+metaTags:
   - Harvest
   - Continuous Improvement Strategy
   - Winning Product Canvas

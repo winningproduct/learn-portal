@@ -105,7 +105,11 @@ export default class MDXRuntimeTest extends Component {
         </div>
         <StyledMainWrapper>
           {isDraft? (<Draft></Draft>) : null}
-          <MDXRenderer>{mdx.body}</MDXRenderer>
+          <blockquote style={{fontSize: "20px"}}><i>{metaDescription}</i></blockquote>
+          <MDXRenderer>
+            {/* <h1>Hi Manoj</h1> */}
+            {mdx.body}
+          </MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
           <NextPrevious mdx={mdx} nav={nav} />

@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/platform-migration-plan.jpg"
 description: "Platform migration is about salvaging what ever possible from the old system. Components need to be reused as much as possible to avoid the pitfall of reinventing the wheel."
 
-tags:
+metaTags:
   - Retire
   - Platform migration plan
   - Winning Product Canvas
