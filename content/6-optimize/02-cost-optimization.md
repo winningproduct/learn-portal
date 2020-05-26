@@ -1,19 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 9-Optimize
+published: false
 title: "Cost Optimization"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+metaTitle: "Cost Optimization | WP"
+metaDescription: "Max word count (160)"
 
-tags:
+metaTags:
   - Optimize
-  - Adward design
-  - Winning Product Canvas
+  - Cost Optimization
+  - Winning Product
 ---
 
 ## Why
