@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 8-Stabilize
 title: "Release Management"
-metaTitle: ""
-metaDescription: ""
-subtitle: "A better release management practices play a major role in stabilizing the product in long run"
-date: 2020-4-17T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/Release-Management.jpg"
-description: "Release management is typically a set of processes and practices to be followed when doing any changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
+metaTitle: "Release Management | WP"
+metaDescription: "Release management is typically a set of processes and practices to be followed when doing any changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
 
 metaTags:
   - Stabilize
   - Release management
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 ## Why
