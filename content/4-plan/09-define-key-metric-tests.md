@@ -1,14 +1,7 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: "Define Key Metric Tests"
-metaTitle: ""
-metaDescription: ""
-subtitle: "We cannot improve what we cannot measure"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/key-metric-test.jpg"
-description: "Software Testing Metric is be defined as a quantitative measure that helps to estimate the progress, quality, and health of a software testing effort. A Metric defines in quantitative terms the degree to which a system, system component, or process possesses a given attribute. The ideal example to understand metrics would be a weekly mileage of a car compared to its ideal mileage recommended by the manufacturer."
+metaTitle: "Define Key Metric Tests | WP"
+metaDescription: "Software Testing Metric is be defined as a quantitative measure that helps to estimate the progress, quality, and health of a software testing effort. A Metric defines in quantitative terms the degree to which a system, system component, or process possesses a given attribute. The ideal example to understand metrics would be a weekly mileage of a car compared to its ideal mileage recommended by the manufacturer."
 
 metaTags:
   - Plan
@@ -18,7 +11,7 @@ metaTags:
 
 
 ## Why
-Software testing metrics or software test measurement is the quantitative indication of extent, capacity, dimension, amount or size of some attribute of a process or product. Testing key metrics helps to take decisions for the next phase of of activities in case of technology or the process change. They act as evidenve of the cliam or prediction.
+Software testing metrics or software test measurement is the quantitative indication of extent, capacity, dimension, amount or size of some attribute of a process or product. Testing key metrics helps to take decisions for the next phase of of activities in case of technology or the process change. They act as evidence of the claim or prediction.
 
 ## How
 There are three main types of testing metrics
