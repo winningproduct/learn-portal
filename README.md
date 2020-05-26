@@ -155,7 +155,7 @@ Execute the plan with the goal to validate assumptions (technical, requirements,
 ## Optimize(Reach globally competitive product maturity)
 Fine tune the product to achieve the maximum output.
 #### Analytics Review Process #DataModel 
-- Process logs and data analytics to organize and escalate for decision making based on data patterns
+- Gathering correct and current data and process them to identify patterns and make predictions. Use this to enable data driven decision making.
 #### Cost optimization 
 - Platform services, tech debt, team organizing, process improvements etc
 #### Promotions Process
