@@ -11,7 +11,7 @@ featuredimage: "/img/operational-estimate.jpg"
 description: "Operational Estimation can cover three distinct aspects. i.e. Technology, People, and Support/Maintenance. In the current era businesses leveraging cloud is a common phenomenon, this makes estimating infrastructure costs more accurate and effortless with structured approaches. When it comes to estimating workforce and support and maintenance many recommend traditional methodologies can be utilised. 
 Operational estimation is a continuous process within a business. It can be applied to both green field and brown field project"
 
-tags:
+metaTags:
   - Immerse
   - Operational Estimations
   - Winning Product Canvas

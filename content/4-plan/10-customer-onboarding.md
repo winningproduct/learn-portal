@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "img/customer-onboarding.png"
 description: "Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc."
 
-tags:
+metaTags:
   - Plan
   - Customer onboarding
   - Winning Product Canvas

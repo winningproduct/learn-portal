@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: ""
 description: ""
 
-tags:
+metaTags:
   - Immerse
   - Requirement process
   - Winning Product Canvas

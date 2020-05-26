@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/data-architecture.jpg"
 description: "Data architecture is composed of models, policies, rules or standards that govern which data is collected, data relationships, and how it is stored, arranged, integrated, and put to use in data systems and in organizations."
 
-tags:
+metaTags:
   - Immerse
   - Data Architecture
   - Winning Product Canvas

@@ -6,7 +6,7 @@ metaTitle: "Delivery Pipeline | WP"
 metaDescription: "Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc."
 description: "A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment."
 
-tags:
+metaTags:
   - Plan
   - CI/CD Pipeline
   - Winning Product Canvas

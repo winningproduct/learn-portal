@@ -11,7 +11,7 @@ featuredimage: "/img/tech-team-branding.jpeg"
 description: "Team brands are born when there are customers to serve, skills to be practiced and value to be created, and your team becomes known for something. Technical team brand is the sum total of other’s’ experiences when interacting with them. This means that it is not only what the technical team actually does or delivers, it is also the manner in which they do it. In simple words, When people in the company think about the team, what thoughts come into their minds? The common impressions they have as a population represent the brand the team have created.
 In terms of team branding, members of a well branded team is able to clearly communicate what values they create in the product development process."
 
-tags:
+metaTags:
   - Optimize
   - Tech team branding
   - Winning Product Canvas

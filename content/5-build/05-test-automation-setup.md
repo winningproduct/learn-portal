@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/Automation-testing.png"
 description: "Automated Testing is a software testing technique which can test and compare the actual outcome against the expected result. Test automation requires considerable about of human involevement until the test suite is created. Once the test suite is created no human intervention is needed. So this reduces the time and cost of testing"
 
-tags:
+metaTags:
   - Build
   - Technical Debt Management
   - Winning Product Canvas

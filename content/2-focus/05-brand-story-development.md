@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: '/img/golden-circle.png'
 description: "People don't buy products, people buy brands. Therefore it is very much important to develop a brand story that triggers the positive decisions on your stakeholders."
 
-tags:
+metaTags:
   - Focus
   - brand story development
   - Winning Product Canvas

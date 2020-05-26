@@ -8,7 +8,7 @@ featuredpost: true
 featuredimage: "/img/ip-rights.jpg"
 metaDescription: "Take actions to protect  intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses."
 
-tags:
+metaTags:
   - Plan
   - IPR Management
   - Winning Product Canvas

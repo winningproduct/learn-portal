@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "img/8-optimize-referral-marketting.jpg"
 description: "Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales)"
 
-tags:
+metaTags:
   - Harvest
   - Referrals and upsales plan
   - Winning Product Canvas

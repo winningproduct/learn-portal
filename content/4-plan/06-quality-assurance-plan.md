@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/quality-assurance.jpg"
 description: "A quality assurance plan is a document, constructed by the project team, meant to ensure the final products are of the utmost quality. A quality assurance plan contains a set of documented activities meant to ensure that customers are satisfied with the goods or services a company provides."
 
-tags:
+metaTags:
   - Plan
   - Quality Assurance Plan
   - Winning Product Canvas

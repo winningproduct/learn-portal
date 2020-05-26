@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/innovation-accounting.jpg"
 description: "Innovation Accounting is a way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero. In general, it refers to ways to communicate the process and progress of innovation projects through relevant KPIs (key performance indicators)."
 
-tags:
+metaTags:
   - Build
   - Innovation Accounting
   - Winning Product Canvas

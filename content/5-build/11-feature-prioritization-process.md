@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/feature-prioratization.jpg"
 description: "Feature prioratization process is about, What gets done first? How do you decide what features or experiences stay and what gets cut or postponed? Should I listen to customers or my boss when picking features to implement?"
 
-tags:
+metaTags:
   - Build
   - Feature Prioritization Process
   - Winning Product Canvas

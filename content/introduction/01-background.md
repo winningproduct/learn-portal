@@ -3,7 +3,7 @@ title: 'Winning Product Background'
 metaTitle: 'Winning Product Background | WP'
 metaDescription: 'Winning Product Background'
 
-tags:
+metaTags:
   - Winning Product Background
   - Winning Product
 ---

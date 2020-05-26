@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/contingency-and-reliability-reviews.jpg"
 description: "Plan and action business continuity strategy to minimize business risks. Consider technical, market and environmental factors. Ensure that various drills are being done to make sure the readiness."
 
-tags:
+metaTags:
   - Harvest
   - Contingency and reliability reviews
   - Winning Product Canvas

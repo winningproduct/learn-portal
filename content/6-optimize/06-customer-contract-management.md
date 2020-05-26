@@ -12,7 +12,7 @@ description: "A contract is a written or oral legally-binding agreement between 
 Contracts can be of many types. A few examples would be - sales contracts (including leases), purchasing contracts, partnership agreements, trade agreements, and intellectual property agreements.
 Contract management or contract administration is the management of contracts made with customers, vendors, partners, or employees. It is the process of managing contract creation, execution, and analysis to maximize operational and financial performance at an organization, all while reducing financial risk."
 
-tags:
+metaTags:
   - Optimize
   - Customer contract management
   - Winning Product Canvas

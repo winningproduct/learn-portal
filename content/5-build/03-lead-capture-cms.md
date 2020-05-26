@@ -10,7 +10,7 @@ featuredpost: true
 featuredimage: "/img/lead-generation.jpg"
 description: "In most CRM systems, the term lead capture designates a process of saving lead information in order to attempt converting the lead to a paying customer. An example of a lead capture page or a lead capture form is a newsletter subscription or a quote request form on a website. Lead name, email address and phone numbers are usually captured, although complex web forms may contact much more information, such as company size, industry, title of the person, postal address and so on."
 
-tags:
+metaTags:
   - Build
   - Lead Capture/CMS
   - Winning Product Canvas

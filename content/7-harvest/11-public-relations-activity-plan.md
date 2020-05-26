@@ -3,10 +3,17 @@ title: "Public Relations Activity Plan"
 metaTitle: "Public Relations Activity Plan | WP"
 metaDescription: "Strategize on enhance the image of the product brand and focus on influential media strategies."
 
+<<<<<<< HEAD
 tags:
 - Optimize
 - Winning Product
 - Public Relations Activity Plan
+=======
+metaTags:
+  - Harvest
+  - Public relations plan
+  - Winning Product Canvas
+>>>>>>> 4fc73f0e63db82a90ae95141da83bbbfbf7a9b24
 ---
 
 ## What

@@ -3,10 +3,17 @@ title: "Technology Revamp/Migration Plan"
 metaTitle: "Technology Revamp/Migration Plan | WP"
 metaDescription: "Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility."
 
+<<<<<<< HEAD
 tags:
 - Optimize
 - Winning Product
 - Technology Revamp/Migration Plan
+=======
+metaTags:
+  - Harvest
+  - Technology Revamp/Migration Plan
+  - Winning Product Canvas
+>>>>>>> 4fc73f0e63db82a90ae95141da83bbbfbf7a9b24
 ---
 
 ## What
