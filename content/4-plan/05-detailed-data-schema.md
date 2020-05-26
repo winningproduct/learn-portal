@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: 'Detailed Data Schema'
-metaTitle: ""
-metaDescription: ""
-subtitle: "Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc."
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/detailed-schema-deign.jpg"
-description: "Detailed data schema focuses on how to store data efficiently for retrival, analytics, cost and performance."
+metaTitle: "Detailed Data Schema | WP"
+metaDescription: "Detailed data schema focuses on how to store data efficiently for retrival, analytics, cost and performance. Defines data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc."
 
 metaTags:
   - Plan
   - Detailed Data Schema
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
