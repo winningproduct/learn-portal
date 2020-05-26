@@ -1,22 +1,14 @@
 ---
-templateKey: "model-post"
-indexingField: 8-Stabilize
 title: "Errors and Exception Handling"
 metaTitle: "Errors and exception handling | WP"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/error-and-exception-handling.jpg"
 metaDescription: "Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams."
 
 metaTags:
   - Plan
-  - Errors and exception handling
-  - Winning Product Canvas
+  - Errors and Exception Handling
+  - Winning Product 
 ---
 
-
-## What
-Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
 
 ## Why
 Regardless how well you test a product, you must anticipate and prepare for unhandled errors in production. This is due to unplanned user behavior, missed test scenario or data incompatibility. Good products should recover from errors and keep development/support teams informed with all necessary information to trace and help the users.
