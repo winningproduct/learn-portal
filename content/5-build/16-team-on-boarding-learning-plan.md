@@ -1,14 +1,8 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Team On-boarding & Learning Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Assimilating new recruits via an effective Team On-boarding & Learning Plan"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/team-onboarding.jpg"
-description: "Team On-boarding and Learning Plan refers to the process of assisting the new recruits to learn and adapt to their new job roles quickly and smoothly in order to function effectively within the organization."
+metaTitle: "Team On-boarding & Learning Plan | WP"
+metaDescription: "Team On-boarding and Learning Plan refers to the process of assisting the new recruits to learn and adapt to their new job roles quickly and smoothly in order to function effectively within the organization"
 
 metaTags:
   - Build

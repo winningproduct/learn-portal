@@ -1,14 +1,9 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Build
+published: false
 title: "Release Gate Review"
-metaTitle: ""
-metaDescription: ""
+metaTitle: "Release Gate Review | WP"
+metaDescription: "Release Gate reviews are typically acceptance criteria reviews with predefined quality criteria that a project must meet in order to proceed from one stage of its lifecycle to the next."
 subtitle: "Have enough quality gates to ensure a quality product"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/release-gates.jpg"
-description: "Release Gate reviews are typically acceptance criteria reviews with predefined quality criteria that a project must meet in order to proceed from one stage of its lifecycle to the next."
 
 metaTags:
   - Build
