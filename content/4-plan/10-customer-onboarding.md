@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Plan
 title: "Customer Onboarding"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Provide world-class experience at the customer's first product touch-point"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "img/customer-onboarding.png"
-description: "Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc."
+metaTitle: "Customer Onboarding | WP"
+metaDescription: "Provide world-class experience at the customer's first product touch-point. Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc."
 
 metaTags:
   - Plan
   - Customer onboarding
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 

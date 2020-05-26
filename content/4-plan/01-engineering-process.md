@@ -1,23 +1,18 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Project Process"
-metaTitle: ""
-metaDescription: ""
-subtitle: “Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/wpo-project-process.jpg"
-description: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
+metaTitle: "Project Process | WP"
+metaDescription: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
 
 metaTags:
   - Immerse
   - Project Process
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
 ## Why
+Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – _Winston Churchill_
+
 A process approach makes the software engineering predictable and repeatable.
 
 ## How

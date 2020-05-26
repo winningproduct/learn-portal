@@ -1,14 +1,7 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: "Digital Marketing Blueprint"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Importance of a Digital Marketing Plan"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/marketing-plan.jpg"
-description: "A digital marketing plan is a document sharing the details for all the planning for your digital marketing campaigns or actions."
+metaTitle: "Digital Marketing Blueprint | WP"
+metaDescription: "A digital marketing plan is a document sharing the details for all the planning for your digital marketing campaigns or actions."
 
 metaTags:
   - Plan

@@ -1,15 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: "6-Plan"
 title: "Delivery Pipeline"
 metaTitle: "Delivery Pipeline | WP"
-metaDescription: "Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc."
-description: "A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment."
+metaDescription: "Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc. A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment."
 
 metaTags:
   - Plan
-  - CI/CD Pipeline
-  - Winning Product Canvas
+  - Delivery Pipeline
+  - Winning Product 
 ---
 
 
