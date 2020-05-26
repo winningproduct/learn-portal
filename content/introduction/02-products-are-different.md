@@ -1,14 +1,13 @@
 ---
 title: 'Products are Different'
 metaTitle: 'Products are Different | WP'
+metaDescription: 'Software product management and engineering is a specialty and significantly different from enterprise or bespoke applications development. Below are some of the reasons for why products development is a specialty.'
 published: true
 
 metaTags:
   - Products are Different
   - Winning Product
 ---
-
-It is important to recognize that software product management and engineering is a specialty and significantly different from enterprise or bespoke applications development. Below are some of the unique areas that makes products an specialty.
 
 ### Market Activities
 Bespoke applications are usually custom made for a particular organizational context and has no complexities of sales, marketing and competition. But, such market activities are a major focal points for product development teams.
