@@ -45,20 +45,20 @@ RoI is usually immediate in a custom deployed bespoke application. In contrast, 
 ## Different Types of Products
 Product can be of different flavour depending on some factors. Strategies can slightly differ depending on the flavour, but in WP initiative we discuss strategic aspects that are common for all these different flavours.
 
-## by Deployment
+### by Deployment
 1. Packaged Software Products
 2. Software As a Service
 
-## by Modularity
+### by Modularity
 1. Stand alone Product (e.g: Trello)
 2. Product Suit (e.g.: Office 365)
 
-## By Target market
+### By Target market
 1. Enterprise
 2. Business to Consumer
 3. Business to Business
 
-## by Licensing model
+### by Licensing model
 1. Perpetual license
 2. Subscription
 3. Pay per use
