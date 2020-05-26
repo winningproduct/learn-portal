@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Data Architecture"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Define the content structure, data entities, data relationships and storage formats"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/data-architecture.jpg"
-description: "Data architecture is composed of models, policies, rules or standards that govern which data is collected, data relationships, and how it is stored, arranged, integrated, and put to use in data systems and in organizations."
+metaTitle: "Data Architecture | WP"
+metaDescription: "Data architecture is composed of models, policies, rules or standards that govern which data is collected, data relationships, and how it is stored, arranged, integrated, and put to use in data systems and in organizations."
 
 metaTags:
   - Immerse
   - Data Architecture
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
