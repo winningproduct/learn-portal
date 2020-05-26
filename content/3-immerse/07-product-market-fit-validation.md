@@ -1,23 +1,18 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Product Market Fit Validation"
-metaTitle: ""
-metaDescription: ""
-subtitle: "'The only thing that matters is getting to product-market fit' - Andreessen Horowitz"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-market-fit.jpg"
-description: "Finding product-market fit means that a startup or a business found the way to add value to a set of customers and is now ready to scale, to grow. It further means the business has found a set of customers that resonate with their product."
+metaTitle: "Product Market Fit Validation"
+metaDescription: "Finding product-market fit means that a startup or a business found the way to add value to a set of customers and is now ready to scale, to grow. It further means the business has found a set of customers that resonate with their product."
 
 metaTags:
   - Immerse
   - Product Market Fit Validation
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
 ## Why
+'The only thing that matters is getting to product-market fit' - _Andreessen Horowitz_
+
 If you want your business to succeed, you need to build products that your target customers really want. Building a product your customer really wants means you have found your product market fit.
 
 “The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers.” which is what we all want for our business.

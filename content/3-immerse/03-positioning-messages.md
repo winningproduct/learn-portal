@@ -1,20 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Positioning Messages"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Product positioning to beat out the competition"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-positioning.jpg"
-description: "The way the product is defined by consumers on important attributes. Product positioning helps to place the product in the consumer's mind relative to competing products. E.g. Car companies position their products as fast, fun, exciting, fuel efficient etc..."
+metaTitle: "Positioning Messages | WP"
+metaDescription: "The way the product is defined by consumers on important attributes. Product positioning helps to place the product in the consumer's mind relative to competing products. E.g. Car companies position their products as fast, fun, exciting, fuel efficient etc."
 
 metaTags:
   - Immerse
   - Product Positioning
   - Positioning Messages
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
