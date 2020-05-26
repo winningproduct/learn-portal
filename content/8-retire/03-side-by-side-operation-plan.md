@@ -1,7 +1,7 @@
 ---
 templateKey: "model-post"
-indexingField: 9-Optimize
-title: "Cost Optimization"
+indexingField: 11-Retier
+title: "Side by Side Operation Plan"
 metaTitle: ""
 metaDescription: ""
 subtitle: "Max word count (140)"
@@ -11,8 +11,8 @@ featuredimage: "/img/<content-main-image>.jpeg"
 description: "Max word count (160)"
 
 tags:
-  - Optimize
-  - Adward design
+  - Retire
+  - Side by side operation plan
   - Winning Product Canvas
 ---
 
@@ -24,3 +24,4 @@ Coming soon..
 
 ## References
 Coming soon..
+
