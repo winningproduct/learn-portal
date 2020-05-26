@@ -1,10 +1,7 @@
 ---
-templateKey: "model-post"
-indexingField: "4-Focus"
 title: "Technical Architecture"
 metaTitle: "Technical Architecture' | WP"
 metaDescription: "Verify if the solution is technology feasible to implement with available resources"
-date: 2019-07-25T15:04:10.000Z
 
 metaTags:
   - Focus
