@@ -1,19 +1,12 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Focus
 title: "Product Architecture"
-metaTitle: ""
-metaDescription: ""
-subtitle: "What is product architecture"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/software-architecture.jpg"
-description: "Product architecture defines how the granular software components are engineered and organized together in a software deployment echo system to achieve the optimal value delivery of the features in demand. The product architecture disciplines shall mainly be governed by the product development requirements under the moderation of industry best practices associated with the selected technologies, services and relevant regulations."
+metaTitle: "Product Architecture | WP"
+metaDescription: "Product architecture defines how the granular software components are engineered and organized together in a software deployment echo system to achieve the optimal value delivery of the features in demand. The product architecture disciplines shall mainly be governed by the product development requirements under the moderation of industry best practices associated with the selected technologies, services and relevant regulations."
 
 metaTags:
   - Focus
   - Product Architecture
-  - Winning Product Canvas
+  - Winning Product 
 ---
 
 
@@ -29,22 +22,22 @@ The product architecture blue print is an essential early starter to determine t
 ## How
 This will be described mainly using the 4+1 architectural view model.
 
-- Use Case Diagram
+### Use Case Diagram
   Main functionalities and users of the system will be described using a use case diagram.
 
-- High level overview of the system
+### High level overview of the system
   This depicts the intended users or client applications, the system being built, and the external systems are being accessed in a diagram.
 
-- Architecture Diagram of the System
+### Architecture Diagram of the System
   This needs to show key architectural components of the system
   e.g. Monolithic system with N layered architecture, A micro services-based system to be accessed by external banking systems
 
-- Deployment Diagram/Physical View
+### Deployment Diagram/Physical View
   How system should be deployed is shown using a deployment diagram. This shows the machine hardware configurations and operating system and installed software’s as prerequisites. If load balancers, firewalls or clustered nodes are used, those should be shown as part of the below diagram.
 
 Technical and Non-Technical Aspects
 
-- Core Technical Components
+### Core Technical Components
 
   - Authentication and Authorization
   - Exception Handling
@@ -53,7 +46,7 @@ Technical and Non-Technical Aspects
   - Persistence
   - Inter process communication
 
-- Non-Functional Requirements
+### Non-Functional Requirements
   - User interfaces requirements
   - Performance requirements (i.e. Response time, load time, number of concurrent users, growth rate, data volume)
   - Data migration requirements/backups
