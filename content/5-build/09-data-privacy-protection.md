@@ -10,14 +10,10 @@ metaTags:
   - Winning Product Canvas
 ---
 
-
 ## Why
-
-There are two drivers for why data privacy is one of the most significant issues in our industry. Data is one of the most important assets a company has. With the rise of the data economy, companies find enormous value in collecting, sharing and using data. The transparency in how businesses request consent, abide by their privacy policies, and manage the data that they’ve collected is vital to building trust and accountability with customers and partners who expect privacy. Secondly, privacy is the right of an individual to be free from uninvited surveillance. To safely exist in one’s space and freely express one’s opinions behind closed doors is critical to living in a democratic society.
-
+Data and customers are vital assets to a company.  Data that is collected from customers must be handled carefully with transparence and ahereing to privacy policies thereby building the trust and accountability with your customers.
 
 ## How
-
 As a business how do we ensure the protection of data privacy? Here are some guidelines that may help you.
 
 - Integrate training on data privacy into the general training program to prevent social engineering attacks
