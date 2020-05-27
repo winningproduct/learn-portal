@@ -2,7 +2,7 @@
 published: false
 title: "Technical Debt Management"
 metaTitle: "Technical Debt Management | WP"
-metaDescription: "Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer"
+metaDescription: "There is an additional rework down the line when choosing the easy solution instead of the better approach. The additional rework is referred to as Technical debt."
 
 metaTags:
   - Build
@@ -12,8 +12,6 @@ metaTags:
 
 ## Why
 Technical debt is a form of accumulated bugs or technical shortcuts used during development. This should be managed during the product life cycle. This does not imply that there should be zero technical debt. This is more about managing product code deficiencies in a more effective manner that add value to business & product.
-
-Technical debt can be thought of as a design strategy. The financial metaphor is apt because, as with finances, getting into debt in software development by optimizing short-term goals creates tangible value. It represents a trade-off, a choice of one option over another. But selection of this option must be managed through the duration of the project, with a clear understanding of the penalties that result. The danger lies in choosing the option and making the trade-off, but then forgetting about, ignoring, or underestimating the consequences.
 
 ## How
 
