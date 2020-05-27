@@ -1,7 +1,7 @@
 ---
 title: "Build"
-metaTitle: "Build"
-metaDescription: "Build"
+metaTitle: "Build | WP"
+metaDescription: "Validate the Primary Assumptions"
 published: true
 ---
 

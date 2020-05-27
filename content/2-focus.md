@@ -1,7 +1,7 @@
 ---
 title: "Focus"
-metaTitle: "Focus"
-metaDescription: "Focus"
+metaTitle: "Focus | WP"
+metaDescription: "Select a specialization to target"
 published: true
 ---
 

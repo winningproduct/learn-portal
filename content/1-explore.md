@@ -1,7 +1,7 @@
 ---
 title: "Explore"
-metaTitle: "Explore"
-metaDescription: "Explore"
+metaTitle: "Explore | WP"
+metaDescription: "Consider diverse alternatives"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize"
-metaTitle: "Optimize"
-metaDescription: "Optimize"
+metaTitle: "Optimize | WP"
+metaDescription: "Fine tune the product to achieve the maximum output"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Retire"
-metaTitle: "Retire"
-metaDescription: "Retire"
+metaTitle: "Retire | WP"
+metaDescription: "Consider to distrupt with a new generation product"
 published: true
 ---
 

@@ -89,7 +89,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://winningproduct.com/';
+      const finalLogoLink = logo.link !== '' ? logo.link : 'https://learn.winningproduct.com/';
 
       return (
         <div className={'navBarWrapper'}>

@@ -1,7 +1,7 @@
 ---
 title: "Harvest"
-metaTitle: "Harvest"
-metaDescription: "Harvest"
+metaTitle: "Harvest | WP"
+metaDescription: "Operate with highest return on investment"
 published: true
 ---
 

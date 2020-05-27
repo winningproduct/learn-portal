@@ -1,7 +1,7 @@
 ---
 title: "Immerse"
-metaTitle: "Immerse"
-metaDescription: "Immerse"
+metaTitle: "Immerse | WP"
+metaDescription: "Dig deep and understand the solution"
 published: true
 ---
 

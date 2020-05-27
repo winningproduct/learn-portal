@@ -1,7 +1,7 @@
 ---
 title: "Plan"
-metaTitle: "Plan"
-metaDescription: "Plan"
+metaTitle: "Plan | WP"
+metaDescription: "Strategize the agility of project execution"
 published: true
 ---
 
