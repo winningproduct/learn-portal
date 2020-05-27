@@ -2,7 +2,7 @@
 published: false
 title: "Lead Capture/CMS"
 metaTitle: "Lead Capture/CMS | WP"
-metaDescription: "In most CRM systems, the term lead capture designates a process of saving lead information in order to attempt converting the lead to a paying customer. An example of a lead capture page or a lead capture form is a newsletter subscription or a quote request form on a website. Lead name, email address and phone numbers are usually captured, although complex web forms may contact much more information, such as company size, industry, title of the person, postal address and so on."
+metaDescription: "Lead capture refers to the process of converting a lead to a paying customer. Companies capture details of the leads such as name, email and phone numbers Newsletters and lead capture forms to follow up with them. Most CRM systems helps in lead capturing process."
 
 metaTags:
   - Build
@@ -12,7 +12,7 @@ metaTags:
 
 
 ## Why
-A lead is simply the contact information of a prospective customer or action taker. Capturing customer details allows you to continue to market to them as they move down your funnel, where you can educate, build trust and convert your visitors into customers.
+It is vital to identify your leads, which can be your prospective customers, and convince them to become actual customers. The process should include building the trust of the leads by educating them about your product and how it solves them. 
 
 ## How
 Most common lead capture mechanisms are as follows. You may use a tool like Hubspot to help you in the process.

@@ -179,8 +179,6 @@ Your product is now cash cow. Milk it the maximum while you can.
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 #### Continuous improvement strategy??
 Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines. 
-#### Feature Usage Analysis
-- How can you calculate feature usage so that you are left with clear, actionable insights.
 #### Monitoring and Incident Management
 - Monitor system health, detect and alert about system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware.
 #### Hot-fix Process #DeliveryProcess
