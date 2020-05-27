@@ -11,13 +11,6 @@ metaTags:
 ---
 
 
-## What
-
-Understand the data protection policies in target markets. Device strategies for data segregation and limiting access to production data.
-
-Data privacy or information privacy is a branch of data security concerned with the proper handling of data – consent, notice, and regulatory obligations. More specifically, practical data privacy concerns often revolve around whether or how data is shared with third parties, how data is legally collected or stored and regulatory restrictions such as GDPR, HIPAA, GLBA, or CCPA.
-
-
 ## Why
 
 There are two drivers for why data privacy is one of the most significant issues in our industry. Data is one of the most important assets a company has. With the rise of the data economy, companies find enormous value in collecting, sharing and using data. The transparency in how businesses request consent, abide by their privacy policies, and manage the data that they’ve collected is vital to building trust and accountability with customers and partners who expect privacy. Secondly, privacy is the right of an individual to be free from uninvited surveillance. To safely exist in one’s space and freely express one’s opinions behind closed doors is critical to living in a democratic society.
