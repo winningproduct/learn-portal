@@ -1,14 +1,10 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
+published: false
 title: "Megatrend Analysis"
-metaTitle: ""
-metaDescription: ""
-subtitle:  Megatrend analysis helps answer the question "What is happening?"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/Persona.png"
-description: Megatrends are long-term changes that impact us all globally on a permanent basis. A megatrend is not a short-term fad, rather it is a trend with longevity, one which represents a fundamental shift in behaviour that is defining consumer markets. Some of the megatrend drivers are Technology shifts, Shifts in economic power, Environmental shifts, Population change, Value changes etc...
+metaTitle: "Megatrend Analysis | WP"
+metaDescription: "Megatrends are long-term changes that impact us all globally on a permanent basis. 
+Megatrend is not a short-term phenomenon. It represents behavioral change over the cause of time in consumer markets.
+Some of the megatrend drivers are Technology shifts, Shifts in economic power, Environmental shifts, Population change, Value changes etc..."
 
 metaTags:
   - Explore
@@ -18,7 +14,7 @@ metaTags:
 
 
 ## Why
-An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analysing and acting in accordance with megatrends is essential for success in the market. Using megatrend analysis companies can develop proactive long-term strategies and apply them to their own growth strategy
+An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analyzing, and acting in accordance with megatrends is essential for success in the market. Using megatrend analysis companies can develop proactive long-term strategies and apply them to their own growth strategy.
 
 ## How
 Three-step megatrend analysis:
