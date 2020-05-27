@@ -1,7 +1,7 @@
 ---
 title: "Architecture Blueprint"
 metaTitle: "Architecture Blueprint | WP"
-metaDescription: "Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using the same versioning as DevOps team uses for source code. Like the principle that the same source code generates the same binary, an IaC model generates the same environment every time it is applied. IaC is a key DevOps practice and is used in conjunction with continuous delivery."
+metaDescription: "Infrastructure as Code refers to automate the entire infrastructure of a software system using code. This includes automatic configuration of  virtual networks, VMs, load balancers and other systems used in the software. It is a primary area of DevOps that contributes to Continuous Delivery."
 
 metaTags:
   - Plan
@@ -11,11 +11,11 @@ metaTags:
 
 
 ## Why
-Many applications today are quite complicated and require a load balancer, one or more web servers, database servers, and queue processing systems. A systems administrator spends hours provisioning and managing these interlocking systems. IaC reduces that time window to mere minutes and usually happens automatically! Engineers define the basic building blocks necessary for their application, and the IaC framework does the work to shape the environment correctly. The framework does this by provisioning virtual servers, installing software packages, creating users or starting code processes.
+Today enterprise applications are getting complex and use varity of resources behind the scenes e.g. Load balancers, Queues, Data Stores etc.. Manual configuration and provision of these resources are tedious and time consuming for System administrators. Infrastructure As Code enables system administrators to automate the configuration and provisioning process thereby it reduces the human errors and saves the time.
 
 ## How
 
-You can use an appropriate IaC tool/framework. Following configuration orchestration and management tools can be used to implement Infrastructure as Code and help you automate your infrastructure.
+You can use a suitable IaC tool/framework. There are open source and propriatory available. Following configuration orchestration and management tools can be used to implement Infrastructure as Code and help you automate your infrastructure.
 
 - Terraform
   - Terraform is an infrastructure provisioning tool created by Hashicorp. It allows you to describe your infrastructure as code, creates “execution plans” that outline exactly what will happen when you run your code, builds a graph of your resources, and automates changes with minimal human interaction.
