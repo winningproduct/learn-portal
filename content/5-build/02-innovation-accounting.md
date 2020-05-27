@@ -2,8 +2,7 @@
 published: false
 title: "Innovation Accounting"
 metaTitle: "Innovation Accounting | WP"
-metaDescription: "Innovation Accounting is a way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero. In general, it refers to ways to communicate the process and progress of innovation projects through relevant KPIs (key performance indicators)."
-subtitle: "A way of evaluating progress when all the metrics typically used in an established company (revenue, customers, ROI, market share) are effectively zero - Eric Ries"
+metaDescription: "Innovation Accounting refers to the process that evaluates the progress of innovation projects through relevant Key Performance Indicators(KPIs)"
 
 metaTags:
   - Build
@@ -13,7 +12,7 @@ metaTags:
 
 
 ## Why
-Typical business projects are executing the business plan and doing that in relatively known environments using KPIs that are developed to measure their performance. Innovation projects, however, are looking for sustainable business models in unfamiliar environments and are often pushed into using the same KPIs as other business projects. Because of different natures of the projects, we believe companies should separate those 2 activities as much as possible and develop a tailored set of KPIs suitable for innovation projects.
+Innovation project KPIs should be separated from the general business project KPIs to identify the business opportunities of unfamiliar environments. These KPIs should be defined and tailored to suit with each innovation project
 
 ## How
 
