@@ -1,7 +1,7 @@
 ---
 title: "Technical Feasibility"
 metaTitle: "Technical Feasibility | WP"
-metaDescription: "Answer the question 'Can it actually be built?'. Technical feasibility assessment focuses on the technical resources available to the organization. It helps organizations determine whether the technical resources meet capacity and whether the technical team is capable of converting the ideas into working systems. Technical feasibility also involves the evaluation of the hardware, software, and other technical requirements of the proposed system."
+metaDescription: "Answer the question, 'Can it be built?'. It helps to evaluate the technical team's capacity, hardware and software requirements, and other requirements for the proposed application"
 
 metaTags:
   - Focus
@@ -12,7 +12,7 @@ metaTags:
 
 ## Why
 
-The problem with technology is that everything works perfectly on marketing slides, but when you get the technology in-house it is often a very different story. As a result, alternatives for each technology, if any, should be identified. Note that to do a reasonable assessment that you may need to do a mini-project and build a proof-of-concept prototype that verifies that the technologies work together
+It is essential to verify the selected technologies are feasible enough to build the proposed system. Make sure to create Proof of Concept (POC) application with the selected technologies. It will help to identify any issues and suggest alternatives for each technology.
 
 ## How
 
