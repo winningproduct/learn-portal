@@ -9,15 +9,12 @@ metaTags:
   - Winning Product Canvas
 ---
 
-## What
-_Strategize on enhance the image of the product brand and focus on influential media strategies_
-
 ## Why
 Earning trust of the marketplace, establish relationships within product ecosystem, and create branding awareness, all while doing business with customers and social media marketing, but with lower costs than traditional advertising
 
 ## How
 
-Types of relationships
+### Types of relationships
 - Customer relations
 - Media relations
 - Investor relations
@@ -27,7 +24,7 @@ Types of relationships
 - Crisis Communication
 - Corporate Social Responsibility
 
-PR Activities
+### PR Activities
 - Press release
 - Events
 - Partnerships
