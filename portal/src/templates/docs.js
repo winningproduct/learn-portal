@@ -107,7 +107,6 @@ export default class MDXRuntimeTest extends Component {
           {isDraft? (<Draft></Draft>) : null}
           <blockquote style={{fontSize: "20px"}}><i>{metaDescription}</i></blockquote>
           <MDXRenderer>
-            {/* <h1>Hi Manoj</h1> */}
             {mdx.body}
           </MDXRenderer>
         </StyledMainWrapper>
