@@ -11,7 +11,7 @@ metaTags:
 
 ## Why
 
-Platform migration is about salvaging what ever possible from the old system. Components need to be reused as much as possible to avoid the pitfall of reinventing the wheel. 'Recycle' is the key word here. You should reuse anything that can be salvaged from the legacy system to avoid reinventing the wheel. Why you would have components which are worthy of migrating in the first place is, that despite the technology improvements, your business logic is likely remain the same. In otherworld, if your new products intends to solve the same problem then it is likely that there will be core business logic components which can easily work in the new system. Technologies might change, but the domain driven core business logic may not change. 
+Platform migration is about salvaging what ever possible from the old system. Reuse components to avoid the pitfall of reinventing the wheel. 'Recycle' is the key word here. You should reuse anything that can be salvaged from the legacy system to avoid reinventing the wheel. Why you would have components which are worthy of migrating in the first place is, that despite the technology improvements, your business logic is likely remain the same. In otherworld, if your new products intends to solve the same problem then it is likely that there will be core business logic components which can easily work in the new system. Technologies might change, but the domain driven core business logic may not change. 
 
 Contrary to the popular belief, the existence of migratable/reusable components is actually a good thing. What this actually proves is that your existing code is robust and can stand the test of time. There is no shame in using good old code. 
 
