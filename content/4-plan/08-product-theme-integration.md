@@ -1,7 +1,7 @@
 ---
 title: "Product Theme Integration"
 metaTitle: "Product Theme Integration | WP"
-metaDescription: "Themes are groups with similar characteristics, epics or initiatives. Ideally, the themes describe the value of the client - what the clients receive or the job you perform. For example, “Improving the shopping cart experience” is an example of a customer oriented theme, in this theme you group initiatives that support it.
+metaDescription: "Themes are groups with similar characteristics, epics or initiatives. Ideally, the themes describe the value of the client - what the clients receive or the job you perform. For example, “Improving the shopping cart experience” is an example of a customer oriented theme, in this theme you group initiatives that support it."
 
 metaTags:
   - Plan
