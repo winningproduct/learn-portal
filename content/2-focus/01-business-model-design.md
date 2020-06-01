@@ -1,7 +1,7 @@
 ---
 title: "Business Model Design"
 metaTitle: "Business Model Design | WP"
-metaDescription: "A business model is a visualization of how a company plans to operate, create value and make money. In other words, it answers the question of how a company CREATES VALUE for ITSELF while delivering great products or services to its customers. The traditional business model consists of nine cells that capture all aspects of a business. Information in these nine cells can be used to describe different companies from a startup to a large enterprise."
+metaDescription: "A business model is a visualization of how a company plans to operate, create value and make money. The popular business model canvas consists of nine cells that capture different aspects of a business. Business model canvas can be used to describe different companies from a startup to a large enterprise."
 published: true
 
 metaTags:
