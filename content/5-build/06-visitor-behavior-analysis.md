@@ -2,7 +2,7 @@
 published: false
 title: "Visitor Behaviour Analysis"
 metaTitle: "Visitor Behaviour Analysis | WP"
-metaDescription: "Visitor behavior analysis is a method of conducting qualitative research on visitors’ website behavior. Visitor behavior analysis involves employing multiple qualitative tools that help you track your website’s performance, understand website visitors’ on-site behavior, identify experience breakages, connect with individual visitors for feedback and suggestions, and then utilize all the insights to optimize the site-wide experience."
+metaDescription: "Visitor behaviour analysis refers to conducting qualitative analysis of behaviours of the website visitors. It involves installing a qualitative tool to track website peformance, understand visitor experience issues, connect with the visitors for feedbacks and suggesstions and utilize all the insights to optimize the visitor experience"
 
 metaTags:
   - Build
@@ -10,9 +10,8 @@ metaTags:
   - Winning Product Canvas
 ---
 
-
 ## Why
-Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. It empowers you to step into your visitors’ shoes, see what they saw, experience what they experienced and draw actionable insights from them which can be tested and deployed in the optimization stage. Whenever a visitor visits your website, visitor behavior analysis assumes the role of website visitor tracking software and maps their entire journey online. The result of the analysis can be used to,
+Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. The result of the analysis can be used to,
 
 - Segment audience based on common traits
 - Build a stellar website experience
@@ -26,10 +25,10 @@ Visitor behavior analysis helps you answer behavioral questions about your visit
 Following are the commonly used methods for visitor behaviour analysis.
 
 - Session Recording
-  - Session recording enables you to record user and visitor sessions on your website which is later analyzed to dig insights on how visitors interact with your website.
+  - Records user and visitor sessions on your website which is later analyzed to dig insights on how visitors interact with your website.
 - Website Heatmap
   - Heatmaps
-    - Heatmaps help you understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why are my users not converting?' or 'how do I get more visitors to take action?' Using heat-maps, you can determine if people are;
+    - Helps to understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why are my users not converting?' or 'how do I get more visitors to take action?' Using heat-maps, you can determine if people are;
       - Reaching important content or failing to see it
       - Finding and using a page's main links, buttons, and CTAs
       - Getting distracted by non-clickable elements
@@ -38,12 +37,10 @@ Following are the commonly used methods for visitor behaviour analysis.
   - Mouse tracking heatmaps
   - Eye tracking heatmaps
 - Website Surveys
-  - Website (intercept) surveys are the most direct way of getting site visitors’ feedback and gauging the kind of experience they had on your website.
     - Pop-up website surveys
     - Widget surveys
     - Collapsible pop-up surveys
 - Website Form Analytics
-  - Website form analytics provides conversion-centric information regarding the performance of your website’s forms by track metrics like interaction time, hesitation time, abandonment rate, total time spent, and so on for each field of the forms.
 
 ## References
 

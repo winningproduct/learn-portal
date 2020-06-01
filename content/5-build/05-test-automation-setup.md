@@ -2,7 +2,7 @@
 published: false
 title: "Test Automation Setup"
 metaTitle: "Test Automation Setup | WP"
-metaDescription: "Automated Testing is a software testing technique which can test and compare the actual outcome against the expected result. Test automation requires considerable about of human involevement until the test suite is created. Once the test suite is created no human intervention is needed. So this reduces the time and cost of testing"
+metaDescription: "Automated Testing is a software testing technique which can test and compare the actual outcome against the expected result. Test automation requires considerable about of human involvement until the test suite is created. Once the test suite is created no human intervention is needed. So this reduces the time and cost of testing"
 
 metaTags:
   - Build
@@ -11,7 +11,7 @@ metaTags:
 ---
 
 ## Why
-Businesses are nowadays adopting DevOps and Cloud Computing. DevOps makes the team agile as well as focuses on delivering value and changing the dynamics of development, operation, and quality assurance teams. Cloud computing has changed software in service. To increase the effectiveness of DevOps adoption requires the knowledge of Automation Testing. Automation testing is the management and performance of test activities, to include the development and execution of test scripts so as to verify test requirements, using an automation testing tool. It helps in the comparison of actual outcomes with predicted outcomes. Thus, automation testing has become an indispensable part of quality assurance. Automation testing helps team reduce human error during repetitive testing. In a world where continuous release and testing is increasingly becoming the norm, it is vital that the test activities must be performed accurately and efficiently. Automation testing also reduces time consumption of testing, as it is faster than human testing and an execution can be triggered multiple times immediately one after another and sometimes in parallel.
+Businesses are nowadays adopting DevOps and Cloud Computing. DevOps makes the team agile as well as focuses on delivering value and changing the dynamics of development, operation, and quality assurance teams. Cloud computing has changed software in service. To increase the effectiveness of DevOps adoption requires the knowledge of Automation Testing. Automation testing helps team reduce human error during repetitive testing. In a world where continuous release and testing is increasingly becoming the norm, it is vital that the test activities must be performed accurately and efficiently. Automation testing also reduces time consumption of testing, as it is faster than human testing and an execution can be triggered multiple times immediately one after another and sometimes in parallel.
 
 When automating test cases the selection should be based on the following criteria
 

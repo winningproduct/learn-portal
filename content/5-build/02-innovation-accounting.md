@@ -10,24 +10,21 @@ metaTags:
   - Winning Product Canvas
 ---
 
-
 ## Why
 Innovation project KPIs should be separated from the general business project KPIs to identify the business opportunities of unfamiliar environments. These KPIs should be defined and tailored to suit with each innovation project
 
 ## How
 
-Dan Toma & Tendayi Viki (authors of The Corporate Startup) are suggesting corporations use 3 levels of KPIs each tailored for different level innovation stakeholder.
+According to Dan Toma & Tendayi Viki (authors of The Corporate Startup) there exists 3 levels of KPIs.
 
 - Reporting KPIs
-
-  - Designed to measure the progress of incubated new ventures from ideation through to product-market fit.
+  - Measure the progress of new ventures from ideation through to product-market fit
 
 - Governance KPIs
-
-  - Helping paint a better picture for the board members as to whether or not to continue investing in particular ventures. Note: at this level, some companies will push innovation projects towards NPV calculations. Surprise, but there is an accounting way to valuate the innovation projects while taking into account the risky environments that they operate in. David Binetti explains how innovation accounting can be used for estimating NPVHEs in a 20-minute video.
+  - Helps to identify whether or not to continue investing in particular ventures. 
 
 - Global KPIs
-  - These examine the overall performance of the innovation department within the context of the larger business.
+  - Measure the overall progress of the innovation projects under the context of the larger business
 
 ## References
 

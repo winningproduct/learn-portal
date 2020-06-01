@@ -23,12 +23,12 @@ A web optimization plan helps to attact more customers to your website by optimi
 Following steps can be taken to optimize your website for search engines. 
 
 - Make a list of topics.
-- Make a list of long-tail keywords based on these topics.
+- Make a list of keywords based on these topics.
 - Build pages for each topic.
 - Set up a blog.
 - Blog every week to develop page authority.
 - Create a link-building plan.
-- Compress all media before putting it on your website.
+- Compress media content before putting it on your website.
 - Stay current on SEO news & practices.
 - Measure and track your content's success.
 

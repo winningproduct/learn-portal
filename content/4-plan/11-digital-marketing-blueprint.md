@@ -11,13 +11,13 @@ metaTags:
 
 
 ## Why
-Exponential digital growth across the world means that a strong focus on digital marketing is required right from the start. Why? Because digital marketing transcends physical borders. More and more of your consumers are online and a good digital marketing strategy will allow you to reach a global marketplace from anywhere in the world, for less money than traditional marketing. More importantly, you can get to know your audience personally and track responses to your marketing efforts - immediately. You can then realign your marketing according to responses to ensure a fully optimised digital marketing strategy.
+Exponential digital growth across the world means that a strong focus on digital marketing is required right from the start. Why? Because digital marketing transcends physical borders. A good digital marketing strategy will allow you to reach a global marketplace from anywhere in the world, for less money than traditional marketing. More importantly, you can get to know your audience personally and track responses to your marketing efforts - immediately. You can then realign your marketing according to responses to ensure a fully optimised digital marketing strategy.
 
 ## How
 
 - Build your customer personas
 
-  - You can’t start on a marketing strategy if you don’t know who you’re marketing to! Try and be as detailed as possible here, define quantitative demographics (age, gender, location, income, job title, etc.) and qualitative information (tastes, needs, preferences), and create a detailed profile for each of your personas. Here’s a tool that could [help](https://blog.hubspot.com/marketing/create-buyer-persona-makemypersona)
+  - You can’t start on a marketing strategy if you don’t know who you’re marketing to!  Define quantitative demographics (age, gender, location, income, job title, etc.) and qualitative information (tastes, needs, preferences), and create a detailed profile for each of your personas. Here’s a tool that could [help](https://blog.hubspot.com/marketing/create-buyer-persona-makemypersona)
 
 - Identify your goals and tools
 
@@ -25,7 +25,7 @@ Exponential digital growth across the world means that a strong focus on digital
 
 - Evaluate your existing digital channels
 
-  - Your channels consist of owned, earned and paid media. Gather what you have, and categorize each channel in a spreadsheet, so you have a clear picture of your existing owned, earned, and paid media. Your digital marketing strategy ideally would incorporate elements of all three channels, all working together to help you reach your goal.
+  - Your channels consist of owned, earned and paid media. Gather what you have, and categorize each channel, so you have a clear picture of your existing owned, earned, and paid media. Your digital marketing strategy ideally would incorporate elements of all three channels, all working together to help you reach your goal.
 
 - Plan and review your content
 

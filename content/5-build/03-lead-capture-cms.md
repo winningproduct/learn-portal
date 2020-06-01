@@ -10,21 +10,20 @@ metaTags:
   - Winning Product Canvas
 ---
 
-
 ## Why
 It is vital to identify your leads, which can be your prospective customers, and convince them to become actual customers. The process should include building the trust of the leads by educating them about your product and how it solves them. 
 
 ## How
-Most common lead capture mechanisms are as follows. You may use a tool like Hubspot to help you in the process.
+Following are the most common ways to capture leads. You may use a tool like Hubspot to help you in the process.
 
 - Web to lead
   - Make use of a lead capture page or a lead capture form in your website.
 - Call to lead
-  - An incoming phone call to a company's number is automatically entered as a new lead, unless it's already in the database
+  - An phone call to a company's number is automatically entered as a new lead, unless it's already in the database
 - Email to lead
-  - An incoming email to a company's email address (such as info@company.com or sales@company.com) is automatically entered as a new lead, unless it's already in the database.
+  - An  email to a company's email address is automatically entered as a new lead, unless it's already in the database.
 - Social to lead
-  - An incoming message, question or comment via social network or messenger (such as Facebook, Twitter, Slack, Skype, WhatsApp) is automatically entered as a new lead, unless it's already in the database
+  - An incoming message, question or comment via social network or messenger is automatically entered as a new lead, unless it's already in the database
 
 ## References
 
