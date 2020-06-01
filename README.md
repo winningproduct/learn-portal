@@ -65,7 +65,7 @@ Now that you have explored different avenues, start locking-down on a specific a
 ## Immerse (Dig deep and understand the solution)
 Analyze deep in to the focused area to elaborate details required for solving the problem.
 #### Brand Guide
-- Define the brand personality of the product including visual theme, logo, name, etc.
+- Define the brand personality of the product including composition, design & visual theme, general look-and-feel, logo, name, etc.
 #### Data Architecture #DataModel 
 - Define the content structure, data entities, data relationships, storage formats
 #### Positioning Message
