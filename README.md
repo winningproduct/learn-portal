@@ -67,7 +67,7 @@ Analyze deep in to the focused area to elaborate details required for solving th
 #### Brand Guide
 - Define the brand personality of the product including composition, design & visual theme, general look-and-feel, logo, name, etc.
 #### Data Architecture #DataModel 
-- Define the content structure, data entities, data relationships, storage formats
+- Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed.
 #### Positioning Message
 - Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
 #### Engineering Estimation #CostBook 
