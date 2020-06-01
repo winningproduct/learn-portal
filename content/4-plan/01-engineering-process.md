@@ -1,7 +1,7 @@
 ---
 title: "Project Process"
 metaTitle: "Project Process | WP"
-metaDescription: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
+metaDescription: "It is a set of related activities that helps to produce a product or a service. It can be divided into different phases to manage and improve the product and the project team"
 
 metaTags:
   - Immerse
@@ -11,7 +11,7 @@ metaTags:
 
 
 ## Why
-Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – _Winston Churchill_
+"Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – _Winston Churchill_
 
 A process approach makes the software engineering predictable and repeatable.
 

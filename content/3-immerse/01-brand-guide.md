@@ -1,7 +1,7 @@
 ---
 title: "Brand Guide"
 metaTitle: "Brand Guide | WP"
-metaDescription: "Brand guidelines, also known as a brand style guide, govern the composition, design, and general look-and-feel of a company's branding. Brand guidelines can dictate the content of a logo, blog, website, advertisement, and similar marketing collateral."
+metaDescription: "Brand guide refers to the composition, design, and general look-and-feel of a company's branding. Brand guidelines can dictate the content of a logo, blog, website, advertisement, and similar marketing collateral."
 
 metaTags:
   - Immerse

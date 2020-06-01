@@ -1,7 +1,7 @@
 ---
 title: "Product Market Fit Validation"
 metaTitle: "Product Market Fit Validation"
-metaDescription: "Finding product-market fit means that a startup or a business found the way to add value to a set of customers and is now ready to scale, to grow. It further means the business has found a set of customers that resonate with their product."
+metaDescription: "Finding product-market fit means that a business has found a way to serve their customers with more value additions and it also has found a set of customers that resonate with their product."
 
 metaTags:
   - Immerse
@@ -13,18 +13,18 @@ metaTags:
 ## Why
 'The only thing that matters is getting to product-market fit' - _Andreessen Horowitz_
 
-If you want your business to succeed, you need to build products that your target customers really want. Building a product your customer really wants means you have found your product market fit.
+If you want your business to succeed, you need to build products that your target customers really want.
 
 “The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers.” which is what we all want for our business.
 
 ## How
 
-According to Steve Blank, there are four stages before finding a product-market fit — four stages that a startup business has to pass through, to discover the scale potential of its business model. These stages are:
+There are four stages of product market fit.
 
 - Stage 1
-  - The Customer Discovery at which you get ready to sell. In this stage you prepare your company for scalability, you create a road-map and develop a high fidelity MVP, based on your customer’s feedback.
+  - Discover your customers and get their feedback about the product/service that you are going to produce.
 - Stage 2
-  - The Customer Validation where you get out of the building. When you start “test selling.”
+  - Test your product with the customers to make sure it really resonates with them
 - Stage 3
   - The Customer Creation where you develop positioning and decide on your brand and product positioning.
 - Stage 4

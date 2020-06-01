@@ -15,7 +15,7 @@ metaTags:
 The ultimate goal is to identify positions in the market that represents unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from the competition.
 
 ## How
-Marketers must take into account each of the following when positioning.
+Following areas should be considered when positioning a product or service
 
 - Premise
   - Companies often must be willing to lose customers when position a product. E.g. When a radio station changes formats they will create a new position, often lose current listeners.

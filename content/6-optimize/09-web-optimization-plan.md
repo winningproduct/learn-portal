@@ -17,10 +17,10 @@ metaTags:
 ---
 
 ## Why
-An SEO strategy is essential to help generate organic, qualified leads to your website. By optimizing a web page around topics, then keywords within that topic, you can increase your expertise in the eyes of a search engine and rank well for long-tail keywords related to that topic.
+A web optimization plan helps to attact more customers to your website by optimizing web pages with keywords, meta descriptions and titles releavant to the web site content. That will help boost the website ranking on popular search engine and your customers can easily find your website.
 
 ## How
-Here are nine steps you can take to make sure all of your SEO bases are covered:
+Following steps can be taken to optimize your website for search engines. 
 
 - Make a list of topics.
 - Make a list of long-tail keywords based on these topics.

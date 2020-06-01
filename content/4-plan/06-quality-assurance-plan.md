@@ -1,7 +1,7 @@
 ---
 title: "Quality Assurance Plan"
 metaTitle: "Quality Assurance Plan"
-metaDescription: "A quality assurance plan is a document, constructed by the project team, meant to ensure the final products are of the utmost quality. A quality assurance plan contains a set of documented activities meant to ensure that customers are satisfied with the goods or services a company provides."
+metaDescription: "Project teams creates QA plan document to ensure the quality of their software product. The document consists different activities to make sure the customers are satisfied with product or service that the team is building"
 
 metaTags:
   - Plan
@@ -10,11 +10,11 @@ metaTags:
 ---
 
 ## Why
-Quality Assurance Plan is a critical part of any project, as it enables to agree a set of quality targets with the customers. It helps to;
+QA plan is critically important to ensure the quality of the product or service.  It helps to,
 
 - Encourage consume trust and confidence in the business and helps the business compete with others in the same market.
 - Monitoring and controlling the level of quality which further indicates the level of adherence to the targets.
-- Direct and facilitate the establishment of quality assurance activities within process used to deliver right product and services to the client.
+- Helps to  establish quality assurance activities within process used to deliver right product and services to the client.
 - Enhance the quality of the product.
 - Describes the specific document standards, practices, procedures to be applied within the process used to deliver.
 - Objects to be addressed.

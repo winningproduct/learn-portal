@@ -1,7 +1,7 @@
 ---
 title: "Product Roadmap"
 metaTitle: "Product Roadmap"
-metaDescription: "A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. A roadmap is a guiding strategic document as well as a plan for executing the strategy."
+metaDescription: "A product roadmap is a document that states how is your business going to execute the strategy in order to achieve the goals and the vision of your company"
 
 metaTags:
   - Immerse
