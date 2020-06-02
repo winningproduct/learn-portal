@@ -70,10 +70,10 @@ Analyze deep in to the focused area to elaborate details required for solving th
 - Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed.
 #### Positioning Message
 - Positioning Messages is a concrete message to test against the target market. It could be a tagline, short pitch, or a ad messages. This will eventually be the way that the product is defined by consumers on important attributes.
-#### Engineering Estimation #CostBook 
-- Estimate the development efforts for functional and non-functional features
+#### Engineering Estimations #CostBook 
+- Estimate the development efforts for functional and non-functional features.
 #### Operational Estimations #CostBook 
-- Estimate for production implementation, training and running cost estimations in operation
+- Estimate for production implementation, training and running cost estimations in operation.
 #### High Fidelity Prototype
 - Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
 #### Product Market Fit Validation
