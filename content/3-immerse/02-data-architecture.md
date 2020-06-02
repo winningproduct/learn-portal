@@ -2,11 +2,12 @@
 title: "Data Architecture"
 metaTitle: "Data Architecture | WP"
 metaDescription: "Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed."
+published: true
+documentation: "DataModel"
 metaTags:
   - Immerse
   - Data Architecture
   - Winning Product
-  - DataModel
 ---
 
 

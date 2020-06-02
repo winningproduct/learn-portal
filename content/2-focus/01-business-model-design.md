@@ -65,11 +65,7 @@ Now the left side of the business model is defined. The left section is inward-f
 ## References
 
 - [How to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
-
 - [Business model](https://www.investopedia.com/terms/b/businessmodel.asp)
-
 - [Creating a successful business Model](https://www.youtube.com/watch?v=IP0cUBWTgpY)
-
 - [Strategyzer Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
-
 - [Image source 1](https://sites.google.com/site/moocmodulesnils/marketing/the-business-model-canvas)

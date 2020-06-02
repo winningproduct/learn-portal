@@ -69,15 +69,15 @@ Analyze deep in to the focused area to elaborate details required for solving th
 #### Data Architecture #DataModel 
 - Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed.
 #### Positioning Message
-- Define a set of message to test against target market including a short pitch, tagline, ad messages, etc.
-#### Engineering Estimation #CostBook 
-- Estimate the development efforts for functional and non-functional features
+- Positioning Messages is a concrete message to test against the target market. It could be a tagline, short pitch, or a ad messages. This will eventually be the way that the product is defined by consumers on important attributes.
+#### Engineering Estimations #CostBook 
+- Estimate the development efforts for functional and non-functional features.
 #### Operational Estimations #CostBook 
-- Estimate for production implementation, training and running cost estimations in operation
+- Estimate for production implementation, training and running cost estimations in operation.
 #### High Fidelity Prototype
-- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
+- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback.
 #### Product Market Fit Validation
-- Makes sure that our product is well tuned to solve the problem specifically for the identified target market
+- Makes sure that our product is well tuned to solve the problem specifically for the identified target market.
 #### Product Roadmap
 - Lay the features and releases in a product evolution timeline
 

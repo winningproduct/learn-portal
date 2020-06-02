@@ -2,7 +2,7 @@
 title: "High Fidelity Prototype"
 metaTitle: "High Fidelity Prototype | WP"
 metaDescription: "Build a detailed prototype to demonstrate how the final product would operate and obtain feedback."
-
+published: true
 metaTags:
   - Immerse
   - High Fidelity Prototype
@@ -19,26 +19,24 @@ In addition to validating designs, interactive prototypes can be used for presen
 
 
 ## How
-
 In order to create good high fidelity prototype, we need to get all our ingredients ready. Followings are the prerequisites that required for quality outcome.  
 
 - Prepare required visuals and user flows
 - Identify all the transitions and animations that need to create between different objects or screens 
-- Choose the right tool that fulfilling our requirements 
+- Choose the right tool that fulfills the requirements 
 
 When selecting a proper tool for crating a high fidelity prototype, the web has enough information on comparing pros and cons of different type of tools that we can used for this. But, what is important here is that when choosing the most optimal prototyping tool, we need to base our decisions on practical considerations such as:
 
 - Aesthetics of the produced prototype, in terms of visuals and interactions giving a native feeling; how fluid the animations are, and so on.
-- The availability of established interaction models in the software that we can use to drag and drop in order to create our prototypes quickly
+- The availability of established interaction models in the software that we can use to drag and drop in order to create our prototypes quickly.
 - Handling of assets, in terms of syncing with popular cloud-based platforms, ease of storing and searching assets in the software, and ease of updating all instances when changing the source asset.
-- Compatibility with Photoshop, Illustrator, Sketch or any of our favorite tools to generate visuals
-- Ability to preview our prototypes across different-sized devices and platforms
-- Playback speed
-- Publishing capabilities to enable sharing with our clients and other stakeholders
-- Availability of library with common UI elements to aid creating quick screens
-- Collaboration, in terms of allowing colleagues or others to comment or feedback on features
+- Compatibility with Photoshop, Illustrator, Sketch or any of our favorite tools to generate visuals.
+- Ability to preview our prototypes across different-sized devices and platforms.
+- Playback speed.
+- Publishing capabilities to enable sharing with our clients and other stakeholders.
+- Availability of library with common UI elements to aid creating quick screens.
+- Collaboration, in terms of allowing colleagues or others to comment or feedback on features.
 
 
 ## References
-
 - [High Fidelity Prototyping](https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4)
