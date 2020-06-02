@@ -2,6 +2,7 @@
 title: "Brand Guide"
 metaTitle: "Brand Guide | WP"
 metaDescription: "Define the brand personality of the product including composition, design & visual theme, general look-and-feel, logo, name, etc."
+published: true
 metaTags:
   - Immerse
   - Brand Guide
