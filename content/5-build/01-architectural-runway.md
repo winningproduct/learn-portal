@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Architectural Runway"
 metaTitle: "Architectural Runway | WP"
 metaDescription: "Incrementally prepare the architecture to support upcoming features and other requirements. Strike a balance between Big-Up-Front (BUF) and No-Up-Front (NUF). Set up architectural collaboration between the teams as the project gets bigger."

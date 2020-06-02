@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: "Lead Capture/CMS"
 metaTitle: "Lead Capture/CMS | WP"
-metaDescription: "Lead capture refers to the process of converting a lead to a paying customer. Companies capture details of the leads such as name, email and phone numbers Newsletters and lead capture forms to follow up with them. Most CRM systems helps in lead capturing process."
+metaDescription: "Set up tooling and workflows for capturing and managing your potential customers. Invest in Customer Relationship Management system to automate and provide a consistent experience."
 
 metaTags:
   - Build
@@ -11,19 +11,19 @@ metaTags:
 ---
 
 ## Why
-It is vital to identify your leads, which can be your prospective customers, and convince them to become actual customers. The process should include building the trust of the leads by educating them about your product and how it solves them. 
+Lead capture refers to the process of converting a lead to a paying customer. Companies capture details of the leads such as name, email, and phone numbers via newsletters and lead capture forms to follow up with them. Most CRM systems help in the lead capturing process. Businesses need to identify their leads and convince them to become paying customers to make profits. The process should include building the trust of the leads by educating them about the product and how it will help to solve their problems. 
 
 ## How
-Following are the most common ways to capture leads. You may use a tool like Hubspot to help you in the process.
+The following are the most common ways to capture leads. You may use a CRM tool like Hubspot, SalesForce, Microsoft Dynamics 365, etc... to help you in the process.
 
 - Web to lead
-  - Make use of a lead capture page or a lead capture form in your website.
+  - Make use of a lead capture page or a lead capture form on your website.
 - Call to lead
-  - An phone call to a company's number is automatically entered as a new lead, unless it's already in the database
+  - A phone call to a company's number is automatically entered as a new lead unless it's already in the database
 - Email to lead
-  - An  email to a company's email address is automatically entered as a new lead, unless it's already in the database.
+  - An email to a company's email address is automatically registered as a new lead unless it's already in the database.
 - Social to lead
-  - An incoming message, question or comment via social network or messenger is automatically entered as a new lead, unless it's already in the database
+  - An incoming message, question or comment via social network or messenger is automatically entered as a new lead unless it's already in the database
 
 ## References
 
