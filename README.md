@@ -75,9 +75,9 @@ Analyze deep in to the focused area to elaborate details required for solving th
 #### Operational Estimations #CostBook 
 - Estimate for production implementation, training and running cost estimations in operation.
 #### High Fidelity Prototype
-- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback
+- Build a detailed prototype to demonstrate how the final product would operate and obtain feedback.
 #### Product Market Fit Validation
-- Makes sure that our product is well tuned to solve the problem specifically for the identified target market
+- Makes sure that our product is well tuned to solve the problem specifically for the identified target market.
 #### Product Roadmap
 - Lay the features and releases in a product evolution timeline
 
