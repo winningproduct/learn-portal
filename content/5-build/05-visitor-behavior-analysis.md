@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: "Visitor Behaviour Analysis"
 metaTitle: "Visitor Behaviour Analysis | WP"
-metaDescription: "Visitor behaviour analysis refers to conducting qualitative analysis of behaviours of the website visitors. It involves installing a qualitative tool to track website peformance, understand visitor experience issues, connect with the visitors for feedbacks and suggesstions and utilize all the insights to optimize the visitor experience"
+metaDescription: "Build and evolve plans analyze the patterns of potential customers to your marketing sites."
 
 metaTags:
   - Build
@@ -11,26 +11,19 @@ metaTags:
 ---
 
 ## Why
-Visitor behavior analysis helps you answer behavioral questions about your visitors and customers. The result of the analysis can be used to,
-
-- Segment audience based on common traits
-- Build a stellar website experience
-- Identify friction across funnel
-- Increase website conversion
-- Gets the best ROI from channels
-- Defining an appropriate targeting strategy for different audience segments
+Visitor behavior analysis is used to increase the website conversion by building a quality website experience for users. It helps to group the audience based on their common traits and define suitable targeting stategies for those them. That minimizes the friction across the funnel and increases the ROI
 
 ## How
-
-Following are the commonly used methods for visitor behaviour analysis.
+Visitor Behaviour Analysis involves using a qualitative tool to track website peformance, understand visitor experience issues, connect with the visitors for feedbacks and suggesstions and utilize all the insights to optimize the visitor experience. Following are the commonly used methods for visitor behaviour analysis.
 
 - Session Recording
-  - Records user and visitor sessions on your website which is later analyzed to dig insights on how visitors interact with your website.
+  - Records user and visitor sessions on your website which is later analyzed for insights on how visitors interact with your website.
 - Website Heatmap
   - Heatmaps
-    - Helps to understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why are my users not converting?' or 'how do I get more visitors to take action?' Using heat-maps, you can determine if people are;
+    - Helps to understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why don't the users convert?' or 'how do I get more visitors to take action?'
+    - Heatmaps helps to determine if people are,
       - Reaching important content or failing to see it
-      - Finding and using a page's main links, buttons, and CTAs
+      - Finding and using a page's main links and buttons
       - Getting distracted by non-clickable elements
       - Experiencing issues across devices
   - Clickmaps
