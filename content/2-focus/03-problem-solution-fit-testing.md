@@ -1,16 +1,16 @@
 ---
 title: "Problem Solution Fit Testing"
 metaTitle: "Problem Solution Fit Testing | WP"
-metaDescription: "The problem solution fit is all about identifying an existing problem and to solve it with a solution that customers find useful and satisfying. It is the evidence that a product, or a service solves a customer's problem."
+metaDescription: "Find out if the problem you picked is worth solving. The problem statement should effortlessly ring a bell with your customers. They should be willing to write a cheque to you for solving the problem"
 
 metaTags:
   - Focus
   - Problem Solution Fit Testing
-  - Winning Product 
+  - Winning Product
 ---
 
-
 ## Why
+
 According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want.
 
 Before investing months or years of effort towards building a product, the first step is determining if this product is something worth doing.
