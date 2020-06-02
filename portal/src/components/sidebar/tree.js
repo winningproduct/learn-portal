@@ -3,6 +3,8 @@ import config from '../../../config';
 import TreeNode from './treeNode';
 
 const calculateTreeData = edges => {
+  const { excludedTopics } = config.sidebar;
+
   const originalData = config.sidebar.ignoreIndex
     ? edges.filter(
         ({
@@ -28,6 +30,11 @@ const calculateTreeData = edges => {
 
       const slicedParts =
         config.gatsby && config.gatsby.trailingSlash ? parts.slice(1, -2) : parts.slice(1, -1);
+
+      const [, mainTopic] = parts;
+      if (excludedTopics.includes(mainTopic)) {
+        return accu;
+      }
 
       for (const part of slicedParts) {
         let tmp = prevItems && prevItems.find(({ label }) => label == part);

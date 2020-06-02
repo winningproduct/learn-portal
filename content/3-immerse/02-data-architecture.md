@@ -1,17 +1,18 @@
 ---
 title: "Data Architecture"
 metaTitle: "Data Architecture | WP"
-metaDescription: "Data architecture is composed of models, policies, rules or standards that govern which data is collected, data relationships, and how it is stored, arranged, integrated, and put to use in data systems and in organizations."
-
+metaDescription: "Data architecture is composed of models, policies and rules or standards that govern which data is collected, data relationships, how it is stored, arranged, integrated, and processed."
 metaTags:
   - Immerse
   - Data Architecture
-  - Winning Product 
+  - Winning Product
+  - DataModel
 ---
 
 
 ## Why
-Data architecture provides clarity about every aspect of the data, which enables data scientists to work with trustable data efficiently and to solve complex business problems. It also prepares an organization to quickly take advantage of new business opportunities by leveraging emerging technologies and improves operational efficiency by managing complex data and information delivery throughout the enterprise.
+Data architecture provides meaning to all the data that is collected. On one hand this gives the ability to the system to work with accurate information efficiently to solve the business problem. On the other hand it gives a new opportunity to analyze and predict trends in information and there by to generate business insights.
+
 
 ## How
 A successful enterprise needs to have a top-down coherent data architecture designed based on the business processes and operations. Usually there are three different layers for a data architecture.
@@ -32,6 +33,8 @@ A successful enterprise needs to have a top-down coherent data architecture desi
     - Data Flows and Pipelines
 - Physical/technology model
   - Provides the data mechanism for a specific process and functionality, or how the actual data architecture is implemented on underlying technology infrastructure
+Apart from the above, also consider the difference dimensions of collection data such as time, etc... to be used for analytical purposes later on.
+
 
 ## References
 - [Data architecture](https://en.wikipedia.org/wiki/Data_architecture)

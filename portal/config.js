@@ -26,11 +26,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: sidebarConfig.forcedNavOrder,
+    excludedTopics: sidebarConfig.excludedTopics,
     links: [{ text: 'WinningProduct', link: 'https://winningproduct.com' }],
     frontline: false,
     ignoreIndex: true,
-    title:
-      "",
+    title: '',
   },
   siteMetadata: {
     title: 'Winning Product| Learn',
