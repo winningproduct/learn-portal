@@ -39,7 +39,7 @@ In determining how to gather and process log data, it’s important to pay atten
 
 - **Need to clean, parse and transform log data** - Logs that come from different sources are in different formats. Also there can be some unstructured logs and incomplete logs with missing values among them. 
 
-    Therefore, the received log data would need some cleaning, pre-processing and transformation to turn into a unified form(filter out unnecessary log records, apply defaults to missing values in incomplete log records, convert unstructured log data to structured format, transform log data into a unified output format etc.). 
+    Therefore, the received log data would need some cleaning, pre-processing and transformation(filter out unnecessary log records, apply defaults to missing values in incomplete log records, convert unstructured log data to structured format, transform log data into a unified output format etc.). 
 
 - **Use a Log Collector to collect logs** - The recommended approach for collecting logs is to use a log collector tool(Logstash, Filebeat , Logagent, Fluentd etc.), so that you will be able to configure and customize what kind of information you want to collect. With this approach, you can leave out redundant data and ensure that you gather only the relevant information. You should also consider the EPS (Events Per Second) of each device in configuring. Your log collector tool should also be able to keep up with this speed. 
 
