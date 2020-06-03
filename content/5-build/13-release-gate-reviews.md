@@ -2,8 +2,7 @@
 published: false
 title: "Release Gate Review"
 metaTitle: "Release Gate Review | WP"
-metaDescription: "Release Gate reviews are typically acceptance criteria reviews with predefined quality criteria that a project must meet in order to proceed from one stage of its lifecycle to the next."
-subtitle: "Have enough quality gates to ensure a quality product"
+metaDescription: "Define what levels of code quality, performance/load testing matrices that qualifies as passed for a production release. Implement automation or manual verification in place."
 
 metaTags:
   - Build

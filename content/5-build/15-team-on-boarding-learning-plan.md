@@ -2,7 +2,7 @@
 published: false
 title: "Team On-boarding & Learning Plan"
 metaTitle: "Team On-boarding & Learning Plan | WP"
-metaDescription: "Team On-boarding and Learning Plan refers to the process of assisting the new recruits to learn and adapt to their new job roles quickly and smoothly in order to function effectively within the organization"
+metaDescription: "Create a quick ramp up guide on both domain, technical and process knowledge for new team members. Make them aware of their purpose responsibilities in the team"
 
 metaTags:
   - Build

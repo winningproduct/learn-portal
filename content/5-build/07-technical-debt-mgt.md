@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: "Technical Debt Management"
 metaTitle: "Technical Debt Management | WP"
-metaDescription: "There is an additional rework down the line when choosing the easy solution instead of the better approach. The additional rework is referred to as Technical debt."
+metaDescription: "Create a process to identify and manage technical debt during the product development. Think of a time allocation for non-functional improvements in each sprint."
 
 metaTags:
   - Build

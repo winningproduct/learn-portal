@@ -2,7 +2,7 @@
 published: false
 title: "Feature Prioritization Process"
 metaTitle: "Feature Prioritization Process | WP"
-metaDescription: "Feature prioratization process is about, What gets done first? How do you decide what features or experiences stay and what gets cut or postponed? Should I listen to customers or my boss when picking features to implement?"
+metaDescription: "Set up a process to identify which features should go first. Specify the process to revisit the product roadmap as new knowledge becomes available"
 
 metaTags:
   - Build

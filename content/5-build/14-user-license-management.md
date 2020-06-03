@@ -2,7 +2,7 @@
 published: false
 title: "User License Management"
 metaTitle: "User License Management | WP"
-metaDescription: "User license management is a part of software assessment management (SAM) and is a process whose main focus is reducing and controlling overall IT costs. Software license management refers to the software tools or processes used by an organization to control and document where and how the company's software products are able to run in order to enforce and ensure compliance with software licenses (also known as an End-User License Agreement, or EULA)"
+metaDescription: "Build mechanisms for managing license agreements with users. Track usages for relevant features, licence expiry, reminders, payments, etc. Implement restrictions based on price tears and usages"
 
 metaTags:
   - Build
