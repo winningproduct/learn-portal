@@ -2,7 +2,7 @@
 published: true
 title: "Technical Debt Management"
 metaTitle: "Technical Debt Management | WP"
-metaDescription: "Create a process to identify and manage technical debt during the product development. Think of a time allocation for non-functional improvements in each sprint."
+metaDescription: "Create a process to identify and manage technical debt during the product development. Think of time allocation for non-functional improvements in each sprint."
 
 metaTags:
   - Build
@@ -11,19 +11,11 @@ metaTags:
 ---
 
 ## Why
-Technical debt is a form of accumulated bugs or technical shortcuts used during development. This should be managed during the product life cycle.However it doesn't mean there should be zero technical debt. This is more about managing product code deficiencies in a more effective manner that add value to business & product.
+Technical debt is a form of accumulated bugs or technical shortcuts used during development. Technical debt should be managed during the product life cycle. However, it doesn't mean there should be zero technical debt. It is more about managing product code deficiencies in a more effective manner that adds value to business & product.
 
 ## How
 
-When Dealing with technical debt these factors should be considered
-
-- Feature Development Time
-- Feature Delivery Deadlines
-- Business Impact
-- Current Internal Quality Practices
-- Future Development Cost Impact.
-
-Integrating technical debt management in the development life cycle can be accommodated via following strategies as follows more information is available in references. Persistence is the key.
+When Dealing with technical debt, feature development time, delivery deadlines, business impact, and development cost has to be considered to find a suitable strategy to manage technical debt. The following are some of those strategies. Once the project team agreed upon a plan, they must maintain adherence. 
 
 - 1 Out of Every 4 Work Items
 - 1 Day a Week
