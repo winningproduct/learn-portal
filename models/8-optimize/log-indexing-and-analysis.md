@@ -1,18 +1,9 @@
 ---
-templateKey: "model-post"
-indexingField: 9-Optimize
 title: "11-Log indexing and analysis"
-subtitle: "Gain better insights via log analytics"
-date: 2020-04-30T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
+metaTitle: "Gain better insights via log analytics"
+metaDescription: "Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. There's an enormous amount of intelligence hidden in those log files. Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play."
 
-description: 
-
-Your production operations would generate all sorts of logs from variety of sources (your application, routers, switchers, firewalls, intrusion prevention systems, proxy servers etc.). In fact, every device you have on your network has a bunch of log files associated with it. There's an enormous amount of intelligence hidden in those log files.
- Uncovering this invaluable information can guide your business decisions, investigations and security. This is where Log Indexing and Analysis comes into play. 
-
-tags:
+metaTags:
   - Optimize
   - Log indexing and analysis
   - Winning Product Canvas
@@ -25,7 +16,7 @@ Log files are incredibly useful in tracing a security breach or in troubleshooti
 
 In addition, log analysis provides better visibility into the health and performance of your application and infrastructure stack. With insights on application response times, memory issues, threading issues (deadlocks etc.) and resource usages (on CPU, disk etc.), you can identify performance bottlenecks and address them.
 
-Furthermore, performing log analytics on the collected log data provide you with new information and can predict your application user behavior. This would assist you in data-driven decision making (deciding when to introduce a sales promotion based on user buying patterns etc.). Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI. 
+Furthermore, performing log analytics on the collected log data provide you with new information and allows you to predict your application user behavior. This would assist you in data-driven decision making (deciding when to introduce a sales promotion based on user buying patterns etc.). Also log analysis could provide you with feature usage analysis information, so that you could focus on mostly used features and improve your ROI. 
 
 With all the aforementioned benefits, businesses are now diving into log indexing and analysis.
 
@@ -38,19 +29,17 @@ Your production system is going to produce all sorts of different logs (event lo
 
 The types of logs you should collect mainly depends on your intentions with it. You should determine what types of logs you should extract from which source, as you can’t store them all. It will cost more to store a large amount of data and will also need more resources to perform analytics. 
 
-For instance, for your application servers you won’t need event logs(as it generates a high volume of data on normal operations), but you would need the availability logs(to identify the faults that would impact the availability and stability of the system) and audit logs(to investigate unapproved activities).  
+For instance, for your application servers, you won’t need event logs(as it generates a high volume of data on normal operations), but you would need the availability logs(to identify the faults that would impact the availability and stability of the system) and audit logs(to investigate unapproved activities).  
 
 
 #### (2) Determine how to collect and process log data  
-Log files are often scattered across many systems in your production environment in variety of forms. Having all logs in one place in a unified form would make log analysis much effective and efficient. 
+In determining how to gather and process log data, it’s important to pay attention to following. 
 
-Therefore, in determining how to gather and process log data, it’s important to pay attention to following. 
+- **Need centralized log aggregation** - Log files are often scattered across many systems in your production environment in variety of forms. Thus need to collect and aggregate all the logs into a centralized location (with logical separation). Then all the log data will be available in one place for analysis. 
 
-- **Need centralized log aggregation** - Need to collect and aggregate all the logs into a centralized location (with logical separation). Then all the log data will be available in one place for analysis. 
+- **Need to clean, parse and transform log data** - Logs that come from different sources are in different formats. Also there can be some unstructured logs and incomplete logs with missing values among them. 
 
-- **Need to clean, parse and transform log data** - Logs that come from different sources are in different formats. There can also be some unstructured logs and incomplete logs with missing values among them. 
-
-    Therefore, the received log data would need some cleaning, pre-processing and transformation (filter out unnecessary log records, apply defaults to missing values in incomplete log records, convert unstructured log data to structured format, transform log data into a unified output format etc.). 
+    Therefore, the received log data would need some cleaning, pre-processing and transformation to turn into a unified form(filter out unnecessary log records, apply defaults to missing values in incomplete log records, convert unstructured log data to structured format, transform log data into a unified output format etc.). 
 
 - **Use a Log Collector to collect logs** - The recommended approach for collecting logs is to use a log collector tool(Logstash, Filebeat , Logagent, Fluentd etc.), so that you will be able to configure and customize what kind of information you want to collect. With this approach, you can leave out redundant data and ensure that you gather only the relevant information. You should also consider the EPS (Events Per Second) of each device in configuring. Your log collector tool should also be able to keep up with this speed. 
 
@@ -113,7 +102,7 @@ Considering following facts might assist you in this regard.
 
     There are some excellent log search and analysis tools (Elasticsearch etc.) that can provide you with automatic assistance. Also, there’s plenty of complete solutions (Splunk, Graylog, Loggly, Sumo Logic etc.) with all the sophisticated capabilities needed for log management. You should perform a cost-benefit analysis and choose an appropriate tool wisely. 
 
-    Keep in mind that you would also need a team of skilled people that know how to set it up, monitor and tune it. More importantly to take decisions and act upon the provided insights by evaluating them. 
+    Keep in mind that you would also need a team of skilled people that know how to set it up, monitor and tune it. And more importantly to take decisions and act upon the provided insights by evaluating them. 
 
 - **Combine log analytics with visual exploration** - Visual representations can better convey findings from your underlying log data. 
 
