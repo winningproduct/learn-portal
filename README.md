@@ -79,7 +79,7 @@ Analyze deep in to the focused area to elaborate details required for solving th
 #### Product Market Fit Validation
 - Makes sure that our product is well tuned to solve the problem specifically for the identified target market.
 #### Product Roadmap
-- Lay the features and releases in a product evolution timeline
+- Prioritize and lay the features and releases in a product evolution timeline.
 
 ## Plan (Strategize the agility of project execution)
 Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics.
