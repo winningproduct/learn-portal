@@ -21,7 +21,7 @@ tags:
 ![flavor wheel](/img/<content-main-image>.jpeg)
 
 ## Why
-Log files are incredibly useful in tracing a security breach or in troubleshooting an undesirable behavior in your system. With the use of logs, it’s easier to go back into that specific time frame where the problematic event occurred, discover connections with other events, and diagnose the cause of the issue.  
+Log files are incredibly useful in tracing a security breach or in troubleshooting an undesirable behavior in your system. With the use of logs, it’s easier to go back into that specific time frame where the problematic event occurred, discover connections with other events, and diagnose the cause of the issue. This also allows you to promptly respond to data breaches and other security incidents.  
 
 In addition, log analysis provides better visibility into the health and performance of your application and infrastructure stack. With insights on application response times, memory issues, threading issues (deadlocks etc.) and resource usages (on CPU, disk etc.), you can identify performance bottlenecks and address them.
 
