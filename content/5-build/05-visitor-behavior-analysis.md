@@ -11,24 +11,24 @@ metaTags:
 ---
 
 ## Why
-Visitor behavior analysis is used to increase the website conversion by building a quality website experience for users. It helps to group the audience based on their common traits and define suitable targeting stategies for those them. That minimizes the friction across the funnel and increases the ROI
+Visitor behavior analysis is used to increase website conversion by building a quality website experience for users. It helps group the audience based on their common traits and define suitable targeting strategies for them. That minimizes the friction across the funnel and increases the ROI
 
 ## How
-Visitor Behaviour Analysis involves using a qualitative tool to track website peformance, understand visitor experience issues, connect with the visitors for feedbacks and suggesstions and utilize all the insights to optimize the visitor experience. Following are the commonly used methods for visitor behaviour analysis.
+Visitor Behaviour Analysis involves using a qualitative tool to track website performance, understand visitor experience issues, connect with the visitors for feedback and suggestions, and utilize all the insights to optimize the visitor experience. The following are the commonly used methods for visitor behavior analysis.
 
 - Session Recording
-  - Records user and visitor sessions on your website which is later analyzed for insights on how visitors interact with your website.
+  - Records user and visitor sessions on your website, which is later analyzed for insights on how visitors interact with your website.
 - Website Heatmap
   - Heatmaps
-    - Helps to understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why don't the users convert?' or 'how do I get more visitors to take action?'
-    - Heatmaps helps to determine if people are,
-      - Reaching important content or failing to see it
+    - It helps to understand how people interact with your website pages, so you can find answers to business-critical questions such as 'why don't the users convert?' or 'how do I get more visitors to take action?'
+    - Heatmaps help to determine if people are,
+      - Reaching valuable content or failing to see it
       - Finding and using a page's main links and buttons
       - Getting distracted by non-clickable elements
       - Experiencing issues across devices
   - Clickmaps
   - Mouse tracking heatmaps
-  - Eye tracking heatmaps
+  - Eye-tracking heatmaps
 - Website Surveys
     - Pop-up website surveys
     - Widget surveys
