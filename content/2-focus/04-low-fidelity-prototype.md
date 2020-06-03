@@ -23,7 +23,7 @@ It is also a great communication tool. It can communicate the value proposition 
 ## How
 
 - Start with 'Paper Prototyping', do this as a group exercise. Pass the idea around until your team is happy and in agreement with a rough feature set. Follow [Design Sprint](https://www.gv.com/sprint/) process for best results.
-  [Design Sprint](https://miro.medium.com/max/2000/1*YAulgPaB93hG_V0Pomc1xg.jpeg)
+  ![Design Sprint](https://miro.medium.com/max/2000/1*YAulgPaB93hG_V0Pomc1xg.jpeg)
 - Use a tool to create a clickable wireframe. Further brainstorm until the design concepts are concrete enough to go for a hi-fi prototype. You can pass this version around to test with domain experts and users.
 - Some tools of the trade
   - Balsamiq Mockups
