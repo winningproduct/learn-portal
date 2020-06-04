@@ -2,7 +2,7 @@
 title: 'Operational Costs'
 metaTitle: "Operational Costs | WP"
 metaDescription: "Running cost estimations in operation including infrastructure and training."
-published: false
+published: true
 documentation: "CostBook"
 metaTags:
   - Immerse

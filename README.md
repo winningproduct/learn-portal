@@ -139,7 +139,7 @@ Plan ahead the product development, implementation, operations without losing th
 
 #### Engineering Process #DeliveryProcess
 
-- Outlines the processes such as team management, code reviews, communication strategy, etc.
+This is the set of activities and the systematic process in which they need to be carried out to develop the product. This covers both engineering and delivery related disciplines.
 
 #### Team Structure #DeliveryProcess
 
