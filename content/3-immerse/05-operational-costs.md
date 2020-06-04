@@ -1,7 +1,7 @@
 ---
-title: 'Operational Estimations'
-metaTitle: "Operational Estimations | WP"
-metaDescription: "Estimate for production implementation, training and running cost estimations in operation."
+title: 'Operational Costs'
+metaTitle: "Operational Costs | WP"
+metaDescription: "Running cost estimations in operation including infrastructure and training."
 published: false
 documentation: "CostBook"
 metaTags:
