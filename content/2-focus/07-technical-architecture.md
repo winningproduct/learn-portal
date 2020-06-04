@@ -2,6 +2,7 @@
 title: "Technical Architecture"
 metaTitle: "Technical Architecture' | WP"
 metaDescription: "Technical architecture defines how the granular software components are engineered and organized together to achieve the optimal delivery of the features in demand. The architecture shall mainly be governed by the product requirements under the moderation of industry best practices associated with the selected technologies, services and relevant regulations."
+published: true
 
 metaTags:
   - Focus
