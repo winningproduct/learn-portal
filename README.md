@@ -147,11 +147,11 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Architecture Blueprint #TechArchitecture
 
-- Implement a vertical of a feature and setup the infrastructure to act as a guideline for further development
+- This describes the architectural representation of the system's components. At the inception it could be the implementation of a feature vertical and the setup of the needed infrastructure to act as a guideline for further development.
 
 #### Delivery Pipeline #DeliveryProcess #TechArchitecture
 
-- Setup source control flow, code integration process, automation strategy (CI/CD/Tests), scaling, etc.
+- A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, static code analysis, running automated tests, and deploying to a staging or production environment.
 
 #### Detailed data schema #DataModel
 
