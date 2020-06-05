@@ -1,6 +1,6 @@
 ---
 title: "Team Structure"
-metaTitle: "Team Structure"
+metaTitle: "Team Structure | WP"
 metaDescription: "Team structure defines key roles, job responsibilities, boundaries and values of the team. Simply put, everyone should understand who does what and their purpose in the team."
 published: true
 documentation: "DeliveryProcess"
