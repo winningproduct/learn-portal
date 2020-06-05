@@ -143,7 +143,7 @@ This is the set of activities and the systematic process in which they need to b
 
 #### Team Structure #DeliveryProcess
 
-Team structure should define key roles, responsibilities, boundaries and values
+Team structure defines key roles, job responsibilities, boundaries and values of the team. Simply put, everyone should understand who does what and their purpose in the team.
 
 #### Architecture Blueprint #TechArchitecture
 
