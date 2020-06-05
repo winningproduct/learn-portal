@@ -149,13 +149,13 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 - This describes the architectural representation of the system's components. At the inception it could be the implementation of a feature vertical and the setup of the needed infrastructure to act as a guideline for further development.
 
-#### Delivery Pipeline #DeliveryProcess #TechArchitecture
+#### Delivery Pipeline #TechArchitecture
 
 - A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, static code analysis, running automated tests, and deploying to a staging or production environment.
 
 #### Detailed data schema #DataModel
 
-- Details of the data storage, data interaction interfaces (APIs) and data dimensions for analytics purposes, etc.
+- Detailed data schema focuses on how to store data efficiently for retrieval, cost and performance. It also looks at data interaction interfaces (APIs) and data dimensions for analytics purposes.
 
 #### Quality Assurance Plan
 
