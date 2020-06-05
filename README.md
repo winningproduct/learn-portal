@@ -159,7 +159,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Quality Assurance Plan
 
-- Quality assurance process, test automation, verification, regression and release quality management
+- Quality assurance plan consists of a systematic process to ensure the delivery of the product with expected quality. This includes test case formulation, verification process (regression and smoke testing), test automation and release quality management.
 
 #### Requirement Process
 
