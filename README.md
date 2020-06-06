@@ -183,7 +183,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Growth Hacking Plan
 
-- Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales
+- Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales.
 
 #### Release Management #DeliveryProcess
 
