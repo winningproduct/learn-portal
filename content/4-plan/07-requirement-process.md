@@ -2,6 +2,7 @@
 title: "Requirement Process"
 metaTitle: "Requirement Process | WP"
 metaDescription: "Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback."
+published: true
 metaTags:
   - Immerse
   - Requirement process
@@ -9,13 +10,9 @@ metaTags:
 ---
 
 
-## What
-This is basically the journey of converting users' needs into product requirements. Most importantly, this action describes about finding out what users are willing to pay for, translating that requirement into features that the product team understands and finally prioritizing them to product road-map based on potential gains and feasibility.
-
-
 ## Why
 The main intention of a requirement process is to confirm that the correct requirements are captured. 
-Product should ultimately solve customers' need and investigating and capturing the right requirement is crucial. Thereafter, documentation is also very important as it helps with retaining and communicating that captured requirements. This also act as evidence for any further clarification. 
+Product should ultimately solve customers' need and thus, investigating and capturing the right requirement is crucial. In other words, this is about finding out what users are willing to pay for. The captured requirements then needs to be documented to help with information retention and communication. This also act as evidence for any further clarification. 
 
 The idea here should be to build a Win-Win strategy with product users. Product team should focus on identifying users correct problem and that they do not hesitate to pay money to get their problem solved.
 
@@ -31,6 +28,9 @@ Include customers in the development life cycle. Have specialized people who wor
 
 - Data driven
 The decisions made on the product road map and the feature prioritization needs to be derived from data analysis. Customer requirements needs to be scientifically obtained with a large enough data set to make decisions on what features benefits the entire customer base.
+
+- Product road map
+Requirement process is the journey of converting users' needs into product requirements. It is important to translate requirements captured earlier into features that the product team understands and finally prioritize them to a product road-map based on potential gains and feasibility. Product road map then needs to be communicated to all stakeholders of the company.
 
 
 ## References

@@ -163,7 +163,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Requirement Process
 
-- Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback
+- Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback.
 
 #### Product Theme Integration
 
