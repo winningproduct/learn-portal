@@ -2,6 +2,7 @@
 title: "Productization Blueprint"
 metaTitle: "Productization Blueprint | WP"
 metaDescription: "Productization Blueprint is for implementing product specific technical components such as multi-tenancy, licensing, standard APIs, plugins, etc."
+published: true
 
 metaTags:
   - Focus
