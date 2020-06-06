@@ -171,7 +171,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Define Key Metric Tests
 
-- Define quantitative key matrices (timeline, quality, market success) that helps validate achievement of business goals
+- Define quantitative key matrices (timeline, quality, market success) that helps validate achievement of business goals.
 
 #### Customer onboarding
 
