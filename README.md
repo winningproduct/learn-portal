@@ -89,9 +89,9 @@ Now that you have explored different avenues, start locking-down on a specific a
 
 - Underline architecture of the platform, including hosting considerations, DevOps and tech stack selection
 
-#### Product Architecture
+#### Productization Blueprint
 
-- Architecture blueprint for implementing functionalities, including product components such as licensing, SSO, business APIs etc.
+- Productization Blueprint is for implementing product specific technical components such as multi-tenancy, licensing, standard APIs, plugins, etc.
 
 #### Problem Solution Fit Testing
 

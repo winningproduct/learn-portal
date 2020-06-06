@@ -19,7 +19,7 @@ metaTags:
 | Requirement process     | Develop to specification             | Standardization across customers           |
 | Driving factor          | Compliance to specification          | Market competition, User Experience        |
 | Measure of success      | Acceptance, RoI                      | Market share, revenue, profit, valuation   |
-| Lifecycle               | Final Release, Maintenance           | Continuous releases, Next Gen Product      |
+| Lifecycle               | Major Release, Maintenance           | Continuous releases, Next Gen Product      |
 | Users                   | Known or identifiable                | Unknown until customer acquired            |
 | Customers               | One organization                     | Multiple organizations                     |
 | Customer Identification | Before project                       | After market launch                        |
