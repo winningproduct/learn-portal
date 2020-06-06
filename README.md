@@ -175,7 +175,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Customer onboarding
 
-- Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc.
+- Define customer onboarding process to seamlessly integrate customers across modules such as websites, demos, trials, licensing, payments, data migrations and resource provisioning.
 
 #### Digital Marketing Blueprint
 

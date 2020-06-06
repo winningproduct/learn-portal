@@ -1,8 +1,8 @@
 ---
 title: "Customer Onboarding"
 metaTitle: "Customer Onboarding | WP"
-metaDescription: "Provide world-class experience at the customer's first product touch-point. Define customer onboarding process includes seamless integration across modules such as websites, demos, trials, licensing, payments, data migrations, resource provisioning, etc."
-
+metaDescription: "Define customer onboarding process to seamlessly integrate customers across modules such as websites, demos, trials, licensing, payments, data migrations and resource provisioning."
+published: true
 metaTags:
   - Plan
   - Customer onboarding
@@ -11,24 +11,22 @@ metaTags:
 
 
 ## Why
-
 This is the process of helping new customers get started and stay engaged. It’s a series of steps and resources that help make incorporating a product into the user’s routine as easy as possible. 
 
-It should be noted that customers expect world-class onboarding experience from products and services they use today. All your marketing and sales work has a little use if your customer onboarding journey is not smooth and pleasurable. 
+It should be noted that customers expect world-class onboarding experience from products and services they use today. All your marketing and sales work has a little use if your customer onboarding journey is not smooth and pleasurable. In today's competitive market place your competitor is probably one click away and one mistake in customer onboarding may lead to loosing that customer.
+
 
 ## How
-
-Usually the onboarding process starts onces the Sales Process is over and is handled by the 'Customer Success' team.
+Usually the onboarding process starts onces the sales process is over and is handled by the 'Customer Success' team.
 
 The activities in the onboarding process may differ for different type of products. Mainly there are 2 types of product onboarding processes we see in the market.
 
 1. SaaS self-onboarding (B2C, Utility products)
 2. Handhold onboarding (B2B, Enterprise products)
 
-It is important that user journeys of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licencing, payment, etc.) as well as across different departments (marketing, sales, customer success, implementation, support, etc)
+It is important that user journeys of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licencing, payment, etc.) as well as across different departments (marketing, sales, customer success, implementation, support, etc).
 
 ### Type of activities
-
 Based on the type of onboarding your product require, the activities may differ. Some of the common activities are listed below:
  - Welcome artifacts (emails, videos, brochures)
  - Meetings and tours (for Handhold onboarding only)
@@ -52,6 +50,7 @@ There are objective and subjective means to measure the quality and success of y
    - How long do they stay
    - How many features they explore
    - How many wins they get by using the features
+
 
 ## References
  - [What is Customer Onboarding](https://tallyfy.com/definition-customer-onboarding/)
