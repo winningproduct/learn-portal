@@ -179,7 +179,7 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 #### Digital Marketing Blueprint
 
-- Consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals
+- Consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals.
 
 #### Growth Hacking Plan
 
