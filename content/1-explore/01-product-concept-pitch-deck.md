@@ -36,6 +36,8 @@ The following are some tips for elevator pitch in short.
 
 The live plan pitch is a far more detailed pitching strategy compared to elevator pitching. Since this is a detailed pitching strategy, its content differs based upon the audience.
 
+![Pitching audience](https://learn.winningproduct.com/img/explore-pitching.png)
+
 #### For an investor,
 
 1.  Purpose of the product
@@ -69,6 +71,10 @@ The live plan pitch is a far more detailed pitching strategy compared to elevato
 #### For a customer,
 
 When pitching a product to potential customers, the purpose of the product, and how the product varies from potential customers should be stated. More emphasis should be put on to convince about the unique value provides by the product but not for the price. Details of existing customers are plus points to attract new customers when pitching a product.
+
+### For a employee,
+
+When pitching for a potential employee to onboard its important to communicate the purpose of the existance and see who are attracted to your purpose rather than for merely a pay cheque. Its also important to illustrate future roadmap and how it can groom one's career and potential equity options.
 
 ## References
 
