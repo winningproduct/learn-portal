@@ -185,10 +185,6 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 
 - Exploring low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales.
 
-#### Release Management #DeliveryProcess
-
-- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
-
 #### Error and Exception Handling
 
 - Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
@@ -196,6 +192,10 @@ Team structure defines key roles, job responsibilities, boundaries and values of
 #### IPR Management
 
 - Take actions to protect intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses.
+
+#### Release Management #DeliveryProcess
+
+- Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
 
 ## Build (Validate the Primary Assumptions)
 
