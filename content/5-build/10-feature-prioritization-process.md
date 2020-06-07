@@ -10,7 +10,6 @@ metaTags:
   - Winning Product Canvas
 ---
 
-
 ## Why
 If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which may probably lead to waste time and money for features that nobody needs. That will be rather catastrophic for startups who operates on limited budget and time.
 
