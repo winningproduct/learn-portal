@@ -2,7 +2,8 @@
 title: "Release Management"
 metaTitle: "Release Management | WP"
 metaDescription: "Release management is typically a set of processes and practices to be followed when doing any changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
-
+published: true
+documentation: "DeliveryProcess"
 metaTags:
   - Stabilize
   - Release management
