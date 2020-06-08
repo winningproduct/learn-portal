@@ -361,9 +361,9 @@ Rapidly respond to market conditions and learnings to sustain competitive edge. 
 
 The product's time is up. Re-invent the technology platform / business model to keep up with the market.
 
-#### Stakeholder Retirement Consent
+#### End-of-life Roadmap
 
-- Identify under which circumstances the stakeholders will agree to retire the product in the view of migrating to the new product along with end-of-service support models.
+- Identify under which circumstances to retire the product in the view of migrating to the new product along with end-of-service support models.
 
 #### Account Migration Plan
 
