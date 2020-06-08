@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Product Pricing Plan"
 metaTitle: "Product Pricing Plan | WP"
 metaDescription: "Define the strategy to bill customers. Communicate your strategy such as price/feature tiers and pay as you go"
