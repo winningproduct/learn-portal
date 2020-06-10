@@ -40,7 +40,7 @@ Software products must have a uniqueness ahead of their competition. This is the
 
 ### Customer Onboarding
 
-Product must be seamlessly accessible by potential customers through integrated capabilities such as self-sign-up, trials, documentary, online payments.etc. The core product has to be engineered to support customer onboarding in a frictionless manner. Bespoke and enterprise applications have a straightforward onboarding process as the target user segments are known in advance.
+Software products must be seamlessly accessible by potential customers. They should be able to use self-sign-up, trials, and documents to understand the product's capabilities and lead their way to become customers. We need to engineer the core product to support customer onboarding in a frictionless manner. Bespoke and enterprise applications have a straightforward onboarding process since they know the target user segments in advance.
 
 ### Product Licensing
 
