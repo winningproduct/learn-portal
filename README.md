@@ -309,6 +309,10 @@ Fine tune the product to achieve the maximum output.
 
 - Offsite (SEO) or onsite improvements provided for user experience so that people will be more likely to convert on your website
 
+#### Log Indexing and Analysis
+
+Process of reviewing, interpreting, and understanding logs to identify application health and to diagnose and rectify issues. Use this also to enable data-driven decision making.
+
 ## Harvest (Operate with highest return on investment)
 
 Your product is now cash cow. Milk it the maximum while you can.
