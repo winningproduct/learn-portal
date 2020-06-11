@@ -1,7 +1,8 @@
 ---
-title: "Public Relations Activity Plan"
+title: "Public Relations Activity Plan."
 metaTitle: "Public Relations Activity Plan | WP"
 metaDescription: "Strategize on enhance the image of the product brand and focus on influential media strategies."
+published: true
 
 metaTags:
   - Harvest
@@ -10,7 +11,7 @@ metaTags:
 ---
 
 ## Why
-Earning trust of the marketplace, establish relationships within product ecosystem, and create branding awareness, all while doing business with customers and social media marketing, but with lower costs than traditional advertising
+Earning the trust of the marketplace, establish relationships within the product ecosystem, and create branding awareness, all while doing business with customers and social media marketing, but with lower costs than traditional advertising.
 
 ## How
 
