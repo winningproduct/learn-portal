@@ -1,6 +1,4 @@
-import { injectGlobal } from 'emotion';
-
-export const baseStyles = injectGlobal`
+export const baseStyles = `
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
   * {

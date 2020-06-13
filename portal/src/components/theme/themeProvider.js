@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { ThemeProvider as EmotionThemeProvider } from 'emotion-theming';
-import { Global } from '@emotion/core';
+import { Global, css } from '@emotion/core';
 
 import { lightTheme, darkTheme } from './index';
 import Header from '../Header';
@@ -36,7 +36,11 @@ class ThemeProvider extends React.Component {
 
     return (
       <div>
-        <Global styles={baseStyles} />
+        <Global
+          styles={css`
+            ${baseStyles}
+          `}
+        />
         <Header
           location={location}
           isDarkThemeActive={isDarkThemeActive}
