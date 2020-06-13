@@ -2,6 +2,7 @@
 title: "Data Migration Plan."
 metaTitle: "Data Migration Plan | WP"
 metaDescription: "Systematic plan to smoothly migrate data (system data, users, user data, etc.) from the old platform to a new platform with feature compatibility. Have a migration strategy."
+published: true
 
 metaTags:
   - Retire
@@ -63,11 +64,9 @@ There are two ways you may do the execution:
 
 You must perform a full audit for the quality of data, performance, security, and completeness once the migration process is complete. Conduct unit, system, volume, and stress tests.
 
-### Implement a maintenance plan
+### Plan for maintenance and shut down old systems
 
-### Shut down
-
-Once the transformation is done, keep close monitoring of the new environment to verify running smoothly. When you are confident, shut down the legacy system.
+Once the transformation is done, keep close monitoring of the new environment to verify running smoothly. When you are confident, shut down the legacy system. Ensure to setup data maintenance processes to continuously improve security and performance.
 
 ## References
 

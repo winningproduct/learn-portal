@@ -1,40 +1,60 @@
 ---
 title: "Platform Migration Plan"
 metaTitle: "Platform Migration Plan | WP"
-metaDescription: "Strategy and action plan to migrate all technology platform components from old system to new system."
+metaDescription: "Strategy and action plan to migrate the technology platform components from old system to new system."
+published: true
 
 metaTags:
   - Retire
   - Platform migration plan
-  - Winning Product 
+  - Winning Product
 ---
 
 ## Why
 
-Platform migration is about salvaging what ever possible from the old system. Reuse components to avoid the pitfall of reinventing the wheel. 'Recycle' is the key word here. You should reuse anything that can be salvaged from the legacy system to avoid reinventing the wheel. Why you would have components which are worthy of migrating in the first place is, that despite the technology improvements, your business logic is likely remain the same. In otherworld, if your new products intends to solve the same problem then it is likely that there will be core business logic components which can easily work in the new system. Technologies might change, but the domain driven core business logic may not change. 
+Planning for platform migrations is essential to improve the efficiency and effectiveness of the process. It would be best if you considered reuse of existing components to avoid the costs of reinventing the wheel at once. Gradual migration is a crucial success factor for most products.
 
-Contrary to the popular belief, the existence of migratable/reusable components is actually a good thing. What this actually proves is that your existing code is robust and can stand the test of time. There is no shame in using good old code. 
-
+Technologies might change, but the domain-driven core business logic may not change. Contrary to popular belief, the existence of migratable/reusable components is a good thing.
 
 ## How
 
-Recommended approach to do a platform migration is four fold.
+The recommended approach to do a platform migration is four-fold.
 
 ### Investigation
-First you must investigate what components are actually required to be considered for migration given the requirements of the new system.
 
-### Assessment
-Those identified components need to be then assessed to measure their fit in the new system. First you need to get a good feel of the existing performance of the component and must assess whether that they meet the functional and non functional requirement of the new system. 
-Compatibility of migrating components also need to be considered next given the technology difference in platform architectures.
+_Gradual migration:_ First, you must investigate what components must be considered for migration, given the new system's requirements. How new components may co-exist with legacy components to seamlessly participate in the business processes.
 
-### Approach
-When it comes to actual migration of the component, there are two main alternatives.
-Lift & shift:- As the title suggest this is the big bang approach. Just take the whole thing and try to move it in to the new system as it is. However, you need to consider possible alterations to the component when taking this approach. 
-Trickle migration:- This refers to the process of migrating in phases. If there are many component in the platform architecture to migrate then trickle migration strategy might be a good option. It also gives more comfort in an unfortunate situation where you might have to rollback.
+_Inventory of assets:_ You should have a clear inventory of assets (data and modules) that exists as the legacy. Make a plan and schedule of how and when each of the assets gets migrated to the new platform.
 
-### Verification
-Last piece of the puzzle is verifying that the migrated components indeed work as they are expected and they meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as in the old architecture.
+_Prioritize components:_ Decide if you migrate your entire application at once, or migrate component by component or service by service.
+
+_Risk Assessment:_ Those identified assets need to be assessed to measure their fit in the new system. First, you need to get a good feel of the component's existing performance and determine whether they meet the functional and non-functional requirements of the new system. The compatibility of migrating components also needs to be considered given the technology difference in platform architectures. Identify relevant risks to the migration, opportunity costs, compliance, and security issues to obtain the final approval from stakeholders.
+
+### Establish performance KPIs
+
+To determine the success of the platform migration, you must set baselines to compare with after and during the migration.
+
+| category        | Example KPI                                                     |
+| --------------- | --------------------------------------------------------------- |
+| User experience | Page load time, Lag, Response time, Session duration            |
+| Performance     | Error rates, Throughput, Availability                           |
+| Infrastructure  | CPU usage %, Disk performance, Memory usage, Network throughput |
+| Business        | Cart adds, Conversions and conversion %, Engagement rates       |
+
+### Migration
+
+When it comes to the actual migration of the component, there are two main alternatives.
+
+_Lift & shift:_ This is the big bang approach. Just take the whole thing and try to move it into the new system at one go. However, it would help if you considered possible alterations to the component when taking this approach.
+
+_Trickle migration:_ This refers to the process of migrating in phases. If there are many components in the platform architecture to migrate, then trickle migration strategy might be a good option. It also gives more comfort in an unfortunate situation where you might have to rollback.
+
+### Test early and often
+
+An essential piece of the puzzle verifies that the migrated components work as they are expected and meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as in the old architecture.
 
 ## References
 
 - [Understanding Data Migration: Strategy and Best Practices](https://www.talend.com/resources/understanding-data-migration-strategies-best-practices/)
+- [Migration in 10 steps](https://hub.packtpub.com/how-to-plan-a-system-migration-10-steps/)
+- [Cloud Migration Checklist](https://blog.newrelic.com/engineering/cloud-migration-checklist/)

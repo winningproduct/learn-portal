@@ -53,7 +53,7 @@ _Financial:_ Your product was bringing revenue/profit to the company that will b
 
 _Customer Goodwill:_ Customers have trusted you when they have decided to buy the product. You should handle the retirement of the product sensitively.
 
-### Process, Milestones and dates:
+### Process, Milestones and dates
 
 What is the detailed plan of discontinuing the product. Include an exit date and work back from that point.
 
@@ -90,21 +90,17 @@ You should also have alternative solutions to suggest to your customers.Either a
 
 You will need to update a wide range of documentation, including your sales scripts, website, operations and support procedures, enterprise architecture models, system portfolio documentation, administration documentation, and system overview documentation (to note that it's been retired).
 
-### Test the migration
+### RACI and Execution
 
-You must test your migration tools in a similar manner that you would test a system during the Transition phase. While it is desirable, you may not have the luxury of a test environment that supports all of your customers, including all your data. If that is the case, make sure that the data you do have is a representative sample of the entire customer base.
+Develop a Responsibility Matrix (RACI - responsible, accountable, consulted, and informed) to manage the execution of the migration. You may include following areas in your execution plan.
 
-### Migrate users and data
+_Test the migration:_ You must test your migration tools in a similar manner that you would test a system during the Transition phase. While it is desirable, you may not have the luxury of a test environment that supports all of your customers, including all your data. If that is the case, make sure that the data you do have is a representative sample of the entire customer base.
 
-You will most likely not be able to simply turn off access to a system one day and be done with it. You must accommodate your customers by notifying them appropriately of the upcoming retirement and assisting them in migrating to other systems.
+_Migrate platform and data:_ You will most likely not be able to simply turn off access to a system one day and be done with it. You must accommodate your customers by notifying them appropriately of the upcoming retirement and assisting them in migrating to other systems.
 
-### Archive
+_Data Archiving:_ The existing data, code, documentation, and other system artifacts must be properly archived so that it may be restored at a future date if required.
 
-The existing data, code, documentation, and other system artifacts must be properly archived so that it may be restored at a future date if required.
-
-### System removal
-
-This is often a complex task, as you must migrate and convert data, turn off access and remove all vestiges of the retiring system, and update all the others systems that interacted with the retiring system. It’s a good idea to take a complete backup of the system before you begin just in case you need to recreate the system in a hurry.
+_System removal:_ This is often a complex task, as you must migrate and convert data, turn off access and remove all vestiges of the retiring system, and update all the others systems that interacted with the retiring system. It’s a good idea to take a complete backup of the system before you begin just in case you need to recreate the system in a hurry.
 
 ## References
 
