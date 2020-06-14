@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Feature Prioritization Process."
+title: "Feature Prioritization Process"
 metaTitle: "Feature Prioritization Process | WP"
 metaDescription: "Set up a process to identify which features should go first. Specify the process to revisit the product roadmap as new knowledge becomes available."
 

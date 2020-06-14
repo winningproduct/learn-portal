@@ -1,12 +1,12 @@
 ---
-title: "Data Migration Plan."
+title: "Data Migration Plan"
 metaTitle: "Data Migration Plan | WP"
 metaDescription: "Systematic plan to smoothly migrate data (system data, users, user data, etc.) from the old platform to a new platform with feature compatibility. Have a migration strategy."
 published: true
 
 metaTags:
   - Retire
-  - Account migration plan
+  - Data Migration Plan
   - Winning Product
 ---
 
