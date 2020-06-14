@@ -1,21 +1,14 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
 title: "Market Segmentation"
-metaTitle: ""
-metaDescription: ""
-subtitle: Personalize your marketing campaigns
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/segmentation.jpg"
-description: Market segmentation is the process of dividing a target market into smaller, more defined categories. It segments customers and audiences into groups that share similar characteristics, such as demographics, interests, needs, or location.
+metaTitle: "Market Segmentation | WP"
+metaDescription: "Market segmentation is the process of dividing a target market into smaller, more defined categories. It segments customers and audiences into groups that share similar characteristics, such as demographics, interests, needs, or location."
+published: true
 
 metaTags:
   - Explore
   - Market Segmentation
   - Winning Product Canvas
 ---
-
 
 ## Why
 The information about potential target markets and customer segments helps to identify the pros/cons of them and personalize the marketing campaigns accordingly. It will help marketers to be efficient and minimize the risk of unsuccessful and ineffective marketing campaigns. 

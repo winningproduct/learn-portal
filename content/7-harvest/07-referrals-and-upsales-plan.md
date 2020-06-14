@@ -1,21 +1,13 @@
 ---
-templateKey: "model-post"
-indexingField: 7-Harvest
 title: "Referrals and Upsales Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Referral marketing is the method of promoting products or services to new customers through referrals, usually word of mouth. You can upsell your product by creating a referral marketing plan"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "img/8-optimize-referral-marketting.jpg"
-description: "Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales)"
-
+metaTitle: "Referrals and Upsales Plan | WP"
+metaDescription: "Marketing plan that makes use of recommendations and word of mouth to grow the product's customer base through the networks of its existing customers while establishing the customer loyalty. Also how to market higher sales to existing customers (upsales)"
+published: true
 metaTags:
   - Harvest
   - Referrals and upsales plan
   - Winning Product Canvas
 ---
-
 
 ## Why
 Referral marketing works because everyone trusts the opinions of real people who have used a product or a service more than they trust traditional advertising. In fact researchers says that people are four times more likely to buy a product or service when it’s referred by a friend. While referrals usually come from friends and acquaintances, but now a days it doesn't have to be that only. In fact, influencer marketing is considered a form of referral marketing, as influencers often share their favorite products with followers via organic sharing and sponsored posts. Referral marketing can come from friends, influencers, celebrities, and even online reviews.
