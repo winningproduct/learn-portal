@@ -11,7 +11,8 @@ metaTags:
 
 ## Why
 
-'Sometimes there is a gap in the market becuase there's no market in the gap' - Irene Bejenke Walsh. Products may have a good value proposition with an appealing message, however in financial terms if it cannot sell enough to cover expenses and make enough profit to sustain the business in the longer then there will be a considerable risk in pursuing the selected product idea. One might carry out financial viability assessments for each product idea to select which one is the best.
+`Sometimes there is a gap in the market becuase there's no market in the gap` - _Irene Bejenke Walsh_ 
+Products may have a good value proposition with an appealing message, however in financial terms if it cannot sell enough to cover expenses and make enough profit to sustain the business in the longer then there will be a considerable risk in pursuing the selected product idea. One might carry out financial viability assessments for each product idea to select which one is the best.
 
 
 ## How
