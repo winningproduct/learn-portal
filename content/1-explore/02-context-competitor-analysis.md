@@ -1,9 +1,8 @@
 ---
 title: "Context Competitor Analysis"
-metaTitle: "Context Competitor Analysis"
+metaTitle: "Context Competitor Analysis | WP"
 metaDescription: "For any software product, it is essential to know how well it is doing against the competition. Competitor analysis is used to measure how competitive your product or service against the competition"
-published: false
-
+published: true
 metaTags:
   - Explore
   - Context Competitor Analysis
@@ -17,9 +16,11 @@ By measuring your products or service against competition allows you to position
 ## How
 - Define the industry you are in – scope and nature of the industry.
 - Determine who the relevant competitors are.
+  - Direct competitors
+  - Indirect competitors
 - Determine the customer segments they target and the primary benefits provided.
 - Analyze their marketing taglines and crucial messages to the market.
-- Determine the key strengths – for example, price, service, convenience, and inventory
+- Determine the key aspects for driving adoption and use – for example, price, service, ratings, convenience, marketing and inventory
 - Quantitatively rank the key success factors by giving each one a weightage
 
 This analysis can be performed on a two-dimensional matrix where competitors listed as columns and key success factors as rows.
