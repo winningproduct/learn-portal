@@ -2,6 +2,7 @@
 title: "Technology Revamp/Migration Plan"
 metaTitle: "Technology Revamp/Migration Plan | WP"
 metaDescription: "Roadmap for moving to better technologies to facilitate rapid response process, while boosting security, availability, performance and agility."
+published: true
 
 metaTags:
   - Harvest

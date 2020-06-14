@@ -1,8 +1,8 @@
 ---
-published: false
 title: "Hot-fix Process"
 metaTitle: "Hot-fix Process | WP"
 metaDescription: "Team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production."
+published: true
 metaTags:
   - Harvest
   - Hot-fix Process
