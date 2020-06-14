@@ -2,7 +2,6 @@
 title: "Product Concept Pitch Desk"
 metaTitle: "Product Concept Pitch Desk | WP"
 metaDescription: "Pitching is one of the essential requirements when it comes to acquiring customers, investors, team members for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
-metaDocument: ""
 published: true
 metaTags:
   - Explore
