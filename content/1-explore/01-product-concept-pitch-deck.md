@@ -1,11 +1,11 @@
 ---
 title: "Product Concept Pitch Desk"
 metaTitle: "Product Concept Pitch Desk | WP"
-metaDescription: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
+metaDescription: "Pitching is one of the essential requirements when it comes to acquiring customers, investors, team members for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
 metaDocument: ""
 published: true
 metaTags:
-  - Conceive
+  - Explore
   - Product Concept Pitch Desk
   - Winning Product Canvas
 ---
@@ -36,7 +36,11 @@ The following are some tips for elevator pitch in short.
 
 The live plan pitch is a far more detailed pitching strategy compared to elevator pitching. Since this is a detailed pitching strategy, its content differs based upon the audience.
 
-![Pitching audience](https://learn.winningproduct.com/img/explore-pitching.png)
+
+### Type of Stakeholders
+
+![Pitching to Stakeholders ](../../img/explore-pitching.png)  
+
 
 #### For an investor,
 
@@ -70,12 +74,13 @@ The live plan pitch is a far more detailed pitching strategy compared to elevato
 
 #### For a customer,
 
-When pitching a product to potential customers, the purpose of the product, and how the product varies from potential customers should be stated. More emphasis should be put on to convince about the unique value provides by the product but not for the price. Details of existing customers are plus points to attract new customers when pitching a product.
+Potential customer is very keen on understanding how their painpoints would be addressed, therefore instead of merely illustrating planned or existing features, it is advisable to relate how product features could address each of customers needs and painpoints. More emphasis should be put on to convince about the unique value provides by the product but not for the price. It may also be a be good strategy to offer early signup to keep the customer locked into the product from early stage. Details of existing customers are plus points to attract new customers when pitching a product.
 
-### For a employee,
+#### For a employee,
 
 When pitching for a potential employee to onboard its important to communicate the purpose of the existance and see who are attracted to your purpose rather than for merely a pay cheque. Its also important to illustrate future roadmap and how it can groom one's career and potential equity options.
 
 ## References
 
 - [When Pitching Investors, Your Product Doesn't Matter](https://www.entrepreneur.com/article/322361)
+- [Creating a pitch for various stakeholders](https://fi.co/insight/creating-an-elevator-pitch-that-attracts-investors-customers-and-more)
