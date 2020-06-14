@@ -321,9 +321,9 @@ Your product is now cash cow. Milk it the maximum while you can.
 
 - Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 
-#### Continuous improvement strategy??
+#### Continuous improvement strategy
 
-Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines.
+Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve, invent, or buy decisions aligning with business goals and timelines.
 
 #### Monitoring and Incident Management
 
