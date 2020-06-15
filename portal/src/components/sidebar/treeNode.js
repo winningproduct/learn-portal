@@ -25,15 +25,19 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
 
   return (
     <li className={calculatedClassName}>
-      {title && (
-        <Link to={url}>
-          {title}
-          {!config.sidebar.frontLine && title && hasChildren ? (
+      {title && !config.sidebar.frontLine && title && hasChildren && (
+          <Link to={url} onClick={collapse}>
+            {title}
             <button onClick={collapse} aria-label="collapse" className="collapser">
               {!isCollapsed ? <OpenedSvg /> : <ClosedSvg />}
             </button>
-          ) : null}
-        </Link>
+          </Link>
+      )}
+
+      {title && !(!config.sidebar.frontLine && title && hasChildren) && (
+          <Link to={url} onClick={collapse}>
+            {title}
+          </Link>
       )}
 
       {!isCollapsed && hasChildren ? (
