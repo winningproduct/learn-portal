@@ -1,23 +1,14 @@
 ---
-title: 'Overview to WP Content'
-metaTitle: 'Overview to WP Content | WP'
-metaDescription: 'Winning Product learning content may appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market.'
+title: 'Product Lifecycle'
+metaTitle: 'Product Lifecycle | WP'
+metaDescription: 'Regardless of domain, all software products have a life cycle. The product life cycle (PLC) is the cycle of stages that a new or redeveloped product goes through, from origin to sunset. Understanding how to manage that product life cycle through each stage determines the success or failure of a product.'
 published: true
 
 metaTags:
-  - Overview to WP Content
+  - Product Lifecycle
   - Winning Product
 ---
 
-Although products are developed iteratively, they go through a set of different "phases" over time. During each phase, there are certain "strategic activities" that has to be initiated and given focus for. These are diverse and span across 4 main "areas of excellence". 
-
-## Areas of Excellence
- - Market Sense
- - Technology Sophistication
- - User Experience
- - Customer Success
-
-## Lifecycle Stages
 Winning Product Canvas divides the product's lifecycle into 8 stages. It should be noted that these stages do not happen like a waterfall phases. They are iterative at product level, module level and even feature level. These stages differ in subtle but in very important means. Understanding the focus of each stage is important in understanding the strategic activities within it.
 
 ### Explore
@@ -55,3 +46,8 @@ This is the stage your product returns back the investment mostly. The focus of 
 Regardless of how well the product is built and maintained, there is always a retirement time for products. Retirement can be called upon by a major technology or user behavior change in the market place. Such may require you to re-invent the technology platform / business model / user experience to keep an edge in the market. ISVs should be watchful to identify this need so that they are able to disrupt their own business model before a competitor does. 
 
 When a next gen product is planned it is important to do it with minimal disturbance to the existing customers. There has to be clear and pain-free migration paths available and provide incentives/motivation for them to move-on. Long-term side-by-side operation of 2 major versions can be extremely costly operation. For this reason, you must plan to complete migrating all your customers within a planned time span.
+
+## References
+- [How does the lifecycle of a software product work](https://medium.com/@jocatorres/how-does-the-lifecycle-of-a-software-product-work-a8e3155f2488)
+- [Exploit the Product Life Cycle](https://hbr.org/1965/11/exploit-the-product-life-cycle)
+- [Software Product Life Cycle Explained](https://softwaremarketing.xyz/learn/2018/07/06/software-product-life-cycle-explained/)
