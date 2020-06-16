@@ -1,7 +1,7 @@
 ---
-title: 'Overview to WP Content'
-metaTitle: 'Overview to WP Content | WP'
-metaDescription: 'Winning Product learning content may appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market.'
+title: "WP Content Summary"
+metaTitle: "WP Content Summary | WP"
+metaDescription: "Winning Product learning content may appear overwhelming at the first glance. But if you take a closer look, there is nothing new about it to anyone who had been a part of developing and taking a product to market."
 published: true
 
 metaTags:
@@ -14,6 +14,7 @@ Although products are developed iteratively, they go through a set of different 
 Following is the overview of the winning product content for each lifecycle phase.
 
 ## Explore
+
 This is where you explore into different possibilities before locking down on a focused product concept.
 
 **Product Concept Pitch Desk:** Create a pitch deck (or equivalent) to present the idea to different stakeholders such as investors, partners and potential customers.
@@ -33,6 +34,7 @@ This is where you explore into different possibilities before locking down on a 
 **Market Segmentation:** Gather information about potential target markets and customer segments and the pros/cons of focusing on each.
 
 ## Focus
+
 Now that you have explored different avenues, start locking-down on a specific area with best potential.
 
 **Business Model Design:** Elaborate business context within the product operate and achieve the business goals.
@@ -52,6 +54,7 @@ Now that you have explored different avenues, start locking-down on a specific a
 **Feasibility Study:** Verify if the solution is feasible to implement, operate and gain market traction with available resources.
 
 ## Immerse
+
 Analyze deep in to the focused area to elaborate details required for solving the problem.
 
 **Brand Guide:** Define the brand personality of the product including composition, design & visual theme, general look-and-feel, logo, name, etc.
@@ -71,6 +74,7 @@ Analyze deep in to the focused area to elaborate details required for solving th
 **Product Roadmap:** Prioritize and lay the features and releases in a product evolution timeline.
 
 ## Plan
+
 Plan ahead the product development, implementation, operations without losing the ability to respond to market dynamics.
 
 **Project Process:** This is the set of activities and the systematic process in which they need to be carried out to develop the product. This covers both engineering and delivery related disciplines.
@@ -104,6 +108,7 @@ Plan ahead the product development, implementation, operations without losing th
 **Release Management:** Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
 
 ## Build
+
 Execute the plan with the goal to validate assumptions (technical, requirements, business) faster and cheaper.
 
 **Architectural Runway:** Incrementally prepare the architecture to support upcoming features and other requirements. Strike a balance between Big-Up-Front (BUF) and No-Up-Front (NUF). Set up architectural collaboration between the teams as the project gets bigger.
@@ -139,6 +144,7 @@ Execute the plan with the goal to validate assumptions (technical, requirements,
 **Vulnerability Assessment:** Implement continuous cycles of identifying, classifying, prioritizing, remediating, and mitigating of software vulnerabilities of the implemented code and third party components.
 
 ## Optimize
+
 Fine tune the product to achieve the maximum output.
 
 **Analytics Review Process:** Gathering correct and current data and process them to identify patterns and make predictions. Use this to enable data driven decision making.
@@ -147,7 +153,7 @@ Fine tune the product to achieve the maximum output.
 
 **Promotions Process:** Detail plan including frequency, customer segments, market conditions, offerings, ad-word design and message.
 
-**Customer Support:**  Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service.
+**Customer Support:** Plan and organize human resources, tools, documentation, training required, communication and troubleshooting capabilities to provide great customer service.
 
 **Compliance & Approvals:** Adapt industry standards and certifications to design stronger, safer, more reliable products and getting compliance approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc).
 
@@ -162,6 +168,7 @@ Fine tune the product to achieve the maximum output.
 **Log Indexing and Analysis:** Process of reviewing, interpreting, and understanding logs to identify application health and to diagnose and rectify issues. Use this also to enable data-driven decision making.
 
 ## Harvest
+
 Your product is now cash cow. Milk it the maximum while you can.
 
 **Scalability Verification:** Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
@@ -187,6 +194,7 @@ Your product is now cash cow. Milk it the maximum while you can.
 **Win-lose Analysis:** Do a win loss analysis on your leads to understand why you lost and what are the strong points in your application. Analyze these results with different demographics in mind.
 
 ## Retire
+
 The product's time is up. Re-invent the technology platform / business model to keep up with the market.
 
 **End-of-life Roadmap:** Identify under which circumstances to retire the product in the view of migrating to the new product along with end-of-service support models.
@@ -195,9 +203,6 @@ The product's time is up. Re-invent the technology platform / business model to 
 
 **Platform Migration Plan:** Create a strategy and action plan to migrate all solution components from old system to new system while running in parallel.
 
-**Team Knowledge Transfer Plan:**  Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge.
+**Team Knowledge Transfer Plan:** Create a plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge.
 
 **Digital Data Shredding:** With customer's consent to close the account, permanently delete data and provide a mechanism to export customer's data on request.
-
-
-
