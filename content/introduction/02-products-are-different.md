@@ -36,7 +36,7 @@ Bespoke applications are usually custom made for a particular organizational con
 
 ### Unique Value Offering
 
-Software products must have a uniqueness ahead of their competition. This is the main reason why a customer buys your product, not your competitor's product. The success of the product depends on how well you align your teams(dev, support, sales, and marketing) to offer this unique value to the market.
+Software products must have a uniqueness ahead of their competition. It is the main reason why a customer buys your product, not your competitor's product. The success of the product depends on how well you align your teams(dev, support, sales, and marketing) to offer this unique value to the market.
 
 ### Customer Onboarding
 
@@ -44,34 +44,34 @@ Software products must be seamlessly accessible by potential customers. They sho
 
 ### Product Licensing
 
-Most products provide different product variations (editions) to address distinctive market segments. Such editions may be formed with a mix-n-match of features through a license based commercial mechanism. The features such as ability to trace billing, throttling based on usage, periodical payment collection, etc. makes product engineering and operations vastly different from bespoke development.
+Most products provide different product variations (editions) to address distinctive market segments. Such editions may be formed with a mix-n-match of features through a license based commercial mechanism. The features such as the ability to trace billing, throttling based on usage, periodical payment collection, etc. make product engineering and operations vastly different from bespoke development.
 
 ### Architectural Agility
 
-Unlike enterprise applications, products require to adapt and respond to changing market conditions to stay ahead of the competition. Such frequent changes are costly in development, and impact number of customers using your product. The agility at the architecture level is paramount important for sustaining your product's market leadership. Such agility is gained by thoughtful decoupling and agile architecture practices that should be planned from the beginning of a product development.
+Unlike enterprise applications, products require to adapt and respond to changing market conditions to stay ahead of the competition. Such frequent changes are costly in development and impact the number of customers using your product. The agility at the architecture level is paramount important for sustaining your product's market leadership. Such agility is gained by thoughtful decoupling and agile architecture practices that should be planned from the beginning of product development.
 
 ### Functional Flexibility
 
-Products are not used by a single organization/user but are expected to be sold to multiple clients. Business rules, process workflows, integration requirements usually differ from one organization to another. Product teams has to deal with a lot of unknowns due to this fact. The product must be built configurable, extensible and compatible.
+Products are not used by a single organization/user but are expected to be sold to multiple clients. Business rules, process workflows, integration requirements usually differ from one organization to another. Product teams have to deal with many unknowns due to this fact. The product must be built configurable, extensible, and compatible.
 
 ### User Experience
 
 The importance of ‘user experience’ is far more prominent in product engineering for two reasons.
 
-- Firstly, the obvious market competition factor.
-- Secondly for the fact that products are not made for a known user base but should cater diverse (and mostly unknown) user groups of future customers.
+- Firstly, the apparent market competition factor.
+- Secondly, products are not made for a known user base but should cater to diverse (and mostly unknown) user groups of future customers.
 
-This is a nontrivial challenge that requires deep research into personas and user-journeys. Product teams must treat requirements as assumptions and validate continuously.
+It is a nontrivial challenge that requires in-depth research into personas and user journeys. Product teams must treat requirements as assumptions and validate them continuously.
 
 ### Branding and Identity
 
-Specially in B2B products, branding cannot be fixed. Different clients should be able to brand the product according to their corporate theme and branding guidelines (including logos, colors, etc.).
+Especially in B2B products, branding cannot be fixed. Different clients should be able to brand the product according to their corporate theme and branding guidelines (including logos, colors, etc.).
 
-Under certain business models, the product may get sold as a plugin of a partner solution. Such arrangement makes the ISV an OEM (Original Equipment Manufacturer) where the product must have the facilities of white-labelling.
+Under specific business models, the product may get sold as a plugin of a partner solution. This arrangement makes the ISV an OEM (Original Equipment Manufacturer), where the product must have white-labeling facilities.
 
 ### ROI Expectations
 
-RoI is usually immediate in a custom deployed bespoke application. In contrast, products take longer time to return financial benefits as it takes time to establish in the market. Until such time, the product must stay trendy and relevant and be competitive. Such requires sophistication in engineering practices such as automation, delivery, quality controls, etc. A higher degree of maintainability with a sustainable cost of operation is essential in product engineering.
+RoI is usually immediate in a custom deployed bespoke application. In contrast, products take longer to return financial benefits as it takes time to establish in the market. Until such time, the product must stay trendy and relevant and be competitive. Such requires sophistication in engineering practices such as automation, delivery, quality controls, etc. A higher degree of maintainability with a sustainable cost of operation is essential in product engineering.
 
 ## References
 
