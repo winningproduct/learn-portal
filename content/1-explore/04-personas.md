@@ -1,19 +1,18 @@
 ---
 title: "Personas"
-metaTitle: "Personas"
-metaDescription: "Persona answers the question of, Whom do we design for. It's a powerful tool in the creation of product functions, and it represents all the users. It can be considered as the typical user behavior of all potential users."
-subtitle: A persona is a powerful tool used in the creation of product functions and it represents all the users.
-published: false
-
+metaTitle: "Personas | WP"
+metaDescription: "Persona is a tool that can be used to empathise the types of users in the product so that product can be designed specifically to target their needs rather than developing one for generic set of users."
+published: true
 metaTags:
   - Explore
-  - Persona/User Journey
+  - Persona
   - Winning Product Canvas
 ---
 
 
 ## Why
-It is not easy to handle and pay attention to all research conducted in a process. Therefore Persona will be the most realistic approach since it represents the image of a typical user. It can also remind us of the user’s needs and help us to create a better user experience model it will make users feel comfortable while using the product. And this is how it facilitates development. It demonstrates the goals and requirements of users. Personas helps developers to develop the most useful features instead of designing features that will never be used. Personas will also help the product team figure out the essential design element.
+
+Unique value of a product is represented in features when its mapped to specific needs of each type of users in the product. If product cannot empathize and add value to users needs then it cannot achieve wholistic unique value proposition to differentiate in the marketplace. Using personas product team will be able to explain the feature usage to stakeholders in a meaningful way.
 
 ## How
 

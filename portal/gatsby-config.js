@@ -9,6 +9,22 @@ const plugins = [
       includeInDevelopment: false,
     },
   },
+  'gatsby-plugin-catch-links',
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      // CommonMark mode (default: true)
+      commonmark: true,
+      // Footnotes mode (default: true)
+      footnotes: true,
+      // Pedantic mode (default: true)
+      pedantic: true,
+      // GitHub Flavored Markdown mode (default: true)
+      gfm: true,
+      // Plugins configs
+      plugins: [],
+    }
+  },
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
   'gatsby-transformer-sharp',

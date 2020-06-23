@@ -1,5 +1,5 @@
 ---
-title: "Public Relations Activity Plan."
+title: "Public Relations Activity Plan"
 metaTitle: "Public Relations Activity Plan | WP"
 metaDescription: "Strategize on enhance the image of the product brand and focus on influential media strategies."
 published: true

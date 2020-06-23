@@ -3,7 +3,6 @@ title: "Value Proposition"
 metaTitle: "Value Proposition | WP"
 metaDescription: "The primary values the product delivers to customers. This is the declaration of intent to customers why the product exists, how it operates, and why it deserves their sale."
 published: true
-metaDocument: "Value Proposition"
 metaTags:
   - Winning Product
   - Explore

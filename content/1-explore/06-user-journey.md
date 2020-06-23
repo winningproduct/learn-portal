@@ -1,38 +1,25 @@
 ---
-templateKey: "model-post"
-indexingField: 3-Explore
-title: "User Journey Map & Service Blueprint"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Visualization of an individual’s experience with a product or a serviec over time and across different perspectives."
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/user-jorney-map.png"
-description: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services.
+title: "User Journey"
+metaTitle: "User Journey | WP"
+metaDescription: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services.
 Yet these two methods are often confused; what is a journey map, and what is a service blueprint, and how are they different."
-
+published: true
 metaTags:
   - Explore
   - User Journey
-  - Service blueprint
   - Winning Product Canvas
 ---
 
+![User journey map](../../img/user-jorney-map.png)  
+
 ## Why
   A user journey map helps a product team to find the answer to the “What if..?” questions. Also, a user journey map can be helpful when the company tracks quantitative KPIs. In this case, a user journey map has an opportunity to become a cornerstone of strategic recommendations.
-  What journey maps and customer narratives don’t show is the internal workings of the organization. The service blueprint seeks to uncover and document (often for the first time!) all the things that go on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your company works, the deep, dark inner workings of how the things customer experiences are produced.
 
-- User journey map
-  - A user journey map is an excellent tool for UX designers because It visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view. It fosters a more user-centric approach to product design, which ultimately leads to better user experience.
+### User journey map
+  A user journey map is an excellent tool for UX designers because It visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view. It fosters a more user-centric approach to product design, which ultimately leads to better user experience.
 
-- Service blueprint
-  - Where journey mapping focuses on exposing the end-to-end of your customer’s first stage experience, blueprinting focuses on presenting the surface-to-core of the business that makes up the backstage and behind the scenes of how you deliver and operate, and ties that to the customer’s experience.
 
 ## How
-We need to understand the notion of “the stage” in service design, a cornerstone concept that is essential for understanding the difference between customer journeys and service blueprints. “The stage” is comprised of three perspectives.
-  1. the front stage - The customer will interact with the product or service from the front stage
-  2. the backstage - The backstage is where all the support processes live that produce the front stage, invisible to the customer.
-  3. behind-the-scenes - All the intangible processes such as rules, regulations take place.
 
 ### Journey Map
 A journey map captures iconic experiences that customers have, from their point of view, the front stage of the service experience. When creating a journey map, you use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, and interacting with them along the way.
@@ -62,17 +49,8 @@ A journey map captures iconic experiences that customers have, from their point 
 
   - The UI components which can be used in the interface. That may be updated at any time in the process.
 
-### Service blueprint
-What journey maps and customer narratives don't show is the organization's internal workings to offer the product or service. The service blueprint uncovers and documents everything that goes on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your product or service works, the deep dark inner workings of how the things customer experiences are produced.
-
-- Understand end-to-end journeys
-  - These scenarios should be based on the customer's journey, but can also include organizational situations that happen internally away from the customer's view.
-
-- Identify the backstage process
-  - By going deep into each step in the scenario, you can expose the breadth and depth of the experience that supports and produces the stage where the journey takes place. This process relies on a cross-functional collaboration between different parts of the organization, in order to represent all aspects of the external and internal experience
-
-- Identify behind the scenes processes
-  - Behind-the-scenes, where all the intangible things that the organization must do to make both the front and backstage possible. Rules, regulations, policies, budgets, all the things that aren't a part of either the front or backstage.
+### Supporting flows 
+What journey maps and customer narratives don't show is the organization's internal workings to offer the product or service. The supporting flows uncovers and documents everything that goes on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your product or service works, the business logic workings of how the things customer experiences are produced. e.g.: Business logic to select the best cab for a taxi hailing app
 
 ## References
 
