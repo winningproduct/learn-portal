@@ -1,6 +1,6 @@
 ---
 title: "Why “Winning Product” is necessary?"
-metaTitle: "Background | WP"
+metaTitle: "Why “Winning Product” is necessary? | WP"
 metaDescription: "'Winning Product' was initiated to help product teams with important strategic activities to stay ahead of their competition."
 published: true
 
