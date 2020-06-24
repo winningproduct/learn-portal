@@ -12,10 +12,10 @@ metaTags:
 
 Although products are developed iteratively, they go through a set of different "phases" in the product lifecycle over time. During each phase, there are certain "strategic activities" that have to be initiated. These are diverse and span across 4 main "areas of excellence": 
 
-•	Market Sense
-•	Technology Sophistication
-•	User Experience
-•	Customer Success
+-	Market Sense
+- Technology Sophistication
+-	User Experience
+-	Customer Success
 
 Learn more about the winning product content for each lifecycle phase.
 
