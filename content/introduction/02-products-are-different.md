@@ -1,17 +1,14 @@
 ---
-title: "Differences in Products "
-metaTitle: "Differences in Products | WP"
+title: "Differences in Software Products "
+metaTitle: "Differences in Software Products | WP"
 metaDescription: "Software product management and engineering is a specialty that differs from enterprise or bespoke applications."
 published: true
 
 metaTags:
-  - Products are Different
+  - Differences in Software Products
   - Winning Product
 ---
 
-### Market Activities
-
-Bespoke applications are usually custom made for a particular organizational context and have no complexities of sales, marketing, and competition. But, such market activities are major focal points for product development teams.
 
 ### Unique Value Offering
 
@@ -36,8 +33,10 @@ Products are not used by a single organization/user but are expected to be sold 
 ### User Experience
 
 The importance of ‘user experience’ is far more prominent in product engineering for two reasons.
-- 1) The obvious market competition factor.
-•	2) The products are not made for a known user base but should cater to diverse (and mostly unknown) user groups of future customers.
+<ol>
+<li>The obvious market competition factor</li>
+<li>The products are not made for a known user base but should cater to diverse (and mostly unknown) user groups of future customers.</li>
+</ol>
 
 It's a nontrivial challenge that requires deep research into personas and user-journeys. Product teams must treat requirements as assumptions and validate continuously.
 
