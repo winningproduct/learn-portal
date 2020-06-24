@@ -78,7 +78,7 @@ Plan ahead the product development, implementation, operations without losing th
 -	**Customer Onboarding:** Define customer onboarding process to seamlessly integrate customers across modules such as websites, demos, trials, licensing, payments, data migrations and resource provisioning.
 -	**Digital Marketing Blueprint:** A consolidated marketing plan including market segments, key messages, channels, lead capture, nurture, convert, up sale, referrals.
 -	**Growth Hacking Plan:** Explore low cost and smarter options to gain a rapid market reach in a short time for growth through referrals and up-sales.
--	**Error and Exception Handling:** Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
+-	**Error & Exception Handling:** Proactive monitoring and log analysis of potential and occurred errors to provide graceful recovery and diagnostic capability for support teams.
 -	**IPR Management:** Take actions to protect intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validate compatibility of third-party licenses.
 -	**Release Management:** Plan, manage, schedule and build a process to develop and release changes through different stages and environments. Techniques such as canary releases, dark launching, feature toggles, A-B testing are to be considered when testing and deployment of changes to production.
 
@@ -118,7 +118,7 @@ Fine tune the product to achieve the maximum output.
 -	**Tech Team Branding:** Define a brand for the product team to have a powerful impact on team's alignment, effectiveness and engagement with each other and the rest of the organization.
 -	**Performance Tuning Plan:** Optimize system performance for best user experience, based on performance requirements and analysis on existing performance
 -	**Web Optimization Plan:** Offsite (SEO) or onsite improvements provided for user experience so that customers will be more likely to convert on your website
--	**Log Indexing and Analysis:** Process of reviewing, interpreting, and understanding logs to identify application health and to diagnose and rectify issues. Use this also to enable data-driven decision making.
+-	**Log Indexing & Analysis:** Process of reviewing, interpreting, and understanding logs to identify application health and to diagnose and rectify issues. Use this also to enable data-driven decision making.
 
 
 ## Harvest
@@ -127,7 +127,7 @@ Your product is now a cash cow. Milk it the maximum while you can.
 
 -	**Scalability Verification:** Make sure your application scales as users grow. Explore scale up and scale out strategies while maintaining SLA obligations and efficient cost of operations.
 -	**Continuous Improvement Strategy:** Rapidly respond to market conditions and learnings to sustain competitive edge. Iteratively improve the product with improve , invent, or buy decisions aligning with business goals and timelines.
--	**Monitoring and Incident Management:** Monitor system health, detect and alert about system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware.
+-	**Monitoring & Incident Management:** Monitor system health, detect and alert about system malfunctions and failures. While exception monitoring deals with problems within the product, incident management deals with problems on the larger stack of software and hardware.
 -	**Hot-fix Process:** Define team and process arrangement to release an update to fix a critical or major error while maintaining SLA obligations in production.
 -	**Inbound Marketing Plan:** Increase ‘quality’ traffic to the web site by pushing relevant content to the right-minded people via digital marketing channels such as search engine optimization and social media. Continue to help, support and maintain a relationship with both potential and existing customers.
 -	**Lead Nurture Process:** Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
