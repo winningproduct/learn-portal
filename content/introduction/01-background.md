@@ -1,6 +1,6 @@
 ---
 title: "Why “Winning Product” is necessary?"
-metaTitle: "Background | WP"
+metaTitle: "Why “Winning Product” is necessary? | WP"
 metaDescription: "'Winning Product' was initiated to help product teams with important strategic activities to stay ahead of their competition."
 published: true
 
@@ -13,7 +13,7 @@ metaTags:
 
 Every year, many ISVs (Independent Software Vendors) and Startups invest in digital services and products to develop and sustain their business. The market size for SaaS (Software as a Service) alone according to researchandmarkets.com, was worth $134.44 billion in 2018. This market growth is at a CAGR of 13.1% and believed to reach a staggering $220.21 billion by 2022.
 
-## Despite the Growth, Why Some Products Fail?
+## Despite Growth, Why Some Products Fail?
 
 The market trend is lucrative. Despite that trend, many Software Products fail. Why? Well they fail to reach full potential due to vital issues in product management and engineering.
 
