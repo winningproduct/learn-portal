@@ -1,8 +1,8 @@
 ---
 title: "User Journey"
 metaTitle: "User Journey | WP"
-metaDescription: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services.
-Yet these two methods are often confused; what is a journey map, and what is a service blueprint, and how are they different."
+metaDescription: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects - User experience and how to implement a better user experience. Customer journey map and Service blueprint helps identify both of the sides."
+
 published: true
 metaTags:
   - Explore
@@ -13,16 +13,10 @@ metaTags:
 ![User journey map](../../img/user-jorney-map.png)  
 
 ## Why
-  A user journey map helps a product team to find the answer to the “What if..?” questions. Also, a user journey map can be helpful when the company tracks quantitative KPIs. In this case, a user journey map has an opportunity to become a cornerstone of strategic recommendations.
-
-### User journey map
-  A user journey map is an excellent tool for UX designers because It visualizes how a user interacts with a product and allows designers to see a product from a user’s point of view. It fosters a more user-centric approach to product design, which ultimately leads to better user experience.
-
+Better user-experience leads to better customer retention. A user journey map is a tool to visualize the user interaction with a product. It helps the product team to see their product from a user's point of view and follow a more user-centric apprach in the product design.   
 
 ## How
-
-### Journey Map
-A journey map captures iconic experiences that customers have, from their point of view, the front stage of the service experience. When creating a journey map, you use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, and interacting with them along the way.
+The following points should be considered when creating a user journey map to use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, and interacting with them along the way.
 
 - Identify the User Flows.
   - The steps that the user will take to achieve his goals. It can be the primary or sub-flows.These will be a series of activities.
@@ -55,7 +49,7 @@ What journey maps and customer narratives don't show is the organization's inter
 ## References
 
 - [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/)
-- [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/)
+- [ How to create customer journey maps](https://www.nngroup.com/articles/customer-journey-mapping/)
 - [Service Blueprints: Definition](https://www.nngroup.com/articles/service-blueprints-definition/)
 - [Service Blueprinting in Practice: Who, When, What](https://www.nngroup.com/articles/service-blueprinting-practice/)
 - [What Is a Service Blueprint?: Designing a Seamless Service Process](https://www.lucidchart.com/blog/what-is-a-service-blueprint)

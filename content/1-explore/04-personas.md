@@ -50,6 +50,6 @@ Unique value of a product is represented in features when its mapped to specific
 ## References
 
 - [Talebook](https://talebook.io/)
-- [How To Create A Persona In 7 Steps](https://uxpressia.com/blog/how-to-create-persona-guide-examples)
-- [How to create Personas, a step by step guide](https://uxplanet.org/how-to-create-personas-step-by-step-guide-303d7b0d81b4)
-- [Just-Right Personas: How to Choose the Scope of Your Personas](https://www.nngroup.com/articles/persona-scope/)
+- [How to create personas](https://uxpressia.com/blog/how-to-create-persona-guide-examples)
+- [Step by step guide to create personas](https://uxplanet.org/how-to-create-personas-step-by-step-guide-303d7b0d81b4)
+- [The scope of the personas](https://www.nngroup.com/articles/persona-scope/)

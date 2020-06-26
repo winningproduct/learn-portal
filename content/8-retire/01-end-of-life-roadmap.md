@@ -1,7 +1,7 @@
 ---
 title: "End-of-life Roadmap"
 metaTitle: "End-of-life Roadmap | WP"
-metaDescription: "Identify under which circumstances to retire the product in the view of migrating to the new product along with end-of-service support models."
+metaDescription: "Identify the circumstances to retire a product, migrate to a new product, and establish end-of-service support models"
 published: true
 
 metaTags:
@@ -12,30 +12,30 @@ metaTags:
 
 ## Why
 
-Software applications don’t live forever. A time would come when you will need to take a decision to retire the software application they have been using -may be for years. This could either be replacing the entire product with a new one or a revamp of the existing one.
+Software applications don't live forever. There will be a time when you need to decide as a product manager to retire the software product. The strategy could be to replace the entire software with a new one or revamp the existing one.
 
 - New major release to retire an old version
 - Retiring a module of the product
 - Completely retiring the entire product
 
-The process is also called as product retirement, end-of-life a product, product decommissioning and product sun-setting.
+Product retirement, end-of-life a product, product decommissioning, and product sun-setting are few other names referred to the same process.
 
-Below are some of the reasons why you may arrive to such a decision:
+Below are some of the reasons which impact the decision of product retirement:
 
-1. Old Technology Is Compromising Your Security
-2. It’s More Cost Effective to Use Newer Technology
-3. Outdated Software platform Has No Upgrade Path
-4. Your new users require Better UX on a new platform
+1. Old technology is compromising your security
+2. It's more cost-effective to use newer technology
+3. If the software platform is outdated and has no upgrade path
+4. Your new users require better UX on a new platform
 5. The business model change requires a different platform
 6. The product is financially not performing well
-7. The business is shutting down or you are no longer in that market
+7. The business is shutting down, or you are no longer in that market
 
-This would also bring additional benefits for the stakeholders such as:
+Product retirement would also bring additional benefits for the stakeholders such as:
 
 - Significant cost savings on efficient platforms
-- Better attraction of development talent
+- Increase attraction of development talent
 - Efficient utilization of critical resources
-- Freeing up of headroom and budget so that resources and funding can be directed toward adding value to the business.
+- Freeing up of headroom and budget to direct resources and funding toward adding value to the business.
 
 ## How
 
@@ -43,29 +43,29 @@ The main activities to include on the end-of-life roadmap would consist of:
 
 ### Impact analysis
 
-_Business Processes:_ Users were using the functionality to fulfill their business processes. You should understand the impact to the business processes and alternative means through they may minimize the impact.
+Business Processes: Users were using the functionality to fulfill their business processes. It would be best to understand the impact on the business processes and alternative means through which they may minimize the effect.
 
-_Parties affected:_ Subset of your customers, Internal teams and departments, partner organizations, resellers, etc.
+Parties affected: Subset of your customers, internal teams and departments, partner organizations, resellers, etc.
 
-_Integrations:_ Your product do not exist in isolation but rather interact with others systems in some way. You must identify the interactions, analyze them, and understand the impact of retirement.
+Integrations: Your product does not exist in isolation but rather interacts with other systems in some way. You must identify the interactions, analyze them, and understand the impact of retirement.
 
-_Financial:_ Your product was bringing revenue/profit to the company that will be lost due to the retirement. You need to plan to handle such in case of a major lose.
+Financial: Your product brought revenue/profit to the company. There will be a revenue loss due to its retirement. It would be best if you planned to handle such in case of a significant loss.
 
-_Customer Goodwill:_ Customers have trusted you when they have decided to buy the product. You should handle the retirement of the product sensitively.
+Customer Goodwill: Customers have trusted you when they have decided to buy the product. It would be best if you handled the retirement of the product sensitively.
 
-### Process, Milestones and dates
+### Process, Milestones, and Dates
 
-What is the detailed plan of discontinuing the product. Include an exit date and work back from that point.
+What is the detailed plan of discontinuing the product? Include an exit date and work back from that point.
 
 ### Internal Approvals
 
-Product retirement is an important strategic decision for an ISV. There can be other departments etc. that are affected due to the decision. You need to keep your company stakeholders, executive staff and the whole organization informed and involved in the decision making.
+Product retirement is an important strategic decision for an ISV. There can be other departments etc. that are affected due to the decision. Remember that it's essential to keep your company stakeholders, executive staff, and the whole organization informed and involved in the decision making.
 
 ### EoL Policy
 
-It is also a good idea to develop an end-of-life policy for your company so that your customers is aware of the procedure of retiring a product. For example have a look at the [end-of-life policy of Cisco](https://www.cisco.com/c/en/us/products/eos-eol-policy.html).
+It is also a good idea to develop an end-of-life policy for your company so that your customers know the procedure of retiring a product. For example, have a look at the [end-of-life policy of Cisco](https://www.cisco.com/c/en/us/products/eos-eol-policy.html).
 
-This may include the release of sourcecode for other parties to carry on from there. And/Or specify other conditions such as:
+EOL policy may include the release of source code for other parties to carry on from there. It  is also vital to specify additional conditions such as:
 
 - Technical support, workarounds, and bug fixes will stop.
 - Support during the period between EoS and EoL (may only for paid support contract).
@@ -76,7 +76,7 @@ This may include the release of sourcecode for other parties to carry on from th
 
 ### Customer communication
 
-This is the most important step of your roadmap and many ISVs get this step wrong. You must give plenty of advanced notice so that your customers do not feel that the product they use is suddenly disappearing. You should communicate the
+Customer communication is the most crucial step of your roadmap, and many ISVs get this step wrong. It would help if you gave plenty of advanced notice so that your customers do not feel that the product they use is suddenly disappearing. It's vital to communicate the
 
 - reason for retirement
 - customer impact
@@ -84,23 +84,23 @@ This is the most important step of your roadmap and many ISVs get this step wron
 - alternatives
 - last date of support (EoS)
 
-You should also have alternative solutions to suggest to your customers.Either a third-party tool, partner offering or to migrate to a newer version you have developed.
+You should also have alternative solutions to suggest to your customers. It could be either a third-party tool, partner offers, or to migrate to a newer version you have developed.
 
 ### Update the documentation
 
-You will need to update a wide range of documentation, including your sales scripts, website, operations and support procedures, enterprise architecture models, system portfolio documentation, administration documentation, and system overview documentation (to note that it's been retired).
+You will need to update a wide range of documentation, including your sales scripts, website, operations, and support procedures, enterprise architecture models, system portfolio documentation, administration documentation, and system overview documentation (to note that it's been retired).
 
 ### RACI and Execution
 
-Develop a Responsibility Matrix (RACI - responsible, accountable, consulted, and informed) to manage the execution of the migration. You may include following areas in your execution plan.
+Develop a Responsibility Matrix (RACI - responsible, accountable, consulted, and informed) to manage the execution of the migration. You may include the following areas in your execution plan.
 
-_Test the migration:_ You must test your migration tools in a similar manner that you would test a system during the Transition phase. While it is desirable, you may not have the luxury of a test environment that supports all of your customers, including all your data. If that is the case, make sure that the data you do have is a representative sample of the entire customer base.
+Test the migration: You must similarly test the migration tools that you would test a system during the Transition phase. While it is desirable, you may not have the luxury of a test environment that supports all of your customers, including all your data. If that is the case, make sure that the data you do have is a representative sample of the entire customer base.
 
-_Migrate platform and data:_ You will most likely not be able to simply turn off access to a system one day and be done with it. You must accommodate your customers by notifying them appropriately of the upcoming retirement and assisting them in migrating to other systems.
+Migrate platform and data: You will most likely not be able to turn off access to a system one day and be done with it. You must accommodate your customers by notifying them appropriately of the upcoming retirement and assisting them in migrating to other systems.
 
-_Data Archiving:_ The existing data, code, documentation, and other system artifacts must be properly archived so that it may be restored at a future date if required.
+Data Archiving: The existing data, code, documentation, and other system artifacts must be adequately archived to be restored at a future date if required.
 
-_System removal:_ This is often a complex task, as you must migrate and convert data, turn off access and remove all vestiges of the retiring system, and update all the others systems that interacted with the retiring system. It’s a good idea to take a complete backup of the system before you begin just in case you need to recreate the system in a hurry.
+System removal: This is often a complicated task. You must migrate and convert data, turn off access and remove all vestiges of the retiring system, and update all the other systems that interacted with the retiring system. It's a good idea to take a complete backup of the system before you begin just in case you need to recreate the system in a hurry.
 
 ## References
 

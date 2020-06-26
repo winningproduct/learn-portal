@@ -13,13 +13,13 @@ metaTags:
 
 
 ## Why
-An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analyzing, and acting in accordance with megatrends is essential for success in the market. Using megatrend analysis companies can develop proactive long-term strategies and apply them to their own growth strategy.
+An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Megatrend analysis helps companies to develop proactive long-term strategies and apply them to their own growth strategy.
 
 ## How
-Three-step megatrend analysis:
+There are three-step for a megatrend analysis:
 - Establish what is driving long-term shifts in behaviour and attitudes
 - Build an exhaustive list of megatrends
-- Pinpoint the megatrends which matter most for your product business
+- Identify the megatrends that matter most for your product business
 - Evaluate megatrend with product values which can derive direct benefits to the market in short term or long term.
 
 
