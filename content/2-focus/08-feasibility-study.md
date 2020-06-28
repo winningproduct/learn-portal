@@ -12,14 +12,14 @@ metaTags:
 
 ## Why
 
-Once you have a clear understanding of the proposed solution, it is time to do an assessment of your product's feasibility of winning the market. You should not do this too early in the process, as it may limit your exploration and thinking. Also you should not do this too late to avoid wasting time and money in trying to build something that is not feasible.
+Once you have a clear understanding of the proposed solution, it is time to assess your product's feasibility. It would help if you did not do this too early in the process, as it may limit your exploration and thinking. Also, it would help if you did not do this too late to avoid wasting time and money trying to build something that is not feasible.
 
 ## How
 
-As per [lean startup principles](http://theleanstartup.com/principles), the important questions to answer in evaluating product feasibility are:
+As per [lean startup principles](http://theleanstartup.com/principles), the critical questions to answer in evaluating product feasibility are:
 
 - Should this product be built?
-  - Does the problem identified actually exist?
+  - Does the problem identify exist?
   - Can the solution solve the problem effectively?
 - Can we build a sustainable business around this?
   - Will users pay "enough" for solving this problem?
@@ -30,11 +30,11 @@ As per [lean startup principles](http://theleanstartup.com/principles), the impo
 
 ### Financial Feasibility
 
-Create a budget for the next X years of operation. Start with expected income and the investments available. List your engineering and operational costs to derive an income statement and a cashflow analysis. Calculate if the project can give the expected RoI. Clearly outline the critical success factors such as sales targets, etc.
+Create a budget for the next X years of operation. Start with expected income and the investments available. List your engineering and operational costs to derive an income statement and a cash flow analysis. Calculate if the project can give the expected RoI. Clearly outline the critical success factors such as sales targets, etc.
 
 ### Operational Feasibility
 
-Some business models may require substantial operation on the ground, for example to onboard users, manage delivery, etc. You should validate the availability of knowledge, competency and resources to carryout the required ground operations.
+Some business models may require a substantial operation on the ground, such as onboard users, managing delivery, etc. You should validate the availability of knowledge, competency and resources to carry out the required ground operations.
 
 ### Market Feasibility
 
@@ -42,10 +42,10 @@ Calculate the market size and potential share you may capture with your product.
 
 ### Technical Feasibility
 
-Finally you should evaluate if the proposed solution is technically feasible. There are several aspects you may consider:
+Finally, you should evaluate if the proposed solution is technically feasible. There are several aspects you may consider:
 
 - Is the selected technologies are mature/stable to deliver the functionality
-- Is your users capable and resourceful to use the solution offering
+- Is your users capable and resourceful to use the solution offered
 - Do you have access to required data and integrations integrations
 - Are you able to acquire the necessary regulatory permissions
 
