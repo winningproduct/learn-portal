@@ -40,7 +40,7 @@ const plugins = [
     resolve: 'gatsby-source-filesystem',
     options: {
       name: 'images',
-      path: `${__dirname}/../portal/src/images/`,
+      path: `${__dirname}/../portal/src/assets/images/`,
     },
   },
   {

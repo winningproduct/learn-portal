@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { StyledDraft } from './styles/Draft';
+import { StyledDraft } from './Draft';
 
 const Draft = ({ mdx }) => {
   return (

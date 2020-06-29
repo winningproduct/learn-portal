@@ -2,11 +2,11 @@ import React from 'react';
 import styled from '@emotion/styled';
 import { MDXProvider } from '@mdx-js/react';
 
-import ThemeProvider from './theme/themeProvider';
-import mdxComponents from './mdxComponents';
-import Sidebar from './sidebar';
-import RightSidebar from './rightSidebar';
-import config from '../../config.js';
+import ThemeProvider from '../theme/themeProvider';
+import mdxComponents from '../mdxComponents';
+import LeftSidebar from '../leftSidebar';
+import RightSidebar from '../rightSidebar';
+import config from '../../../config.js';
 
 const Wrapper = styled('div')`
   display: flex;
@@ -67,7 +67,7 @@ const Layout = ({ children, location }) => (
     <MDXProvider components={mdxComponents}>
       <Wrapper>
         <LeftSideBarWidth className={'hiddenMobile'}>
-          <Sidebar location={location} />
+          <LeftSidebar location={location} />
         </LeftSideBarWidth>
         {config.sidebar.title ? (
           <div
