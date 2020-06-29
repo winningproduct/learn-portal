@@ -1,7 +1,7 @@
 ---
 title: "Value Proposition"
 metaTitle: "Value Proposition | WP"
-metaDescription: "The primary values the product delivers to customers. This is the declaration of intent to customers why the product exists, how it operates, and why it deserves their sale."
+metaDescription: "The primary value the product delivers to customers. This is the declaration of intent to customers on why the product exists, how it operates, and why it deserves their sale."
 published: true
 metaTags:
   - Winning Product
@@ -12,18 +12,19 @@ metaTags:
 ---
 
 ## Why
-A product or service is introduced to the market to provide a solution for a problem. It is required to understand the type of tasks sought by the targeted audience, the pains currently faced, and what gains they expect and how they measure it. Your product needs to provide relief to the pains faced by the audience, and extend the gains required by them. 
+A product or service is introduced to the market to provide a solution for a problem. Understand the type of tasks sought by the targeted audience, the pains currently faced, and what gains they expect and how they measure it. Your product needs to provide relief to the pains faced by the audience, and extend the gains required by them.
 
-However, According to the research by Simon Kucher & Partners 2014, customers reject nearly 7 out of 10 new products and services launched to the market. The primary reason is for not being able to effectively cater to the pain points faced by the targeted audience as a reasonable price. 
+According to the research by Simon Kucher & Partners 2014, customers reject nearly 7 out of 10 new products and services launched to the market. The primary reason is for not being able to effectively address the pain points faced by the target audience for a reasonable price.
 
 
 ## How
- The Value Proposition Canvas is widely used for this purpose, and when a proper link is built between the pains and the pain relievers provided of the target market, it is considered that the Problem-Solution fit and the Product-Market fit has been achieved. 
+The Value Proposition Canvas is widely used for this purpose. When a proper link is built between the pains and the pain relievers provided in the target market, it’s considered that the Problem-Solution fit and the Product-Market fit has been achieved.
 
 In a Value Proposition Canvas, there are two segments.
 
+
 ### The Customer Profile 
-Portrays the tasks the target audience requires to do, the pain points and the gains & how gains are measured.
+Portrays the tasks the target audience requires to do, the pain points and the gains and how gains are measured.
 	1. Tasks
 	2. Pain points
 	3. Gains
@@ -33,8 +34,8 @@ Portrays the tasks the target audience requires to do, the pain points and the g
 ### Value Map 
 Portrays the products and services offered, the pain relievers offered and the gain creators for the targeted audience.
 	1. Products & Services
-	2. Pain relievers
-	3. Gain creators
+	2. Pain Relievers
+	3. Gain Creators
 
 ![Value Map segment](https://image.slidesharecdn.com/valuepropositioncanvaslameetupv1-170611000252/95/how-i-apply-the-value-proposition-canvas-to-convince-my-clients-to-invest-more-time-in-customer-research-article-httpsgooglgb9dsn-18-638.jpg?cb=1497139579)
 
