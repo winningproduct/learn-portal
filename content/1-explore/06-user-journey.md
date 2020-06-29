@@ -1,7 +1,7 @@
 ---
 title: "User Journey"
 metaTitle: "User Journey | WP"
-metaDescription: "A user journey map is a visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it is essential to look at both aspects - User experience and how to implement a better user experience. Customer journey map and Service blueprint helps identify both of the sides."
+metaDescription: "A visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it’s essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services. Yet these two methods; what is a journey map, and what is a service blueprint, and how are they different is often confused."
 
 published: true
 metaTags:
@@ -13,13 +13,13 @@ metaTags:
 ![User journey map](../../img/user-jorney-map.png)  
 
 ## Why
-Better user-experience leads to better customer retention. A user journey map is a tool to visualize the user interaction with a product. It helps the product team to see their product from a user's point of view and follow a more user-centric apprach in the product design.   
+Better user-experience leads to better customer retention. A user journey map is a tool to visualize the user interaction with a product. It helps you to see your product from a user's point of view and follow a more user-centric apprach in the product design.   
 
 ## How
-The following points should be considered when creating a user journey map to use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, and interacting with them along the way.
+Consider the following when creating a user journey map. Use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, while interacting with them along the way.
 
 - Identify the User Flows.
-  - The steps that the user will take to achieve his goals. It can be the primary or sub-flows.These will be a series of activities.
+  - The steps the user takes to achieve goals. It can be the primary or sub-flows. It will be a series of activities.
 
 - The Persona which interacts with the journey.
   - What personas interact with the main journey at a certain point.
@@ -28,7 +28,7 @@ The following points should be considered when creating a user journey map to us
   - What the Persona does for a specific step. What are the actions taken by them?
 
 - The Pain points.
-  - What the hardships/obstacles the Persona has to go through to achieve his goal.
+  - What the hardships/obstacles the Persona has to go through to achieve a goal.
 
 -  Rewards presented to the user.
   - What are the incentives given to the user to overcome pain points?
@@ -44,7 +44,7 @@ The following points should be considered when creating a user journey map to us
   - The UI components which can be used in the interface. That may be updated at any time in the process.
 
 ### Supporting flows 
-What journey maps and customer narratives don't show is the organization's internal workings to offer the product or service. The supporting flows uncovers and documents everything that goes on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your product or service works, the business logic workings of how the things customer experiences are produced. e.g.: Business logic to select the best cab for a taxi hailing app
+What journey maps and customer narratives don't show is the organization's internal workings to offer the product or service. The supporting flows uncover and documents everything that goes on beneath the surface and the internal makeup of the organization that creates it. It is a data visualization of how your product or service works, the business logic workings of how customer experiences are produced. e.g.: Business logic to select the best cab for a taxi hailing app.
 
 ## References
 
