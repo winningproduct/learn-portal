@@ -12,20 +12,18 @@ metaTags:
 
 ## Why
 
-According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason why new ventures fail is because they build and launch something customers don’t want or don't want to pay for.
+According to a post mortem research of global startups conducted by the venture capital database [CB Insights](https://www.cbinsights.com/research/), the most common reason new ventures fail is that they build and launch something customers don’t want or don't want to pay for.
 
-If your target customers need to be 'educated' for them to understand the need for your product, you are probably solving an non-existing problem.
-
-Before investing months or years of effort towards building a product, early determining if this product is something worth doing.
+If your target customers need to be 'educated' to understand the need for your product, you are probably solving a non-existing problem.
 
 ## How
 
-- There is no other way of testing your problem solution fit without talking to your potential customers. You can do calls, meetings, surveys to collect information of how important for them to have the identified problem solved.
-- Some of the common question areas to keep focus on are
+- There is no other way of testing your problem solution fit without talking to your potential customers. You can do calls, meetings, and surveys to collect information on how important it is for them to have the identified problem solved.
+- Some of the common question areas to keep the focus on are
 
   - How are customers rate your value proposition? Nice to have, Should have or Must have?: It is difficult to build a business model around 'Nice to have' ideas
-  - How many customers who are willing to try out your product through their business processes immediately when a working solution available?
-  - What is the price point your customers are ready to by the solution you offer?
+  - How many customers are willing to try out your product through their business processes immediately when a working solution available?
+  - What is the price point your customers are ready to buy the solution you offer?
   - What are the features customers would buy given each feature is $1000 and they have $3000 budget?
 
   ![Measuring Problem Solution Fit](https://i0.wp.com/1.bp.blogspot.com/-FWcpxQvOdT4/UFs0d91Mw4I/AAAAAAAAA6Y/2acn-MnMODU/s640/OAAAAE1KAzE9vAUJvoXVWc4BiRP4dXOoDlhlGCdICeaIQaKtjJ_RYFG1Axun_G2wXUQ-e6jovC_ksRQ0r7UxgHnGb0AA15jOjCvpWjlkAXgxktTsRZeBRAIXVxps.png)
