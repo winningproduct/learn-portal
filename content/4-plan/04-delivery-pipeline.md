@@ -16,7 +16,7 @@ Having CI/CD Implemented allows a fast flow of work from your development to pro
 
 
 ## How
-Modern cloud service providers have a plethora of tools and techniques available for you to setup a good DevOps pipeline. It is usually a matter of doing the right configurations to achieve the desired outcome. However when setting it up all aspects of the delivery pipeline should be considered. Flow of a delivery pipeline is two fold. Continuous Integration and Continuous Delivery.
+Modern cloud service providers have a plethora of tools and techniques available for you to setup a good DevOps pipeline. It is usually a matter of doing the right configurations to achieve the desired outcome. However when setting it up all aspects of the delivery pipeline should be considered. Flow of a delivery pipeline is two fold. Continuous Integration and Continuous Delivery. Improvement
 
 - Continuous Integration
   - Continuous Integration (CI) should include the following steps and characteristics
