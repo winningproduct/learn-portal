@@ -11,7 +11,7 @@ metaTags:
 
 
 ## Why
-Product roadmap states how your business is going to execute the strategy in order to achieve goals and vision of your company. This has several ultimate goals.
+The product roadmap states how your business will execute the strategy to achieve the company's goals and vision. It has several ultimate goals.
 
 - Prioritization of work given the customer requirements
 - Describes the mid to long term strategy
@@ -22,16 +22,16 @@ Product roadmap states how your business is going to execute the strategy in ord
 
 
 ## How
-Product road maps evolve with time. Based on which stage the project is, the focus can be changed in the road map. It is always best to create a road map at the start of each project and evolve it as the project grows. All product road maps will fall in to following three categories based on the different stages of the project.
+Product road maps evolve with time. Based on which stage the project is, the focus can be changed on the road map. It is always best to create a road map at the start of each project and evolve it as the project grows. All product road maps will fall into the following three categories based on the project's different stages.
 
 - The no-dates road map
-These are more flexible than road maps built on timelines. These are best for companies whose priorities changes constantly. This is best when the product is in early stages where information can change frequently.
+These are more flexible than road maps built on timelines. These are best for companies whose priorities change constantly. It is best when the product is in the early stages, where information can change frequently.
 - The hybrid road map
 This type is best when the product is more mature. In this type, there are dates, but no hard dates. The road map can be organized based on monthly or quarterly goals.
 - The timeline road map
-These type of road maps are not needed until the product reach maturity where there are multiple departments involved with dependencies to each other.
+These road maps are not needed until the product reaches maturity. There are multiple departments involved with dependencies to each other.
 
-The success of any roadmap depends on how it is prioritized. While there could be many criterion for prioritization, customer requirements or in other words what customers are willing to pay for should be given a high consideration here. 
+The success of any roadmap depends on how it is prioritized. While there could be many criteria for prioritization, customer requirements, or in other words, what customers are willing to pay for should be given a high consideration here. 
 
 Tools that can be used to build road maps are listed below.
 
