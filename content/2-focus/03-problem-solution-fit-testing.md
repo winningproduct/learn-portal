@@ -18,7 +18,7 @@ Before investing months or years of effort towards building a product, determine
 ## How
 
 - There is no other way of testing your problem solution fit without talking to your potential customers. You can make calls, meetings, surveys to collect information of how important it’s for them to have the identified problem solved.
-- •	Some of the common question areas to focus on are:
+- Some of the common question areas to focus on are:
 
   - How do customers rate your value proposition? Nice to have, Should have or Must have? It’s difficult to build a business model around 'Nice to have' ideas
   - How many customers are willing to immediately try out your product through their business processes when a working solution is available?
