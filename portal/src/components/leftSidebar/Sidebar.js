@@ -1,12 +1,7 @@
-import React from 'react';
-import Tree from './tree';
-import { StaticQuery, graphql } from 'gatsby';
 import styled from '@emotion/styled';
-import { ExternalLink } from 'react-feather';
-import config from '../../../config';
 
 // eslint-disable-next-line no-unused-vars
-const ListItem = styled(({ className, active, level, ...props }) => {
+export const ListItem = styled(({ className, active, level, ...props }) => {
   return (
     <li className={className}>
       <a href={props.to} {...props} target="_blank" rel="noopener noreferrer">
@@ -45,7 +40,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
   }
 `;
 
-const Sidebar = styled('aside')`
+export const Sidebar = styled('aside')`
   width: 100%;
   height: 100vh;
   overflow: auto;
@@ -74,7 +69,7 @@ const Sidebar = styled('aside')`
   }
 `;
 
-const Divider = styled(props => (
+export const Divider = styled(props => (
   <li {...props}>
     <hr />
   </li>
@@ -89,50 +84,3 @@ const Divider = styled(props => (
     border-bottom: 1px solid #ede7f3;
   }
 `;
-
-const SidebarLayout = ({ location }) => (
-  <StaticQuery
-    query={graphql`
-      query {
-        allMdx {
-          edges {
-            node {
-              fields {
-                slug
-                title
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={({ allMdx }) => {
-      return (
-        <Sidebar>
-          {config.sidebar.title ? (
-            <div
-              className={'sidebarTitle hiddenMobile'}
-              dangerouslySetInnerHTML={{ __html: config.sidebar.title }}
-            />
-          ) : null}
-          <ul className={'sideBarUL'}>
-            <Tree edges={allMdx.edges} />
-            {config.sidebar.links && config.sidebar.links.length > 0 && <Divider />}
-            {config.sidebar.links.map((link, key) => {
-              if (link.link !== '' && link.text !== '') {
-                return (
-                  <ListItem key={key} to={link.link}>
-                    {link.text}
-                    <ExternalLink size={14} />
-                  </ListItem>
-                );
-              }
-            })}
-          </ul>
-        </Sidebar>
-      );
-    }}
-  />
-);
-
-export default SidebarLayout;

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import config from '../config';
-import favicon from './images/favicon.ico';
+import favicon from './assets/images/favicon.ico';
 
 export default class HTML extends React.Component {
   render() {
