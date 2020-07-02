@@ -9,28 +9,29 @@ metaTags:
   - Winning Product
 ---
 
+Common mistake of novice product teams is to overlook the specialty of 'product' development. Product development is vastly different to bespoke/enterprise application development. Following sections outline some of the reasons behind the differences:
 
-### Unique Value Offering
+### The need for Competitive UVP
 
-Software products must be unique to stay ahead of their competition. It’s a key reason for a customer to buy your product over your competitor's product. The success of the product depends on how well you align your teams (dev, support, sales, and marketing) to offer this unique value to the market.
+Software products must be unique to stay ahead of their competition. It’s a key reason for a customer to buy your product over your competitor's product. The success of the product depends on how well you align your teams (dev, support, sales, and marketing) to offer this unique value proposition (UVP) to the market.
 
-### Customer Onboarding
+### Customer Onboarding Methodology
 
 Software products should be effortlessly accessible to all potential customers. They should be able to use self-sign-up, trials, and documents to understand the product's capabilities. We need to engineer the core product to support customer onboarding in a frictionless manner. Bespoke and enterprise applications have a straightforward onboarding process since they know the target user segments in advance.
 
-### Product Licensing
+### Handling Product Licensing Needs
 
 Most products provide different product variations (editions) to address distinctive market segments. Such editions are formed with a mix-n-match of features through a license based commercial mechanism. The features such as ability to trace billing, throttling based on usage, periodical payment collection, etc. makes product engineering and operations vastly differ from bespoke development.
 
-### Architectural Agility
+### Level of Agility Required in Architecture
 
 Unlike enterprise applications, products must adapt and respond to changing market conditions to stay ahead of the competition. Such frequent changes are costly in development, and impact customers using your product. The agility at the architecture level is paramount important for sustaining your product's market leadership. Such agility is gained by thoughtful decoupling and agile architecture practices that should be planned from the beginning of product development.
 
-### Functional Flexibility
+### Need for Functional Flexibility
 
 Products are not used by a single organization/user but are expected to be sold to multiple clients. Business rules, process workflows, integration requirements usually differ from one organization to another. Product teams has to deal with a lot of unknowns due to this fact. The product must be built configurable, extensible and compatible.
 
-### User Experience
+### Demands of User Experience
 
 The importance of ‘user experience’ is far more prominent in product engineering for two reasons.
 <ol>
@@ -41,7 +42,7 @@ The importance of ‘user experience’ is far more prominent in product enginee
 It's a nontrivial challenge that requires deep research into personas and user-journeys. Product teams must treat requirements as assumptions and validate continuously.
 
 
-### Branding and Identity
+### Flexibility in Branding and Identity
 
 Specially in B2B products, branding cannot be fixed. Different clients should brand the product according to their corporate theme and branding guidelines (including logos, colors, etc.).
 
