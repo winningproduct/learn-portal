@@ -1,7 +1,7 @@
 ---
 title: "Positioning Messages"
 metaTitle: "Positioning Messages | WP"
-metaDescription: "Positioning Messages is a concrete message to test against the target market. It could be a tagline, short pitch, or a ad messages. This will eventually be the way that the product is defined by consumers on important attributes."
+metaDescription: "A real message to test against the target market. It could be a tagline, short pitch, or an ad message. Eventually it’s the way the product is defined to consumers on important attributes."
 published: true
 metaTags:
   - Immerse
@@ -16,32 +16,22 @@ Product positioning helps to place the product in the consumer's mind relative t
 
 
 ## How
-Following areas should be considered when positioning a product or service
+Consider the following when positioning a product or service:
 
-- Long lasting
-The positioning must be able to work for a long period of time. Generally, positioning should not be done on technological innovation as this can be copied or improved on.
-- Clear and Coherent
-The message needs to be obvious and clear to the customer.
-- Distinctive
-The positioning must allow the consumer to see the company as distinctive to be effective.
-- Relevant
-The positioning must be relevant to the consumer rather than to the company.
-- Premise
-A company needs to prepared to lose customers when position a product. E.g. When a radio station changes formats they will create a new position, often lose current listeners.
+- **Long lasting:** It must work for an extended period. Generally, positioning should not be done on technological innovation as this can be copied or improved on.
+- **Clear and Coherent:** The message needs to be obvious and clear to the customer.
+- **Distinctive:** It must allow the consumer to see the company as distinctive to be effective.
+- **Relevant:** It must be relevant to the consumer rather than to the company.
+
 
 
 Types of product positioning
 
-- Benefit
-Created by the benefits offered by the product. E.g. The fuel economy of a hybrid car.
-- Target
-The positioning should make the consumer think that product belongs to them, not to others.
-- Price
-High pricing can position the product as a luxury, attracting high-end consumers. Low pricing also positions products.
-- Distribution
-Some products are only sold at certain locations/stores.
-- Service
-Various services offered help to position a product. E.g. Open 24/7. "No Hassle" return policy.
+- **Benefit:** Created by the benefits offered by the product. E.g. The fuel economy of a hybrid car.
+- **Target:** The positioning should make the consumer think that product belongs to them, not to others.
+- **Price:** High pricing can position the product as a luxury, attracting high-end consumers. Low pricing also positions products.
+- **Distribution:** Some products are only sold at certain locations/stores.
+- **Service:** Various services offered help to position a product. E.g. Open 24/7. "No Hassle" return policy.
 
 
 ## References
