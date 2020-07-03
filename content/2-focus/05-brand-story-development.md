@@ -1,7 +1,7 @@
 ---
 title: "Brand Story Development"
 metaTitle: "Brand Story Development | WP"
-metaDescription: "There is already too much noise out there. People don't care about sales pitches anymore. The only thing they listen to and care is an authentic story."
+metaDescription: "There is already too much noise out there. People no longer care for sales pitches. The only thing they listen and care about is an authentic story."
 published: true
 
 metaTags:
@@ -14,17 +14,18 @@ metaTags:
 
 _“Marketing is about values. It’s a complicated and noisy world, and we’re not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us.”_ - Steve Jobs
 
-Stories are powerful in human communication. An authentic, compelling brand story helps your audience to remember who you are, what you stand for and develop empathy and ultimately wanting to take part in your story (buy your product).
+Stories are powerful in human communication. An authentic compelling brand story helps your audience to remember who you are, what you stand for, develop empathy and ultimately want to take part in your story (buy your product).
 
-At the core of Brand story development is sharing “Why” or “The purpose” of your existence. In a successful Brand Story, the customer should feel an emotional connection to what the entity represents, for instance, Apple - “To Think Different”, Volkswagen - “Safety”, Facebook - “Connecting people” and so on.
+At the core of the brand story development is sharing “Why” or “The purpose” of your existence. In a successful brand story, the customer should feel an emotional connection to what your brand represents, for instance, Apple - “To Think Different”, Volkswagen - “Safety”, Facebook - “Connecting people” and so on.
+
 
 ## How
 
 ### Keep your customer (Hero) at the epicenter
 
-One common mistake most companies do is putting your product/company as the HERO of the brand story. The HERO of the brand story should be your customer. Your role is to be the 'guide' who will help the customer (hero) to achieve the goals by defeating the villain (the problem).
+One common mistake most companies do is putting your product/company as the HERO of the brand story. The HERO of the brand story should be your customer. Your role is to be the 'guide' who helps the customer (hero) to achieve the goals by defeating the villain (the problem).
 
-The 'Building a Story Brand' book by Donald Miller gives a great framework to build a compelling brand story by using the storytelling techniques used by movies and books.
+The 'Building a Story Brand' book by Donald Miller gives a great framework to build a compelling brand story by using the story telling techniques used by movies and books.
 
 ![Story Brand](https://miro.medium.com/max/1576/1*wDNPZovZrgi2qC20uVpImA.png)
 
@@ -32,15 +33,15 @@ The 'Building a Story Brand' book by Donald Miller gives a great framework to bu
 
 “People don't buy What you do; they buy Why you do it. And What you do simply proves what you Believe” - By Simon Sinek.
 
-The “Golden Circle” principle by Simon Sinek gives guidance on how to logically explain a product or a service to the customer in a way it triggers neurological decision making. Such stories trigger the limbic brain which is in control of the emotional (empathy) aspect of decision making. For instance, when a decision-maker is given two options to take, which has identical physical properties, the decision goes towards the one which triggers the emotional aspect (Gut feeling/ by intuition).
+The “Golden Circle” principle by Simon Sinek guides on how to logically explain a product or a service to the customer in a way it triggers neurological decision making. Such stories trigger the limbic brain which is in control of the emotional (empathy) aspect of decision making. For instance when a decision maker is given two options which has identical physical properties, the decision goes towards the one which triggers the emotional aspect (Gut feeling/ by intuition).
 
 ![Golden circle](https://www.pngjoy.com/pngl/107/2218341_golden-circle-simon-sinek-golden-circle-png-download.png)
 
-- **Why** : Is how you explain your purpose and the reason you exist and behave as you do.
-- **How** : How do to do things.
+- **Why** : Explain your purpose and the reason you exist and behave as you do.
+- **How** : How to do some thing.
 - **What** : What sort of things to do.
 
-The above image elaborates further on the “Golden Circle” concept and it is highly recommended to follow the video in which the concept is conducted by the author himself.
+The above image elaborates further on the “Golden Circle” concept. Viewing the video of this concept conducted by the author himself is highly recommended.
 
 ## References
 
