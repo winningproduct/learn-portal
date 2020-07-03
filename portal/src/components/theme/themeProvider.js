@@ -3,7 +3,7 @@ import { ThemeProvider as EmotionThemeProvider } from 'emotion-theming';
 import { Global, css } from '@emotion/core';
 
 import { lightTheme, darkTheme } from './index';
-import Header from '../Header';
+import Header from '../layout/Header';
 import { baseStyles } from '../styles/GlobalStyles';
 
 class ThemeProvider extends React.Component {

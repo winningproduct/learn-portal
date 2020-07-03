@@ -2,13 +2,13 @@ import React from 'react';
 import styled from '@emotion/styled';
 import { StaticQuery, graphql } from 'gatsby';
 import GitHubButton from 'react-github-btn';
-import Link from './link';
+import Link from '../staticComponents/link';
 import Loadable from 'react-loadable';
 
-import config from '../../config.js';
-import LoadingProvider from './mdxComponents/loading';
+import config from '../../../config.js';
+import LoadingProvider from '../mdxComponents/loading';
 
-const help = require('./images/help.svg');
+const help = require('../../assets/images/help.svg');
 
 const isSearchEnabled = config.header.search && config.header.search.enabled ? true : false;
 
@@ -22,10 +22,10 @@ if (isSearchEnabled && config.header.search.indexName) {
   });
 }
 
-import Sidebar from './sidebar';
+import Sidebar from '../leftSidebar';
 
 const LoadableComponent = Loadable({
-  loader: () => import('./search/index'),
+  loader: () => import('../search/index'),
   loading: LoadingProvider,
 });
 
@@ -75,13 +75,13 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={data => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('../../assets/images/logo.svg');
 
-      const twitter = require('./images/twitter.svg');
+      const twitter = require('../../assets/images/twitter.svg');
 
-      const discordBrandsBlock = require('./images/discord-brands-block.svg');
+      const discordBrandsBlock = require('../../assets/images/discord-brands-block.svg');
 
-      const twitterBrandsBlock = require('./images/twitter-brands-block.svg');
+      const twitterBrandsBlock = require('../../assets/images/twitter-brands-block.svg');
 
       const {
         site: {

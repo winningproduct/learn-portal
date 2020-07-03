@@ -12,9 +12,7 @@ metaTags:
 
 ## Why
 “The only thing that matters is getting to product-market fit” - _Andreessen Horowitz_
-
-Simply put, if you want your business to succeed, you need to build products that your target customers really want. In other words, the product you build needs to solve a real problem that exists within the target demography. This means that a business has found a way to serve their customers with more value additions and as well as finding a set of customers that resonate with their product.
-
+If you want your business to succeed, you need to build products that your target customers want. In other words, the product you build needs to solve a real problem in the target demography. It also means that a business has found a way to serve its customers with more value additions. It also has found a set of customers that resonate with their product.
 
 ## How
 There're four stages to product market fit:

@@ -11,7 +11,7 @@ metaTags:
 
 
 ## Why
-Product roadmap states how your business is going to execute the strategy in order to achieve goals and vision of your company. This has several ultimate goals.
+The product roadmap states how your business will execute the strategy to achieve the company's goals and vision. It has several ultimate goals.
 
 - Prioritize given work according to customer requirements
 - Describe the mid to long term strategy

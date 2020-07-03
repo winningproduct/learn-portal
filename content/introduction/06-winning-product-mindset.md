@@ -19,9 +19,11 @@ Software products just like any other product exists in a marketplace. Market fo
 Personality traits guide you and your team members to achieve inner transformation. It’s a very personal and individualistic quality that drives you and your team members to behave in certain ways and help to easily accommodate to things.
 
 ### Product Research
+
 Ability to explore any product subject matter to find whats suitable for the problem domain within a reasonable time frame.
 
 ### Product Ownership
+
 You and your team must have total ownership of the product to ensure you provide your full commitment to make it successful. Many startups fail due to issues within the team. One main issue being the team not taking ownership for delivery excellence. Increase the ownership of the product by aligning career progression with the purpose of the product roadmap. Be responsible enough to take care of different aspects of the product and measure it against the outcome.
 
 ## Product Innovation Accounting

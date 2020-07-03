@@ -11,13 +11,11 @@ metaTags:
 
 
 ## Why
-High fidelity prototypes take us as close as possible to a true representation of the application's user interfaces and interactions. This is a computer-based interactive representation of the product in its closest resemblance to the final design in terms of details and functionality. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behavior.
+High fidelity prototypes take us as close as possible to an accurate representation of the application's user interfaces and interactions. It is a computer-based interactive representation of the product closest to the final design in terms of details and functionality. The hi-fi prototypes cover the user interface (UI) of the product in terms of visuals and aesthetics and the user experience (UX) aspects in terms of interactions, user flow, and behavior.
 
 The main purpose of interactive prototypes is their use in the usability testing of the product and have target users validate it. It’s important to test our product before launching it in the market to foresee any issues or failures. Getting the most out of the feedback can be done with a prototype that is closest to the final product in its detail and functionality.
 
-In addition to validating designs, interactive prototypes can be used for presentations and pitches. When we want to communicate the designs and functionalities of our product to our team members, clients or other stakeholders in the project, and when the functional build of the software is not developed, a high fidelity prototype does the job very well.
-
-
+In addition to validating designs, interactive prototypes can be used for presentations and pitches. When we want to communicate the designs and functionalities of our product to our team members, clients, or other stakeholders in the project. When the functional build of the software is not developed, a high fidelity prototype does the job very well.
 
 ## How
 To create a good high-fidelity prototype, the following prerequisites are vital to achieve a quality outcome: 
@@ -37,7 +35,6 @@ You can compare the pros and cons of different types of tools to create a high-f
 - Publishing capabilities to enable sharing with your clients and other stakeholders.
 - Availability of a library with common UI elements to aid creating quick screens.
 - Collaboration, in terms of allowing colleagues or others to comment or provide feedback on features.
-
 
 ## References
 - [High Fidelity Prototyping](https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4)

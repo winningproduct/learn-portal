@@ -4,10 +4,10 @@ import { graphql } from 'gatsby';
 import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 
 import { Layout, Link } from '$components';
-import NextPrevious from '../components/NextPrevious';
-import Draft from '../components/Draft';
+import NextPrevious from '../components/docsComponent/nextPreviousButton';
+import Draft from '../components/docsComponent/draft';
 import config from '../../config';
-import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
+import { Edit, StyledHeading, StyledMainWrapper } from '../components/docsComponent/Docs';
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
 
@@ -26,7 +26,7 @@ export default class MDXRuntimeTest extends Component {
       },
     } = data;
 
-    const gitHub = require('../components/images/github.svg');
+    const gitHub = require('../assets/images/github.svg');
 
     const navItems = allMdx.edges
       .map(({ node }) => node.fields.slug)
