@@ -7,8 +7,15 @@ metaTags:
   - Explore
   - Product Concept Pitch Desk
   - Winning Product Canvas
+assesment:
+  question 1:
+    - Do you have a pitchdeck to present your product?
+    - Define the competition within your industry. Identify the companies that share the market with products or services that are in oth direct and indirect competition with your business.
+  question 2:
+    - Do you learn about the services provided by the competing business?
+    - Although the specific services provided are important to perform comparisons, don\'t top there. Delve further and learn about the entire customer experience of your competition.
 ---
-
+.
 ## Why
 
 A great product should have supporters. Effective communication is essential to gain the support of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
