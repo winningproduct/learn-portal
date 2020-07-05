@@ -7,7 +7,7 @@ metaTags:
   - Explore
   - Product Concept Pitch Desk
   - Winning Product Canvas
-assesment: 
+assessment: 
   -
     index: 1
     question: Do you have a pitchdeck to present your product?
