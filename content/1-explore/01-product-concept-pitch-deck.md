@@ -7,13 +7,12 @@ metaTags:
   - Explore
   - Product Concept Pitch Desk
   - Winning Product Canvas
-assesment:
-  question 1:
-    - Do you have a pitchdeck to present your product?
-    - Define the competition within your industry. Identify the companies that share the market with products or services that are in oth direct and indirect competition with your business.
-  question 2:
-    - Do you learn about the services provided by the competing business?
-    - Although the specific services provided are important to perform comparisons, don\'t top there. Delve further and learn about the entire customer experience of your competition.
+assesment: 
+  -
+    index: 1
+    question: Do you have a pitchdeck to present your product?
+    expectation: Define the competition within your industry. Identify the companies that share the market with products or services that are in oth direct and indirect competition with your business.
+    version: 1.0.0
 ---
 .
 ## Why
