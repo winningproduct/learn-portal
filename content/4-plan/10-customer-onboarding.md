@@ -11,23 +11,23 @@ metaTags:
 
 
 ## Why
-This is the process of helping new customers get started and stay engaged. It’s a series of steps and resources that help make incorporating a product into the user’s routine as easy as possible. 
+It is the process of helping new customers get started and stay engaged. It’s a series of steps and resources that help incorporate a product into the user’s routine as easily as possible. 
 
-It should be noted that customers expect world-class onboarding experience from products and services they use today. All your marketing and sales work has a little use if your customer onboarding journey is not smooth and pleasurable. In today's competitive market place your competitor is probably one click away and one mistake in customer onboarding may lead to loosing that customer.
+It should be noted that customers expect world-class onboarding experience from products and services they use today. Your marketing and sales work has a little use if your customer onboarding journey is not smooth and pleasurable. In today's competitive market, your competitor is probably one click away, and one mistake in customer onboarding may lead to losing that customer.
 
 
 ## How
-Usually the onboarding process starts onces the sales process is over and is handled by the 'Customer Success' team.
+Usually, the onboarding process starts once the sales process is over and is handled by the 'Customer Success' team.
 
-The activities in the onboarding process may differ for different type of products. Mainly there are 2 types of product onboarding processes we see in the market.
+The activities in the onboarding process may differ for a different type of products. Mainly there are two types of product onboarding processes we see in the market.
 
 1. SaaS self-onboarding (B2C, Utility products)
 2. Handhold onboarding (B2B, Enterprise products)
 
-It is important that user journeys of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licencing, payment, etc.) as well as across different departments (marketing, sales, customer success, implementation, support, etc).
+User journeys of customer onboarding must be documented and validated across different modules of the product (demo, trials, website, data import, licensing, payment, etc.) as well as across various departments (marketing, sales, customer success, implementation, support, etc.).
 
 ### Type of activities
-Based on the type of onboarding your product require, the activities may differ. Some of the common activities are listed below:
+Based on the type of onboarding of your product requirements, the activities may differ. Some of the activities are listed below:
  - Welcome artifacts (emails, videos, brochures)
  - Meetings and tours (for Handhold onboarding only)
  - Product registration (Forms, SSO)
@@ -38,11 +38,11 @@ Based on the type of onboarding your product require, the activities may differ.
  - Feedback collection (followup calls, emails, surveys, stickiness data)
  - Continuous reviews of the collected data to improve the process
 
-The goal of the activities is to support the customer to have their 'first win' ('aha' moment) fast by using the product. The experience must be pleasurable and personalized for the user to build loyalty towards the product.
+The goal of the activities is to help the customer have their 'first win' ('aha' moment) fast by using the product. The experience must be pleasurable and personalized for the user to build loyalty towards the product.
 
-It should also be noted that, some business models will make use of partners, implementation consultants in the onboarding process. It is important such third-parties are aware of the standards and recommended processes when involved in the workflow to keep uniformity of the experience.
+It should also be noted that some business models will make use of partners, implementation consultants in the onboarding process. Such third parties must be aware of the standards and recommended processes when involved in the workflow to keep the experience's uniformity uniform.
 
-### How to measure the success?
+### How to measure success?
 There are objective and subjective means to measure the quality and success of your customer onboarding process.
  - Subjective data collected through surveys, interviews, feedback 
  - Objective data collected through monitor and measure. E.g.s
