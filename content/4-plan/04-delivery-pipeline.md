@@ -12,15 +12,15 @@ metaTags:
 
 
 ## Why
-Having CI/CD Implemented allows a fast flow of work from your development to production while ensuring the quality of all development changes. With a good DevOps pipeline you can make sure that your automated tests are run with each build and thereby making it easier to catch bugs earlier in the development life cycle. This also automates the deployment of infrastructure such as DataBases, Storage Queues, Web Servers, etc... making little room for human errors. With all this, a CI/CD pipeline ultimately allow you greater confidence in  product developmentthat is critical for fast flow of work.
+Having CI/CD Implemented allows a fast flow of work from your development to production while ensuring the quality of all development changes. A DevOps pipeline makes sure that the automated tests are run with each build and making it easier to catch bugs earlier in the development life cycle. It also automates the deployment of infrastructure such as DataBases, Storage Queues, Web Servers, etc. making little room for human errors. With all this, a CI/CD pipeline ultimately allows you greater confidence in product development critical for a fast flow of work.
 
 
 ## How
-Modern cloud service providers have a plethora of tools and techniques available for you to setup a good DevOps pipeline. It is usually a matter of doing the right configurations to achieve the desired outcome. However when setting it up all aspects of the delivery pipeline should be considered. Flow of a delivery pipeline is two fold. Continuous Integration and Continuous Delivery.
+Modern cloud service providers have many tools and techniques available for you to set up a good DevOps pipeline. It is usually a matter of doing the right configurations to achieve the desired outcome. However, when setting it up, all aspects of the delivery pipeline should be considered. The flow of a delivery pipeline is two-fold i.e., Continuous Integration and Continuous Delivery.
 
 - Continuous Integration
   - Continuous Integration (CI) should include the following steps and characteristics
-    - CI must be triggered by the changes to the code base. This can be changes merging to the trunk (in Trunk Based Development) or to any branch
+    - The changes to the code base must trigger CI. It can be changed merging to the trunk (in Trunk Based Development) or any branch
     - Must Build the entire code base to check for compilation errors
     - Must run the unit tests to ensure existing/new functionality is not broken
     - Must include Static Code analysis to check the quality of the code to prevent new tech debt from being accumulated
@@ -28,7 +28,7 @@ Modern cloud service providers have a plethora of tools and techniques available
     - Run tests/validation on the Infrastructure Code (if any)
     - Run tests/validation on the Configuration Code (if any)
     - Generate/Publish code metrics and test results
-    - Generate/Publish artifacts that is needed for Continuous Delivery/Deployment
+    - Generate/Publish artifacts that are needed for Continuous Delivery/Deployment
 
 - Continuous Delivery/Deployment
   - Run the Infrastructure Code to create/update Application Infrastructure (if any)
@@ -43,14 +43,14 @@ Also consider the following best practices when setting up a delivery pipeline.
 - Use Infrastructure as Code, Configuration as Code practices in your application development to avoid Infrastructure and Configuration drift.
 - Include Static Code Analysis, SAST (Static Application Security Tests), Unit test results and coverage in the CI pipeline.
 - Validate Infrastructure Code, Configuration Code in the CI Pipeline.
-- Follow Build Once, Deploy Many principle.
+- Follow build once, deploy many principle.
 - Only promote the deployment to the next environment after validating the current environment using Automated tests, telemetry from the environments etc.
 - Implement Continuous Testing.
 - Decouple Deployment from Release.
 - Parallel test execution.
 - Artifact versioning.
 
-Also consider researching on the following deployment techniques
+Also, consider researching the following deployment techniques
 - Blue-Green Deployments: Technique of having two identical production environment with one serving as live and the other serving as a backup.
 - Canary Deployments: Rolling out releases to a subset of users at a time.
 - Zero-Downtime Deployments
