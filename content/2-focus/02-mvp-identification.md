@@ -10,6 +10,7 @@ metaTags:
   - Winning Product
 ---
 
+
 ## Why
 
 At the beginning of a product, a minimum viable product encompasses the least number of features necessary to realize the core value proposition of your product to validate the primary hypothesis. In other words, this means that this is the minimum feature set required to learn the success of the product offering. MVP is not even needed to be real features, but the simplest thing to determine more.
