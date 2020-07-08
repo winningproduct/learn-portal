@@ -1,8 +1,7 @@
 ---
 title: "Winning Product Mindset"
 metaTitle: "Winning Product Mindset | WP"
-metaDescription: "Edit on GitHub
-The correct Mindset helps you to follow certain guiding principles when conducting strategic activities to build a winning product."
+metaDescription: "The correct Mindset helps you to follow certain guiding principles when conducting strategic activities to build a winning product."
 published: true
 
 metaTags:

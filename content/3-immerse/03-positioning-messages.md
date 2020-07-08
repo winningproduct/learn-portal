@@ -8,6 +8,7 @@ metaTags:
   - Product Positioning
   - Positioning Messages
   - Winning Product 
+  - Market Sense
 ---
 
 ## Why

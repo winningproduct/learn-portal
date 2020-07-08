@@ -8,6 +8,7 @@ metaTags:
   - Focus
   - Problem Solution Fit Testing
   - Winning Product
+  - Market Sense
 ---
 
 ## Why

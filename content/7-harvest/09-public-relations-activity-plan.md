@@ -8,6 +8,7 @@ metaTags:
   - Harvest
   - Public relations plan
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

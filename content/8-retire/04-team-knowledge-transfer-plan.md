@@ -8,6 +8,7 @@ metaTags:
   - Retire
   - Team knowledge transfer plan
   - Winning Product Canvas
+  - Technology Mastery
 ---
 
 ## Why

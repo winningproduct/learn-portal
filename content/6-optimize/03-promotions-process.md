@@ -8,6 +8,7 @@ metaTags:
   - Harvest
   - Promotions Process
   - Winning Product
+  - Market Sense
 ---
 
 ## Why

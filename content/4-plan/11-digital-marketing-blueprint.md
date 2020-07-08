@@ -7,6 +7,7 @@ metaTags:
   - Plan
   - Digital Marketing Plan
   - Winning Product
+  - Market Sense
 ---
 
 

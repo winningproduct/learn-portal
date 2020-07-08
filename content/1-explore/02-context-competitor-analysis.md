@@ -7,6 +7,7 @@ metaTags:
   - Explore
   - Context Competitor Analysis
   - Winning Product Canvas
+  - Market Sense
 ---
 
 

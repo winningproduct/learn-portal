@@ -7,6 +7,7 @@ metaTags:
   - Explore
   - Megatrend Analysis
   - Winning Product Canvas
+  - Market Sense
 ---
 
 

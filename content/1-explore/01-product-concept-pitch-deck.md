@@ -7,6 +7,7 @@ metaTags:
   - Explore
   - Product Concept Pitch Desk
   - Winning Product Canvas
+  - Market Sense
 assessment: 
   -
     index: 1

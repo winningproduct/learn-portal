@@ -5,9 +5,10 @@ metaTitle: "Portfolio Management | WP"
 metaDescription: "Enable productization to extend your product into a portfolio. Define unified user experience, each product's Unique Value Proposition(UVP), integration between products, and formulation of a clear message to market."
 
 metaTags: 
-- Build 
-- Portfolio Management 
-- Winning Product Canvas 
+  - Build 
+  - Portfolio Management 
+  - Winning Product Canvas
+  - Market Sense
 --- 
 
 ## Why

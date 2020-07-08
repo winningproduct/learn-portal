@@ -4,9 +4,10 @@ metaTitle: "Lead nurture pipeline | WP"
 metaDescription: "Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy."
 published: true
 metaTags:
-- Harvest
-- Lead nurture process
-- Winning Product Canvas
+  - Harvest
+  - Lead nurture process
+  - Winning Product Canvas
+  - User Experience
 ---
 
 ## What

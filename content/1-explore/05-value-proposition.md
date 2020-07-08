@@ -9,6 +9,7 @@ metaTags:
   - Value Proposition
   - UVP
   - Unique Value Proposition
+  - Market Sense
 ---
 
 ## Why
