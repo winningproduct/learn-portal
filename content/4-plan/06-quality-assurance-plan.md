@@ -22,10 +22,10 @@ A QA plan is critically important to ensure the quality of the product or servic
 The end goal of quality management should be to come up with an end to end process to ensure the quality of your product. There are two main aspects:
 
 1. **Quality Assurance (QA):** Is about preventing a defect from happening. This is a proactive measure and focuses on following a correct procedure to prevent bugs. Consider the following: 
-* Understand the quality requirements of the product.
-* Communicate and build awareness to ensure that quality is viewed as a team responsibility.
-* Build test cases around features and non-functional requirements.
-* Invest on test automation.
+- Understand the quality requirements of the product.
+- Communicate and build awareness to ensure that quality is viewed as a team responsibility.
+- Build test cases around features and non-functional requirements.
+- Invest on test automation.
 
 2. **Quality Control (QC):** Is about ensuring that a certain quality threshold is maintained by the product. This is a reactive approach to ensure that anything that does not meet the quality requirements are shipped. Consider the following:
 - Execute quality verification processes such as regressions and smoke testing.
