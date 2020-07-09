@@ -1,7 +1,7 @@
 ---
 title: "Architecture Blueprint"
 metaTitle: "Architecture Blueprint | WP"
-metaDescription: "Provides a complete description of the system configuration and how its components fit together."
+metaDescription: "Describes the architectural representation of the system's components. At the inception implement a feature vertical and the setup of the required infrastructure to act as a guideline for further development."
 published: true
 documentation: "TechArchitecture"
 metaTags:
