@@ -8,9 +8,9 @@ metaTags:
   - Product Concept Pitch Desk
   - Winning Product Canvas
   - Market Sense
-assessment: 
+checklist: 
   -
-    index: 1
+    order: 1
     question: Do you have a pitchdeck to present your product?
     expectation: Define the competition within your industry. Identify the companies that share the market with products or services that are in oth direct and indirect competition with your business.
     version: 1.0.0

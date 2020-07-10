@@ -12,11 +12,13 @@ metaTags:
 ---
 
 ## Why
-Earning the trust of the marketplace, establish relationships within the product ecosystem, and create branding awareness, all while doing business with customers and social media marketing, but with lower costs than traditional advertising.
+
+Earning the trust of the marketplace, established relationships within the product ecosystem, and created branding awareness while doing business with customers and social media marketing, but with lower costs than traditional advertising.
 
 ## How
 
 ### Types of relationships
+
 - Customer relations
 - Media relations
 - Investor relations
@@ -27,6 +29,7 @@ Earning the trust of the marketplace, establish relationships within the product
 - Corporate Social Responsibility
 
 ### PR Activities
+
 - Press release
 - Events
 - Partnerships
@@ -35,4 +38,5 @@ Earning the trust of the marketplace, establish relationships within the product
 - Brochures
 
 ## References
+
 [Things every PR plan should have](https://www.axiapr.com/blog/5-things-every-pr-plan-should-have)
