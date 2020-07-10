@@ -8,6 +8,7 @@ metaTags:
   - Explore
   - User Journey
   - Winning Product Canvas
+  - User Experience
 ---
 
 ![User journey map](../../img/user-jorney-map.png)  

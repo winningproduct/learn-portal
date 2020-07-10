@@ -8,6 +8,7 @@ metaTags:
   - Focus
   - brand story development
   - Winning Product
+  - Market Sense
 ---
 
 ## Why

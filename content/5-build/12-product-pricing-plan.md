@@ -8,6 +8,7 @@ metaTags:
   - Build
   - Product Pricing Plan
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

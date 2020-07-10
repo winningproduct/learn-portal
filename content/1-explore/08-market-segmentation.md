@@ -7,6 +7,7 @@ metaTags:
   - Explore
   - Market Segmentation
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why
