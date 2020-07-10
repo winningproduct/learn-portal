@@ -8,6 +8,7 @@ metaTags:
   - Harvest
   - Win-lose Analysis
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

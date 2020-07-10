@@ -8,6 +8,7 @@ metaTags:
   - Focus
   - Technical Architecture
   - Winning Product Canvas
+  - Technology Mastery
 ---
 
 ## Why

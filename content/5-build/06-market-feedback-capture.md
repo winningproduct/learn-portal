@@ -8,6 +8,7 @@ metaTags:
   - Build
   - Market Feedback Capture
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

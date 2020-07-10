@@ -7,6 +7,7 @@ metaTags:
   - Harvest
   - Inbound Marketing Plan
   - Winning Product
+  - Market Sense
 ---
 
 ## What

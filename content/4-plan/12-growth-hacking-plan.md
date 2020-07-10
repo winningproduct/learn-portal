@@ -6,7 +6,8 @@ published: true
 metaTags:
   - Plan
   - Growth Hacker Plan
-  - Winning Product 
+  - Winning Product
+  - Market Sense
 ---
 
 ## Why

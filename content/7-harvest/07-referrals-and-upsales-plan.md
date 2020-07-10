@@ -7,6 +7,7 @@ metaTags:
   - Harvest
   - Referrals and up sales plan
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

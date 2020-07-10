@@ -8,6 +8,7 @@ metaTags:
   - Focus
   - business model design
   - Winning Product
+  - Market Sense
 ---
 
 ## Why

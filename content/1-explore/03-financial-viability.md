@@ -7,6 +7,7 @@ metaTags:
   - Explore
   - Financial Viability
   - Winning Product Canvas
+  - Market Sense
 ---
 
 ## Why

@@ -8,6 +8,7 @@ metaTags:
   - Build
   - Technical Debt Management
   - Winning Product Canvas
+  - Technology Mastery
 ---
 
 ## Why
