@@ -16,15 +16,15 @@ User behavior analysis helps to identify most used features, rarely used feature
 ## How
 - Choose an appropriate tool/tools to implement User behavior analysis system for your applications.
   - Activity heat maps
-  - Funnel views of user journies
+  - Funnel views of user journeys
   - Counting of user events
   - Session recordings
   - Security triggers and alarms
 - Document the type of actionable insights that must be derived from the tools and perform the tool integrations accordingly.
-- Keep user users informed of the kind of data collected and obtain consent to avoid privacy violations
-- Set up a visualization dashboard and reports for a straightforward interpretation of the insights
-- Set up a routine process with relevant stakeholders to review and take actions based on the collected data
-- Make it a practice to refer to the collected data in requirement related meetings such as backlog grooming and roadmap discussions
+- Keep users informed of the kind of data collected and obtain consent to avoid privacy violations.
+- Set up a visualization dashboard and reports for a straightforward interpretation of the insights.
+- Set up a routine process with relevant stakeholders to review and take actions based on the collected data.
+- Make it a practice to refer to the collected data in requirement related meetings such as backlog grooming and roadmap discussions.
 
 ## References
  - [11 Tools to Compare](https://mopinion.com/11-visitor-recording-and-session-replay-tools-an-overview/)
