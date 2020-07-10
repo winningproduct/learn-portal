@@ -11,32 +11,20 @@ metaTags:
 
 
 ## Why
-"What gets measured gets done" is a well-known statement. Simply put, measurements are a great tool to track the progress of your business objectives. Furthermore, tracking your progress against key metrics helps to take decisions for improvements. They act as evidence of the claim or prediction.
+"What gets measured gets done" is a well-known statement. Measurements are a great tool to track the progress of your business objectives. Tracking your progress against key metrics helps to take decisions for improvements. They act as evidence of the claim or prediction.
 
 ## How
-Consider the following steps when defining key matrices.
+Consider the following steps for defining key matrices:
 
-- Understanding business goals
-Your matrices should track progress towards the ultimate business goal. Thus, the first step should be to identify the business goals as quantifiable as possible. E.g.:- 1 billion dollar sales revenue by end 2021.
-
-- Defining matrices for the product
-There are three main types of testing metrics
-Process Metrics: Improves the efficiency of the Software Development Life Cycle (SDLC)
-Product Metrics: Improves the quality of the product
-Project Metrics: Improves the efficiency of the Project team
-The chances are that you'll have objectives to measure in all these areas. Try breaking down the big objective in each area to more trackable progressive milestones. Depending on your business objectives, the weights for each milestone may differ.
-
-- Identifying Key Performance Indicators
-Most critical measures of the above-defined measures are known as Key Performance Indicators. These are the ones that businesses define as most applicable for success. KPIs need to be established based on business goals. Once identified, then they need to be communicated to all stakeholders of the organization.
-
-- Aligning individuals with business goals
-One of the most effective ways of management is to align the business goals with individual objectives. It is primarily about communicating the company objectives and ensuring individuals follow company objectives as a part of their daily activities.
-
-- Progress tracking
-Matrices are ineffective if the progress is not tracked. There should be mechanisms in place to track progress continuously. 
-
-- Continuous improvement
-The entire purpose of key matrices is to identify inefficiencies, learn from them, and continuously improve. Failures are likely to happen, and your organization should be tough enough to learn from them and, most importantly, make sure not to repeat the same mistakes.
+- **Understanding business goals:** Your matrices should track the progress towards the ultimate business goal. The first step is to identify the business goals as quantifiable as possible. E.g. 1 billion dollar sales revenue by end 2021.
+- **Defining matrices for the product:** There are 3 main types of testing metrics.
+    1.	**Process Metrics:** Improves the efficiency of the Software Development Life Cycle (SDLC) 
+    2. 	**Product Metrics:** Improves the quality of the product.
+    3. 	**Project Metrics:** Improves the efficiency of the project team. The chances are that you'll have objectives to measure in all these areas. Try breaking down the big objective in each area to more trackable progressive milestones. Depending on your business objectives the weightages for each milestone may differ.
+- **Identifying Key Performance Indicators (KPIs):** The most critical measures out of those defined are the Key Performance Indicators. These are the ones that businesses define as most applicable for success. KPIs needs to be established based on the business goals. Once identified, then they need to be communicated to all stakeholders of the organization.
+- **Aligning individuals with business goals:** One of the most effective ways of management is to align the business goals with individual objectives. This is primarily about communicating the company objectives and making sure individuals follow company objectives as a part of their daily activities.
+- **Progress tracking:** Matrices are ineffective if the progress is not tracked. There should be mechanisms in place to track the progress continuously.
+- **Continuous improvement:** The entire purpose of key matrices is to identify inefficiencies, learn from them and continuously improve. Failures are likely to happen and your organization should be tough enough to learn from them and most importantly to make sure not to repeat the same mistakes.
 
 
 ## References

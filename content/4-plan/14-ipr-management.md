@@ -1,7 +1,7 @@
 ---
 title: "IPR Management"
 metaTitle: "IPR Management | WP"
-metaDescription: "Take actions to protect the intellectual property of your business and technical innovations. Take necessary actions such as patenting, copy-rights and non-disclosure agreements and validating compatibility of third-party licenses."
+metaDescription: "Take actions to protect intellectual property of your business and technical innovations. Take necessary actions such as patenting, copyrights and non-disclosure agreements and validating compatibility of third-party licenses."
 published: true
 metaTags:
   - Plan
@@ -10,34 +10,37 @@ metaTags:
 ---
 
 ## Why
-Delivering innovations better than competitors is the primary goal of a winning product. Establishing and protecting your intellectual rights is important to achieve this goal. It is a step towards assuring that your competition cannot illegally copy your IP. Also, the team must ensure that the product does not violate the IP rights of any other party to avoid possible legal complications. 
+Delivering innovations better than competitors is a primary goal of a winning product. Establishing and protecting your intellectual rights is important to achieve this goal. This is a step towards assuring that your IP cannot be illegally copied by your competition. In addition, ensure that your product doesn’t violate the IP rights of any other party to avoid possible legal complications.
 
-Apart from the protection/legal point of view, innovation and IPR plays a significant role in the marketing process. Trademarks, copyrights, industrial designs, patents, trade secrets etc. are important for the customers to establish trust and distinguish the product from the competition.
+Apart from protection/legal point of view, innovation and IPR plays a significant role in the marketing process. Trademarks, copyrights, industrial designs, patents, trade secrets etc. are important for the customers to establish trust and distinguish the product from competition.
 
 
 ## How
-- Identify IP artifacts and formulate a plan to protect them. There are several approaches for this.
-  - Copyrights notices: Such may protect the code, user guides and the graphical elements like icons.
-  - Trademarks: Essential way to protect and establish the identity in the market.
-  - Patents: Protect the technical effects of the product. Complicated and costly process.
-  - Industrial Design: This can protect graphical user interfaces from copying.
-  - Trade secrets: This requires extensive measures to safeguard trade secrets by limiting access to knowledge.
-  - Database rights: Output of a process can be protected through this.
+- Identify IP artifacts and formulate a plan to protect them:
+  - **Copyrights notices:** May protect the code, user guides and the graphical elements like icons.
+  - **Trademarks:** Essential to protect and establish the identity in the market.
+  - **Patents:** Protect the technical effects of the product. A complicated and costly process.
+  - **Industrial Design:** Protects graphical user interfaces from being copied.
+  - **Trade secrets:** Requires extensive measures to safeguard trade secrets by limiting access to knowledge.
+  - **Database rights:** Protects the output of a process.
 
-- Establish a reliable product licensing model and agreements.
-  - Licensing is the fundamental means of granting the right to third parties to use your IP. 
-  - Most Proprietary licensing is connected to a financial commitment and is time-bound.
+
+- Establish a strong product licensing model and agreements:
+  - Licensing is the fundamental means of granting rights to third parties to use your IP.
+  - Most proprietary licensing is connected to a financial commitment and is time bound.
   - Articulate the terms and conditions for all partners/customers that may use the product.
-  - Document and validate third-party components and libraries used by the product to ensure the compatibility of the offered licensing model.
-  - Implement an approval process for introducing any third party component or library.
+  - Document and validate third party components and libraries used by the product to assure compatibility of the offered licensing model of the product.
+  - Implement an approval process for introducing any third-party component or library.
 
-- Formulate and sign legal agreements (NDA, NCC, etc.) with partners and contractors such as
+
+- Formulate and sign legal agreements (NDA, NCC, etc.) with partners and contractors:
   - Your employees
   - Outsourced development teams and individual contractors
-  - Business partners, such as distributors, implementors, etc.
+  - Business partners such as distributors, implementors, etc.
   - Service providers such as external marketing teams
 
-- Educate your sales and marketing teams on how to articulate the advantages of unique IP over your competition. Update the sales scripts accordingly.
+
+- Educate your sales and marketing teams on how to articulate the advantages of a unique IP over your competition. Update the sales scripts accordingly.
 
 
 ## References
