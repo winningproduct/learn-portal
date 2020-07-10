@@ -11,23 +11,20 @@ metaTags:
 ---
 
 ## Why
-If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which may probably lead to waste time and money for features that nobody needs. That will be rather catastrophic for startups who operates on limited budget and time.
+If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which leads to wasted time and money for features that no one needs. It’s catastrophic for startups which operates on limited budget and time.
 
 ## How
-There are several strategies to prioritize features. That includes feature grouping, effort vs. impact assessment, Use of RICE method and Use of Kano Method 
+There are several strategies to prioritize features. That includes feature grouping, effort vs. impact assessment, use of RICE method and use of Kano method.
 
-- Feature Grouping
-  - It helps to create small groups of similar features that are useful in prioritizing and avoiding over-analyzing, which is commonly known as Choice paralysis.
-- Analyze the Effort vs. Impact
-  - It is a fundamental and commonly used way to do feature prioritization is using a simple Effort/Impact matrix.
-- Go deeper with the RICE Method
-  - Sometimes features are complicated and need to be prioritized with more detail than a simple grid can do. In this case, the RICE method is a great way to score priorities.
+- **Feature Grouping:** Helps to create small groups of similar features that are useful in prioritizing and avoiding over-analyzing, which is commonly known as choice paralysis.
+- **Analyze the Effort vs. Impact:** It’s a fundamental, commonly used way to do feature prioritization using a simple Effort/Impact matrix.
+- **Go deeper with the RICE Method:**	Sometimes features are complicated and need to be prioritized with more detail than a simple grid can do. In this case, the RICE method is a great way to score priorities.
     - Reach
     - Impact
     - Confidence
     - Effort
-- Use the Kano Method to prioritize features based on Customer satisfaction
-- Prioritize features by constraints
+- Use the Kano Method to prioritize features based on customer satisfaction
+- Prioritize features by constraints.
 
 ## References
 - [Kano Model] (https://en.wikipedia.org/wiki/Kano_model)
