@@ -27,6 +27,7 @@ A promotional plan is an integral part of executing product marketing strategies
 - Decide what response strategies (e.g. for customer leads) should be in-place as part of the overall promotional process.
 - Plan social media campaigns. Social media promotions are an easy way of connecting with customers, bringing in more fans for your social media platforms, and making conversions.
 
+
 ## References
 - [How to Create a Promotional Plan] (http://www.adbase.com/Blog/Marketing-Planning/PromotionalPlan)
 - [10 Ways to Promote a New Product or Service] (https://thrivehive.com/9-ways-to-promote-a-new-product-or-service/)
