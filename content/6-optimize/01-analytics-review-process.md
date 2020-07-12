@@ -16,7 +16,6 @@ The collection and analysis of data can be used to make important business decis
 
 However, the most notable advantage of data analytics is the ability to do predictive modeling. Modern algorithms can predict where the market and user patterns are likely to head. This can easily make your organization more proactive in maximizing the return on investments.
 
-
 ## How
 Consider the following when thinking of building an analytics suite:
 
