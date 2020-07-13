@@ -11,6 +11,7 @@ metaTags:
   - Market Sense
 ---
 
+
 ## Why
 
 Regardless of how your sales process is, it’s inevitable that you may lose some prospects. In such situations, it’s useful to understand what made the prospect choose a competitive product over yours. This informs what’s missing from your offering. In addition to the assessment of the product itself, doing a win-loss analysis also determines the strength of your sales process. The following are some of the things that you can learn from a win-loss analysis:
