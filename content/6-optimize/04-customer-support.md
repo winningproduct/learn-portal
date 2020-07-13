@@ -14,29 +14,29 @@ metaTags:
 ## Why
 `A satisfied customer is one who will continue to buy from you, seldom shop around, refer other customers and in general be a superstar advocate for your business.` - _Gregory Ciotti_
 
-This strategic activity is to organize customer support activities and get correct tooling in-place to ensure a fast response to customer requests. It includes assistance in planning, installation, training, troubleshooting, maintenance, upgrading, and disposal of a product.
+This strategic activity is to organize customer support activities and get correct tools in-place to ensure a fast response to customer requests. It includes assistance in planning, installation, training, troubleshooting, maintenance, upgrading, and disposal of a product.
 
 ## How
-- Define what it means by 'great customer service' and align with your brand values. Set the standards such as
+- Define what it means by 'great customer service' and align with your brand values. Set the standards such as:
   - Response time
   - Proactive engagement (e.g. through error detection and fix)
   - Conversational personality
   - How the disagreements/complaints are handled
   - Legal requirements of your agreements and the industry
-- Determine the channels through which you support the customers. This could vary with the licensing agreement with the customer.
+- •	Determine the channels through which you support the customers. This could vary with the licensing agreement with the customer:
   - Inbound channels (calls, chats, email, SM, Forums, etc)
   - Channels for investigations (Remote desktop, Onsite visits, Event logs, etc.)
-- Setup automated help assistants and knowledge bases to reduce your operational costs and provide efficient responses by handling regular queries automatically. This includes automated the self-support process, freeing users from self-help diagnostics, and troubleshooting from online knowledge bases.
+- Setup automated help assistants and knowledge bases to reduce your operational costs and provide efficient responses by handling regular queries automatically. This includes an automated self-support process, freeing users from self-help diagnostics, and troubleshooting from online knowledge bases.
 - Hire and train your customer support staff who has a customer-centric-mindset. Establish standard response procedures to have consistency across all staff. Train and set KPIs based on customer satisfaction and feedback.
-- Setup the right tools and integration in between. The toolset may involve,
-  - Call Center Software
+- Setup the right tools and integration in between. The tools can be:
+  - Call center software
   - CRM
-  - Help Desk Ticketing System
-  - Social Media Monitoring
+  - Help Desk ticketing system
+  - Social media monitoring
   - Remote assistance tools
-  - Event Log Monitoring.
-- It should also be noted that most of the traditional tooling can be expensive, hence consider setting up a lean infrastructure as appropriate
-- Establish on-site support procedures if necessary 
+  - Event log monitoring
+- Most of the traditional tools can be expensive, consider setting up a lean infrastructure as appropriate.
+- Establish on-site support procedures if necessary.
 
 ## References
 [Customer Support](https://en.wikipedia.org/wiki/Customer_support)

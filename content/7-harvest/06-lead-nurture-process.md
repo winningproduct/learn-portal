@@ -1,7 +1,7 @@
 ---
 title: "Lead nurture pipeline"
 metaTitle: "Lead nurture pipeline | WP"
-metaDescription: "Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy."
+metaDescription: "Start educating prospects, build awareness of your organization and its products. Build trust and a good relationship to ensure the potential client chooses you when it's time to buy."
 published: true
 metaTags:
   - Harvest
@@ -10,31 +10,27 @@ metaTags:
   - User Experience
 ---
 
-## What
-
-Start educating prospects, build awareness of your organization and its products. Build trust and build a good relationship making it more likely that the potential client will choose you when it's time to buy.
-
 ## Why
 
-First time visitor to your site is not coming to purchase. They are coming for information collection. Unless you build a lasting relationship with these visitors, they hardly get converted to a sale. It is [observed](https://www.invespcro.com/blog/lead-nurturing/) that companies with successful lead nurturing generate 50% more sales-ready leads at a 33% lower cost.
+A visitor to your site is not coming to purchase when they initially visit, they are coming for information. Unless you build a lasting relationship with these visitors, they hardly get converted to a sale. It’s observed that companies with successful lead nurturing generate 50% more sales ready leads at a 33% lower cost.
 
 ## How
 
-- Analyze the persona to target and understand what convinces them to buy
-- Design your nurturing flow
-  - Define the touchpoints
+- Analyze the persona to target and understand what convinces them to buy.
+- Design your nurturing flow.
+  - Define the touch points
   - Plan valuable content offers
   - Decide the frequency
   - Decide the contact channels
-- You may use different channels as suitable for your audience
+- Use different channels as suitable for your audience.
   - Emails
-  - Social Media Retargeting
-  - Display Retargeting
+  - Social media retargeting
+  - Display retargeting
   - Surveys
   - One-on-one interactions such as calls, meetings
   - Meet in-person
-- Establish automatic lead scoring to trigger notifications to sales team regarding high-ranked leads
-- Measure your results, review and improve
+- Establish automatic lead scoring to trigger notifications to the sales team regarding high-ranked leads
+- Measure your results, review and improve.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 title: "Performance Tuning Plan"
 metaTitle: "Performance Tuning Plan | WP"
-metaDescription: "How to optimize system performance for best user experience, based on performance requirements and analysis on existing performance"
+metaDescription: "Optimize system performance for the best user experience, based on performance requirements and analysis on existing performance."
 published: true
 documentation: "TechArchitecture"
 
@@ -13,27 +13,26 @@ metaTags:
 ---
 
 ## Why
-According to user experience research, more than 40% of users will abandon the software product if the page loading time gets delayed more than 2 seconds. If the product's business is also relying on the API economy, poor product API performance can have a direct impact on the revenue. 
+According to user experience research, more than 40% of users abandon the software product if the page loading time gets delayed for more than 2 seconds. If the product's business is also relying on the API economy, poor product API performance can have a direct impact on the revenue.
 
 ## How
-A software product has a collection of integrated subsystems and this can be viewed as a collection of nodes and connections. Performance is the level of throughput of node and latency of each connection. Higher the throughput and lower the latency it's better for the overall performance of the product. 
-Performance fine-tuning will incur different level costs based on the tactics utilized hence it is important to understand the level of performance required for a product and use the most optimal set of tactics.
+A software product has a collection of integrated subsystems and this can be viewed as a collection of nodes and connections. Performance is the level of throughput of node and latency of each connection. Higher the throughput and lower the latency it's better for the overall performance of the product. Performance fine-tuning incurs different level costs based on the tactics utilized. It’s important to understand the level of performance required for a product and use the most optimal set of tactics.
 
 - Performance Engineering
   - Identify architecturally significant requirements and isolate requirements related to performance.
   - Derive performance benchmark.
   - Identify tactics to ensure the required performance level.
-      - Tactics to ensure the right level of performance for components and sub-systems
-      - Tactics to minimize the latency of communication between components and subsystems 
-- Performance Testing
-  - Throughout the product engineering lifecycle, it is required to do performance testing based on benchmarks.
+        - Tactics to ensure the right level of performance for components and sub-systems
+        - Tactics to minimize the latency of communication between components and subsystems 
+- Performance Testing     
+  - Throughout the product engineering lifecycle, it’s required for performance testing based on benchmarks.
   - To identify performance bottlenecks, performance testing is carried out in a simulated production environment with realistic data loads.
-  - Types of performance testing;
-    - Stress testing
-    - Load testing
-    - Scalability testing
+  - Types of performance testing:
+        - Stress testing
+        - Load testing
+        - Scalability testing
 - Performance Improvements
-  - Once the list of issues identified components, subsystems and integrations are updated until it reaches the benchmarked performance levels.
+  - The list of issues of identified components, subsystems and integrations are updated until it reaches the benchmarked performance levels.
 
 ## References
 [Designing for Performance](http://designingforperformance.com/performance-is-ux/)
