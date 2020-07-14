@@ -70,6 +70,7 @@ export default class MDXRuntimeTest extends Component {
     const metaTitle = mdx.frontmatter.metaTitle;
 
     const metaDescription = mdx.frontmatter.metaDescription;
+    const checklist = mdx.frontmatter.checklist;
 
     const isDraft = !mdx.frontmatter.published;
 
@@ -104,11 +105,12 @@ export default class MDXRuntimeTest extends Component {
           </Edit>
         </div>
         <StyledMainWrapper>
-          {isDraft? (<Draft></Draft>) : null}
-          <blockquote style={{fontSize: "20px"}}><i>{metaDescription}</i></blockquote>
-          <MDXRenderer>
-            {mdx.body}
-          </MDXRenderer>
+          {isDraft ? <Draft></Draft> : null}
+          {checklist ? <div></div> : null}
+          <blockquote style={{ fontSize: '20px' }}>
+            <i>{metaDescription}</i>
+          </blockquote>
+          <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
         <div className={'addPaddTopBottom'}>
           <NextPrevious mdx={mdx} nav={nav} />
@@ -143,6 +145,12 @@ export const pageQuery = graphql`
         metaTitle
         metaDescription
         published
+        checklist {
+          expectation
+          order
+          question
+          version
+        }
       }
     }
     allMdx {
