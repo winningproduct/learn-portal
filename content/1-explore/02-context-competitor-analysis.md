@@ -1,11 +1,11 @@
 ---
-title: "Context Competitor Analysis"
-metaTitle: "Context Competitor Analysis | WP"
+title: "Competitor Analysis"
+metaTitle: "Competitor Analysis | WP"
 metaDescription: "Used to measure how competitive your product or service is against the competition."
 published: true
 metaTags:
   - Explore
-  - Context Competitor Analysis
+  - Competitor Analysis
   - Winning Product Canvas
   - Market Sense
 checklist: 
