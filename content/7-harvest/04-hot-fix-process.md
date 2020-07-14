@@ -10,31 +10,20 @@ metaTags:
   - Technology Mastery
 ---
 
-## What
-
-A Hotfix is a cumulative package generated over a previous official release and created to fix a product (e.g. bug fix). Hotfixes are incremental and include improvements in previous Hotfixes and Patches. These improvements may include:
-
-- New features
-- Bug fixes
-- Security fixes
-- Changes in the database schema
-  However, major changes (backward-incompatible changes) are not included.
-
 ## Why
 
-Unlike typical version updates, hotfixes are urgently developed and released as soon as possible to limit the effects of the product issue. The reality is sometimes messier. If a critical defect comes in, and maybe a flaw is costing you money, or opening your company up to liability, or leaving an opening for hackers, or disabling a fundamental feature, you damn well fix it now, rules are damned.
+A hotfix is a cumulative package generated over a previous official release and created to fix a problem in a product (e.g. bug fix). Unlike typical version updates, hotfixes are urgently developed and released as soon as possible to limit the effects of the product issue. The reality is sometimes messier. If a critical defect comes in, and if a flaw is costing you money, opening your company up to liability, leaving an opening for hackers, or disabling a fundamental feature, fix it now.
 
 ## How
 
-A hotfix is a significant bug that affects the majority of users for which there is no reasonable workaround. So consider these questions:
+A hotfix is a significant bug that affects a majority of users for which there is no reasonable workaround. Consider these questions:
+
 
 - Is this bug significant?
 - Does it affect the majority of users?
-- Is there a reasonable workaround?
-  When an issue is found, you first do a triage of the issue to determine if it is a really critical "fix now" problem or if it can wait and be planned along with the other work.
-  If the issue really has to be fixed immediately, then you should pull it into the current sprint (for Agile teams) as unplanned work and track how much time the team spent on it.
+- Is there a reasonable workaround? When an issue is found, you first do a triage of the issue to determine if it’s really a critical "fix now" problem or if it can wait and be planned along with the other work. If the issue must be fixed immediately, then pull it into the current sprint (for Agile teams) as unplanned work and track how much time the team spends on it.
 
-To facilitate hotfix process, the team must maintain best practices in release management, including proper branching strategies and delivery automation.
+To facilitate the hot-fix process, it’s essential to maintain best practices in release management, including proper branching strategies and delivery automation.
 
 ## References
 
