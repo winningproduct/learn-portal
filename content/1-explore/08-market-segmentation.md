@@ -8,6 +8,12 @@ metaTags:
   - Market Segmentation
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Have you identified the different segments of your target market?
+    expectation: Maintain a document explaining the different characteristics of each market segment.
+    version: 1.0.0
 ---
 
 ## Why

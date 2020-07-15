@@ -10,6 +10,17 @@ metaTags:
   - UVP
   - Unique Value Proposition
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Have you identified the customer profile of your target audience?
+    expectation: Maintain a document explaining the tasks the target audience requires to do, the pain points, and gains.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the value map of your product offers to the target market?
+    expectation: Maintain a document explaining the mappings pain relievers offered and the gain creators for the targeted customer profile from your product.
+    version: 1.0.0
 ---
 
 ## Why
