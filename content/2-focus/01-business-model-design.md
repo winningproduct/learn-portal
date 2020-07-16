@@ -21,13 +21,13 @@ checklist:
     question: Have you defined your product features as it is under Value Proposition?
     expectation: You shouldn't mention product features here, rather think about benefits for your customers.
     version: 1.0.0
-    order: 3
   - 
+    order: 3
     question: If you do activities listed in 'Customer Relationships' will you be able to find and enough retain customers to build a sustainable business?
     expectation: Customers are key in any business. Your plan here has to be well thought through.
     version: 1.0.0
+  -
     order: 4
-  - 
     question: If you do the activities listed in left, will you be able to deliver all customer facing (right side) activities effectively?
     expectation: Analyze to see how coherent the different segments in your business model.
     version: 1.0.0
