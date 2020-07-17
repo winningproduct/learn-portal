@@ -9,6 +9,23 @@ metaTags:
   - Problem Solution Fit Testing
   - Winning Product
   - Market Sense
+
+checklist: 
+  -
+    order: 1
+    question: Have you identified the problem that your product solves?
+    expectation: The problem has to be identified clearly. If you have to educate the potential customers about the problem, you might as well solve a non-existing problem
+    version: 1.0.0
+  - 
+    order: 2
+    question: How would your customers rate your value proposition?
+    expectation: Is your solution falls under Nice to have, Should have or Must have? It’s difficult to build a business model around 'Nice to have' ideas.
+    version: 1.0.0
+  - 
+    order: 3
+    question: Did you talk to your potential customers to test your solution for the problem?
+    expectation: There is no other way of testing your problem solution fit without talking to your potential customers. You can make calls, meetings, surveys to collect information on how important it’s for them to have the identified problem solved.
+    version: 1.0.0
 ---
 
 ## Why
