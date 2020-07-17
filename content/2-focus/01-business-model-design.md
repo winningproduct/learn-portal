@@ -9,6 +9,28 @@ metaTags:
   - business model design
   - Winning Product
   - Market Sense
+
+checklist: 
+  -
+    order: 1
+    question: Do you have your business model documented in the form of a canvas (or an equivalent)?
+    expectation: Visualize the business model of your product to analyze and optimize how the front-stage and back-stage operate in synergy. 
+    version: 1.0.0
+  - 
+    order: 2
+    question: Have you defined your product features as it is under Value Proposition?
+    expectation: You shouldn't mention product features here, rather think about benefits for your customers.
+    version: 1.0.0
+  - 
+    order: 3
+    question: If you do activities listed in 'Customer Relationships' will you be able to find and enough retain customers to build a sustainable business?
+    expectation: Customers are key in any business. Your plan here has to be well thought through.
+    version: 1.0.0
+  -
+    order: 4
+    question: If you do the activities listed in left, will you be able to deliver all customer facing (right side) activities effectively?
+    expectation: Analyze to see how coherent the different segments in your business model.
+    version: 1.0.0
 ---
 
 ## Why
@@ -23,47 +45,45 @@ Every business operates with various touch-points with multiple stakeholders whi
 
 To build a Business Model Canvas fill in each cell on the canvas in a predefined order. Content in each cell must answer some important questions as explained below.
 
-### Value Proposition:
+### Value Proposition
 
 Why do your customers buy the product? What pain are you solving and what gain are you creating? What is unique about you that makes you stand out in the competition? List your important features, products or services.
 
-### Customer Segments:
+### Customer Segments
 
 Who are your customers? What are the geographic, social characteristics and demographics? List down the persona of all your customers.
 
-### Channels:
+### Channels
 
 How do you get your product or service available to customers? In the product development context, channels could be a web application, mobile app, etc.
 
-### Customer Relationships:
+### Customer Relationships
 
 How do you GET, KEEP and GROW customers? This differs based on the channel adopted and level of engagement required.
 
-### Revenue Stream:
+### Revenue Stream
 
 How do you make money by selling your services or products to your customer segments? What strategy/revenue model is adopted to make money?
 
 Once the right side of the canvas is defined, it gives answers to what the company plans to produce, how it plans to deliver and to whom. This half is the outward-facing side of the business which focuses on the customer needs and explains how the revenue streams are created. Now is the time to elaborate the internal workings of the company to produce the expected outcomes.
 
-
-### Key Resources:
+### Key Resources
 
 What key assets and resources are required to run the business? From a software product perspective, some of the key resources could be people, intellectual property rights, platforms, etc.
 
-### Key Partners:
+### Key Partners
 
 Whom do we need to collaborate with outside the organization to help us operate the business?
 
-### Key Activities:
+### Key Activities
 
 What are the most important things to do to make the business model work and generate value?
 
-### Cost Structure:
+### Cost Structure
 
 What are the primary costs and expenses to operate the business?
 
 Now the left side of the business model is defined. The left section is inward-facing and focusses on how the company plans to create products or services and who are the key resources and partners. This explains and helps to visualize the required internal working of a business.
-
 
 ## References
 
