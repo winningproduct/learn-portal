@@ -8,6 +8,17 @@ metaTags:
   - Persona
   - Winning Product Canvas
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: Have you identified the relevant Personas and documented them for your software product?
+    expectation: Identify the different Personas relevant to your software product by analyzing data, conducting interviews & etc and create a document containing all these information in one place.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you conducted any survey's to gather Persona information?
+    expectation: Define the survery questionaries and process you used to gather Personas and document them for future reference.
+    version: 1.0.0
 ---
 
 
