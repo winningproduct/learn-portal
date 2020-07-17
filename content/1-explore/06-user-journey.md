@@ -9,6 +9,12 @@ metaTags:
   - User Journey
   - Winning Product Canvas
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: Do you have a user-journey map created for your product?
+    expectation: Create a user jouney map for your product. Document it in one place for any future references.
+    version: 1.0.0
 ---
 
 ![User journey map](../../img/user-jorney-map.png)  
