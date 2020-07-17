@@ -1,13 +1,29 @@
 ---
-title: "Context Competitor Analysis"
-metaTitle: "Context Competitor Analysis | WP"
+title: "Competitor Analysis"
+metaTitle: "Competitor Analysis | WP"
 metaDescription: "Used to measure how competitive your product or service is against the competition."
 published: true
 metaTags:
   - Explore
-  - Context Competitor Analysis
+  - Competitor Analysis
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Have you identified your competitors? 
+    expectation: Define the industry that you are in and identify the direct and indirect competitors.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you done a SWOT analysis of your competitors?
+    expectation: Analyze the Strengths, Weaknesses, Opportunities, and Threats of your competitors to understand the competition better.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have a competitive analysis template to assess your competitors?
+    expectation: The competitive analysis template should assess all your competitors against the key competitive advantages, target market, market share, product and services, and marketing strategy.
+    version: 1.0.0
 ---
 
 
