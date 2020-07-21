@@ -1,7 +1,7 @@
 ---
 title: "Megatrend Analysis"
 metaTitle: "Megatrend Analysis | WP"
-metaDescription: "Megatrends represent potential behavioral or attitude changes over the course of time in your consumers/users.  Megatrend analysis answers the question “What is happening? at a macro level"
+metaDescription: "Megatrends represent potential behavioral or attitudinal changes over the course of time in your consumers/users.  Megatrend analysis answers the question “What is happening? at a macro level."
 published: true
 metaTags:
   - Explore
@@ -24,11 +24,11 @@ checklist:
 
 ## Why
 
-An in-depth look at Megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analyzing, and acting in accordance with megatrends is essential for success in this market. Using megatrend analysis companies can develop proactive long-term strategies and apply them to their own growth strategy.
+An in-depth look at megatrends can be a decisive competitive advantage and promote sustainable growth. Identifying, analyzing and acting in accordance with megatrends is essential for success in the marketplace. Using megatrend analysis, companies can develop proactive long-term strategies and apply them to their own growth strategy.
 
 ## How
 
-You may follow the below steps in performing a megatrend analysis:
+You may follow the steps shown below to perform a megatrend analysis:
 
 - Identify factors driving long-term shifts in behaviour and attitudes in the domain you are operating. This exercise  helps you to spot the megatrends most relevant to your business. Some such factors could be:
   - Technology
@@ -36,15 +36,15 @@ You may follow the below steps in performing a megatrend analysis:
   - Changing values of users
   - Economic reasons
   - New business models
-  - etc.
+  
 - Build a list of megatrends that has potential to make a significant disruption. Following methods may be useful in identifying megatrends.
-  - brainstorming driving factors identified above
-  - talking to domain experts
-  - market interviews
-  - analyze competitor positioning
-  - desk research, etc.
-- Identify the megatrends that are most relevant for your product. Significance to your business may depend on factors such as your market geography and target customer segments.
-- Address the megatrend with product strategy and roadmap to enhance your long-term competitiveness in the market. Update your collateral such as sale material and website accordingly.
+  - Brainstorming driving factors identified above
+  - Talking to domain experts
+  - Market interviews
+  - Analyzing competitor positioning
+  - Desk research, etc.
+- Identify the megatrends that are most relevant for your product. The specific significance to your business may depend on factors such as your market geography and target customer segments.
+- Address the megatrend with product strategy and roadmap to enhance your long-term competitiveness in the market. Update your collateral such as marketing material and website accordingly.
 
 ## References
 
