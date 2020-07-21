@@ -1,7 +1,7 @@
 ---
 title: "Personas"
 metaTitle: "Personas | WP"
-metaDescription: "A tool used to identify the types of users in the product. The product is designed specifically to target their needs instead 0of aone for generic set of users."
+metaDescription: "A tool used to identify the types of users in the product. The product is designed specifically to target their needs instead of a generic set of users."
 published: true
 metaTags:
   - Explore
@@ -24,7 +24,7 @@ checklist:
 
 ## Why
 
-The unique value of a product is represented in features when its mapped to the specific needs of each type of product user. If it can’t relate and add value to the users’ needs then it can’t achieve the unique value proposition to differentiate in the marketplace. Using personas you can explain the feature usage to stakeholders in a meaningful way.
+The unique value of a product is represented in features when its mapped to the specific needs of each type of product user. If the product cannot relate and add value to a user's needs, it cannnot offer a unique value proposition to differentiate itself in the marketplace. Using personas, you can explain the feature usage to stakeholders in a meaningful way.
 
 ## How
 
@@ -37,12 +37,12 @@ Gather with the stakeholders of the product to define the input areas of the per
   Identify trends, you should understand that different groups of people have a novel approach to the subject.
 
 - Create separate personas :
-  All of the main Personas templates consists of the following main elements.
+  All of the main personas templates consists of the following key elements.
   - Photo : To emphasize the age and experience attached to this persona
   - Name : To relate to the persona
   - Persona Group : Describes the user group this persona represents. i.e Administrator or Customer
   - Description :  Background details about the character
-  - Job titles and major responsibilities: Identify what job titles are represented by this persona and what are their respossibilities.
+  - Job titles and major responsibilities: Identify what job titles are represented by this persona and what are their responsibilities.
   - Demographics: Describe demographics such as age, education, ethnicity, and family status
   - Problems : List of problems that each persona faces
   - Goals: The goals and tasks they are trying to complete using the application
@@ -51,12 +51,12 @@ Gather with the stakeholders of the product to define the input areas of the per
 - Give your personas names :
   It helps to provide personalized content 
 
-- Identify goals & painpoints
+- Identify goals & pain points :
 
   - Goals: What you want to accomplish and why you want to accomplish it.
   - Pain points: What stopped people from accomplishing their goals
 
-- Benifit of a persona
+- Benefits of using a persona : 
   Identifying the correct persona is critical when creating customer journey maps and to validate a MVP (Minimum Viable Product) scope for product engineers.
 
 ## References
