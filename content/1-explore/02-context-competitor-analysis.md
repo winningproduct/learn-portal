@@ -28,7 +28,7 @@ checklist:
 
 
 ## Why
-By measuring your products or service against competition allows you to position the product in the market effectively. The continuous monitoring of market dynamics will help you respond to the market changes timely.
+By measuring your products or service against competition allows you to position the product in the market effectively. The continuous monitoring of market dynamics will help you respond to market changes in timely manner.
 
 ## How
 - Define the industry you are in – scope and nature of the industry.
@@ -36,7 +36,7 @@ By measuring your products or service against competition allows you to position
   - Direct competitors
   - Indirect competitors
 - Determine the customer segments they target and the primary benefits provided.
-- Analyze their marketing taglines and crucial messages to the market.
+- Analyze their marketing taglines and main messages to the market.
 - Determine the key aspects for driving adoption and use – for example, price, service, ratings, convenience, marketing and inventory
 - Quantitatively rank the key success factors by giving each one a weightage.
 
