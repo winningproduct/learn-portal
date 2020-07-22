@@ -26,7 +26,7 @@ The recommended approach to do a platform migration is four-fold:
 
 **Gradual migration:** First, you must investigate what components must be considered for migration, given the new system's requirements. How new components may co-exist with legacy components to seamlessly participate in the business processes.
 
-**Inventory of assets:** You should have a clear inventory of assets (data and modules) that exists as the legacy. Make a plan and schedule of how and when each of the assets gets migrated to the new platform.
+**Inventory of assets:** You should have a clear inventory of assets (data and modules) that exists as the legacy. Make a plan and schedule how and when each of the assets gets migrated to the new platform.
 
 **Prioritize components:** Decide whether to migrate your entire application at once, or migrate component by component or service by service.
 
@@ -50,12 +50,12 @@ When it comes to the actual migration of the component, there are two main alter
 1.**Lift & shift:** This is the big bang approach. Just take the whole thing and try to move it into the new system at one go. However, it would help if you considered possible alterations to the component when taking this approach.
 
 **Trickle migration:** This refers to the process of migrating in phases. If there are many components in the platform architecture to migrate, then trickle migration strategy might be a good option. It also gives more comfort in an unfortunate situation where you might have to roll-back.
-Test early and often
+Test early and often.
 
 
 ### Test early and often:
 
-An essential piece of the puzzle verifies that the migrated components work as they are expected and meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as in the old architecture.
+An essential piece of the puzzle verifies that the migrated components work as they are expected and meet the requirements set at the inception. Consider observing a parallel run of these components to make sure that they behave the same as the old architecture.
 
 ## References
 
