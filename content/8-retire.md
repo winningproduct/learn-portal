@@ -5,7 +5,7 @@ metaDescription: "Replacing the existing product with a new generation product."
 published: true
 ---
 
-Regardless of how well the product is built and maintained, there’s a time to take it off the market. Retirement can be brought on by a significant technology shift, competitor entrance, or user behavior change in the market.
+Regardless of how well the product is built and maintained, there’s a time to take it off the market. Retirement can be brought on by a significant technology shift, competitor entrance, or user behaviour changes in the market.
 
 This means you re-invent the technology platform/business model/user experience to keep an edge in the market. ISVs should be watchful to identify this need to disrupt their business model before a competitor does.
 
