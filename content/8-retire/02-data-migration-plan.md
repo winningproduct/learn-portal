@@ -17,7 +17,7 @@ Data migration from old to the new platform has risks of:
 
 - Costly downtime
 - Corrupted, lost, and misplaced data
-- Vompatibility issues
+- Compatibility issues
 - Bad performance
 - Data security and privacy breach
 
@@ -35,7 +35,7 @@ Things that can go wrong during a migration project. You need to have a mechanis
 
 ### Identify migration tooling
 
-Most migration projects are complicated and require the support of proper tooling. Data migration is usually not a one-time procedure, but continuous porting during a period. Many ETL tools exists and should be validated for features and flexibility.y.
+Most migration projects are complicated and require the support of proper tooling. Data migration is usually not a one-time procedure, but continuous porting during a period. Many ETL tools exist and should be validated for features and flexibility.
 
 ### Select, prepare and cleanse
 
@@ -52,7 +52,7 @@ New system features, business processes, and permission models could get violate
 - **Compliance:** Does it comply with regulatory standards?
 
 ### Move the data
-The most effective time for a migration switchover is the least active periods, such as weekends, holidays. In case of an unexpected showstopper you must have the ability to roll-back to a working data version. There are two ways to do the execution:
+The most effective time for a migration switchover is the least active periods, such as weekends, holidays. In case of an unexpected showstopper, you must have the ability to roll-back to a working data version. There are two ways to do the execution:
 
 **Big-Bang Migration:** Transfer all data within a small-time window and make a complete switch over to the new system. Most of the time, this could result in downtime during the process.
 
