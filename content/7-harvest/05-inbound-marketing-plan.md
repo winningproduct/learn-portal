@@ -1,7 +1,7 @@
 ---
 title: "Inbound Market Planning"
 metaTitle: "Inbound Market Planning | WP"
-metaDescription: "Enables the product to be found by the potential customers by way of content publishing or through digital marketing messages."
+metaDescription: "Enables the product to be found by the potential customers through content publishing or through digital marketing messages."
 published: true
 metaTags:
   - Harvest
@@ -11,7 +11,7 @@ metaTags:
 ---
 
 ## Why
-A 2011 Hubspot market research found that leads generated from inbound marketing efforts cost 62% less than leads from outbound marketing efforts. Due to the fact that users themselves search and land on content, it builds more trust than outbound methods.
+A 2011 Hubspot market research found that leads generated from inbound marketing efforts cost 62% less than leads from outbound marketing efforts. Since users themselves search and land on content, it builds more trust than outbound methods.
 
 ## How
 
@@ -21,11 +21,11 @@ Build content relevant to the value proposition of the product or solutions to t
 
 ### Engaging
 
-Instead of selling a product, offer advice for customer pain points and provide a long lasting solutions which build trust.
+Instead of selling a product, offer advice for customer pain points, and provide long-lasting solutions that build trust.
 
 ### Delighting
 
-Continuously listen to customers and offer new solutions to ease up their tasks and pain points. Monitor social media channels to understand sentiments of customers and respond as needed.
+Continuously listen to customers and offer new solutions to ease up their tasks and pain points. Monitor social media channels to understand the sentiments of customers and respond as needed.
 
 ## References
 
