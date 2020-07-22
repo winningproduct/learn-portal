@@ -1,7 +1,7 @@
 ---
 title: "Continuous Improvement Strategy"
 metaTitle: "Continuous Improvement Strategy | WP"
-metaDescription: "Rapidly respond to market conditions and learnings to sustain a competitive edge.teratively improve the product with strategies to improve, invent and buy decisions that align with your business goals and timelines."
+metaDescription: "Rapidly respond to market conditions and learnings to sustain a competitive edge. Iteratively improve the product by aligning with business goals and timelines."
 published: true
 metaTags:
   - Harvest
