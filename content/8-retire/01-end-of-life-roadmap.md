@@ -25,7 +25,7 @@ The following reasons impact the decision of product retirement:
 
 1. Old technology is compromising your security.
 2. It's more cost-effective to use newer technology.
-3. Software platform is outdated and has no upgrade path.
+3. The software platform is outdated and has no upgrade path.
 4. New users require better UX on a new platform.
 5. Business model change requires a different platform.
 6. Product is not performing well financially.
@@ -69,7 +69,7 @@ Develop an end-of-life policy for your company so that your customers know the p
 EOL policy may include the release of source code for other parties to carry on from there. It’s also vital to specify additional conditions such as:
 
 - Technical support, workarounds, and bug fixes will stop.
-- Support during the period between EOS and EoL (may only be paid for support contract).
+- Support during the period between EOS and EOL (may only be paid for support contract).
 - Online support documentation, wikis, or forums may be archived or taken offline on a date.
 - Requests for features will not be accepted.
 - Validation of software installs may not work.
@@ -106,6 +106,6 @@ Develop a Responsibility Matrix (RACI - responsible, accountable, consulted, and
 ## References
 
 - [Application Retirement Methodology](https://www.capgemini.com/wp-content/uploads/2017/07/2013-04-10_application_retirement_methodology_whitepaper_web.pdf)
-- [Retiring/Decommissioning an Software-Based Solution](http://www.enterpriseunifiedprocess.com/essays/retirementPhase.html)
+- [Retiring/Decommissioning a Software-Based Solution](http://www.enterpriseunifiedprocess.com/essays/retirementPhase.html)
 - [What Does End of Life Mean for Software and Should You Care](https://helpdeskgeek.com/featured-posts/what-does-end-of-life-mean-for-software-and-should-you-care/)
 - [10-Step Checklist](https://www.productplan.com/how-to-end-of-life-product/)
