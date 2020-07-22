@@ -1,7 +1,7 @@
 ---
 title: "User Journey"
 metaTitle: "User Journey | WP"
-metaDescription: "A visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it’s essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help us see both sides of our services. Yet these two methods; what is a journey map, and what is a service blueprint, and how are they different is often confused."
+metaDescription: "A visualization of an individual’s experience with a product or service over time and across different perspectives. Mapping these experiences is a vital part of being a human-centered business, and it’s essential to look at both aspects — what the person experiences, and what went on outside of their view to make it happen. Customer journey mapping and service blueprinting are two complementary methods that can help you see both sides of your services. Yet these two methods; the journey map and the service blueprint, and how they differ from each other are often confused."
 
 published: true
 metaTags:
@@ -13,14 +13,14 @@ checklist:
   -
     order: 1
     question: Do you have a user-journey map created for your product?
-    expectation: Create a user jouney map for your product. Document it in one place for any future references.
+    expectation: Create a user jouney map for your product. Document it in one place for future reference.
     version: 1.0.0
 ---
 
 ![User journey map](../../img/user-jorney-map.png)  
 
 ## Why
-Better user-experience leads to better customer retention. A user journey map is a tool to visualize the user interaction with a product. It helps you to see your product from a user's point of view and follow a more user-centric apprach in the product design.   
+Better user-experience leads to better customer retention. A user journey map is a tool to visualize the user interaction with a product. It helps you to see your product from a user's point of view and follow a more user-centric approach in the product design.   
 
 ## How
 Consider the following when creating a user journey map. Use customer narratives and customer data to plot their expertise over time, mapping what they are doing, thinking, and feeling, while interacting with them along the way.
@@ -35,7 +35,7 @@ Consider the following when creating a user journey map. Use customer narratives
   - What the Persona does for a specific step. What are the actions taken by them?
 
 - The Pain points.
-  - What the hardships/obstacles the Persona has to go through to achieve a goal.
+  - What the hardships/obstacles the persona has to go through to achieve a goal.
 
 -  Rewards presented to the user.
   - What are the incentives given to the user to overcome pain points?
