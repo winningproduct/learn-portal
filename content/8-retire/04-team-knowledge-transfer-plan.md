@@ -17,9 +17,9 @@ Knowledge transfer is a must during product retirement. This process involves bo
 There are many reasons to justify why a knowledge transfer plan is crucial.
 
 - Knowledge transfer is essential for business continuity. Knowledge must be transferred to the new team to make sure they can function independently. A proper focus needs to be given for knowledge retention, or knowledge needs to be documented to further move away from any people dependencies.
--	A decent knowledge transfer plan can easily accelerate learning across the board. This enables fast people onboarding at any time of the product life cycle, not just in the retire stage. This could be the default for team training.
-- Consider a high investment in this strategic area especially if your team is a distributed team (which is not co-located). A proper knowledge transfer process could become the only effective way of learning if the interaction between people is limited in a distributed team setup. Moreover, the use of a modern knowledge transfer tool will enable you to bridge any language and culture gaps.
-- •	A less prominent advantage of a knowledge transfer process is better collaboration. Though it's not a directly relevant topic here, you can use strategic activity for your advantage when building a new team.
+-	A decent knowledge transfer plan can easily accelerate learning across the board. This enables fast onboarding at any time of the product life cycle, not just in the retire stage. This could be the default for team training.
+- Consider a high investment in this strategic area especially if your team is distributed (which is not co-located). A proper knowledge transfer process could become the only effective way of learning if the interaction between people is limited in a distributed team setup. Moreover, the use of a modern knowledge transfer tool will enable you to bridge any language and culture gaps.
+- •	A less prominent advantage of a knowledge transfer process is better collaboration. Although not a directly relevant topic here, you can use strategic activities to your advantage when building a new team.
 
 
 ## How

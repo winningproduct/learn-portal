@@ -1,7 +1,7 @@
 ---
 title: "Continuous Improvement Strategy"
 metaTitle: "Continuous Improvement Strategy | WP"
-metaDescription: "Rapidly respond to market conditions and learnings to sustain a competitive edge. Iteratively improve the product with improve, invent, or buy decisions aligning with business goals and timelines."
+metaDescription: "Rapidly respond to market conditions and learnings to sustain a competitive edge. Iteratively improve the product by aligning with business goals and timelines."
 published: true
 metaTags:
   - Harvest
@@ -18,9 +18,9 @@ Many things can change the market your product operates in, from new competitors
 
 Consider the following when creating a continuous improvement strategy:
 
-- Market research, industry trends analysis and competitor analysis are often useful to see whether your product could be made more competitive.
+- Market research, industry trends analysis, and competitor analysis are often useful to see whether your product could be made more competitive.
 - R&D team should work on product innovations to stay focused on responding to industry (product domain) trends.
-- Do product research to exploit a currently under-served niche. See whether your customers have any needs you could potentially fulfil? 
+- Do a product research to exploit a currently under-served niche. See whether your customers have any needs you could potentially fulfill? 
 - **Build vs. Buy Decisions:** The build vs buy decision is often an art more than a science. However, you can apply some logic to the equation by looking at 3 key areas and deciding where you stand. When making this decision, consider the following:
   - Understand the true costs of building and buying software, including license models, implementation, and maintenance costs.
   - Understand the risks inherent in purchasing software and placing your data inside. You won’t be able to fix bugs as easily.

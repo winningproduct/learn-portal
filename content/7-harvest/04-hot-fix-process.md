@@ -23,7 +23,7 @@ A hotfix is a significant bug that affects a majority of users for which there i
 - Does it affect the majority of users?
 - Is there a reasonable workaround? When an issue is found, you first do a triage of the issue to determine if it’s really a critical "fix now" problem or if it can wait and be planned along with the other work. If the issue must be fixed immediately, then pull it into the current sprint (for Agile teams) as unplanned work and track how much time the team spends on it.
 
-To facilitate the hot-fix process, it’s essential to maintain best practices in release management, including proper branching strategies and delivery automation.
+To facilitate the hot-fix process, it is essential to maintain best practices in release management, including proper branching strategies and delivery automation.
 
 ## References
 

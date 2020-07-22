@@ -1,7 +1,7 @@
 ---
 title: "Lead nurture pipeline"
 metaTitle: "Lead nurture pipeline | WP"
-metaDescription: "Start educating prospects, build awareness of your organization and its products. Build trust and a good relationship to ensure the potential client chooses you when it's time to buy."
+metaDescription: "Start educating prospects, build awareness of your organization and its products. Build trust and a good relationship to ensure the potential client chooses you when it is time to buy."
 published: true
 metaTags:
   - Harvest
@@ -12,13 +12,13 @@ metaTags:
 
 ## Why
 
-A visitor to your site is not coming to purchase when they initially visit, they are coming for information. Unless you build a lasting relationship with these visitors, they hardly get converted to a sale. It’s observed that companies with successful lead nurturing generate 50% more sales ready leads at a 33% lower cost.
+A visitor to your site is not coming to purchase when they initially visit, they are coming for information. Unless you build a lasting relationship with these visitors, they hardly get converted to a sale. It is observed that companies with successful lead nurturing generate 50% more sales-ready leads at a 33% lower cost.
 
 ## How
 
 - Analyze the persona to target and understand what convinces them to buy.
 - Design your nurturing flow.
-  - Define the touch points
+  - Define the touchpoints
   - Plan valuable content offers
   - Decide the frequency
   - Decide the contact channels
@@ -30,7 +30,7 @@ A visitor to your site is not coming to purchase when they initially visit, they
   - One-on-one interactions such as calls, meetings
   - Meet in-person
 - Establish automatic lead scoring to trigger notifications to the sales team regarding high-ranked leads
-- Measure your results, review and improve.
+- Measure your results, review, and improve.
 
 ## References
 
