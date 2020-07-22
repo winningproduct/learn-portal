@@ -1,23 +1,23 @@
 ---
-title: "Product Concept Pitch Desk"
-metaTitle: "Product Concept Pitch Desk | WP"
+title: "Product Concept Pitch Deck"
+metaTitle: "Product Concept Pitch Deck | WP"
 metaDescription: "Pitching is necessary to acquire customers, investors, team members for products. A successful pitching strategy depends on your audience. That’s why it’s important to learn the tips and tricks of a great pitch."
 published: true
 metaTags:
   - Explore
-  - Product Concept Pitch Desk
+  - Product Concept Pitch Deck
   - Winning Product Canvas
   - Market Sense
 checklist: 
   -
     order: 1
-    question: Do you have a pitchdeck to present your product?
-    expectation: Define the competition within your industry. Identify the companies that share the market with products or services that are in oth direct and indirect competition with your business.
+    question: Do you have a pitch deck to present your product?
+    expectation: Define the competition within your industry. Identify the companies that share the market with products or services that are in direct and indirect competition with your business.
     version: 1.0.0
   -
     order: 2
     question: Does it cover the 5 important areas?
-    expectation: Your pitchdeck should state the purpose, marketing and sales, milestones, competition, business model.
+    expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.
     version: 1.0.0
 ---
 .
@@ -86,9 +86,9 @@ The live plan pitch is a more detailed pitching strategy and its content differs
 
 A potential customer is keen to understand how their pain points are addressed. Instead of just illustrating planned or existing features, relate how product features could address their needs. Emphasize the unique value your product provides just don’t make it about the price. Offer early signup to lock in your customer from the start. Details of existing customers are plus points to attract new customers when pitching a product.
 
-#### For a employee,
+#### For an employee,
 
-When pitching to onboard a potential employee it’s important to communicate the purpose of the product and see who is attracted to this rather than a mere pay cheque. It’s also important to illustrate the future roadmap and how it grooms a person’s career and potential equity options.
+When pitching to onboard a potential employee, it’s important to communicate the purpose of the product and see who is attracted to this rather than a mere paycheck. It’s also important to illustrate the future roadmap and how it grooms a person’s career and potential equity options.
 
 ## References
 
