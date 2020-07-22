@@ -1,7 +1,7 @@
 ---
 title: "Value Proposition"
 metaTitle: "Value Proposition | WP"
-metaDescription: "The primary value the product delivers to customers. This is the declaration of intent to customers on why the product exists, how it operates, and why it deserves their sale."
+metaDescription: "The primary value the product delivers to customers. This is the declaration of intent to customers on why the product exists, how it operates, and why it deserves their attention."
 published: true
 metaTags:
   - Winning Product
@@ -26,7 +26,7 @@ checklist:
 ## Why
 A product or service is introduced to the market to provide a solution for a problem. Understand the type of tasks sought by the targeted audience, the pains currently faced, and what gains they expect and how they measure it. Your product needs to provide relief to the pains faced by the audience, and extend the gains required by them.
 
-According to the research by Simon Kucher & Partners 2014, customers reject nearly 7 out of 10 new products and services launched to the market. The primary reason is for not being able to effectively address the pain points faced by the target audience for a reasonable price.
+According to research by Simon Kucher & Partners 2014, customers reject nearly 7 out of 10 new products and services launched to the market. The primary reason is for not being able to effectively address the pain points faced by the target audience for a reasonable price.
 
 
 ## How
@@ -36,7 +36,7 @@ In a Value Proposition Canvas, there are two segments.
 
 
 ### The Customer Profile 
-Portrays the tasks the target audience requires to do, the pain points and the gains and how gains are measured.
+Portrays tasks the target audience requires to do, the pain points, the gains and how gains are measured.
 	1. Tasks
 	2. Pain points
 	3. Gains
@@ -51,9 +51,9 @@ Portrays the products and services offered, the pain relievers offered and the g
 
 ![Value Map segment](https://image.slidesharecdn.com/valuepropositioncanvaslameetupv1-170611000252/95/how-i-apply-the-value-proposition-canvas-to-convince-my-clients-to-invest-more-time-in-customer-research-article-httpsgooglgb9dsn-18-638.jpg?cb=1497139579)
 
-When the segments are identified, the mapping is reviewed by matching the pains and pain relievers, the gains, and the gain creators offered via the products and services to make the tasks of the targeted audience easy. 
+When the segments are identified, the mapping is reviewed by matching the pains and pain relievers, the gains, and the gain creators offered via the products and services to ease the tasks of the target audience.
 
-Following is an image connecting the Value Map with the Customer Profile items.
+The following is an image connecting the Value Map with the Customer Profile items.
 
 ![Making the match](https://image.slidesharecdn.com/vpdslideshare-160629195025/95/value-proposition-canvas-101-37-638.jpg?cb=1584683268)
 
