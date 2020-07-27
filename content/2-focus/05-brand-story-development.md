@@ -1,12 +1,12 @@
 ---
 title: "Brand Story Development"
 metaTitle: "Brand Story Development | WP"
-metaDescription: "There is already too much noise out there. People no longer care for sales pitches. The only thing they listen and care about is an authentic story."
+metaDescription: "There is already too much noise out there. People no longer care for sales pitches. The only thing they listen to and care about is an authentic story."
 published: true
 
 metaTags:
   - Focus
-  - brand story development
+  - Brand story development
   - Winning Product
   - Market Sense
 ---
@@ -15,34 +15,34 @@ metaTags:
 
 _“Marketing is about values. It’s a complicated and noisy world, and we’re not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us.”_ - Steve Jobs
 
-Stories are powerful in human communication. An authentic compelling brand story helps your audience to remember who you are, what you stand for, develop empathy and ultimately want to take part in your story (buy your product).
+Stories are powerful in human communication. An authentic and compelling brand story helps your audience remember who you are, what you stand for, develop empathy and ultimately, want to take part in your story (buy your product).
 
-At the core of the brand story development is sharing “Why” or “The purpose” of your existence. In a successful brand story, the customer should feel an emotional connection to what your brand represents, for instance, Apple - “To Think Different”, Volkswagen - “Safety”, Facebook - “Connecting people” and so on.
+At the core of the brand story development is sharing 'Why' or 'The purpose' of your product's existence. In a successful brand story, the customer should feel an emotional connection to what your brand represents. For instance, Apple - 'To Think Different', Volkswagen - 'Safety', Facebook - 'Connecting people' and so on.
 
 
 ## How
 
 ### Keep your customer (Hero) at the epicenter
 
-One common mistake most companies do is putting your product/company as the HERO of the brand story. The HERO of the brand story should be your customer. Your role is to be the 'guide' who helps the customer (hero) to achieve the goals by defeating the villain (the problem).
+One common mistake most companies does is putting the product/company as the HERO of the brand story. The HERO of the brand story should be your customer. Your role is to be the 'guide' who helps the customer (hero) achieve a goal by defeating the villain (the problem).
 
-The 'Building a Story Brand' book by Donald Miller gives a great framework to build a compelling brand story by using the story telling techniques used by movies and books.
+The 'Building a Story Brand' book by Donald Miller gives a great framework to build a compelling brand story by using story telling techniques used by movies and books.
 
 ![Story Brand](https://miro.medium.com/max/1576/1*wDNPZovZrgi2qC20uVpImA.png)
 
 ### Make your purpose clear
 
-“People don't buy What you do; they buy Why you do it. And What you do simply proves what you Believe” - By Simon Sinek.
+“People don't buy What you do; they buy Why you do it. And What you do simply proves what you Believe” - Simon Sinek.
 
-The “Golden Circle” principle by Simon Sinek guides on how to logically explain a product or a service to the customer in a way it triggers neurological decision making. Such stories trigger the limbic brain which is in control of the emotional (empathy) aspect of decision making. For instance when a decision maker is given two options which has identical physical properties, the decision goes towards the one which triggers the emotional aspect (Gut feeling/ by intuition).
+The 'Golden Circle' principle by Simon Sinek guides one on how to logically explain a product or a service to the customer in a way that it triggers neurological decision making. Such stories trigger the limbic brain, which is in control of the emotional (empathy) aspect of decision making. For instance, when a decision maker is given two options that have identical physical properties, the decision favours the one that triggers the emotional aspect (gut feeling/intuition).
 
 ![Golden circle](https://www.pngjoy.com/pngl/107/2218341_golden-circle-simon-sinek-golden-circle-png-download.png)
 
-- **Why** : Explain your purpose and the reason you exist and behave as you do.
-- **How** : How to do some thing.
+- **Why** : Explain your purpose, and the reason you exist and behave as you do.
+- **How** : How to do something.
 - **What** : What sort of things to do.
 
-The above image elaborates further on the “Golden Circle” concept. Viewing the video of this concept conducted by the author himself is highly recommended.
+The above image further elaborates the “Golden Circle” concept. Viewing the video of this concept done by the author himself is highly recommended.
 
 ## References
 
