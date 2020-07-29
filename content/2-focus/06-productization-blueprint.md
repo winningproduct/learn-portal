@@ -1,7 +1,7 @@
 ---
 title: "Productization Blueprint"
 metaTitle: "Productization Blueprint | WP"
-metaDescription: "Productization Blueprint is used to implement product specific technical components such as multi-tenancy, licensing, standard APIs, plugins, etc."
+metaDescription: "Productization Blueprint is used to implement product-specific technical components such as multi-tenancy, licensing, standard APIs, plugins, etc."
 published: true
 
 metaTags:
@@ -21,7 +21,7 @@ A few technical factors should be considered to ensure product success.
 
 ### Design for Tenancy
 
-Multi-tenancy refers to designing product architecture where a single instance of a product serves multiple tenants (customers). Application servers, databases designed in such manner are often shared.
+Multi-tenancy refers to designing product architecture where a single instance of a product serves multiple tenants (customers). Application servers, databases designed in such a manner are often shared.
 
 - **Security:** How to isolate tenant data in a secure manner?
 - **Tenant Identification:** Use subdomains? Separate Domains? Single Domain?
@@ -47,11 +47,11 @@ How are payments processed?
 
 ### Automatic Provisioning
 
-Products should keep the cost of a new customer onboarding as low as possible. Design the product to automatically provision a new customer and onboard them with minimal hand holding.
+Products should keep the cost of onboarding a new customer as low as possible. Design the product to automatically provision for a new customer and onboard them with minimal hand holding.
 
 ### Design for Trials and Demos
 
-How does trial/demo accounts operate? How is this integrated to your sales and marketing activities and to the related systems such as your CRM.
+How do trial/demo accounts operate? How is this integrated to your sales and marketing activities, and to the related systems such as your CRM?
 
 ### Design for Releases
 
@@ -67,10 +67,10 @@ What type of licensing model should you adopt?
 
 ### Portfolio Strategy
 
-How to handle the modularity of your product offering?
+How do you handle the modularity of your product offering?
 
-1. Integrated Product (e.g: Trello)
-2. Product Suit (e.g.: Office 365)
+1. Integrated Product (e.g.: Trello)
+2. Product Suite (e.g.: Office 365)
 
 ## References
 
