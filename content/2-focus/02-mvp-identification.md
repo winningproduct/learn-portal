@@ -1,7 +1,7 @@
 ---
 title: "MVP Identification"
 metaTitle: "MVP Identification | WP"
-metaDescription: "Identify the minimum set of features that can gain maximum learning as quickly as possible. In the book Lean Startup, Erik Ries defines an MVP as 'A minimum viable product (MVP) helps entrepreneurs start the process of learning as quickly as possible. It is not necessarily the smallest product imaginable, though; it is simply the fastest way to get through the Build-Measure-Learn feedback loop with the minimum amount of effort."
+metaDescription: "Identify the minimum set of features that can gain maximum learning as quickly as possible. In the book 'Lean Startup', Erik Ries defines a MVP: "A Minimum Viable Product (MVP) helps entrepreneurs start the process of learning as quickly as possible. It is not necessarily the smallest product imaginable, though; it is simply the fastest way to get through the Build-Measure-Learn feedback loop with the minimum amount of effort."
 published: true
 
 metaTags:
@@ -14,32 +14,32 @@ metaTags:
 
 ## Why
 
-At the beginning of a product, a minimum viable product encompasses the least number of features necessary to realize the core value proposition of your product to validate the primary hypothesis. In other words, this means that this is the minimum feature set required to learn the success of the product offering. MVP is not even needed to be real features, but the simplest thing to determine more.
+At the beginning of a product, a minimum viable product consists of the least number of features required to realize the core value proposition of your product and to validate your primary hypothesis. In other words, this means the minimum feature set required to learn and understand the success of the product offering. A MVP does not even need to have real (fully developed) features, but the simplest thing to determine as much as possible.
 
-But the MVPs must be tested with the real users as much as possible to reap the real benefits of the process. It reduces waste features, in case your idea fails in front of the customer, then you know that with the least amount of effort. In an unfortunate event the whole product idea going south, fail fast before you spend a fortune on the idea.
+While your MVPs may not have real features. it's important that they be tested with real users as much as possible to reap the real benefits of the process. It reduces waste features, and in case your idea fails in front of the customer, then you get to that outcome with the least amount of effort. In the unfortunate event the whole product idea goes south, you fail fast before you spend a fortune on the idea.
 
 ## How
 
 ### Goal & success criteria
 
-The First step to build the MVP is to identify the overall goal of the activity - what hypothesis you want to validate. Once you have a good idea about the goal, then define a success/fail criterion to measure the results.
+The first step to build a MVP is to identify the overall goal of the activity - what hypothesis you want to validate. Once you have a good idea about the goal, then define a success/fail criterion to measure the results.
 
 ### MVP features
 
-At this stage, the broad goal needs to be broken down into more features where the impact on each can be assessed individually. Sometimes an MVP can be a simple offering to test market/user interest, not a big set of features.
+At this stage, the broad goal needs to be broken down into features, where the impact on each can be assessed individually. Sometimes, a MVP can be a simple offering to test market/user interest, and not even a set of features. For example, it can be:
 
 - a video (e.g. [famous Dropbox video](https://www.youtube.com/watch?v=7QmCUDHpNzE))
 - a landing page
 - a survey
 - a dummy button/menu
 
-At other times it can be a set of features to implement in your product to allow users to experience the product. There are few factors to consider in prioritizing what to include in the MVP.
+At other times, it can be a set of features you wish to implement in your product, to allow users to experience the product. There are few factors to consider in prioritizing what features to include in the MVP:
 
 - Features with high user value
 - Important features with lower implementation cost
 - Important features with a higher risk (unknown)
 
-See following matrixes to visualize:
+Check out the following matrixes to help visualize this:
 
 Effort Basis:
 ![Effort basis](https://media.nngroup.com/media/editor/2018/05/21/screen-shot-2018-05-21-at-101407-am.png)
