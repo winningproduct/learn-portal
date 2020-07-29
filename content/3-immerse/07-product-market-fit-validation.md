@@ -16,12 +16,12 @@ metaTags:
 If you want your business to succeed, you need to build products that your target customers want. In other words, the product you build needs to solve a real problem in the target demography. It also means that a business has found a way to serve its customers with more value additions. It also has found a set of customers that resonate with their product.
 
 ## How
-There're four stages to product market fit:
+There are four stages to product market fit:
 
-1. Discover your customers and get their feedback about the product/service that you are going to produce.
+1. Discover your customers, and get their feedback about the product/service that you are going to produce.
 2. Test your product with the customers to make sure it really resonates with them.
-3. Develop the product positioning and decide on your brand and product positioning.
-4. Verify what you’ve done so far. Make sure that the customer feedback that you have, the positioning you’ve chosen and everything in between, is right.
+3. Develop the product positioning, and decide on your brand and product positioning.
+4. Verify what you have done so far. Make sure that the customer feedback that you have, the positioning you have chosen, and everything in between, is right.
 
 ### How to Measure?
 “Asking if you’ve found product-market fit, is like asking: how do you know when you are in love — trust me, you know.” - Emmett Shear

@@ -1,7 +1,7 @@
 ---
 title: "Positioning Messages"
 metaTitle: "Positioning Messages | WP"
-metaDescription: "A real message to test against the target market. It could be a tagline, short pitch, or an ad message. Eventually it’s the way the product is defined to consumers on important attributes."
+metaDescription: "A real message to test against the target market. It could be a tagline, short pitch, or an ad message. Eventually, it is the way the product is defined to consumers on important attributes."
 published: true
 metaTags:
   - Immerse
@@ -12,7 +12,7 @@ metaTags:
 ---
 
 ## Why
-Product positioning helps to place the product in the consumer's mind relative to competing products. E.g., Car companies position their products as fast, fun, exciting, fuel-efficient. The ultimate goal of a positioning message is to identify positions in the market that represents unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from it.
+Product positioning helps to place the product in the consumer's mind relative to competing products. E.g., Car companies position their products as fast, fun, exciting, and fuel-efficient. The ultimate goal of a positioning message is to identify positions in the market that represent unmet needs. If your product fills those needs better than any other product, you will be naturally differentiated from it.
 
 ## How
 Consider the following when positioning a product or service:
@@ -22,12 +22,12 @@ Consider the following when positioning a product or service:
 - **Distinctive:** It must allow the consumer to see the company as distinctive to be effective.
 - **Relevant:** It must be relevant to the consumer rather than to the company.
 
-Types of product positioning
+Types of Product Positioning
 - **Benefit:** Created by the benefits offered by the product. E.g. The fuel economy of a hybrid car.
-- **Target:** The positioning should make the consumer think that product belongs to them, not to others.
+- **Target:** The positioning should make the consumer think that the product belongs to them, not to others.
 - **Price:** High pricing can position the product as a luxury, attracting high-end consumers. Low pricing also positions products.
 - **Distribution:** Some products are only sold at certain locations/stores.
-- **Service:** Various services offered help to position a product. E.g. Open 24/7. "No Hassle" return policy.
+- **Service:** Various services offered to help position a product. E.g. Open 24/7. "No Hassle" return policy.
 
 ## References
 - [Positioning](<https://en.wikipedia.org/wiki/Positioning_(marketing)>)

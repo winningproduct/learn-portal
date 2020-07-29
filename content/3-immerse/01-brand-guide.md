@@ -12,15 +12,15 @@ metaTags:
 
 
 ## Why
-Brand guidelines dictate the content of a logo, blog, website, advertisement, and similar marketing collateral. It ensures that there’s consistency across all branding collateral published by the company. There’s no confusion to the target audience it’s reaching as it distinguishes the brand image strongly from the competition.
+Brand guidelines dictate the content of a logo, blog, website, advertisement, and similar marketing collateral. It ensures consistency across all branding collateral published by the company. There is no confusion to the target audience it is reaching, as it distinguishes the brand image strongly from the competition.
 
 
 ## How
 Discuss with all stakeholders and identify how you want to portray your brand to the target audience. The following sections are common inclusions in a brand guide manual.
-Brand guidelines have to dictate the content of a logo, blog, website, advertisement, and similar marketing collateral. Thus, it ensures that there is consistency across all branding collateral published by the company, so there no confusion to the target audience it is reaching and distinguishes the brand image sharply from the competition.
+Brand guidelines have to dictate the content of a logo, blog, website, advertisement, and similar marketing collateral. Thus, it ensures that there is consistency across all branding collateral published by the company so there is no confusion to the target audience, and distinguishes the brand image sharply from the competition.
 - Logo
 - Logo Usage
-- Banding Colors
+- Branding Colors
 - Image Usage
 - Patterns
 - Typography

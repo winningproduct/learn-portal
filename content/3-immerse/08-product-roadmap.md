@@ -12,24 +12,24 @@ metaTags:
 
 
 ## Why
-The product roadmap states how your business will execute the strategy to achieve the company's goals and vision. It has several ultimate goals.
+The product roadmap states how your business will execute the strategy to achieve the company's goals and vision. It has several ultimate goals:
 
-- Prioritize given work according to customer requirements
-- Describe the mid to long term strategy
-- Provide a guiding document for executing the strategy
-- Get internal stakeholders in alignment
-- Facilitate discussion of options and scenario planning
-- Help communicate with external stakeholders, including customers
+- Prioritize given work according to customer requirements.
+- Describe the mid to long term strategy.
+- Provide a guiding document for executing the strategy.
+- Get internal stakeholders in alignment.
+- Facilitate discussion of options and scenario planning.
+- Help communicate with external stakeholders, including customers.
 
 
 ## How
-Product road maps evolve with time. Based on the stage the project is, the focus can be changed in the road map. It’s best to create a road map at the start of each project and let it evolve as the project grows. All product road maps fall in to the following three categories based on the different stages of the project.
+Product road maps evolve with time. Based on the stage the project is, the focus can be changed in the road map. It is best to create a road map at the start of each project and let it evolve as the project grows. All product road maps fall in to the following three categories based on the different stages of the project:
 
-- **The no-dates road map:** This is more flexible than a road map built on a timeline. It’s best for companies whose priorities constantly change when the product is in early stages where information can change frequently.
-- **The hybrid road map:** This type is best when the product is more mature. There’re dates, but no hard dates. The road map can be organized based on monthly or quarterly goals.
-- **The timeline road map:** This road map is nor needed until the product reaches maturity where there’re multiple departments involved with dependencies to each other.
+- **The no-dates road map:** This is more flexible than a road map built on a timeline. It is best for companies whose priorities constantly change when the product is in early stages where information can change frequently.
+- **The hybrid road map:** This type is best when the product is more mature. There are dates, but no hard dates. The road map can be organized based on monthly or quarterly goals.
+- **The timeline road map:** This road map is not needed until the product reaches maturity, where there are multiple departments involved with dependencies to each other.
 
-The success of any roadmap depends on how it’s prioritized. While there could be many reasons for prioritization, customer requirements or in other words what customers are willing to pay for should be given a high consideration here.
+The success of any roadmap depends on how it is prioritized. While there could be many reasons for prioritization, customer requirements, or in other words, what customers are willing to pay for, should be given a high consideration here.
 
 The following tools can be used to build road maps:
 
