@@ -12,12 +12,12 @@ metaTags:
 ---
 
 ## Why
-Technical architecture defines and justifies the decisions and constructs of the underline platform of the software product. It includes functional and non-functional considerations and constraints, tech-stack selection, platform selection, architecture diagrams, deployment model, and DevOps process.
+Technical architecture defines and justifies the decisions and constructs of the underlying platform of the software product. It includes functional and non-functional considerations and constraints, tech-stack selection, platform selection, architecture diagrams, deployment model and DevOps process.
 
 ## How
 
 ### Requirements as your starting point
-Always begin from the requirements, not from a pre-conceived architecture blueprint. For this you need to identify the 'architecturally significant' functional and non-functional requirements of the product. The requirements of which the 'cost of change is high' are considered architecturally significant since those should be determined at an early stage of the process to minimize rework.
+Always begin from the requirements, not from a pre-conceived architecture blueprint. For this you need to identify the 'architecturally significant' functional and non-functional requirements of the product. Requirements where the 'cost of change is high' are considered architecturally significant and those should be determined at an early stage of the process to minimize rework.
 
 - Understand the business requirements
 - Understand the constraints
@@ -25,23 +25,23 @@ Always begin from the requirements, not from a pre-conceived architecture bluepr
 
 ### Quantify using Quality Attributes
 
-Now you must translate the requirements into a measurable set of quality attributes. You can find a comprehensive list of quality attributes to pick from [here](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
+Now, you must translate the requirements into a measurable set of quality attributes. You can find a comprehensive list of quality attributes to pick from [here](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
 
 ### Employ architectural-styles and design-tactics
 
-Decide the [architecture styles](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) and [design tactics](https://core.ac.uk/download/pdf/82315288.pdf) to be used to fulfil the quantified quality attributes. Be aware of the possible tradeoffs and conflicts that can arise from using different tactics. For example tactics used for high security may impede usability and performance.
+Decide the [architecture styles](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns) and [design tactics](https://core.ac.uk/download/pdf/82315288.pdf) to be used to fulfil the quantified quality attributes. Be aware of the possible tradeoffs and conflicts that can arise from using different tactics. For example, tactics used for high security may impede usability and performance.
 
 ### Defer decisions as appropriate
 
-If you don’t have enough knowledge to make a decision, consider the possibility of deferring. Not all decisions can be delayed (deferred), especially the ones with a high cost of change. An example for this is the choice of 'programing language' and 'cloud native platform'. But there are some decisions you can delay until more knowledge is available. For example the database system. You can use a dummy in memory DAL layer until you really require persistence. 
+If you don’t have enough knowledge to make a decision, consider the possibility of deferring. Not all decisions can be delayed (deferred), especially the ones with a high cost of change. An example of this is the choice of 'programming language' and 'cloud native platform'. But there are some decisions you can delay until more knowledge is available. For example, the database system. You can use a dummy in memory DAL layer until you really require persistence. 
 
 ### Create architecture views
 
-Develop different views of the developed architecture to better communicate the concepts. For example, the runtime behavior of a system cannot be explained through a view depicting how the solution code is organized. There are different documentation standards to consider including the popular [4+1 model](https://devcycles.io/2019/02/27/4---1-architectural-view-model-introduction/).
+Develop different views of the developed architecture to better communicate concepts. For example, the runtime behavior of a system cannot be explained through a view depicting how the solution code is organized. There are different documentation standards to consider including the popular [4+1 model](https://devcycles.io/2019/02/27/4---1-architectural-view-model-introduction/).
 
 ### Living architecture
 
-Technical architecture is not something you do just at the beginning of a project. Architecture is a living document and should be handled in an agile manner. Please read the topic [Architecture Runway](https://learn.winningproduct.com/5-build/01-architectural-runway) to understand how this should be practically done in a project.
+Technical architecture is not something you do just at the beginning of a project. Architecture is a living document and should be handled in an agile manner. Check out [Architecture Runway](https://learn.winningproduct.com/5-build/01-architectural-runway) to understand how this should be practically executed within a project.
 
 ### Validating the architecture
 
