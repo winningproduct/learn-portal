@@ -9,6 +9,22 @@ tags:
   - Log Indexing and Analysis
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Have you identified the purposes for which you need log analysis? 
+    expectation: Define for which purposes you need to perform log analysis? (for troubleshooting, for user pattern recognition etc.)
+    Version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the types of logs you should collect from each of your log sources? 
+    expectation: Define what types of logs you should extract from each of your log sources. This should mainly depend on your identified purposes.
+    Version: 1.0.0
+  -
+    order: 3
+    question: Have you identified the process of log data analysis with right tools? 
+    expectation: Identify how to collect, store, index and analysis log data with tools and techniques that’s right for you. 
+    Version: 1.0.0
 ---
 
 ## Why
