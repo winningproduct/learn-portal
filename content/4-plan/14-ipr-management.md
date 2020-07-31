@@ -26,11 +26,11 @@ Apart from protection/legal point of view, innovation and IPR plays a significan
   - **Database rights:** Protects the output of a process.
 
 
-- Establish a strong product licensing model and agreements:
+- Establish a strong product licensing model and agreement:
   - Licensing is the fundamental means of granting rights to third parties to use your IP.
   - Most proprietary licensing is connected to a financial commitment and is time bound.
   - Articulate the terms and conditions for all partners/customers that may use the product.
-  - Document and validate third party components and libraries used by the product to assure compatibility of the offered licensing model of the product.
+  - Document and validate third-party components and libraries used by the product to assure compatibility of the offered licensing model of the product.
   - Implement an approval process for introducing any third-party component or library.
 
 

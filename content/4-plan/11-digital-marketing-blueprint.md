@@ -20,7 +20,7 @@ Consider the following when building a blueprint for a digital marketing strateg
 
 - **Build customer personas:** You can’t start on a marketing strategy if you don’t know who you’re marketing to! Define quantitative demographics (age, gender, location, income, job title, etc.) and qualitative information (tastes, needs, preferences), and create a detailed profile for each of your personas. Here’s a tool that could [help](https://blog.hubspot.com/marketing/create-buyer-persona-makemypersona)
 
-- **Identify your goals and tools:** Your goals should correlate directly to your business goals. Eg: If your business goal is to increase online sales by 20%, your digital marketing goal could be to generate 40% more leads via digital channels. Measuring your activity is a key part of the evaluation to track the goals. [check this out](https://blog.splitpixel.co.uk/seven-best-tools-measuring-success-digital-plan) to see what tools would work best for your business.
+- **Identify your goals and tools:** Your goals should correlate directly to your business goals. E.g. If your business goal is to increase online sales by 20%, your digital marketing goal could be to generate 40% more leads via digital channels. Measuring your activity is a key part of the evaluation to track the goals. [Check this out](https://blog.splitpixel.co.uk/seven-best-tools-measuring-success-digital-plan) to see what tools would work best for your business.
 
 - **Evaluate your existing digital channels:** Gather what you have, and categorize each of your channels, so you have a clear picture of your existing owned, earned, and paid media. Your digital marketing strategy ideally would incorporate elements of all three channels, all working together to help you reach your goal.
 

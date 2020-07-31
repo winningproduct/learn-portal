@@ -36,7 +36,7 @@ The end goal of quality management should be to come up with an end to end proce
 Considering both QA & QC aspects, the following actions can be used to build a test plan:
 - Ensure quality objectives are identified.
 - Define QA roles and responsibilities.
-- Coordinate with developers, scrum masters, product owners. The QA plan should be aligned with the other management plans such as risk management plan, change management plan and resource management plan.
+- Coordinate with developers, scrum masters and product owners. The QA plan should be aligned with the other management plans such as risk management plan, change management plan and resource management plan.
 - Define methodologies and standards. Consider risk management standards, project management standards, information security standards, data protection and privacy standards, business domain related standards, etc.
 - Determine QA tasks and time schedule.
 - Gather details on testing, staging and production environments.
