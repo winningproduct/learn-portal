@@ -4,6 +4,23 @@ metaTitle: "MVP Identification | WP"
 metaDescription: "Identify the minimum set of features that can gain maximum learning as quickly as possible. In the book 'Lean Startup', Erik Ries defines a MVP: "A Minimum Viable Product (MVP) helps entrepreneurs start the process of learning as quickly as possible. It is not necessarily the smallest product imaginable, though; it is simply the fastest way to get through the Build-Measure-Learn feedback loop with the minimum amount of effort."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you created MVPs for your product before implementing the features?
+    expectation: Create MVPs before implementing the features of your product idea to identify the minimum set of features that can gain maximum value as quickly as possible.  
+    version: 1.0.0
+  -
+    order: 2
+    question: Did you validate the MVP with the real users?
+    expectation: The MVPs must be tested with the real users as much as possible to reduce the waste of development effort and cost
+    version: 1.0.0
+  -
+    order: 3
+    question: Did you consider the matrices for "Value vs. Effort" and "Value vs. Risk" before implementing features?  
+    expectation: By plotting the "Customer value" against "Effort" and "Customer value" against "Risk" will help you prioritize the features that need to be implemented first. 
+    version: 1.0.0
+
 metaTags:
   - Focus
   - MVP identification
