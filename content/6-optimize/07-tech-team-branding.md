@@ -1,7 +1,7 @@
 ---
 title: "Tech Team Branding"
 metaTitle: "Tech Team Branding | WP"
-metaDescription: "Defining a brand for the product team can have a powerful impact on the team's alignment, effectiveness and engagement with each other and the rest of the organization."
+metaDescription: "Defining a brand for the product team can have a powerful impact on the team's alignment, effectiveness, and engagement with each other and the rest of the organization."
 published: true
 
 metaTags:
