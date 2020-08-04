@@ -1,7 +1,7 @@
 ---
 title: 'Detailed Data Schema'
 metaTitle: "Detailed Data Schema | WP"
-metaDescription: "Focuses on how to store data efficiently for retrieval, cost and performance. It also looks at data interaction interfaces (APIs) and data dimensions for analytic purposes."
+metaDescription: "Focuses on how to store data efficiently for retrieval, cost, and performance. It also looks at data interaction interfaces (APIs) and data dimensions for analytic purposes."
 published: true
 documentation: "DataModel"
 metaTags:
@@ -21,11 +21,11 @@ In planning the detailed data schema, consider the following areas:
 - **Focus on what information needs to be stored:** It’s always a fight between future requirements and the burden on storage solution. First step should be to determine what data needs to be processed considering current and possible future requirements.
 - **Data relationships:** Establish relationships between entities to determine the meaning of stored data. Relationships need to be as close to reality as possible.
 - **Storage solution:** Contemplate the data storage solution as well. You could consider a relational database, NoSQL database, in memory database or even a flat storage solution like blob storage taking into account the cost vs performance.
-- **Online Transaction Processing(OLTP) and Online Analytics Processing(OLAP) use-cases:** It helps you to decide the data schema for the application. You can use OLTP optimized database, OLAP optimized database or purpose-built databases.
+- **Online Transaction Processing (OLTP) and Online Analytics Processing (OLAP) use-cases:** It helps you to decide the data schema for the application. You can use OLTP optimized database, OLAP optimized database or purpose-built databases.
 - **Command and Query Responsibility Segregation (CQRS):** Consider increasing performance, scalability, and security by separating reads and updates to your data stores.
 - **Data Access Patterns:** This helps to design your schemas to efficiently query data for access patterns.
 - **Data Consumers:** Consider using a suitable API (i.e. REST, GraphQL) to serve your data consumers.
-- **Data Modeling for Analytics:** Consider creating and structuring data to suit analytical requirements. Try to model data with various dimensions such as time, sales etc.. to be able to do data analysis.
+- **Data Modeling for Analytics:** Consider creating and structuring data to suit analytical requirements. Try to model data with various dimensions such as time, sales etc. to be able to do data analysis.
 
 
 ## References

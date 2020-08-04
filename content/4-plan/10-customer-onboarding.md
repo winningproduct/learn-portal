@@ -26,7 +26,7 @@ Usually the onboarding process starts once the sales process is over and the act
 It’s important that the user journey of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licensing, payment, etc.) as well as across different departments (marketing, sales, support, etc.).
 
 ### Type of activities
-Based on the type of onboarding your product requires, the activities may differ. Some of the common are listed below:
+Based on the type of onboarding your product requires, the activities may differ. Some of the common activities are listed below:
  - Welcome artifacts (emails, videos, brochures)
  - Meetings and tours (for handhold onboarding only)
  - Product registration (Forms, SSO)
@@ -39,12 +39,12 @@ Based on the type of onboarding your product requires, the activities may differ
 
 The goal of the activities is to support the customer to have their 'first win' ('aha' moment) fast by using the product. The experience must be pleasurable and personalized for the user to build loyalty towards the product.
 
-Some business models will make use of partners, implementation consultants in the onboarding process. It’s important such third-parties are aware of the standards and recommended processes when involved in the workflow to keep uniformity of the experience.
+Some business models will make use of partners and implementation consultants in the onboarding process. It’s important such third parties are aware of the standards and recommended processes when involved in the workflow to keep uniformity of the experience.
 
 ### How to measure success?
 There are objective and subjective means to measure the quality and success of your customer onboarding process.
- - Subjective data collected through surveys, interviews, feedback.
- - Objective data collected through monitor and measure. For example:
+ - Subjective data collected through surveys, interviews, and feedback.
+ - Objective data collected through monitoring and measuring. For example:
    - How often customers come back?
    - How long do they stay?
    - How many features they explore?
