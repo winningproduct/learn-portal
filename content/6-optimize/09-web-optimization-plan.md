@@ -12,10 +12,10 @@ metaTags:
 ---
 
 ## Why
-A web optimization plan helps to attract more customers to your website and improve the conversion rate by optimizing web pages with keywords, meta descriptions, and titles relevant to the web site content. It helps boost the website ranking on a popular search engine and your customers can easily find your website.
+A web optimization plan helps to attract more customers to your website and improve the conversion rate by optimizing web pages with keywords, meta descriptions, and titles relevant to the web site content. It helps boost the website ranking on a popular search engine so your customers can easily find your website.
 
 ## How
-The following steps can be taken to optimize your website for search engines:
+The following steps can optimize your website for search engines:
 
 - Make a list of topics.
 - Make a list of keywords based on these topics.
@@ -27,7 +27,7 @@ The following steps can be taken to optimize your website for search engines:
 - Stay current on SEO news & practices.
 - Measure and track your content's success.
 
-Conversion optimization and SEO rely on each other to function properly. The following tactics can be used to optimize conversions onsite:
+Conversion optimization and SEO rely on each other to function properly. The following tactics can optimize conversions onsite:
 - Create content that converts
 - Rely on visuals
 - Make it easy for users to search
