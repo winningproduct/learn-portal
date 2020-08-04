@@ -17,7 +17,7 @@ Test automation helps teams to reduce human error during repetitive testing. In 
 When automating test cases, the selection should be based on the following criteria:
 - High risk and business-critical test cases.
 - Repeatedly executed test cases.
-- Test cases which are difficult to perform manually.
+- Test cases that are difficult to perform manually.
 - Time-consuming test cases.
 
 
@@ -40,7 +40,7 @@ The test automation process can be defined as:
   - The complexity of test cases 
   - Ability to use the same test cases for cross-browser testing
 
-**3. Planning, design and development:** Automation strategy and plan should be made as follows: 
+**3. Planning, design, and development:** Automation strategy and plan should be made as follows: 
   - Automation tools selected 
   - Framework design and its features 
   - In-Scope and out-scope items of automation 
