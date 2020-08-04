@@ -13,7 +13,7 @@ checklist:
   -
     order: 1
     question: Have you identified the purposes for which you need log analysis? 
-    expectation: Define for which purposes you need to perform log analysis? (for troubleshooting, for user pattern recognition etc.)
+    expectation: Define for which purposes you need to perform log analysis? (for troubleshooting, for user pattern recognition, etc.)
     Version: 1.0.0
   -
     order: 2
@@ -22,8 +22,8 @@ checklist:
     Version: 1.0.0
   -
     order: 3
-    question: Have you identified the process of log data analysis with right tools? 
-    expectation: Identify how to collect, store, index and analysis log data with tools and techniques that’s right for you. 
+    question: Have you identified the process of log data analysis with the right tools? 
+    expectation: Identity how to collect, store, index, and analysis log data with tools and techniques that are right for you. 
     Version: 1.0.0
 ---
 
@@ -44,7 +44,7 @@ Use the following steps to better manage the log indexing and analysis process:
   - **Sanitize, parse, and transform log data:** Clean, pre-process, and transform log data. (e.g. filter out unnecessary log records, apply defaults to missing values in incomplete log records, convert unstructured log data to a structured format, transform log data into a unified output format, etc.).
 - Determine log storage and retention strategy.
   - Estimate log storage requirement.
-  - Determine the required level of data replication and log rotation strategy..
+  - Determine the required level of data replication and log rotation strategy.
   - Ensure compliance with regulations on data protection and privacy in storing logs.
 - **Create an effective log indexing scheme:** Indexing makes logs searchable, so security and IT personnel can quickly find the information they need. The following are a few best practices of log indexing:
   - Refresh indices at larger time intervals.
