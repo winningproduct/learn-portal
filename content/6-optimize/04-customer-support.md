@@ -14,7 +14,7 @@ metaTags:
 ## Why
 `A satisfied customer is one who will continue to buy from you, seldom shop around, refer other customers and in general be a superstar advocate for your business.` - _Gregory Ciotti_
 
-This strategic activity is to organize customer support activities and get correct tools in-place to ensure a fast response to customer requests. It includes assistance in planning, installation, training, troubleshooting, maintenance, upgrading, and disposal of a product.
+This strategic activity is to organize customer support activities and get correct tools in place to ensure a fast response to customer requests. It includes assistance in planning, installation, training, troubleshooting, maintenance, upgrading, and disposal of a product.
 
 ## How
 - Define what it means by 'great customer service' and align with your brand values. Set the standards such as:
