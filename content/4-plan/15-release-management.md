@@ -12,13 +12,13 @@ metaTags:
 ---
 
 ## Why
-Every software product needs to evolve with time to serve existing customers and to attract new ones. These changes can be in the form of bug fixes, new features, improving nonfunctional aspects (performance, security, etc..), technology shift, UX revamp, etc.. With frequent changes you need a systematic process to manage these releases. Your system is likely to be used by many existing customers and new releases should ensure there’s no adverse effect to their usage. Continuously assure the quality of the product when making frequent releases. Customers should be notified both for awareness and for marketing purposes about the new changes. There’s an increased need for a proper release management plan as the product matures.
+Every software product needs to evolve with time to serve existing customers and to attract new ones. These changes can be in the form of bug fixes, new features, improving nonfunctional aspects (performance, security, etc.), technology shift, UX revamp, etc. With frequent changes you need a systematic process to manage these releases. Your system is likely to be used by many existing customers and new releases should ensure there’s no adverse effect to their usage. Continuously assure the quality of the product when making frequent releases. Customers should be notified both for awareness and for marketing purposes about the new changes. There’s an increased need for a proper release management plan as the product matures.
 
 
 ## How
 Consider the following when creating a release management plan:
 
-- **Communication Plan:** Communication of the release is important. Changes in each release first needs to be understood, then documented and communicated to all stakeholders especially to customers well ahead of release dates.
+- **Communication Plan:** Communication of the release is important. Changes in each release first needs to be understood, then documented and communicated to all stakeholders especially to customers, well ahead of release dates.
 - **Quality Plan:** Assuring quality can be challenging with frequent releases. There should be a process in place to handle regression testing. What test cases needs to be executed at each release, what is automated and what is done manually and how the fixes of bugs are handled; all needs to be answered here.
 - **Risk Assessment:** Release is when everything comes together. Many components and stakeholders are involved during a release. A good release management plan needs to identify possible risks in the flow and should have a contingency plan if things go wrong.
 - **Code Progression:** Consider progressing the code through different stages of the release. At the stage of development, use a development environment that’s partially working. Once the development is done, progress the code to a testing stage by deploying a developer approved version to a test environment. Moving the deployment to production or an intermediate stage environment should only be done once the testing is done and the quality check is approved.

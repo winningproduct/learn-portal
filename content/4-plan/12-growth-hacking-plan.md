@@ -11,7 +11,7 @@ metaTags:
 ---
 
 ## Why
-Growth hacking helps to accelerate growth in terms of your target audience (i.e: customers), beyond conventional means and pace of growth. Usually growth hacking is handy when you desire a certain level of growth, but you don’t have the necessary resources (i.e: time and money) to do it in traditional means. Even though you have enough resources, most business ideas are naturally executed on the default path of thinking. Few growth hacks help a product to take leaps that increases the chance of succeeding.
+Growth hacking helps to accelerate growth in terms of your target audience (i.e. customers), beyond conventional means and pace of growth. Usually growth hacking is handy when you desire a certain level of growth, but you don’t have the necessary resources (i.e. time and money) to do it in traditional means. Even though you have enough resources, most business ideas are naturally executed on the default path of thinking. Few growth hacks help a product to take leaps that increases the chance of succeeding.
 
 
 ## How

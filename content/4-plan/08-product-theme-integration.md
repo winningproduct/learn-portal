@@ -18,7 +18,7 @@ The theme of the product represents how you want a customer to notice your produ
 Consider the following to enable developers to integrate the product theme into development:
 
 - **Theme establishment:** A product theme should be in place. Document the main principals of the theme and try to understand the deep meaning of the design. A theme is more than just UI elements, it covers the interactions, user flows and user moods.
-- **Theme guidelines and standards:** It’s important to establish a theme guideline for developers to adhere to based on the overall product theme. It should be detailed as possible and cover all different aspects of the user interface.
+- **Theme guidelines and standards:** It’s important to establish a theme guideline for developers to adhere to, based on the overall product theme. It should be as detailed as possible and cover all different aspects of the user interface.
 - **Sample implementation:** Try to have the product theme implemented in a small vertical from the very beginning. This acts as a reference for implementation in features to come.
 
 ## References
