@@ -21,7 +21,7 @@ Portfolio management is a continuous activity, including planning, execution, an
 
 - **Marketing:** When formulating a marketing communication strategy, it's essential to have a message that communicates the value proposition of the whole product set and the unique value of each product, which provides a competitive edge. Look at the end to end value that products can offer the customers and formulate messages around these.
 
-- **User experience:** It's essential to provide a unified look and feel and wholistic user experience across all products. Users should feel that they’re using products from the same platform, and UX should be seamless, for example, with SSO (Single Sign On). Designs can make a re-usable UI framework to ensure that the same design can be utilized with business-specific standards.
+- **User experience:** It's essential to provide a unified look and feel and wholistic user experience across all products. Users should feel that they’re using products from the same platform, and UX should be seamless, for example, with SSO (Single Sign-On). Designs can make a re-usable UI framework to ensure that the same design can be utilized with business-specific standards.
 
 - **Integration:** Each product must be included with a rich set of APIs for integrating across multiple products. API can be utilized to realize the business value flows going across products. 
 
