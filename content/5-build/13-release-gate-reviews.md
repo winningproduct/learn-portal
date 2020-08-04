@@ -20,7 +20,7 @@ Release Gate Reviews help projects to:
 
 ## How
 
-- Determine the phases as to when the release gate review should be undertaken. e.g. Project initiation, Design, Development, Testing etc.
+- Determine the phases as to when the release gate review should be undertaken. e.g. Project initiation, Design, Development, Testing, etc.
 - Once the phases are identified, you should create appropriate checklists to evaluate.
 - A structured Release Gate Review process should be in place.
 - Deliverables of the preceding phase should be reviewed to ensure all prerequisites have been met for the next phase to succeed.
