@@ -1,7 +1,7 @@
 ---
 title: "Customer Contract Management"
 metaTitle: "Customer Contract Management | WP"
-metaDescription: "Correctly manage contracts (versioning, tools etc.), Service-Level Agreements for customers."
+metaDescription: "Correctly manage contracts (versioning, tools, etc.), Service-Level Agreements for customers."
 published: true
 
 metaTags:
@@ -18,7 +18,7 @@ Proper contracts help product managers to manage customer expectations and defin
 
 
 ## How
-- **Authoring Contracts:** Customer contracts (e.g. SLA) should include not only a specification of the services to be provided and their expected service levels, but also metrics by which the services are measured. It also includes the duties and responsibilities of each party, the remedies or penalties for breach, and a protocol for adding and removing metrics. Metrics should be designed so bad behavior by either party is not rewarded. Once authored, contracts must be reviewed by legal counsel.
+- **Authoring Contracts:** Customer contracts (e.g. SLA) should include not only a specification of the services to be provided and their expected service levels but also metrics by which the services are measured. It also includes the duties and responsibilities of each party, the remedies or penalties for breach, and a protocol for adding and removing metrics. Metrics should be designed so bad behavior by either party is not rewarded. Once authored, contracts must be reviewed by legal counsel.
 - **Negotiating the contract and Acceptance:** Negotiation often occurs simultaneously when authoring the contract. Discuss the terms and conditions with the customer and decide on a mutually agreeable set of promises and obligations.
 - **Ensuring Compliance:** The product manager or business owner must ensure that all the terms and conditions in the contract are being met by both parties when the contract is in force.
 - **Revisions and Amendments:** Sometimes, one or both parties bound by the contract deem it necessary to change its terms or conditions. In these instances, a new contract is issued.
