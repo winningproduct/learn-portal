@@ -19,9 +19,9 @@ The following guidelines help to protect private information:
 
 - Integrate training on data privacy into the general training program to prevent social engineering attacks.
 - Implement a zero-trust model by restricting access to the entire network and whitelisting only the essential entities.
-- Production, development and testing environments must be segregated, and tight security must be enforced on the production environment.
+- Production, development, and testing environments must be segregated, and tight security must be enforced on the production environment.
 - Follow the guidelines of regulations like GDPR, CCPA. I.e., Signing contracts with data processors, Encrypt data at rest and transit, regular audits, etc.
-- Implement IDS (Intrusion Detection System) and IPS (Intrusion Prevention System).
+- Implement the IDS (Intrusion Detection System) and IPS (Intrusion Prevention System).
 
 
 ## References

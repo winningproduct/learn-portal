@@ -20,7 +20,7 @@ A software product has a collection of integrated subsystems and this can be vie
 
 - Performance Engineering
   - Identify architecturally significant requirements and isolate requirements related to performance.
-  - Derive performance benchmark.
+  - Derive a performance benchmark.
   - Identify tactics to ensure the required performance level.
         - Tactics to ensure the right level of performance for components and sub-systems
         - Tactics to minimize the latency of communication between components and subsystems 
@@ -32,7 +32,7 @@ A software product has a collection of integrated subsystems and this can be vie
         - Load testing
         - Scalability testing
 - Performance Improvements
-  - The list of issues of identified components, subsystems and integrations are updated until it reaches the benchmarked performance levels.
+  - The list of issues of identified components, subsystems, and integrations are updated until it reaches the benchmarked performance levels.
 
 ## References
 [Designing for Performance](http://designingforperformance.com/performance-is-ux/)

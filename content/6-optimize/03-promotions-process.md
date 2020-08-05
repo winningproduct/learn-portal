@@ -1,7 +1,7 @@
 ---
 title: "Promotions Process"
 metaTitle: "Promotions Process | WP"
-metaDescription: "A detailed plan including frequency, customer segments, market conditions, offerings, ad-word design and messages."
+metaDescription: "A detailed plan including frequency, customer segments, market conditions, offerings, ad-word design, and messages."
 published: true
 
 metaTags:
@@ -18,13 +18,13 @@ A promotional plan covers all types of communication between the vendor and the 
 - Sales promotion
 - Public relations
 
-A promotional plan is an integral part of executing product marketing strategies and ensuring the sales targets for a given period of time (e.g. for a year).
+A promotional plan is an integral part of executing product marketing strategies and ensuring the sales targets for a given time (e.g. for a year).
 
 ## How
 - Before you begin the planning process, decide on the promotional budget.
 - Identify the correct promotional mix. When you put together your promotional plan, you need to focus on the right blend of advertising, sales promotion, public relations, and personal selling.
 - Analyze the strengths and weaknesses of various types of promotional techniques. Figure out what works for the product’s target market.
-- Decide what response strategies (e.g. for customer leads) should be in-place as part of the overall promotional process.
+- Decide what response strategies (e.g. for customer leads) should be in place as part of the overall promotional process.
 - Plan social media campaigns. Social media promotions are an easy way of connecting with customers, bringing in more fans for your social media platforms, and making conversions.
 
 

@@ -27,8 +27,8 @@ A quality code makes software reliable, extendable, and maintainable. It reduces
   - Come up with an approach to address the problem and plan it well before code writing is started.
   - Design the approach considering software architectural patterns and design patterns.
   - Write unit tests for codes you are going to write.
-  - Follow well-defined coding standards both general and language specific.
-  - Document all necessary details to refer later.
+  - Follow well-defined coding standards both general and language-specific.
+  - Document all necessary details to refer to later.
   - Add necessary comments on code to log why you’re doing something that’s not straight forward
   - Do proper developer testing and peer reviews.
   - Check whether security guidelines are followed.
@@ -40,7 +40,7 @@ A quality code makes software reliable, extendable, and maintainable. It reduces
   - Unit test and code coverage results.
   - Reports for scans through analysis tools.
   - Monitor once the code is in a staging environment that’s similar to production.
-  - Continuously monitor on the production environment once the code is live.
+  - Continuously monitor the production environment once the code is live.
   - Log root causes for the bugs observed.
 
 - Process to Control

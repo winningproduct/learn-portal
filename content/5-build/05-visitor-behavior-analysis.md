@@ -12,10 +12,10 @@ metaTags:
 ---
 
 ## Why
-Visitor behaviour analysis is used to increase website conversion by building a quality website experience for users. It helps group the audience based on their common traits and define suitable targeting strategies for them. That minimizes the friction across the funnel and increases the ROI.
+Visitor behavior analysis is used to increase website conversion by building a quality website experience for users. It helps group the audience based on their common traits and define suitable targeting strategies for them. That minimizes the friction across the funnel and increases the ROI.
 
 ## How
-Visitor behaviour analysis involves using a qualitative tool to track website performance, understand visitor experience issues, connect with the visitors for feedback and suggestions, and utilize all the insights to optimize the visitor experience. The following are the commonly used methods for visitor behavior analysis:
+Visitor behavior analysis involves using a qualitative tool to track website performance, understand visitor experience issues, connect with the visitors for feedback and suggestions, and utilize all the insights to optimize the visitor experience. The following are the commonly used methods for visitor behavior analysis:
 
 - Session Recording
   - Records user and visitor sessions on your website, which is later analyzed for insights on how visitors interact with your website.
@@ -26,7 +26,7 @@ Visitor behaviour analysis involves using a qualitative tool to track website pe
     - Finding and using a page's main links and buttons
     - Getting distracted by non-clickable elements
     - Experiencing issues across devices
-  - Clickmaps
+  - Click maps
   - Mouse tracking heatmaps
   - Eye-tracking heatmaps
 - Website Surveys

@@ -19,7 +19,7 @@ The following are the most common ways to capture leads. You may use a CRM tool 
 - **Web to Lead:** Make use of a lead capture page or a lead capture form on your website.
 - **Call to Lead:** A phone call to a company's number is automatically entered as a new lead unless it's already in the database.
 - **Email to Lead:** An email to a company's email address is automatically registered as a new lead unless it's already in the database.
-- **Social to Lead:** An incoming message, question or comment via social network or messenger is automatically entered as a new lead unless it's already in the database.
+- **Social to Lead:** An incoming message, question, or comment via social network or messenger is automatically entered as a new lead unless it's already in the database.
 
 ## References
 

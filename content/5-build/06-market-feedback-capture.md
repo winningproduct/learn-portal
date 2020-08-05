@@ -13,7 +13,7 @@ metaTags:
 
 ## Why
 
-Market feedback is the experience of the users. It exposes the problems and expectations of the users that need to be addressed to provide a good user experience. Market feedback is also a good indicator of customer satisfaction and helps predict business performance in the future E.g. (Net Promoter Score).
+Market feedback is the experience of the users. It exposes the problems and expectations of the users that need to be addressed to provide a good user experience. Market feedback is also a good indicator of customer satisfaction and helps predict business performance in the future (e.g. Net Promoter Score).
 
 ## How
 

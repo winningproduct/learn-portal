@@ -2,7 +2,7 @@
 published: true
 title: "Analytics Review Process"
 metaTitle: "Analytics Review Process | WP"
-metaDescription: "Gathering correct and current data and processing them to identify patterns and make predictions. Use this to enable data driven decision making."
+metaDescription: "Gathering correct and current data and processing them to identify patterns and make predictions. Use this to enable data-driven decision making."
 metaTags:
   - Optimize
   - Data analytics plan
@@ -26,13 +26,13 @@ Consider the analytics aspect of data from the very beginning of the product lif
 Focus on building data-driven APIs rather than functionality driven APIs. For example, engineer your endpoints to return raw data in universally accepted formats (E.g.- OData) and use the client-side to process data. This in contrast to returning processed data makes it easier to build data analytics applications later.
 
 ### Data visualization
-There are many tried and tested off the shelf applications available for data visualization and predictive modeling. If your data is universally acceptable and accessible via the above mentioned endpoints, you'll be able to fit these applications right into your product.
+There are many tried and tested off the shelf applications available for data visualization and predictive modeling. If your data is universally acceptable and accessible via the above-mentioned endpoints, you'll be able to fit these applications right into your product.
 
 ### Decision making
 The real success of this only comes when you include the output of data analytics (reports) in your business decisions. Do the needed alteration in your decision-making process to reflect this information.
 
 ### Continuously improve
-Analytics is based on learning algorithms. More learning your algorithms have, the better it is at predicting accurate outcomes. 
+Analytics is based on learning algorithms. The more learning your algorithms have, the better it is at predicting accurate outcomes. 
 
 ## References
 [Why are Analytics Important?](https://www.webfx.com/internet-marketing/why-are-analytics-important.html)

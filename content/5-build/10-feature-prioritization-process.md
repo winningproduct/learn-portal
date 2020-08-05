@@ -12,10 +12,10 @@ metaTags:
 ---
 
 ## Why
-If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which leads to wasted time and money for features that no one needs. It’s catastrophic for startups which operates on limited budget and time.
+If feature prioritization is not paid enough attention, less critical features will be developed and released to production, which leads to wasted time and money for features that no one needs. It’s catastrophic for startups that operate on limited budgets and time.
 
 ## How
-There are several strategies to prioritize features. That includes feature grouping, effort vs. impact assessment, use of RICE method and use of Kano method.
+There are several strategies to prioritize features. That includes feature grouping, effort vs. impact assessment, use of RICE method, and use of the Kano method.
 
 - **Feature Grouping:** Helps to create small groups of similar features that are useful in prioritizing and avoiding over-analyzing, which is commonly known as choice paralysis.
 - **Analyze the Effort vs. Impact:** It’s a fundamental, commonly used way to do feature prioritization using a simple Effort/Impact matrix.
