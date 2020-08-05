@@ -9,11 +9,11 @@ metaTags:
   - Winning Product
 ---
 
-In our experience, broadly, there are four areas your team must excel in developing a market winning product. Below you find the importance and descriptions of these 4 'areas of excellence'.
+In our experience, broadly, there are four areas your team must excel in developing a market winning product. You will find the importance and the descriptions of these 4 'areas of excellence' below.
 
 ## Market Sense
 
-Market sense is arguably the most crucial factor for product success. The success of a product in the hands of its users, customers, and the market. If your market does not see the value of your product, however good your UX or Technology, it will not see much success.
+Market sense is arguably the most crucial factor for product success. The success of a product is in the hands of its users, customers, and the market. If your market does not see the value of your product, how good your UX or Technology, it will not see much success.
 
 A product team must focus on the market factors such as below throughout the product journey.
 
@@ -37,7 +37,7 @@ Personal connection and a sense of meaning are essential for your users to build
 
 Of course, it is your technology platform that enables you to deliver customer value. Products are expected to have the resilience to frequently evolving/changing demands. Agility is a core attribute alongside with the following factors:
 
-- Underline Platform
+- Underlying Platform
 - Data Storage and Exchange
 - Optimum Development Environment
 - DevOps and Release Management

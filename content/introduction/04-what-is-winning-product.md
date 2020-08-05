@@ -15,13 +15,13 @@ There are 4 key 'areas of excellence' that contribute to the success of your pro
 3.	Technology sophistication
 4.	Customer success
 
-Each of these areas of excellence comprises certain characteristics that help you identify a product as a market winning product.
+Each of these areas of excellence comprises of certain characteristics that help you identify a product as a market winning product.
 
 ## Characteristics Under Areas of Excellence 
 ### Competitor Conversion/Faster Sales
 -	**Market Sense:** High conversion rates indicate that your product offers a good value proposition and has found its product-market fit.
 -	**User Experience:** Products that tempt users to experience the product are easy to sell as they make a great impression in demos, etc.
--	**Customer Success:** Existing customers who recognize value offer more genuine recommendations and referrals
+-	**Customer Success:** Existing customers who recognize the value, offer more genuine recommendations and referrals
 
 
 ### Customer Loyalty and Locking
@@ -33,7 +33,7 @@ Each of these areas of excellence comprises certain characteristics that help yo
 
 ### Fast Return-on-investment
 -	**Market Sense:** Smart market positioning (market segment and value proposition) returns a high price point for the product
--	**Technology Excellence:** Right technology can lower the development/maintenance costs to reduce breakeven time and maximize profit
+-	**Technology Excellence:** Right technology can lower the development/maintenance costs to reduce the break-even time and to maximize profit
 -	**Customer Success:** An increase in up-sales and referrals speed up financial growth
 
 
@@ -43,6 +43,6 @@ Each of these areas of excellence comprises certain characteristics that help yo
 
 
 ### Engineering Continuity
--	**User Experience:** User journeys that are validated and flexible, require minimal changes - reducing rework expenses
+-	**User Experience:** User journeys that are validated and flexible, require minimal changes, reducing the rework expenses
 -	**Technology Excellence:** Stable technology selection, pragmatic/not-so-complex architecture that’s upgradable in a modular form
 
