@@ -1,38 +1,44 @@
 ---
-templateKey: "model-post"
-indexingField: 9-Optimize
 title: "Web Optimization Plan"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+metaTitle: "Web Optimization Plan | WP"
+metaDescription: "Offsite or onsite improvements provided for user experience so that people are more likely to convert on your website."
+published: true
 
-tags:
+metaTags:
   - Optimize
   - Web optimization plan
-  - Winning Product Canvas
+  - Winning Product
+  - User Experience
 ---
 
 ## Why
-An SEO strategy is essential to help generate organic, qualified leads to your website. By optimizing a web page around topics, then keywords within that topic, you can increase your expertise in the eyes of a search engine and rank well for long-tail keywords related to that topic.
+A web optimization plan helps to attract more customers to your website and improve the conversion rate by optimizing web pages with keywords, meta descriptions, and titles relevant to the web site content. It helps boost the website ranking on a popular search engine so your customers can easily find your website.
 
 ## How
-Here are nine steps you can take to make sure all of your SEO bases are covered:
+The following steps can optimize your website for search engines:
 
 - Make a list of topics.
-- Make a list of long-tail keywords based on these topics.
+- Make a list of keywords based on these topics.
 - Build pages for each topic.
 - Set up a blog.
 - Blog every week to develop page authority.
 - Create a link-building plan.
-- Compress all media before putting it on your website.
+- Compress media content before putting it on your website.
 - Stay current on SEO news & practices.
 - Measure and track your content's success.
+
+Conversion optimization and SEO rely on each other to function properly. The following tactics can optimize conversions onsite:
+- Create content that converts
+- Rely on visuals
+- Make it easy for users to search
+- Improve results for frequent searches (i.e. search result relevance)
+- Routine monitoring of site performance and improving conversion funnels
+- A/B testing
+
 
 ## References
 - [How to Create an SEO Strategy ](https://blog.hubspot.com/marketing/seo-strategy)
 - [How to Build An SEO Plan From Scratch](https://www.quicksprout.com/seo-planning/)
 - [The 8-Step SEO Strategy](https://moz.com/blog/the-8step-seo-strategy-step-1-define-your-target-audience-and-their-needs)
+- [Conversion Rate Optimization](https://moz.com/learn/seo/conversion-rate-optimization)
+- [5 Killer Conversion Optimization Techniques That Improve Your Rankings](https://neilpatel.com/blog/conversion-optimization-techniques-to-improve-rankings/)

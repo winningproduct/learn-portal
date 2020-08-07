@@ -1,31 +1,25 @@
 ---
-templateKey: "model-post"
-indexingField: 6-Plan
 title: "Product Theme Integration"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Thinking in Themes"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-theme.jpg"
-description: "Themes are groupings of similar features, epics or initiatives. Ideally, themes describe customer value – what customers are going to be receiving or the job that you’ll help them accomplish. For example, “improve shopping cart experience” is an example of a customer-focused theme, and into this theme you would group the initiatives that support it."
-
-tags:
+metaTitle: "Product Theme Integration | WP"
+metaDescription: "Product theme represents the image of your product. This action focuses on integrating the previously set product theme, visual element library to code with specific guidelines for developers."
+published: true
+metaTags:
   - Plan
   - Product Theme Integration
-  - Winning Product Canvas
+  - Winning Product
+  - Technology Mastery
 ---
 
 
 ## Why
-Building your product roadmap to convey your vision in a compelling way is challenging. But by grouping initiatives together into themes, you can organize your roadmap in a way that describes the value to customers and other stakeholders. Themes can help you put together a roadmap that creates a story
+The theme of the product represents how you want a customer to notice your product. This is the basis for branding and must not be taken lightly. It’s important to reflect this theme in the user experience. The developers should also be both aware of and know how to apply this in their day to day work. Guidelines and standards on how to do it should be in place from the beginning of the product life cycle.
 
 ## How
+Consider the following to enable developers to integrate the product theme into development:
 
-- Your company’s long-term strategic initiatives are a good way of identifying roadmap themes. You can pick a handful of high-level initiatives you want to accomplish
-- If you are agile, themes can contain one or more epics. They are rarely feature-specific.
-- Education is an important part of communicating the roadmap – educating stakeholders about how you define the theme, how you are measuring success, and of course providing some detail about what is included in the theme.
+- **Theme establishment:** A product theme should be in place. Document the main principals of the theme and try to understand the deep meaning of the design. A theme is more than just UI elements, it covers the interactions, user flows and user moods.
+- **Theme guidelines and standards:** It’s important to establish a theme guideline for developers to adhere to, based on the overall product theme. It should be as detailed as possible and cover all different aspects of the user interface.
+- **Sample implementation:** Try to have the product theme implemented in a small vertical from the very beginning. This acts as a reference for implementation in features to come.
 
 ## References
-
 - [Themes: Organize Your Product Roadmap to Show Value](https://www.productplan.com/thinking-themes-organize-product-roadmap-show-customer-value/)

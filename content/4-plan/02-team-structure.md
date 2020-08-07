@@ -1,38 +1,35 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Team Structure"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Team structure should define key roles, responsibilities, boundaries and values of the team"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/team-structure.jpg"
-description: "There are 3 common types of development team structure: generalists, specialists, and a hybrid team. Each of them can be efficient in one project and get stuck regularly in another. To prevent the latter, consider your project’s complexity, time and budget and then decide which team structure suits it most."
-
-tags:
+metaTitle: "Team Structure | WP"
+metaDescription: "Defines key roles, job responsibilities, boundaries, and values of the team. Everyone should understand who does what and their purpose in the team."
+published: true
+documentation: "DeliveryProcess"
+metaTags:
   - Immerse
   - Team Structure
-  - Winning Product Canvas
+  - Winning Product
+  - Technology Mastery
 ---
 
 
 ## Why
-Proper team structure is required to efficiently deliver values to your customers. A team can perfrom at its best and win any stategies when clear communication, team competence and team focus are built into the team structure.
+A proper team structure is required to efficiently deliver values to customers. A team can perform at its best when there is clear communication and when everyone is clear on their role in the team. Good team structures consider the competencies and focus of individuals and uses these to achieve both individual objectives of team members and the larger team goals.
+
 
 ## How
-The followoing checklist can be used to build an efficient team that delivers values to your project. 
-- Consider project complexity, time constraints, and available budget while deciding on a team’s structure.
-  - Generalists: Concentrate on improving software as a whole
-  - Specialists: The team can develop a system with high quality modules and be quicker at their narrow tasks
-  - Hybrid Teams: Specialists manages issues that require deep expertise. Generalists integrate the system.
-- Build small enough (4-8 people) to recognize the personal contribution of its members and minimize the communication flows
-- Pick up a diverse set of informal roles for your team (an intellectual leader, a social leader, idea generators, critics, doers) to help them cooperate more efficiently and resolve project challenges.
-- Use project management software and take advantage of its routine automation features.
+The following checklist can be used to build an efficient team: 
+- Consider the project complexity, time and the budget before deciding the type of team:
+  - **Generalists:** Concentrate on improving software as a whole.
+  - **Specialists:** Can develop a system with high quality modules and be quicker at their narrow tasks.
+  - **Hybrid Teams:** Specialists manages issues that require deep expertise. Generalists integrate the system.
+- Build small enough teams (4-8 people) to recognize the personal contribution of its members and minimize the communication flows.
+- Select an intellectual leader, a social leader, idea generators, critics, doers to help them cooperate more efficiently and resolve project challenges.
+- Understand individual interests and goals in the team. Consider them in the team structure and try to align individual goals to team goals as much as possible to create a win-win strategy.
+- Document and clearly communicate what is expected from each team individual. It’s also recommended to discuss performance measures as early as possible.
+- Use project management tools to better manage the project team.
 - Update documentation in parallel with development.
-- Implement knowledge management software for convenient document storage, filtering, and real-time collaboration.
-- Use collaboration apps for instant messaging and group discussions (choose the ones where it is easy to find necessary information).
-- Conduct team meetings on a regular basis (daily and weekly).
+- Implement ways to manage knowledge within the team.
+- Daily and weekly team meetings should be organized.
 - Include all team members in the communication process.
 - Write an escalation policy for the resolution of conflicts.
 

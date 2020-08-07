@@ -1,22 +1,21 @@
 ---
-title: 'Winning Product Background'
-metaTitle: 'Winning Product Background | WP'
-metaDescription: 'Winning Product Background'
+title: "Why “Winning Product” is necessary?"
+metaTitle: "Why “Winning Product” is necessary? | WP"
+metaDescription: "'Winning Product' was initiated to help product teams with important strategic activities to stay ahead of their competition."
+published: true
 
-tags:
-  - Winning Product Background
+metaTags:
+  - Background
   - Winning Product
 ---
 
-## Global Market
-Yearly, a large number of global ISVs and Startups are investing on digital services to be provided to their customers. SaaS market itself is forecasted to jump beyond 100 B USD by 2025 with around 16% CAGR. 
+## Software Product Market
 
-## ISV Challenges
-Despite the lucrative trend, a major portion of the Software Products that are released into the market fail to reach the full potential and fair to reap ROI due to fundamental issues in the product management and engineering approach. 
+Every year, many ISVs (Independent Software Vendors) and Startups invest on digital services and products to develop and sustain their business. According to researchandmarkets.com the market size for SaaS (Software as a Service) alone, worthed $134.44 billion in 2018. This market growth is at a CAGR of 13.1% and believed to reach a staggering $220.21 billion by 2022.
 
-Creating a market leading (winning) product requires a mammoth of additional knowledge and skills compared to mere software development. Product engineers require a broader sense of the domain, market trends, product management techniques, customer engagement ability, resilient engineering capabilities, etc. Most of such skills are not taught at universities nor gained by engaging general software development work.
+## Despite Growth, Why Some Products Fail?
 
-## Winning Product
-The idea of the 'Winning Product' initiative is to help product teams on important strategic activities that should be considered from product ideation to retirement of the product to maximize the product’s ability to stay ahead of competition. The framework covers disciplines such as User Experience, Product Marketing, Technology & Engineering, Customer Success, etc.
+The market trend is lucrative. Despite that trend, many Software Products fail. Why? Well, they fail to reach the full potential due to vital issues in product management and engineering.
 
+Let’s face the facts. Creating a market winning (leading) product is not easy. If that’s your goal, you need a massive amount of additional knowledge and skills beyond typical software development. You’re going to need a broader sense of the domain, market trends, product management techniques, customer engagement ability as well as resilient engineering capabilities. These skills are not taught at universities or gained through general software development work. “Winning Product” equips you with these tools to help you attain that market leading edge. 
 

@@ -1,38 +1,40 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Immerse
 title: "Project Process"
-metaTitle: ""
-metaDescription: ""
-subtitle: “Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/wpo-project-process.jpg"
-description: "A process is a set of activities that are interrelated or that interact with one another. Processes use resources to transform inputs into outputs. Processes are interconnected because the output from one process often becomes the input for another process."
-
-tags:
+metaTitle: "Project Process | WP"
+metaDescription: "A set of activities and the systematic process that needs to be carried out to develop the product in both engineering and delivery disciplines."
+published: true
+documentation: "DeliveryProcess"
+metaTags:
   - Immerse
   - Project Process
-  - Winning Product Canvas
+  - Winning Product
+  - Technology Mastery
 ---
 
 
 ## Why
-A process approach makes the software engineering predictable and repeatable.
+"Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill
+
+A process or a methodical approach makes software engineering both predictable and repeatable. This also helps with communication by making all stakeholders aware of what needs to be done and the benchmark to access success at each product development stage.
+
 
 ## How
-Generally a product development process should cover requirements coming from following four different sources;
+A product development process should cover requirements coming from the three following different sources:
+ 1. Feature requirements originated by customers.
+ 2. Technical tasks to achieve non-functional requirements.
+ 3. Legal and compliance requirements (e.g. ISO 9001).
 
-- Business requirements.
-- Customer requirements.
-- Legal requirements.
-- Compliance requirements (eg: ISO 9001).
+The purpose of your process should be to cover these requirements. Following aspects needs to be considered when laying the final engineering process.
+- **Development Process:** Proven processes like small scale agile frameworks such as SCRUM and Kanban or large scale frameworks such as SAFe and Less can be adopted as a development practice.
+- **DevOps Process:** A good DevOps process can automate everything from code reviews to infrastructure deployments. Consider building a DevOps pipeline which covers static code analysis, code reviews, functional & non-functional automated testing and infrastructure deployments.
+- **Quality Engineering Process:** Establish a good quality engineering process to capture critical requirements even before development, define thorough test cases and finally test for both functional and non-functional requirements.
+- **Release Management:** Establish a release management process which ensures quality before releases, minimum downtime, customer communication and awareness.
 
-Once the requirements are identified those should be arranged and documented in following hierarchy;
-
+Once the engineering processes are established, those should then be arranged and documented in the following hierarchy:
 - Policy.
 - Procedure.
 - Work instruction.
+
 
 ## References
 - [ISO 9000 2015](https://www.praxiom.com/iso-definition.htm)

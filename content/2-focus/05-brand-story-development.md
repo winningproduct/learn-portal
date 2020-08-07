@@ -1,53 +1,55 @@
 ---
-templateKey: 'model-post'
-indexingField: 4-Focus
-title: 'Brand Story Development'
-metaTitle: ""
-metaDescription: ""
-subtitle: 'Brand Story Development'
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: '/img/golden-circle.png'
-description: "People don't buy products, people buy brands. Therefore it is very much important to develop a brand story that triggers the positive decisions on your stakeholders."
+title: "Brand Story Development"
+metaTitle: "Brand Story Development | WP"
+metaDescription: "There is already too much noise out there. People no longer care for sales pitches. The only thing they listen to and care about is an authentic story."
+published: true
 
-tags:
+metaTags:
   - Focus
-  - brand story development
-  - Winning Product Canvas
+  - Brand story development
+  - Winning Product
+  - Market Sense
 ---
 
-
-## What
-A brand for an organization is analogous to a child and a parent. Similar to what a parent feeds the child, teaches the child, what core values are influenced on the child and etc would at the end of the day define how the child is perceived by the community. Similarly creating an identity which enables the stakeholders of an organization to perceive the entity in a given way is considered as a Brand story development. Therefore at the core of Brand story development is sharing “Why” or “The purpose” of the entity to exist. As a result of successful Brand Story Development, the stakeholders could feel at an emotional level what the entity represents, for instance, Apple - “To Think Different”, Volkswagen - “Safety”, Facebook - “Connecting people” and so on.
-
-
 ## Why
-“People don't buy What you do; they buy Why you do it. And What you do simply proves what you Believe.” - By Simon Sinek. According to his “Golden Circle” principle by Simon Sinek, gives guidance on how to logically explain a product or a service to the customer which highly incorporates the neurological decision making aspects. Therefore it is very important that when designing a brand story the approach triggers the limbic brain which is in control of the emotional (empathy) aspect of decision making. For instance when a decision maker is given two options to take which has identical physical properties, the decision goes towards the one which triggers the emotional aspect (Gut feeling/ by intuition). Therefore designing a brand story which adheres to such factors could make promising results.
 
-On the other hand, as Steve Jobs mentioned “Marketing is about values. It’s a complicated and noisy world, and we’re not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us.”
+_“Marketing is about values. It’s a complicated and noisy world, and we’re not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us.”_ - Steve Jobs
 
+Stories are powerful in human communication. An authentic and compelling brand story helps your audience remember who you are, what you stand for, develop empathy and ultimately, want to take part in your story (buy your product).
+
+At the core of the brand story development is sharing 'Why' or 'The purpose' of your product's existence. In a successful brand story, the customer should feel an emotional connection to what your brand represents. For instance, Apple - 'To Think Different', Volkswagen - 'Safety', Facebook - 'Connecting people' and so on.
 
 
 ## How
-**“Start with a Why”**
-According to the “Golden Circle principle” there are 3 components as follows :
 
-- **Why** : Is how you explain your purpose and the reason you exist and behave as you do.
-- **How** : How do to do things.
+### Keep your customer (Hero) at the epicenter
+
+One common mistake most companies does is putting the product/company as the HERO of the brand story. The HERO of the brand story should be your customer. Your role is to be the 'guide' who helps the customer (hero) achieve a goal by defeating the villain (the problem).
+
+The 'Building a Story Brand' book by Donald Miller gives a great framework to build a compelling brand story by using story telling techniques used by movies and books.
+
+![Story Brand](https://miro.medium.com/max/1576/1*wDNPZovZrgi2qC20uVpImA.png)
+
+### Make your purpose clear
+
+“People don't buy What you do; they buy Why you do it. And What you do simply proves what you Believe” - Simon Sinek.
+
+The 'Golden Circle' principle by Simon Sinek guides one on how to logically explain a product or a service to the customer in a way that it triggers neurological decision making. Such stories trigger the limbic brain, which is in control of the emotional (empathy) aspect of decision making. For instance, when a decision maker is given two options that have identical physical properties, the decision favours the one that triggers the emotional aspect (gut feeling/intuition).
+
+![Golden circle](https://www.pngjoy.com/pngl/107/2218341_golden-circle-simon-sinek-golden-circle-png-download.png)
+
+- **Why** : Explain your purpose, and the reason you exist and behave as you do.
+- **How** : How to do something.
 - **What** : What sort of things to do.
 
-The following image elaborates further on the “Golden Circle” concept and it is highly recommended to follow the video which the concept is conducted by the author himself.
-
-- [Start with why - How Great Leaders inspire action | Simon Sinek | TEDxPugetSound
-  ](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
+The above image further elaborates the “Golden Circle” concept. Viewing the video of this concept done by the author himself is highly recommended.
 
 ## References
 
+- [Building a brand story, Image Ref 1](https://medium.com/@geekrodion/building-a-storybrand-by-donald-miller-a9c0eb81cfbf)
+- [Why Your Brand Should Pick a Fight](http://buildingastorybrand.com/your-brand-should-pick-a-fight/)
 - [Start with why - How Great Leaders inspire action | Simon Sinek | TEDxPugetSound
   ](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
-
 - [Steve Jobs Presents "Think Different"](https://www.youtube.com/watch?v=MrZKoWgcZVg)
-
 - [Start with Why: Creating a value proposition with the Golden Circle model](https://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/)
-
 - [Starbucks strategy](https://www.youtube.com/watch?v=YXFL7TcPG_Q)

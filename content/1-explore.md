@@ -1,9 +1,10 @@
 ---
 title: "Explore"
-metaTitle: "Explore"
-metaDescription: "Explore"
+metaTitle: "Explore | WP"
+metaDescription: "Consider diverse alternatives to solve an identified problem."
+published: true
 ---
 
-This is the initial stage where founder conceive the idea to solve a problem he/she identified. It is important at this stage to take a holistic view into the problem domain and explore broadly. This is where you explore into different possibilities before locking down on a focused product concept.
+This is the initial stage where you come up with an idea to solve an identified problem. It is important at this stage to take a complete view of the problem domain. Explore different possibilities before locking down on a focused product concept.
 
-Team should study and analyze different paths and possibilities the new solution may take. Activities include brainstorming for idea generation as well as studying competitive offerings, research publications from the market place. This phase is somewhat analogous to Divergence and Discover phases of Design Thinking process.
+Study and analyze different paths and possibilities the new solution may take. Team activities include brainstorming for idea generation as well as studying competitive offerings and researching publications from the marketplace. This phase is like the Divergence and Discover phases of the Design Thinking process.

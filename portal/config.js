@@ -9,9 +9,9 @@ const config = {
   },
   header: {
     logo: 'https://audit.winningproduct.com/assets/img/logo@2x.png',
-    logoLink: 'https://winningproduct.com/',
+    logoLink: 'https://learn.winningproduct.com/',
     title:
-      "<a href='https://winningproduct.com'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+      "<a href='https://learn.winningproduct.com'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/winningproduct/learn-portal',
     helpUrl: '',
     tweetText: '',
@@ -26,11 +26,21 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: sidebarConfig.forcedNavOrder,
+    excludedTopics: sidebarConfig.excludedTopics,
     links: [{ text: 'WinningProduct', link: 'https://winningproduct.com' }],
     frontline: false,
     ignoreIndex: true,
-    title:
-      "",
+    title: '',
+    collapsedNav: [
+      '/1-explore',
+      '/2-focus',
+      '/3-immerse',
+      '/4-plan',
+      '/5-build',
+      '/6-optimize',
+      '/7-harvest',
+      '/8-retire',
+    ],
   },
   siteMetadata: {
     title: 'Winning Product| Learn',

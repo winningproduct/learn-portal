@@ -1,37 +1,40 @@
 ---
-templateKey: "model-post"
-title: "Product Concept Pitch Desk"
-metaTitle: ""
-metaDescription: ""
-indexingField: 2-Conceive
-subtitle: "How to pitch your product for investors and potential customers"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
+title: "Product Concept Pitch Deck"
+metaTitle: "Product Concept Pitch Deck | WP"
+metaDescription: "Pitching is necessary to acquire customers, investors, team members for products. A successful pitching strategy depends on your audience. That’s why it’s important to learn the tips and tricks of a great pitch."
 published: true
-featuredimage: "/img/product-concept-pitch.jpeg"
-description: "Pitching is one of the essential requirements when it comes to acquiring customers and investors for products. Successful pitching leads to a prosperous business. Hence it is important to know the tips and tricks of successful pitching. Pitching strategies depend on the audience."
-
-tags:
-  - Conceive
-  - Product Concept Pitch Desk
+metaTags:
+  - Explore
+  - Product Concept Pitch Deck
   - Winning Product Canvas
+  - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Do you have a pitch deck to present your product?
+    expectation: Define the competition within your industry. Identify the companies that share the market with products or services that are in direct and indirect competition with your business.
+    version: 1.0.0
+  -
+    order: 2
+    question: Does it cover the 5 important areas?
+    expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.
+    version: 1.0.0
 ---
-
+.
 ## Why
 
-A great product has excellent followership. Effective communication and convincing are essential to acquire such followership of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
+A great product should have supporters. Effective communication is essential to gain the support of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
 
 ## How
 
-There exist different forms of pitching.
+The different forms of pitching.
 
 1. Elevator pitch
 2. Live plan pitches
 
 ### Elevator pitch
 
-Elevator pitch is the very first meeting with a potential customer or investor. It should be concise and should be able to spark the curiosity of the counterparty regarding the product. At the same time, they should be encouraged to ask more questions.
-The following are some tips for elevator pitch in short.
+An Elevator pitch is the very first meeting with a potential customer or investor. It must be concise and spark the curiosity of the individual regarding the product. At the same time, it must encourage them to ask more questions. Here are some tips for an elevator pitch:
 
 1. Grab the attention
 2. Spark curiosity
@@ -41,13 +44,19 @@ The following are some tips for elevator pitch in short.
 
 ### Live plan pitch
 
-The live plan pitch is a far more detailed pitching strategy compared to elevator pitching. Since this is a detailed pitching strategy, its content differs based upon the audience.
+The live plan pitch is a more detailed pitching strategy and its content differs based on your audience.
+
+
+### Type of Stakeholders
+
+![Pitching to Stakeholders ](../../img/explore-pitching.png)  
+
 
 #### For an investor,
 
 1.  Purpose of the product
 
-    - Should include to which problems the product provides solutions
+    - Should include the problems that will be solved by your product 
 
     - Success stories of existing customers
 
@@ -61,22 +70,27 @@ The live plan pitch is a far more detailed pitching strategy compared to elevato
 
 3.  Milestones
 
-    -     Should include future business plans such as target customer acquisitions, partnerships with other parties. The most important thing is to state these milestones along with timestamps.
+    -     Include future business plans such as target customer acquisitions, partnerships with other parties. State these milestones along with timestamps.
 
 4.  Competition
 
-    -     Should express what is unique and new in the product (Unique value proposition)
+    -     Express what is unique and new in the product (Unique value proposition)
 
-    -     Better to present a comparison with existing competitor products
+    -     Present a comparison with existing competitor products
 
 5.  Business model
 
-    - Every investor keen on revenue stream and cashflows. Hence, an informative description regarding cashflows should be stated along with the time frame.
+    - Every investor is keen on revenue stream and cashflows. A detailed description regarding cashflows should be included along with the time frame.
 
 #### For a customer,
 
-When pitching a product to potential customers, the purpose of the product, and how the product varies from potential customers should be stated. More emphasis should be put on to convince about the unique value provides by the product but not for the price. Details of existing customers are plus points to attract new customers when pitching a product.
+A potential customer is keen to understand how their pain points are addressed. Instead of just illustrating planned or existing features, relate how product features could address their needs. Emphasize the unique value your product provides just don’t make it about the price. Offer early signup to lock in your customer from the start. Details of existing customers are plus points to attract new customers when pitching a product.
+
+#### For an employee,
+
+When pitching to onboard a potential employee, it’s important to communicate the purpose of the product and see who is attracted to this rather than a mere paycheck. It’s also important to illustrate the future roadmap and how it grooms a person’s career and potential equity options.
 
 ## References
 
 - [When Pitching Investors, Your Product Doesn't Matter](https://www.entrepreneur.com/article/322361)
+- [Creating a pitch for various stakeholders](https://fi.co/insight/creating-an-elevator-pitch-that-attracts-investors-customers-and-more)

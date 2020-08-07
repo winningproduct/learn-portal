@@ -1,47 +1,94 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Focus
-title: 'Business Model Design'
-metaTitle: ""
-metaDescription: ""
-subtitle: "What is business model"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/businessmodel.jpeg"
-description: "A business model is a visualization of how a company plans to operate and make money. In other words, it answers the question of how a company CREATES VALUE for ITSELF while delivering products or services to its customers. The traditional business model consists of nine cells that capture all aspects of a business. Information in these nine cells can be used to describe any company from a startup to a large enterprise."
+title: "Business Model Design"
+metaTitle: "Business Model Design | WP"
+metaDescription: "A Business Model is a visualization of how a company plans to operate, create value and make money. The Business Model Canvas consists of nine cells that capture different aspects of a business. It can be used to describe different companies from a startup to a large enterprise."
+published: true
 
-tags:
+metaTags:
   - Focus
-  - business model design
-  - Winning Product Canvas
+  - Business Model Design
+  - Winning Product
+  - Market Sense
+
+checklist: 
+  -
+    order: 1
+    question: Do you have your business model documented in the form of a canvas (or an equivalent)?
+    expectation: Visualize the business model of your product to analyze and optimize how the front-stage (customer-facing elements) and back-stage (partners, key activities, key resources and cost) operate in synergy. 
+    version: 1.0.0
+  - 
+    order: 2
+    question: Do you define your product features under Value Proposition?
+    expectation: You shouldn't actually mention product features here, rather, think about benefits your product will offer your customers.
+    version: 1.0.0
+  - 
+    order: 3
+    question: If you do the activities listed in 'Customer Relationships', will you be able to find and enough retain customers to build a sustainable business?
+    expectation: Customers are key in any business. Your plan here has to be well thought through.
+    version: 1.0.0
+  -
+    order: 4
+    question: If you do the activities listed on the left, will you be able to deliver all customer facing (right side) activities effectively?
+    expectation: Analyze and find out how coherent the different segments are in your business model.
+    version: 1.0.0
 ---
 
 ## Why
-To initiate a new business or operate an existing business it is important to understand the complexity and internal workings of the business. This understanding will enable managers to fine-tune their offerings to maximize profitability. For a startup, this understanding is important to evaluate the viability of the business idea. A business contains various touchpoints which makes it very hard to comprehend. As such it has become very important that the business is synthesized in a simple understandable format. The business model canvas serves as a document that summarises how a business owner is planning to create value(profit) by offering services and products to customers. It also serves as a base document to explain how the company plans to make a profit thus attracting investors. In a nutshell, the business model canvas is an A4 paper sized document synthesizing the business.
+
+To initiate a new business or operate an existing business, it’s important to understand the complete picture, including the market offering and internal workings of the business. This understanding helps fine-tune your offerings, to maximize corporate objectives such as profitability. If you are at the startup stage, this is important to evaluate the viability of the business idea.
+
+![Canvas](https://sites.google.com/site/moocmodulesnils/_/rsrc/1472851821761/marketing/the-business-model-canvas/BMC1.jpg)
+
+Every business operates with various touchpoints with multiple stakeholders, which is complex. The [business model canvas](https://www.strategyzer.com/canvas/business-model-canvas) serves as a simple format that summarizes how the business plans to achieve its goals through its services and products. It also serves as a base document to explain how the company plans to create revenue/profit/company-value, thus attracting employees, partners and investors. In a nutshell, the business model canvas is a one-page document summarising the business.
 
 ## How
 
-Building a business model follows a procedure of filling in each cell in the canvas in predefined order as mentioned below. When filling in each cell one must answer some critical questions. When answered in the order described, the business can operations is elaborated in simple terms.
+To build a Business Model Canvas, fill in each cell on the canvas in the predefined order. Content in each cell must answer some important questions as explained below.
 
-- Value Proposition: What are you building for your customers? What pain are you solving and what gain are you creating? What is unique about you that makes you stand out in the market? This is the place where you list all of your features, products or services describes as value to customers.
-- Customer Segments: Who are my customers? What are the geographic, social characteristics and demographics? List down the persona of all of your customers.
-- Channels: How do you get your product or service to customers. In the product development context, channels could be a web application, mobile app, etc.
-- Customer Relationships: It answers the question – How do I GET, KEEP and GROW customers. This differs based on the channel adopted.
-- Revenue Stream: How do you make money by selling your services or products to your customer segments. What strategy/revenue model is adopted to make money.
+### Value Proposition
 
-So far the right side of the business model is defined. It will give answers to what the company plans to produce, how it plans to deliver and to whom it plans to deliver. This half is the outward-facing side of the business which focuses on the customer needs and explains how the revenue streams are created.
+Why would your customers buy the product? What pain are you solving for them and what gain are you creating? What is unique about you that makes you stand out from your competitors? List the benefits of your products or services.
 
-- Key Resources: What key assets and resources are required to run the business? From a software product perspective, some of the key resources could be people and intellectual property rights
-- Key Partners: Who do we need to outside our business to help us operate the business?
-- Key Activities: What are the most important things need to be done to make the business model work?
-- Cost Structure: What are the costs and expenses to operate the business
+### Customer Segments
 
-Now the left side of the business model is defined. The left section is inward-facing and focusses on how the company plans to create products or services and who are the key resources and partners. This will explain the internal working of a business. All of this will boil down to the overall cost of operation which is explained as cost structure.
+Who are your customers? What are their geographic and social characteristics, and demographics? List down the personas of your customers.
+
+### Channels
+
+How do you get your product or service to customers? In the product development context, channels could be a web application, mobile app, etc.
+
+### Customer Relationships
+
+How do you GET, KEEP and GROW customers? This differs based on the channel adopted and level of engagement required.
+
+### Revenue Stream
+
+How do you make money by selling your services or products to your customer segments? What is the strategy/revenue model adopted to make money?
+
+Once the right side of the canvas is defined, it gives answers to what the company plans to produce, how it plans to deliver and to whom. This half is the outward-facing side of the business, which focuses on the customer needs and explains how the revenue streams are created. Now, it's time to elaborate on the internal workings of the company to produce the expected outcomes.
+
+### Key Resources
+
+What key assets and resources are required to run the business? From a software product perspective, some of the key resources could be people, intellectual property rights, platforms, licenses, etc.
+
+### Key Partners
+
+Who do we need to collaborate with outside the organization to help us operate the business?
+
+### Key Activities
+
+What are the most important things to do to make the business model work and generate value?
+
+### Cost Structure
+
+What are the primary costs and expenses required to operate the business?
+
+Now the left side of the business model is defined. The left section is inward-facing and focuses on how the company plans to create products or services, and who the key resources and partners are in this journey. This helps visualize the required internal workings of a business.
 
 ## References
 
 - [How to start business](https://www.dummies.com/business/start-a-business/business-plans/defining-your-business-model/)
-
 - [Business model](https://www.investopedia.com/terms/b/businessmodel.asp)
-
-- [Creating a successfull business Model](https://www.youtube.com/watch?v=IP0cUBWTgpY)
+- [Creating a successful business Model](https://www.youtube.com/watch?v=IP0cUBWTgpY)
+- [Strategyzer Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
+- [Image source 1](https://sites.google.com/site/moocmodulesnils/marketing/the-business-model-canvas)

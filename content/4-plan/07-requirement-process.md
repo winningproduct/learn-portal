@@ -1,27 +1,27 @@
 ---
-templateKey: "model-post"
-indexingField: 5-Plan
 title: "Requirement Process"
-metaTitle: ""
-metaDescription: ""
-subtitle: ""
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: ""
-description: ""
-
-tags:
+metaTitle: "Requirement Process | WP"
+metaDescription: "Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback."
+published: true
+metaTags:
   - Immerse
   - Requirement process
-  - Winning Product Canvas
+  - Winning Product
+  - Technology Mastery
 ---
 
 
 ## Why
-Coming soon..
+The main intention of a requirement process is to confirm that the correct requirements are captured. A product should ultimately solve customers' need. That’s why investigating and capturing the right requirement is crucial. It’s about finding what users are willing to pay for. The captured requirements need to be documented to help with information retention and communication. This also act as evidence for any further clarification.
+
+The idea is to build a Win-Win strategy with product users. The product team should focus on identifying users’ problem and ensure they do what it takes to get their problem solved.
 
 ## How
-Coming soon..
+The following tips can help you with the requirement process:
+- **Early customer feedback:** Focus on getting feedback from users as early as possible in the development cycle. Ensure the investment on development is spent on features that customers are willing to pay for. Using the Lo/High fidelity prototypes that were discussed earlier, focus on getting users feedback on feature importance and tips on usage improvements long before even the development starts.
+- **Customer Involvement:** Include customers in the development life cycle. Have specialized people who work with customers and use this input for feature prioritization and ultimately to define the product road map. It’s important to be transparent about this with your customer to think Win-Win.
+- **Data driven:** The decisions made on the product road map and the feature prioritization needs to be derived from data analysis. Customer requirements needs to be scientifically obtained with a large enough data set to make decisions on what features benefit the entire customer base.
+- **Product road map:** Requirement process is the journey of converting users' needs into product requirements. It’s important to translate requirements captured earlier into features that the product team understands and finally prioritize them to a product road map based on potential gains and feasibility. The product road map then needs to be communicated to all stakeholders of the company.
 
 ## References
-Coming soon..
+- [A beginner's guide to finding user needs](https://jdittrich.github.io/userNeedResearchBook/)

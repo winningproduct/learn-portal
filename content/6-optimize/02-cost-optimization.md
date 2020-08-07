@@ -1,26 +1,33 @@
 ---
-templateKey: "model-post"
-indexingField: 9-Optimize
 title: "Cost Optimization"
-metaTitle: ""
-metaDescription: ""
-subtitle: "Max word count (140)"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/<content-main-image>.jpeg"
-description: "Max word count (160)"
+metaTitle: "Cost Optimization | WP"
+metaDescription: "Focuses on reducing cost. Consider shredding unnecessary waste in platform services, tech debt backlog, or team structure. Look into process improvements."
+published: true
 
-tags:
+metaTags:
   - Optimize
-  - Adward design
-  - Winning Product Canvas
+  - Cost Optimization
+  - Winning Product
+  - Technology Mastery
 ---
 
 ## Why
-Coming soon..
+The main objective of this strategic action is to optimize operational costs. Reducing the bottom line directly translates into more profits and at this stage in the product development life cycle, it makes sense to focus even more on profits.
+
+Relooking at business processes also means that you focus on stabilizing the product. It's natural to think of more long-term solutions at this stage. You might have been spending on unnecessary things up to now as the previous stages were more rapid. You might have made some cost-related decisions without all the needed information before.
+
 
 ## How
-Coming soon..
+Consider the following when thinking of optimizing the cost structure:
 
-## References
-Coming soon..
+### Actioning the user feedback
+Listen to product users, find out what users are willing to pay for. And for unpopular features consider downsizing them or removing them altogether to reduce operational and maintenance cost.
+
+### R&D budget
+You might have spent a lot of money during the earlier plan and build stages on infrastructure and resources. When you re-look at the workload if it seems to be on a downwards trajectory then consider shredding some resources to save cost. Have a look at the spending on infrastructure as well. You might have made some unnecessary infrastructure decisions based on assumptions. The experience from earlier stages helps to eliminate this unnecessary waste.
+
+### Follow best practices
+A good stage to research best practices that the world follows in development, quality assurance, UX, and marketing activities. Spend a bit more time to learn from others especially if you did not have the time earlier.
+
+### Data-driven cost decision
+Use data to make decisions about cost reduction. Use data to find waste and avoid cutting costs on areas where it hurts.

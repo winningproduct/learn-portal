@@ -1,45 +1,38 @@
 ---
-templateKey: "model-post"
-indexingField: 8-Stabilize
 title: "Release Management"
-metaTitle: ""
-metaDescription: ""
-subtitle: "A better release management practices play a major role in stabilizing the product in long run"
-date: 2020-4-17T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/Release-Management.jpg"
-description: "Release management is typically a set of processes and practices to be followed when doing any changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
-
-tags:
+metaTitle: "Release Management | WP"
+metaDescription: "A set of processes and practices to follow when making changes to the existing system. Changes can be categorized as bug fixes, feature development and Platform/UX/Technology Shift."
+published: true
+documentation: "DeliveryProcess"
+metaTags:
   - Stabilize
   - Release management
-  - Winning Product Canvas
+  - Winning Product
+  - Technology Mastery
 ---
 
 ## Why
-Every Software product needs to be evolved with the time to retain existing customers and attract more customers.These changes can be bug fixes, new features, improving non functional aspets ( performance, security, etc..), technology shift, UX revamp, etc.. Further these changes be long as monthly. quarterly or even annually. With the emerge of cloud technologies and new concepts like continous integration and deployment, software product tend to do the changes to the product and make available to the users bi weekly, daily, or even every couple of hours. There are many concepts, methodlogies, best practices and techniques exist to manage these kind of changes to a software system.
+Every software product needs to evolve with time to serve existing customers and to attract new ones. These changes can be in the form of bug fixes, new features, improving nonfunctional aspects (performance, security, etc.), technology shift, UX revamp, etc. With frequent changes you need a systematic process to manage these releases. Your system is likely to be used by many existing customers and new releases should ensure there’s no adverse effect to their usage. Continuously assure the quality of the product when making frequent releases. Customers should be notified both for awareness and for marketing purposes about the new changes. There’s an increased need for a proper release management plan as the product matures.
+
 
 ## How
+Consider the following when creating a release management plan:
 
-- With these practices we will be able to deliver new changes to system faster, safer and with best quality
-- And enable developers to get their code out quickly and correctly to the people who use it, in safe, small, incremental steps.
-- As mentioned these concepts, practices and techniques are as follows with details.
+- **Communication Plan:** Communication of the release is important. Changes in each release first needs to be understood, then documented and communicated to all stakeholders especially to customers, well ahead of release dates.
+- **Quality Plan:** Assuring quality can be challenging with frequent releases. There should be a process in place to handle regression testing. What test cases needs to be executed at each release, what is automated and what is done manually and how the fixes of bugs are handled; all needs to be answered here.
+- **Risk Assessment:** Release is when everything comes together. Many components and stakeholders are involved during a release. A good release management plan needs to identify possible risks in the flow and should have a contingency plan if things go wrong.
+- **Code Progression:** Consider progressing the code through different stages of the release. At the stage of development, use a development environment that’s partially working. Once the development is done, progress the code to a testing stage by deploying a developer approved version to a test environment. Moving the deployment to production or an intermediate stage environment should only be done once the testing is done and the quality check is approved.
+- **Scheduling:** Part of the release management is to understand the bandwidth of the team and capacity of each specialized resource. Scheduling releases should be a proactive process based on the required work and the available capacity.
+- **Development to Release Plan:** Testing and deployments needs to be handled in a methodical manner due to frequent code changes during a release. Freeze the code well before the intended release date to give enough headroom for testing. If and when bugs are found, they need to be triaged to determine what gets fixed. This prioritization needs to be based on the severity of the bug vs the impact of fix to other parts of the product. Also, there must be clear role descriptions to indicate who makes the final call of a release as well.
+- **DevOps:** Invest on a good DevOps pipeline to streamline the release process. Consider having a proper continuous integration/delivery/deployment framework to fast-track the release process.
+- **IaC:** Consider doing infrastructure deployment via code as much as possible. This eliminates any human errors from the process while dramatically improving deployment time.
+- **Feature Deployment:** Consider the following techniques to manage feature deployment in the release process:
+  - **Feature Toggling:** Turn features of an application on or off easily without a code change. 
+  - **Dark Launching:** The process of releasing production-ready features to a subset of your users prior to a full release. 
+  - **Blue-Green Deployments:** The technique of having two identical production environments with one live and the other serving as a backup.
 
-  - Feature Toggling : Feature toggling is the ability to turn features of an application on/off at easily witout a code change.
-  
-  - Dark Launching: Dark launching is the process of releasing production-ready features to a subset of your users prior to a full release
-  
-  - Continous Integration: Continous Integration (CI) is the software development practice of regularly integrating code changes into a shared code repository. Typically, this would happen at least once or then several times a day (depending on the number of code commits) and this practice encourages committing small changes more often over committing large changes infrequently. Each commit triggers a build during which tests are run that help to identify if anything was broken by Changes
- 
-  - Continous Delivery: Continuous Delivery is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way
-
-  - Continous Deployment: Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing phase is automatically released into the production environment, making changes that are visible to the software's users.
-
-  -  Agile Development: Agile software development refers to software development methodologies centered round the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams
 
 ## References 
-  - DevOps: is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably.
-  - Test Driven Development: The Test Driven Development (TDD) is a software engineering practice that requires unit tests to be written before the code they are supposed to validate.
-  - End to End Testing: End-to-end testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems
-  
-  - Dogfooding: dogfooding occurs when an organization uses its own product.This can be a way for an organization to test its products in real-world usage
+- [Release management](https://en.wikipedia.org/wiki/Release_management#:~:text=Release%20management%20is%20the%20process,testing%20and%20deploying%20software%20releases.)
+- [What is Release Management?](https://www.plutora.com/software-release-management/what-is-release-management)
+- [Release Management Process and Best Practices](https://www.plutora.com/blog/release-management-best-practices)

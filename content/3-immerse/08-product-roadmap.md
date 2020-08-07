@@ -1,42 +1,37 @@
 ---
-templateKey: "model-post"
-indexingField: 4-Immerse
 title: "Product Roadmap"
-metaTitle: ""
-metaDescription: ""
-subtitle: "The statement of intent"
-date: 2019-07-25T15:04:10.000Z
-featuredpost: true
-featuredimage: "/img/product-roadmap.jpg"
-description: "A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you’re building. A roadmap is a guiding strategic document as well as a plan for executing the strategy."
-
-tags:
+metaTitle: "Product Roadmap | WP"
+metaDescription: "Prioritize and lay the features and releases in a product evolution timeline."
+published: true
+metaTags:
   - Immerse
   - Product Roadmap
-  - Winning Product Canvas
+  - Winning Product
+  - Customer Success
 ---
 
 
 ## Why
-The product roadmap has several ultimate goals
+The product roadmap states how your business will execute the strategy to achieve the company's goals and vision. It has several ultimate goals:
 
-- Describe the vision and strategy
-- Provide a guiding document for executing the strategy
-- Get internal stakeholders in alignment
-- Facilitate discussion of options and scenario planning
-- Help communicate with external stakeholders, including customers
+- Prioritize given work according to customer requirements.
+- Describe the mid to long term strategy.
+- Provide a guiding document for executing the strategy.
+- Get internal stakeholders in alignment.
+- Facilitate discussion of options and scenario planning.
+- Help communicate with external stakeholders, including customers.
+
 
 ## How
-Product road maps evolve with the time. Based on which stage the project is, the focus can be changed in the road map.It is always best to create a road map at the start of each project and evolve it as the project grows. All product road maps will fall in to following three categories based on the different stages of the project.
+Product road maps evolve with time. Based on the stage the project is, the focus can be changed in the road map. It is best to create a road map at the start of each project and let it evolve as the project grows. All product road maps fall in to the following three categories based on the different stages of the project:
 
-- The no-dates road map
-  - These are more flexible than road maps built on timelines. These are best for companies whose priorities changes constantly. This is best when the product is in early stages where information can change week by week
-- The hybrid road map
-  - This type is best when the product is more mature. In this type, there are dates, but no hard dates. The road map can be organized based on monthly or quarterly goals.
-- The timeline road map
-  - These type of road maps are not needed until the product reach maturity where there are multiple departments involved with dependencies to each other.
+- **The no-dates road map:** This is more flexible than a road map built on a timeline. It is best for companies whose priorities constantly change when the product is in early stages where information can change frequently.
+- **The hybrid road map:** This type is best when the product is more mature. There are dates, but no hard dates. The road map can be organized based on monthly or quarterly goals.
+- **The timeline road map:** This road map is not needed until the product reaches maturity, where there are multiple departments involved with dependencies to each other.
 
-Tools that can be used to build road maps are listed below.
+The success of any roadmap depends on how it is prioritized. While there could be many reasons for prioritization, customer requirements, or in other words, what customers are willing to pay for, should be given a high consideration here.
+
+The following tools can be used to build road maps:
 
 - Aha! (https://www.aha.io/)
 - Product plan (https://www.productplan.com/)
@@ -50,8 +45,8 @@ Tools that can be used to build road maps are listed below.
 - Taskworld (https://www.taskworld.com/)
 - Hygger (https://hygger.io/?utm_source=habrahabr%20article&utm_medium=link&utm_campaign=roadmaps)
 
-## References
 
+## References
 - [Everything You Need to Know About Product Roadmaps](https://www.productplan.com/what-is-a-product-roadmap/)
 - [An Agile Product Roadmap](https://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
 - [How to Create a Product Roadmap](https://roadmunk.com/guides/how-to-create-a-product-roadmap/)
