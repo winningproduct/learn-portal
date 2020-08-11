@@ -9,6 +9,23 @@ metaTags:
   - Winning Product
   - Retire
   - Market Sense
+  
+checklist: 
+  -
+    order: 1
+    question: Have you identified the reasons for a product retirement? 
+    expectation: Study the reasons to retire a product in order to make correct decisions on time.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you developed an end of life policy to your prodcut?
+    expectation: Having an EOL policy already in place would be more efficient for the stakeholders during product retirement.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you communicated to the customer about the EOL policy?
+    expectation: Notifiying the customers about the EOL policy in advance is crucial as that will help the customers to prepare to face the situation.
+    version: 1.0.0
 ---
 
 ## Why

@@ -9,6 +9,22 @@ metaTags:
   - Technical Debt Management
   - Winning Product Canvas
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Have you thought of having automated test cases in your project? 
+    expectation: Automated test cases can help testing activity to a greater extent in terms of time saving, efficiency and reliability
+    version: 1.0.0
+  -
+    order: 2
+    question: Did you do an analysis on which test cases to be automated?
+    expectation: Identifying the correct test cases to automate is crucial. As trying to automate the wrong test cases might cause negative impacts to the project.
+    version: 1.0.0
+  -
+    order: 3
+    question: How did you arrive at the tools and technology to be used in the automation?
+    expectation: Identifying the best technology and tools to develop the automation framework is important in order match with the application under test and team composition.
+    version: 1.0.0
 ---
 
 ## Why
