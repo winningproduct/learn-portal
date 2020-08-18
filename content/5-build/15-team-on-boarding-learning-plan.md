@@ -9,6 +9,22 @@ metaTags:
   - On-boarding
   - Winning Product Canvas
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you defined a set of etiquette and guidelines to be followed throughout the hiring process? 
+    expectation: Define a set of etiquette and guidelines to be followed throughout the hiring process(from interview setup to contract signing). 
+    Version: 1.0.0
+  -
+    order: 2
+    question: Have you defined a pre-boarding checklist?
+    expectation: Define a checklist of items to get done after hiring a new employee but before their first day at work(setting up necessary accounts, planning out the first day on-boarding sessions etc.).
+    Version: 1.0.0
+  -
+    order: 3
+    question: Have you devised a proper program to continuously support the new recruit to effectively adapt to your organization? 
+    expectation: Devise a proper program to continuously support the new recruit to effectively adapt to your organization(buddy program, mentor program etc.). This should include a mechanism to evaluate the effectiveness of new employee on-boarding as well.
+    Version: 1.0.0
 ---
 
 ## Why
