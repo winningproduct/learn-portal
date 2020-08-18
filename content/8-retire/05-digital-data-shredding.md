@@ -4,6 +4,28 @@ metaTitle: "Digital Data Shredding | WP"
 metaDescription: "With customer's consent to close the account, permanently delete data and provide a mechanism to export customer's data on request."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you identified the sensitive data in your system that needs to be removed?
+    expectation: Classification of all stored data with their sensitivity level clearly identified. For example what data table/blob which requires eventual removal should be clearly visible.
+    version: 1.0.0
+  -
+    order: 2
+    question: Is your system capable of extracting all data that belongs to a customer?
+    expectation: A mechanism should be in place to clearly identify to which each atomic level of data belongs to. Each data row, file, etc.. needs to have a unique owner. Then there should be mechanisms in place easily extract this data when needed.
+    version: 1.0.0
+  -
+    order: 3
+    question: Is the product team aware of the data shredding standards? 
+    expectation: Team members should be aware of the data shredding standards and there should be a justification for chosen standard.
+    version: 1.0.0
+  -
+    order: 4
+    question: Have you defined the data shredding process?
+    expectation: There should be an agreed time span in place for customer data after they retire the product. There should also be mechanisms to evidences of data shredding.
+    version: 1.0.0
+
 metaTags:
   - Retire
   - Digital data shredding

@@ -3,6 +3,24 @@ title: "Requirement Process"
 metaTitle: "Requirement Process | WP"
 metaDescription: "Process of deriving, defining, communicating, documenting, prioritizing and obtaining user feedback."
 published: true
+
+checklist: 
+  -
+    order: 1
+    question: Is there an established product road map?
+    expectation: All team members should be aware of the product road map. Road map should clearly indicate the upcoming features and their time lines.
+    version: 1.0.0
+  -
+    order: 2
+    question: Is there a process to get customer feedback?
+    expectation: A clear process should be in place to get customer feedback of the product. This feedback ideally needs to be captured during the development phase it self by involving customer in early prototypes.
+    version: 1.0.0
+  -
+    order: 3
+    question: How are the features prioritized?
+    expectation: Features needs to be prioritized based on user preference data. There has to be evidence of collecting this data from the customers.
+    version: 1.0.0
+
 metaTags:
   - Immerse
   - Requirement process

@@ -4,6 +4,23 @@ metaTitle: "Platform Migration Plan | WP"
 metaDescription: "A strategy and action plan to migrate the technology platform components from the old system to the new system."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you identified the components which needs to be migrated?
+    expectation: A list of components that are marked as migratable and justification of other components to indicate why are they not worthy of migration. 
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the new KPIs for the components which are marked for migration?
+    expectation: Make sure the KPIs that are required for the new system are properly identified and the components which are marked for migration meets these standards.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have a defined migration plan?
+    expectation: Make sure that there is a clear plan for migrating the components. Make sure that the migration plan considers all the uncertainties.
+    version: 1.0.0
+
 metaTags:
   - Retire
   - Platform migration plan

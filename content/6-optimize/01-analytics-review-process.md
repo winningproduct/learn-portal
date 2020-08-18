@@ -3,6 +3,29 @@ published: true
 title: "Analytics Review Process"
 metaTitle: "Analytics Review Process | WP"
 metaDescription: "Gathering correct and current data and processing them to identify patterns and make predictions. Use this to enable data-driven decision making."
+
+checklist: 
+  -
+    order: 1
+    question: Have you defined the analytics data model?
+    expectation: There has to be an analytics representation of the transaction data. Something like a Kimball model/Star schema should be in place.
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you have data driven standardized APIs?
+    expectation: The product should have standardized data driven APIs (apart from application APIs). These APIs should have authentication and data throttling concerns sorted.
+    version: 1.0.0
+  -
+    order: 3
+    question: How do you visualize the analyzed data?
+    expectation: Ideally the product should use established visualization tools such as PowerBI. It should use the above mentioned data end points to seamlessly connect to data instead of exposing the data base directly. Embedded analytics could also be used here.
+    version: 1.0.0
+  -
+    order: 4
+    question: Is analytics used for predictive modeling?
+    expectation: The presence of pattern identification using existing data. These patterns needs to be converted into business meaning and should be incorporated in decision making. 
+    version: 1.0.0
+
 metaTags:
   - Optimize
   - Data analytics plan

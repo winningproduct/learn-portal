@@ -4,6 +4,23 @@ metaTitle: "Team Knowledge Transfer Plan | WP"
 metaDescription: "Plan to document both tacit and implicit knowledge and create knowledge ramp up materials to transfer knowledge."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you identified key knowledge areas in the product?
+    expectation: Both key technical and domain knowledge areas have to be clearly identified and listed.  
+    version: 1.0.0
+  -
+    order: 2
+    question: Is there a presence of knowledge management tool in the team?
+    expectation: There has to be some sort of a knowledge management tool in place. This tools needs to be frequently used by the team to both access and record knowledge.
+    version: 1.0.0
+  -
+    order: 3
+    question: Is there a knowledge management plan in the team?
+    expectation: There has to be a process to ramp up new comers with knowledge. Also there should be a process to share individual knowledge to the entire team in a periodic manner. The process should also have provision to record knowledge. 
+    version: 1.0.0
+
 metaTags:
   - Retire
   - Team knowledge transfer plan
