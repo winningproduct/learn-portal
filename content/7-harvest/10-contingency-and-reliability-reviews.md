@@ -4,6 +4,23 @@ metaTitle: "Contingency and Reliability Reviews | WP"
 metaDescription: "Plan and action business continuity strategy to minimize business risks. Consider technical, market, and environmental factors. Ensure the readiness with various drills."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you identified potential risks to your day to day operations?
+    expectation: All possible threats needs to be identified and the team should have an idea about possibility and the impact of those unfortunate situations. 
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you established a contingency plan?
+    expectation: A plan should be in place with alternatives for each of the above mentioned potential threats. The team should be aware of the plan.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you done a contingency drill?
+    expectation: It is vital that the team has done a test of the contingency plan. It is better to be prepared for all conditions.
+    version: 1.0.0
+
 metaTags:
   - Harvest
   - Contingency and reliability reviews

@@ -4,6 +4,23 @@ metaTitle: "Cost Optimization | WP"
 metaDescription: "Focuses on reducing cost. Consider shredding unnecessary waste in platform services, tech debt backlog, or team structure. Look into process improvements."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Have you identified and categorized all your costs?
+    expectation: All elements related to operational cost should be clearly visible and should be able to be listed.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you considered the cost alternatives for your business activities?
+    expectation: Best practices for each cost activity needs to be analyzed and the activity needs to be justified given the alternatives.
+    version: 1.0.0
+  -
+    order: 3
+    question: Does your spending add value to the product?
+    expectation: The product team must understand the ultimate value of the product to the customer. The costing should always add direct or indirect value to the end product.
+    version: 1.0.0
+
 metaTags:
   - Optimize
   - Cost Optimization

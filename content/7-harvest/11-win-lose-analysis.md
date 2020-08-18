@@ -4,6 +4,18 @@ metaTitle: "Win-lose Analysis | WP"
 metaDescription: "Do a win-loss analysis on your leads to understand why you lost and what the strong points in your application are. Analyze these results with different demographics in mind."
 published: true
 
+checklist: 
+  -
+    order: 1
+    question: Is there a Win-Loss analysis in place?
+    expectation: A history of studying both wins and losses of sales. There should be records to prove that customer opinion of the product is collected.
+    version: 1.0.0
+  -
+    order: 2
+    question: Is the team using the insights of the analysis to rectify the mistakes?
+    expectation: The team should do root cause analysis of issues that were pointed out by the customers. There should be a process to make this as a input to the future product road-map.
+    version: 1.0.0
+
 metaTags:
   - Harvest
   - Win-lose Analysis
