@@ -9,6 +9,22 @@ metaTags:
   - Engineering Estimations
   - Winning Product 
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: How do you estimate functional and non-functional features in your project?
+    expectation: An explanation of the estimation process used in the project. 
+    version: 1.0.0
+  -
+    order: 2
+    question: What is the Task/Method Estimation aka Bottom-up Estimation?
+    expectation: An explanation of the popular Task/Method estimation and its key pointers 
+    version: 1.0.0
+  -
+    order: 3
+    question: Where would you use the Heuristic Method of estimation?
+    expectation: If there are analogus estimations that had been done for similar features in the same or other projects. 
+    version: 1.0.0
 ---
 
 
