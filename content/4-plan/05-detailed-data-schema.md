@@ -9,6 +9,22 @@ metaTags:
   - Detailed Data Schema
   - Winning Product
   - Technology Mastery
+  checklist: 
+  -
+    order: 1
+    question: 
+    expectation: 
+    version: 1.0.0
+  -
+    order: 2
+    question: 
+    expectation: 
+    version: 1.0.0
+  -
+    order: 3
+    question: 
+    expectation: 
+    version: 1.0.0
 ---
 
 

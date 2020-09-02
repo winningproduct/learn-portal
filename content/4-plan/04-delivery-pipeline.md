@@ -9,6 +9,22 @@ metaTags:
   - Delivery Pipeline
   - Winning Product
   - Customer Success
+  checklist: 
+  -
+    order: 1
+    question: 
+    expectation: 
+    version: 1.0.0
+  -
+    order: 2
+    question: 
+    expectation: 
+    version: 1.0.0
+  -
+    order: 3
+    question: 
+    expectation: 
+    version: 1.0.0
 ---
 
 
