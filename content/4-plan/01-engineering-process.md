@@ -9,13 +9,49 @@ metaTags:
   - Project Process
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you access to overall process guidance for the product engineering?
+    expectation: Team should have access to documented process policy, proceedures, and work instructions
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified a development or engineering process?
+    expectation: A documented process clearly indicating why it has been selected. Eg. SCRUM along with product design proceedures
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified a DevOps process?
+    expectation: A documented process clearly indicating why it has been selected over other devops processes eg. process which includes automated CD
+    version: 1.0.0
+
+    order: 4
+    question: Have you identified a quality engineering process?
+    expectation: A documented process clearly indicating why it has been selected eg. process which assures the quality across all stages of the lifecycle of the product
+    version: 1.0.0
+
+    order: 5
+    question: Have you identified a release management process?
+    expectation: A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.
+    version: 1.0.0
+
+    order: 6
+    question: Have you identified a release management process?
+    expectation: A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.
+    version: 1.0.0
+
+    order: 7
+    question: Have you identified a product management process?
+    expectation: A documented process clearly indicating why it has been selected eg. ability to translate business needs into a features to be engineered.
+    version: 1.0.0
 ---
 
 
 ## Why
 "Those who plan do better than those who do not plan, even though they rarely stick to their plan.” – Winston Churchill
 
-A process or a methodical approach makes software engineering both predictable and repeatable. This also helps with communication by making all stakeholders aware of what needs to be done and the benchmark to access success at each product development stage.
+A process or a methodical approach makes software product engineering both predictable and repeatable. This also helps with communication by making all stakeholders aware of what needs to be done and the benchmark to access success at each product development stage.
 
 
 ## How

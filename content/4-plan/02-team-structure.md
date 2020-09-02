@@ -9,6 +9,22 @@ metaTags:
   - Team Structure
   - Winning Product
   - Technology Mastery
+  checklist: 
+  -
+    order: 1
+    question: Have you identified different roles and skills required for the team?
+    expectation: Able to show list of roles covering major aspects of product eng. and under each skillset, list of roles from Product Mgt. to DevOps
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified a communication and escalation plan?
+    expectation: By way of documentation and able to illustrate how communication should take place from requirement gathering to escalating risks and plans.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified a set of KPIs for members playing in specified roles?
+    expectation: Defined KPI which has been communicated to team members
+    version: 1.0.0
 ---
 
 
