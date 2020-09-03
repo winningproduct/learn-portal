@@ -3,13 +3,30 @@ title: "High Fidelity Prototype"
 metaTitle: "High Fidelity Prototype | WP"
 metaDescription: "Build a detailed prototype to demonstrate how the final product would operate and obtain feedback."
 published: true
+
 metaTags:
   - Immerse
   - High Fidelity Prototype
   - Winning Product
   - User Experience
----
+checklist: 
+  -
+    order: 1
+    question: How do you validate new features and user flows with the target users before the actual implementation?
+    expectation: Make use of High-fidelity prototypes to validate the user flows, interactions and user behaviours
+    version: 1.0.0
+  -
+    order: 2
+    question: What elements do you include in your high fidelity prototypes?  
+    expectation: High fidelity prototype should include visuals, user flows, required transitions and animations 
+    version: 1.0.0
 
+  -
+    order: 3
+    question: What tools and software do you use to create high fidelity prototypes?
+    expectation: Choose a tool that the team is comfortable with. i.e. Sketch, photoshop, Illustrator etc...
+    version: 1.0.0
+---
 
 ## Why
 High fidelity prototypes take us as close as possible to an accurate representation of the application's user interfaces and interactions. It is a computer-based interactive representation of the product closest to the final design in terms of details and functionality. The hi-fi prototypes cover the user interface (UI) of the product in terms of visuals and aesthetics, and the user experience (UX) aspects in terms of interactions, user flow, and behavior.
