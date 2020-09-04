@@ -8,6 +8,22 @@ metaTags:
   - Referrals and up a sales plan
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Have you identified the forms of promotions worked for the target market? 
+    expectation: Overview of the target market, previous referral programs, promotions and their impact.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you planed the time and resources investment for referral programs? 
+    expectation: The program should be strategically planned out, regularly measured, and managed on an ongoing basis.
+    version: 1.0.0
+  -
+    order: 3
+    question: Did you set up goals? 
+    expectation: Referral goals like referring X number of people or earning Y points, average upsales brings by new customers into the business from referrals.
+    version: 1.0.0
 ---
 
 ## Why

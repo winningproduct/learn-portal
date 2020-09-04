@@ -3,13 +3,33 @@ title: "Technology Revamp/Migration Plan"
 metaTitle: "Technology Revamp/Migration Plan | WP"
 metaDescription: "A roadmap to move to better technologies, to facilitate a rapid response process, while boosting security, availability, performance, and agility."
 published: true
-
 metaTags:
   - Harvest
   - Technology Revamp
   - Technology Migration
   - Winning Product
   - Technology Mastery
+checklist:
+  -
+    order: 1
+    question: Have you identified the requirement for technology revamp/migration? 
+    expectation: Determine technical, time, and financial requirements.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the risks of technology revamp/migration? 
+    expectation: Provide an assessment of cost, duration, commitment from stakeholders, privacy-related risks.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified the most optimized way? 
+    expectation: Map and analyze these high prioritized features and pain-points with new product design.
+    version: 1.0.0
+  -
+    order: 4
+    question: Have you assessed the impact? 
+    expectation: Once the update is completed, assess the impact and cost.
+    version: 1.0.0
 ---
 
 ## Why
