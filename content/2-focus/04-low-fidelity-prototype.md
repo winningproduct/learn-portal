@@ -3,12 +3,27 @@ title: "Low Fidelity Prototype"
 metaTitle: "Low Fidelity Prototype | WP"
 metaDescription: "A prototype is a simulation of how the primary functionality of the product will work. It allows you to initiate discussions with other stakeholders such as domain experts, potential users, decision makers, etc. Low-fidelity (lo-fi) prototyping is a quick and easy way to convert high-level design concepts into tangible and testable artifacts. It doesn’t have to be concrete or even look like a finished product."
 published: true
-
 metaTags:
   - Focus
   - Low fidelity prototype
   - Winning Product
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: Have you identified who needs to be involved in low-fidelity prototyping? 
+    expectation: The idea is to get as many parties on board in this process as possible. Developers, QA, domain experts and especially users are more than welcome to participate in this process.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you figured out a technique for this process?
+    expectation: Low fidelity prototypes can change quite often. Hence it is recommended to use a media where things can be changed quickly; such as pen and paper. Wire framing can be done at a later stage when the requirements are bit more stable.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you figured out what to do after this process?
+    expectation: It is important that the findings and notes captured in this process is properly recorded for future purposes. These early feedback then needs to be taken into planning and should eventually needs to end up at the product road map.
+    version: 1.0.0
 ---
 
 ## Why
