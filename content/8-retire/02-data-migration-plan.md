@@ -3,12 +3,27 @@ title: "Data Migration Plan"
 metaTitle: "Data Migration Plan | WP"
 metaDescription: "A systematic plan to smoothly migrate data (system data, users, user data, etc.) from the old platform to a new platform with feature compatibility. Have a migration strategy."
 published: true
-
 metaTags:
   - Retire
   - Data Migration Plan
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Have you identified the data source and storage? 
+    expectation: Provide an overview of the current state of data, its storage, and potential restrictions.
+    version: 1.0.0
+  -
+    order: 2
+    question: Who is going to involve in migration?
+    expectation: Identify key stakeholders, relevant subject matter experts and everyone that has a voice in this project.
+    version: 1.0.0
+  -
+    order: 3
+    question: What are you going to migrate?
+    expectation: Which data will your migration require? And any relevant reports for the legacy data, including the frequency of use and whether or not you analyze trends in historical data.
+    version: 1.0.0
 ---
 
 ## Why

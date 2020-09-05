@@ -3,12 +3,27 @@ title: "Public Relations Activity Plan"
 metaTitle: "Public Relations Activity Plan | WP"
 metaDescription: "Strategize to enhance the image of the product brand and focus on influential media strategies."
 published: true
-
 metaTags:
   - Harvest
   - Public relations plan
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Did you research on PR strategies? 
+    expectation: Review your previous efforts, why did it worked or not? If you are new to the market, tactics of your competitors and others in your industry.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified your goals and outcomes? 
+    expectation: Your PR strategy should tie in with your overall goals and objectives.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified any opportunities? 
+    expectation: Identify events or activities that present great opportunities for good public relations activities. In doing so, it’s a good idea to look at both internal and external events.
+    version: 1.0.0
 ---
 
 ## Why
