@@ -8,6 +8,18 @@ metaTags:
   - Product Market Fit Validation
   - Winning Product
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: How did you identify the target customers of your product/service?
+    expectation: We need to follow the four steps of the product market fit i.e. Discover, Test, Position and Verify
+    version: 1.0.0
+-
+    order: 2
+    question: How do you measure the Product Market Fit of your product/service?
+    expectation: We can make use of indicators such as Product Usage Interval, Net Promoter Score, Retention Curve, Growth Rate etc... 
+    version: 1.0.0
+
 ---
 
 
