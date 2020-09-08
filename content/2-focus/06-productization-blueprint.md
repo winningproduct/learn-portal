@@ -3,12 +3,32 @@ title: "Productization Blueprint"
 metaTitle: "Productization Blueprint | WP"
 metaDescription: "Productization Blueprint is used to implement product-specific technical components such as multi-tenancy, licensing, standard APIs, plugins, etc."
 published: true
-
 metaTags:
   - Focus
   - Productization Blueprint
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: How is your product or product portfolio managed in terms on security and communication?
+    expectation: If there is a portfolio of applications, then a single sign-on mechanism is highly recommended. Known federated ID mechanism such as Office 365, Google or Facebook is also worth considering. Communication between application should happen via known protocols and should be clearly isolated.
+    version: 1.0.0
+  -
+    order: 2
+    question: What is your product pricing and licensing strategy?
+    expectation: There should be a clear product based or feature based pricing model. Its typical to have the abilities for feature toggling for users to achieve better customization. Apart from this licensing model should be integrated to the system to measure usage and grant/restrict access accordingly. 
+    version: 1.0.0
+  -
+    order: 3
+    question: What is your release management strategy?
+    expectation: Product road-map should align with releases. The architecture should support Feature Toggles,Canary Releases, Dark Launching, etc... to slowly roll out the change to a small subset of users for verification.
+    version: 1.0.0
+  -
+    order: 4
+    question: Have you identified your product branding and theming strategy?
+    expectation: This is especially needed when there is a portfolio of applications. Your product design should take necessary steps to have consistency among all applications.
+    version: 1.0.0        
 ---
 
 ## Why
