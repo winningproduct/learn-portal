@@ -3,12 +3,37 @@ title: "Technical Architecture"
 metaTitle: "Technical Architecture' | WP"
 metaDescription: "Defines how granular software components are engineered and organized together to achieve the optimal delivery of the features in demand. The architecture is mainly governed by the product requirements. It’s moderated by industry best practices associated with the selected technologies, services and relevant regulations."
 published: true
-
 metaTags:
   - Focus
   - Technical Architecture
   - Winning Product Canvas
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you identified the key quality attributes of your product?
+    expectation: Key non-functional quality attributes such as security, performance, etc... needs to have been identified along with recommended technical strategies to overcome them.
+    version: 1.0.0
+  -
+    order: 2
+    question: Is the technical architecture clearly defined?
+    expectation: There should be a clear technical diagram outlining all major components. This should show how the above key quality attributes are addressed in the system.
+    version: 1.0.0
+  -
+    order: 3
+    question: Does your architecture support future scaling & extendability?
+    expectation: The technical architecture should have provisioning to scale as the application scales. Clear separation needs to be maintained between different components to enable both scaling out and up independently.
+    version: 1.0.0
+  -
+    order: 4
+    question: How do you maintain security of your system and customer data?
+    expectation: Architecture should have made measures to provide tight security. There should be evidences of OWASP testing. Also, customer data needs to be accessed securely to meet data protection standards such as GDPR. Encryption at rest can be considered here.
+    version: 1.0.0
+  -
+    order: 5
+    question: Have you validated your architecture to ensure the corner cases?
+    expectation: All the ceiling values of non-functional requirements needs to be identified. There should be evidences to make sure that the technical architecture can support such data loads specified in SLAs.
+    version: 1.0.0      
 ---
 
 ## Why
