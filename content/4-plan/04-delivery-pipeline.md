@@ -12,18 +12,18 @@ metaTags:
   checklist: 
   -
     order: 1
-    question: 
-    expectation: 
+    question: Have you setup key steps of the CI pipeline?
+    expectation: Ability to demonstrate CI configuration and execute CI job successfully having tasks such as, code quality analysis, unit test execution, security tests 
     version: 1.0.0
   -
     order: 2
-    question: 
-    expectation: 
+    question: Have you setup key steps of the CD pipeline?
+    expectation: Ability to demonstrate the key stages of the delivery such as executing infrastructure code, execute code to configure infrastructure, prmote artefacts across different stages of the pipeline, have different nonfunctional automated tests harnesses.
     version: 1.0.0
   -
     order: 3
-    question: 
-    expectation: 
+    question: Have you identified release methods different to deployment techniques?
+    expectation: Ability to decouple deployments from releases
     version: 1.0.0
 ---
 
