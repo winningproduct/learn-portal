@@ -12,18 +12,18 @@ metaTags:
   checklist: 
   -
     order: 1
-    question: 
-    expectation: 
+    question: Have you identify entities and attributes ?
+    expectation: OLTP and OLAP schemas are identified with their attributes and indexing techniques
     version: 1.0.0
   -
     order: 2
-    question: 
-    expectation: 
+    question: Have you identified data access patterns?
+    expectation: Different data requirements needs different patterns eg. CQRS, Repository etc.
     version: 1.0.0
   -
     order: 3
-    question: 
-    expectation: 
+    question: Is there a analysis done to chose between different storage types eg. Sql vs NoSql?
+    expectation: There should be clear analysis to accomodate entities belonging to Sql and NoSql with their indexing and associated costs
     version: 1.0.0
 ---
 
