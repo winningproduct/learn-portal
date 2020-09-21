@@ -3,12 +3,27 @@ title: "Brand Story Development"
 metaTitle: "Brand Story Development | WP"
 metaDescription: "There is already too much noise out there. People no longer care for sales pitches. The only thing they listen to and care about is an authentic story."
 published: true
-
 metaTags:
   - Focus
   - Brand story development
   - Winning Product
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: What is the primary value of your product?
+    expectation: Identification of the real problem that the customers are willing to pay money to solve. 
+    version: 1.0.0
+  -
+    order: 2
+    question: What stimulates your target audience emotionally?
+    expectation: Identification of a key factors that stimulates the audience. This is not the features of your product but rather what your product enable customer to do. How does your customers use your product to enhance their potential.
+    version: 1.0.0
+  -
+    order: 3
+    question: What is the story? 
+    expectation: At the end of this activity there should be a compelling story that is powerful enough to influence customers yet familiar to their reality.
+    version: 1.0.0
 ---
 
 ## Why
