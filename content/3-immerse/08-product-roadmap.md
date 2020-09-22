@@ -8,6 +8,22 @@ metaTags:
   - Product Roadmap
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Do you have a product roadmap?
+    expectation: The team should have a product roadmap that is appropriate to the nature of the product. It could be a no-dates road map, hybrid road map or timeline road map
+    version: 1.0.0
+  -
+    order: 2
+    question: How do you prioritize the roadmap?
+    expectation: The success of the product roadmap lies upon the prioritization which could be based upon customer requirements
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you use a tool to build the product roadmap?
+    expectation: You can make use of tools such as Jira, Aha!, Product Plan, Roadmunk etc... to help building the product roadmap
+    version: 1.0.0
 ---
 
 
