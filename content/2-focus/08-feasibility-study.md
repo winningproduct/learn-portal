@@ -3,12 +3,32 @@ title: "Feasibility Study"
 metaTitle: "Feasibility Study | WP"
 metaDescription: "Verify if the planned solution is feasible to build, operate and gain market traction with resources available to you."
 published: true
-
 metaTags:
   - Focus
   - Feasibility Study
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: What is the price of the product and how does it compare against the competition?
+    expectation: The team should have clearly identified the selling price and the operational cost component which goes into each item. The profit component should be identified. The price needs to be compared against the competition to assess the market viability of the product.
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you have strategy in place to keep a steady cash flow throughout the product life cycle?
+    expectation: The team should have identified the total cost required before the product makes any revenue and there should be sufficient investment to support that. Thereafter, the team should have identified the cost at each stage and strategies to stay cash flow positive throughout.
+    version: 1.0.0
+  -
+    order: 3
+    question: Is it operational feasible to keep the business a float? 
+    expectation: The team should have identified the operational challenges such as delivery, production, etc.. There should be strategies in place to overcome those challenges.
+    version: 1.0.0  
+  -
+    order: 4
+    question: Is your product or architecture technically feasible to implement?
+    expectation: There should be evidence to prove that the team has identified the key quality attributes properly and their celling constraints. Team should have tested the architecture for those corner cases. 
+    version: 1.0.0  
 ---
 
 ## Why
