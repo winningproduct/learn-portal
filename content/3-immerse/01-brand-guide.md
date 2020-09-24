@@ -8,6 +8,22 @@ metaTags:
   - Brand Guide
   - Winning Product
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: What is the unique message that you want to convey with your branding? 
+    expectation: A simple but a powerful message that is instantly comprehendible.
+    version: 1.0.0
+  -
+    order: 2
+    question: How do you position your brand visually?
+    expectation: A consistent color code, distinguishable logo and other UI elements has to be in place and people needs to instantly identify your brand via these elements.
+    version: 1.0.0
+  -
+    order: 3
+    question: What is the target audience of the product?
+    expectation: The team has identified the target demographies clearly and should be aware of the preferences of those demographies.
+    version: 1.0.0
 ---
 
 
