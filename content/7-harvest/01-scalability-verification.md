@@ -8,6 +8,22 @@ metaTags:
   - Scalability Verification
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Has your platform architecture provisioning for scalability? 
+    expectation: Cloud vendors provide scalability requirements out of the box, but your architecture should have placed important components such as load balancers, decoupling patters, etc... Explore scale up and scale down mechanisms.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you defined performance benchmarks? 
+    expectation: Verify that performance benchmarks defined during initial architecture.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you setup performance metrics monitoring? 
+    expectation: Monitoring to gather data from all deployed resources ensure that the throughput KPIs are met and the limitations are communicated to the entire team . Overview of monitoring mechanisms.
+    version: 1.0.0
 ---
 
 ## Why

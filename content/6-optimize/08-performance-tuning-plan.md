@@ -4,7 +4,22 @@ metaTitle: "Performance Tuning Plan | WP"
 metaDescription: "Optimize system performance for the best user experience, based on performance requirements and analysis on existing performance."
 published: true
 documentation: "TechArchitecture"
-
+checklist: 
+  -
+    order: 1
+    question: Have you identified the requirements related to performance?
+    expectation: Overiew of the performance requirements. Higher throughput and lower latency is better for the overall performance of the product.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you carried out performance testing? 
+    expectation: Throughout the product engineering lifecycle, it’s required to do different types of performance testing to identify performance bottlenecks.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified performance issues? 
+    expectation: Overview of issues of identified components, subsystems and integrations to reach the benchmarked performance levels.
+    version: 1.0.0
 metaTags:
   - Optimize
   - Performance tuning plan
