@@ -9,6 +9,32 @@ metaTags:
   - Data Architecture
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you identified the information that needs to be stored and their relationships with each other? 
+    expectation: There should be a data relationship diagram; something like an ER diagram. Everyone in the team should be aware of what is stored and the relationship between stored entities.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the security concerns regarding the stored data and their access levels?
+    expectation: Team should be aware of what data entities needs to be kept secured and who can have access to those data. According to some data regulations such as GDPR, it could be that even the development team should not have access to some sensitive data.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you optimized the data storage considering performance?
+    expectation: The team should have identified the read and write performance constraints for each data entity and the data architecture should address those concerns. The team should also consider replication strategies for distributed applications.
+    version: 1.0.0
+  -
+    order: 4
+    question: What is the data storage strategy?
+    expectation: Team should have decided on a storage strategy such as relational DB, No-Sql, etc... There should be a good justification for the selection based on cost, performance, etc...
+    version: 1.0.0
+  -
+    order: 5
+    question: Does your data architecture consider possible future data analytics requirements?
+    expectation: Team should have at least consider a data model to represent different dimensions of data. There could be a data analytics model such as a Kimball model that is independent of the main data model.
+    version: 1.0.0
 ---
 
 
