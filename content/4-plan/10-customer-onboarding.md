@@ -8,6 +8,22 @@ metaTags:
   - Customer onboarding
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Have you identified the user journey of customer onboarding process?
+    expectation: The user journey of customer onboarding is documented and validated across different modules of the product (demo, trials, website, data import, licensing, payment, etc.) as well as across different departments (marketing, sales, support, etc.).
+    version: 1.0.0
+  -
+    order: 2
+    question: What are the activities involved in your customer onboarding process?
+    expectation: i.e. Welcome artifacts, Meetings and Demos, Product registration, Tutorials etc..
+    version: 1.0.0
+  -
+    order: 3
+    question: Did you measure the quality of your customer onboarding process?
+    expectation: You can measure the quality of the onboarding process by gathering data via surveys, interviews, feedbacks etc...
+    version: 1.0.0
 ---
 
 
