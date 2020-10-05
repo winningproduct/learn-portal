@@ -3,7 +3,22 @@ title: "Web Optimization Plan"
 metaTitle: "Web Optimization Plan | WP"
 metaDescription: "Offsite or onsite improvements provided for user experience so that people are more likely to convert on your website."
 published: true
-
+checklist: 
+  -
+    order: 1
+    question: How do you plan to optimize your website for search engines?
+    expectation: Overiew of the Search Engine Optimization plan. How do you optimize web pages with keywords, meta descriptions, and titles relevant to the web site content.
+    version: 1.0.0
+  -
+    order: 2
+    question: How do you plan to optimize your website for visitors? 
+    expectation: Overiew of the Conversion Rate Optimization plan. Tactics to be used to optimize conversions.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you measure and track your content's success? 
+    expectation: How the contents affect on optimize your website for search engines.
+    version: 1.0.0
 metaTags:
   - Optimize
   - Web optimization plan
