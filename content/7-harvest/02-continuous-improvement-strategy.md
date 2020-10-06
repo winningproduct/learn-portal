@@ -3,6 +3,22 @@ title: "Continuous Improvement Strategy"
 metaTitle: "Continuous Improvement Strategy | WP"
 metaDescription: "Rapidly respond to market conditions and learnings to sustain a competitive edge. Iteratively improve the product by aligning with business goals and timelines."
 published: true
+checklist: 
+  -
+    order: 1
+    question: Have you identified industry trends and competitors?
+    expectation: Overview of market research, industry trends analysis and competitor analysis.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified any under-served niche?
+    expectation: Overview of product research to exploit a currently under-served niche and identify if there any need you could potentially fulfill.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you considered "build or buy" decisions?
+    expectation: Where your product should buy or build themself considering Risk, Cost and Problem.
+    version: 1.0.0
 metaTags:
   - Harvest
   - Continuous Improvement Strategy
