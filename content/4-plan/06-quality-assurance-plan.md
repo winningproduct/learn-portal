@@ -8,6 +8,22 @@ metaTags:
   - Quality Assurance Plan
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you identified the quality requirements of the product?
+    expectation: Identifying the quality requirements is the first activity of creating a Quality Assurance Plan for your product.  
+    version: 1.0.0
+  -
+    order: 2
+    question: How do you Quality Control your production releases?
+    expectation: The quality control could include quality verification process such as regressions and smoke testing.
+    version: 1.0.0
+  -
+    order: 3
+    question: How do you ensure the non-functional requirements are met in the product?
+    expectation: Testing the non-functional requirments should be a part of your Quality Control process. 
+    version: 1.0.0
 ---
 
 ## Why
