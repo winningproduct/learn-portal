@@ -9,10 +9,10 @@ metaTags:
   - Architecture Blueprint
   - Winning Product
   - Technology Mastery
-  checklist: 
+checklist: 
   -
     order: 1
-    question: Have you specified the tracibility between architecture blueprint and requirements ?
+    question: Have you specified the traceability between architecture blueprint and requirements ?
     expectation: Clearly illustrate how certain architectural decisions have been taken to address each product requirement. An architecture decision log should be available to understand how assumptions and validation has taken place over a period of time.
     version: 1.0.0
   -
@@ -23,7 +23,7 @@ metaTags:
   -
     order: 3
     question: Have you documented various alternative architectures and tradeoff analysis before focusing on a specific architecture?
-    expectation: Artefacts covering alternative architecture analysis covering aspects of typical quality attributes of the product
+    expectation: Artefact covering alternative architecture analysis covering aspects of typical quality attributes of the product
     version: 1.0.0
 ---
 
