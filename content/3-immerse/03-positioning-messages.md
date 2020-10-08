@@ -9,6 +9,17 @@ metaTags:
   - Positioning Messages
   - Winning Product 
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Where do you want to position the brand in peoples' minds?
+    expectation: The team should have identified the product placement with respect to cost and unique offerings.
+    version: 1.0.0
+  -
+    order: 2
+    question: How effective is your message?
+    expectation: The positioning message should be short, easy to comprehend and easy to remember.
+    version: 1.0.0
 ---
 
 ## Why
