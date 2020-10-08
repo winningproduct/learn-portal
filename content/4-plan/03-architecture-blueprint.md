@@ -29,31 +29,31 @@ checklist:
 
 
 ## Why
+
 Modern day enterprise applications make use of an array of complex technical resources such as load balancers, queues, data stores, and containerized components. While there are many technical options to choose from, selecting the right resource for the right reason is crucial. The selection might depend on the throughput, security or even cost aspects; but it’s important to have a rational for the selection based on your requirements.
 
 Once the architecture blueprint is in place, it acts as a reference for future development. The technical decisions are already made at this point and the developers have to just follow this design. The architecture blueprint also acts as a communication mechanism to any technology interested stake holder regarding the technology stack in use.
 
-
-
 ## How
+
 Consider the following aspects when establishing a technical architecture:
 
 - **Configurability:** Despite your awareness on requirements, it’s likely that some assumptions have to be made when building the initial product architecture. Good architects can build the system in a highly configurable manner. If some of the components are changed later on, it has a minimum dependency on the rest of the system. This helps to postpone some of the architectural decisions until there’s enough information.
 - **Non-functional requirements:** Your architecture must support all required non-functional requirements such as performance and security. It’s recommended to do an analysis on the capability before starting to implement any features.
 - **Extendibility:** Both functional and non-functional requirements are bound to scale up as the business grows. This is usually a sign of a growing business. Your architecture should support extendibility in all aspects.
 - **Infrastructure as Code (IaC):** Enables system administrators to automate the configuration and provisioning process, reducing human errors and saving time. The following configuration orchestration and management tools can be used to implement IaC and help you automate your infrastructure:
-  * Terraform
-  * AWS CloudFormation
-  * Azure Resource Manager and Google Cloud Deployment Manager
-  * Chef
-  * Puppet
-  * Saltstack
-  * Ansible
-  * Docker
-  * Vagrant
-
+  - Terraform
+  - AWS CloudFormation
+  - Azure Resource Manager and Google Cloud Deployment Manager
+  - Chef
+  - Puppet
+  - Saltstack
+  - Ansible
+  - Docker
+  - Vagrant
 
 ## References
+
 - [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 - [IaS](https://www.plutora.com/blog/infrastructure-as-code)
 - [Infrastructure as Code tools](https://www.thorntech.com/2018/04/15-infrastructure-as-code-tools/)
