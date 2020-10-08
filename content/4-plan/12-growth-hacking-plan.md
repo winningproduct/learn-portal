@@ -11,7 +11,7 @@ metaTags:
 checklist: 
   -
     order: 1
-    question: What are the means of your customers finding you (Awareness). 
+    question: What are the means of your customers finding you (Awareness)?
     expectation: Measurements of awareness effectiveness and cost of the each method.
     version: 1.0.0
   -
