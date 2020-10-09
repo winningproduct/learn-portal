@@ -8,6 +8,22 @@ metaTags:
   - Digital Marketing Plan
   - Winning Product
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Do you have a digital marketing strategy?
+    expectation: You should have a digital marketing strategy because it allows you to reach a global marketplace from anywhere in the world. 
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the customer personas for the digital marketing strategy?
+    expectation: Define quantitative demographics and qualitative information, and create a detailed profile for each of your personas
+    version: 1.0.0
+  -
+    order: 3
+    question: What are your digital marketing channels?
+    expectation: Gather what you have, and categorize each of your channels, so you have a clear picture of your existing owned, earned, and paid media.
+    version: 1.0.0
 ---
 
 
