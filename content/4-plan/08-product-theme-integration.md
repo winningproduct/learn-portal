@@ -8,6 +8,12 @@ metaTags:
   - Product Theme Integration
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you identified a theme for your product?
+    expectation: Identifying a product theme is important as it represents how you want a customer to notice your product. 
+    version: 1.0.0
 ---
 
 
