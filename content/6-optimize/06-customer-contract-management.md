@@ -3,12 +3,27 @@ title: "Customer Contract Management"
 metaTitle: "Customer Contract Management | WP"
 metaDescription: "Correctly manage contracts (versioning, tools, etc.), Service-Level Agreements for customers."
 published: true
-
 metaTags:
   - Optimize
   - Customer contract management
   - Winning Product
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: What is your contract management strategy?
+    expectation: There should be a clear strategy on contract management and usage limits. All parties needs to be aware of any SLAs and limits which the product can support. 
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you defined matrices on key values in the SLA and do you have a live monitoring mechanism?
+    expectation: There should be metrics in place assess key performance indicators of the product. Having live dashboards such as application insights, newrelic, etc... with those parameters is very important here.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have contract renewal strategy in place?
+    expectation: It is important to have a mechanism to renew contracts especially in a long running service level agreements. Renewals should facilitate price and other parameter adjustments if needed.
+    version: 1.0.0
 ---
 
 ## Why
