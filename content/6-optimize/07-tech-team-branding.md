@@ -3,12 +3,27 @@ title: "Tech Team Branding"
 metaTitle: "Tech Team Branding | WP"
 metaDescription: "Defining a brand for the product team can have a powerful impact on the team's alignment, effectiveness, and engagement with each other and the rest of the organization."
 published: true
-
 metaTags:
   - Optimize
   - Tech team branding
   - Winning Product
   - Technology Mastery
+  checklist: 
+  -
+    order: 1
+    question: Have your team done any publications?
+    expectation: The team should have written blog posts, articles or knowledge sharing videos on unique finding that they have done. The knowledge shared could be either technical or on unique challenges exists in the product domain. These should have been well received by the readers.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you shared the knowledge gained with the community via more hand on approaches as well?
+    expectation: It is vital to share knowledge via tech talks, meetups, etc... to position the team as a technically sound. The presence in the industry is a must and the team should have a positive feedback from the society.
+    version: 1.0.0
+  -
+    order: 3
+    question: Have you identified the core competency?
+    expectation: While positioning the team for technical soundness, it is also important to circle around a unique aspect which the team knows better than anyone else in the world. The team should have found that niche and their presentations and publications needs to wrap around that unique niche.
+    version: 1.0.0
 ---
 
 ## Why
