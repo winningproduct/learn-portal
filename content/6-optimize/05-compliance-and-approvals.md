@@ -3,12 +3,27 @@ title: "Compliance and Approvals"
 metaTitle: "Compliance and Approvals | WP"
 metaDescription: "Adapt industry standards and certifications to design stronger, safer, more reliable products and get compliance approvals from relevant authorities and industry bodies (e.g: PCIDS, HIPAA, GDPR etc)."
 published: true
-
 metaTags:
   - Optimize
   - Compliance and Approvals
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Have you identified regulatory requirements?
+    expectation: The team should have a good understanding on the regulatory implications which governs the product domain. Seeking legal advice on these matters is recommended here.
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you have the necessary procedures in place?
+    expectation: There should be processes and procedures in place to make sure that the product covers the identified regulatory requirements. This could include additional automated security tests, data storage location validations, data at rest encryption procedures, etc...
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have evidence of compliance for the needed regulatory requirements?
+    expectation: The organization should strive to get certified on relevant regulatory requirements such as ISO, etc... For those requirements where there is no specific certification, try to get a reputed audit organization to assess and confirm the conformity.
+    version: 1.0.0
 ---
 
 ## Why
