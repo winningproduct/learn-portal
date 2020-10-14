@@ -9,6 +9,17 @@ metaTags:
   - Technical Debt Management
   - Winning Product Canvas
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Do you maintain a backlog of technical issues?
+    expectation: The team should maintain a backlog of technical debt. 
+    version: 1.0.0
+  -
+    order: 2
+    question: What is your strategy in addressing technical debt?
+    expectation: The team should have a strategy to allocate sufficient capacity to address technical debt.
+    version: 1.0.0
 ---
 
 ## Why

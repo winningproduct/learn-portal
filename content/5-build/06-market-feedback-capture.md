@@ -9,6 +9,17 @@ metaTags:
   - Market Feedback Capture
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: What is your strategy for capturing market feedback?
+    expectation: A mechanism should be in place to allow the product development team to know market feed.
+    version: 1.0.0
+  -
+    order: 2
+    question: How you utilize market feedback in the product development process?
+    expectation: Received market feedback should be managed and utilized in product development (e.g. feature designing, UX improvements, etc)
+    version: 1.0.0
 ---
 
 ## Why

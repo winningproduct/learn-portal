@@ -9,6 +9,17 @@ metaTags:
   - Visitor Behaviour Analysis
   - Winning Product Canvas
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: What behavior analysis tools are you using to track visitor behavior?
+    expectation: A qualitative tool should be integrated with marketing sites to analyze user experience.
+    version: 1.0.0
+  -
+    order: 2
+    question: How do you utilize all the insights to optimize the visitor experience?
+    expectation: The team should have a strategy in optimizing user experience using all the insights captured from marketing sites.
+    version: 1.0.0
 ---
 
 ## Why
