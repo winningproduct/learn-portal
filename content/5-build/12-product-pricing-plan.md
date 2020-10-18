@@ -9,6 +9,22 @@ metaTags:
   - Product Pricing Plan
   - Winning Product Canvas
   - Market Sense
+checklist: 
+  -
+    order: 1
+    question: Have you defined a pricing strategy for your product?
+    expectation: You need to identify different pricing strategies applicable to your product.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you defined pricing for different user segments?
+    expectation: After identifying the appropriate pricing strategies, you need to set the prices accordingly to your market.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have processes in place to continuously change the pricing depending on the market demands?
+    expectation: Have you establish processes and practices to adjust the pricing depending on the market demands continuously.
+    version: 1.0.0
 ---
 
 ## Why
