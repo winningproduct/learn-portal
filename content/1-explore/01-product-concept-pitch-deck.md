@@ -20,7 +20,7 @@ checklist:
     expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.
     version: 1.0.0
 ---
-.
+
 ## Why
 
 A great product should have supporters. Effective communication is essential to gain the support of different stakeholders (customers, investors, employees, etc.). A pitch event is an excellent opportunity to introduce a product to potential investors, customers, as well as to receive valuable feedback from the stakeholders.
