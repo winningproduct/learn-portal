@@ -9,6 +9,17 @@ metaTags:
   - User Behavior Analysis
   - Winning Product Canvas
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: Have you implemented any user behavior analysis system for your application?
+    expectation: You need to find the right tools and capture user behavior data to analyze user behavior and optimize the application for improved usability.
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you inform your users that you collect these data?
+    expectation: It is necessary to inform the users that you collect the user's behavior data and the criteria for analysis to comply with privacy regulations like GDPR.
+    version: 1.0.0
 ---
 
 ## Why
