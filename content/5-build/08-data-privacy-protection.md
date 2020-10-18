@@ -9,6 +9,32 @@ metaTags:
   - Data Privacy Protection
   - Winning Product Canvas
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Do you have any data privacy related training programs under your training portfolio?
+    expectation: You need to integrate data privacy related training for your continuous training program.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you established any least privilege security models for your Network Access?
+    expectation: You need to implement a zero-trust security model for network accesss.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have seperate environment for development, testing and production?
+    expectation: It's essential to separate these environments and enforce tight security measures to safeguard data from unauthorized access.
+    version: 1.0.0
+  -
+    order: 4
+    question: Have you established the required governance for data security to meet regulatory requirements?
+    expectation: Ensure that your product and the teams follow the guidelines and meet the regulatory requirements applicable to your company, depending on geography and domain.
+    version: 1.0.0
+  -
+    order: 5
+    question: Have you established IDS and IPS for your software product?
+    expectation: It's essential to prepare and establish best practices to prevent threats and to prepare to respond if any such activity occurs.
+    version: 1.0.0
 ---
 
 ## Why
