@@ -9,6 +9,17 @@ metaTags:
   - Lead Capture/CMS
   - Winning Product Canvas
   - User Experience
+checklist: 
+  -
+    order: 1
+    question: Are tools and workflows in place to capture and manage your potential customers?
+    expectation: Tools and workflows should be set up (e.g. a customer relationship management system) to ensure the consistent customer experience.
+    version: 1.0.0
+  -
+    order: 2
+    question: What lead capture techniques do you use?
+    expectation: The use of proven lead capture techniques will speed up the potential customer converting process. CMS tools could also help in this area.
+    version: 1.0.0
 ---
 
 ## Why

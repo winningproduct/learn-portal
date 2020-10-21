@@ -9,6 +9,22 @@ metaTags:
   - code quality process
   - Winning Product Canvas
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: What is your strategy to ensure code quality?
+    expectation: Controls should be in place to ensure code quality, as a part of the team's product development process. Ensure findings are addressed correctly.
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you set up a static code analysis tool?
+    expectation: A static code analysis tool should be in place. Reports from scans should be taken as input in code reviews/ pull-request merge process.
+    version: 1.0.0
+  -
+    order: 3
+    question: Are you tracking bug root causes?
+    expectation: The team should maintain a log of root causes for the bugs observed. Discuss the root causes and find ways to avoid them in retros.
+    version: 1.0.0
 ---
 
 
