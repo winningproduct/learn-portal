@@ -9,7 +9,18 @@ metaTags:
   - Portfolio Management 
   - Winning Product Canvas
   - Market Sense
---- 
+checklist: 
+  -
+    order: 1
+    question: Have you identified your product portfolio?
+    expectation: You need to identify your product portfolio to meet market demands.
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you perform product portfolio management activities?
+    expectation: You need to perform product portfolio management activities, from planning to execution, to optimize the product-market fit.
+    version: 1.0.0
+---
 
 ## Why
 

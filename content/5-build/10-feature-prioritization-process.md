@@ -9,6 +9,12 @@ metaTags:
   - Feature Prioritization Process
   - Winning Product Canvas
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Do you perform feature prioritization and established a process to communicate the priorities to all the stakeholders?
+    expectation: Define the priority levels for features and establish a process to prioritize work, and communicate to all the stakeholders in advance before moving to development.
+    version: 1.0.0
 ---
 
 ## Why
