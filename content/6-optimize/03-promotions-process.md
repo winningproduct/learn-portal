@@ -9,6 +9,23 @@ metaTags:
   - Promotions Process
   - Winning Product
   - Market Sense
+
+checklist: 
+  -
+    order: 1
+    question: Do you have a promotion plan for your product? 
+    expectation: Your promotion plan should include strategies for Advertising, Personal selling, Sales promotions and Public relations 
+    version: 1.0.0
+  -
+    order: 2
+    question: Have you identified the promotional technique(s) that best suits your product?
+    expectation: You should evaluate the effect of Advertising, Sales promotions, Public relations, Personal selling and identify the strengths and weaknesses of those techniques for your product.
+    version: 1.0.0
+  -
+    order: 3
+    question: Do you have a social media marketing strategy?
+    expectation: Social media promotions are an easy way of connecting with customers. You should identify how to use social media promotions effectively for your product.
+    version: 1.0.0
 ---
 
 ## Why
