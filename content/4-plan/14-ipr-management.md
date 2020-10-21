@@ -8,6 +8,17 @@ metaTags:
   - IPR Management
   - Winning Product
   - Customer Success
+checklist: 
+  -
+    order: 1
+    question: Have you identified Intellectual Property (IP) artificats in the project?
+    expectation: Consider project code, graphical elements, icons, etc... can be identified as IP. 
+    version: 1.0.0
+  -
+    order: 2
+    question: Do you have legal agreements like NDA, NCC etc... ready to sign with partners and contractors?
+    expectation: You should have the required legal agreements to sign with the employees, outsourced development teams, business partnets etc...
+    version: 1.0.0
 ---
 
 ## Why
@@ -25,7 +36,6 @@ Apart from protection/legal point of view, innovation and IPR plays a significan
   - **Trade secrets:** Requires extensive measures to safeguard trade secrets by limiting access to knowledge.
   - **Database rights:** Protects the output of a process.
 
-
 - Establish a strong product licensing model and agreement:
   - Licensing is the fundamental means of granting rights to third parties to use your IP.
   - Most proprietary licensing is connected to a financial commitment and is time bound.
@@ -33,13 +43,11 @@ Apart from protection/legal point of view, innovation and IPR plays a significan
   - Document and validate third-party components and libraries used by the product to assure compatibility of the offered licensing model of the product.
   - Implement an approval process for introducing any third-party component or library.
 
-
 - Formulate and sign legal agreements (NDA, NCC, etc.) with partners and contractors:
   - Your employees
   - Outsourced development teams and individual contractors
   - Business partners such as distributors, implementors, etc.
   - Service providers such as external marketing teams
-
 
 - Educate your sales and marketing teams on how to articulate the advantages of a unique IP over your competition. Update the sales scripts accordingly.
 
