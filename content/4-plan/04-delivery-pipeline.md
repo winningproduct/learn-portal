@@ -67,6 +67,18 @@ Also consider the following best practices when setting up a delivery pipeline:
  - Perform parallel test execution.
  - Perform artifact versioning.
 
+An ideal delivery pipeline would be something similar to the following:
+  - **DEV Local environment:** This is the environment used to write code and unit test it
+  - **Integration testing environment (optional):**
+    - Code could be automatically deployed to this environment once it has been unit tested and the pull request has been approved. This environment could be used to run tests once work related to different modules has been integrated
+    - Integration tests would be run in this environment
+  - **Staging environment:**
+    - Once unit testing has been performed in the DEV local environment or integration testing has been performed in the Integration testing environment, features/bug fixes could be pipelined into the staging environment.
+    - Regression testing should take place in this environment
+    - The staging environment should be similar to the production environment to ensure correctness of test results. That would mean having to mirror: the same set of systems and services as production, network endpoints and databases having the same configurations and schemas as production, same load balancers as in production, same monitoring tools used in production
+    - The right test data should be available in this environment and it should mimic real users. If Data anonymization is performed on production data to be used in the staging environment, the data must preserve the original data types and formats (e.g. any field mandating alphanumeric characters, data range and number of characters should be substituted with other alphanumeric characters within the set data range and follow the limit of number of characters) , preserve the consistency of primary key values , preserve referential integrity, considering up and down stream data flows
+  - **Production environment:** Features/bug fixes could be migrated to production once they have passed the relevant validation tests in the staging environment.
+
 
 Also, consider researching the following deployment techniques
  - **Blue-Green Deployments:** The technique of having two identical production environments with one serving as live and the other serving as a backup.
