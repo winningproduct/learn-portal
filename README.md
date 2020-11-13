@@ -1,6 +1,4 @@
-# Learn Portal [![Netlify Status](https://api.netlify.com/api/v1/badges/5d809d30-bf62-4829-90d9-86c83e147733/deploy-status)](https://app.netlify.com/sites/youthful-fermat-50c3cb/deploys)
-
-This is the repository for learn.winningproduct.com portal. You can find gatsby in [`/portal`](/portal) and its learning content in [`/content`](/content).
+# Learn Content
 
 ## How to contribute?
 
