@@ -25,6 +25,13 @@ A hotfix is a significant bug that affects a majority of users for which there i
 
 To facilitate the hot-fix process, it is essential to maintain best practices in release management, including proper branching strategies and delivery automation.
 
+**Hotfix Testing**
+- An impact analysis of the bug(s) should be performed to identify the scope of the test. 
+- To lower the risk associated with the Hotfix, the fix should be first verified on an environment that simulates the production environment as closely as possible. 
+- Once you have composed your environment and verified the fix, you should verify that the hotfix has not produced any regressions. A regression test could be performed for this purpose.
+- Once the hotfix has been deployed to the live environment, the bug fix would need to be verified in addition to the execution of a smoke test.
+- Verification results should be communicated to the stakeholders including any issues that may have been found on production.
+
 ## References
 
 - [Hot-fix](https://en.wikipedia.org/wiki/Hotfix)

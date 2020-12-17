@@ -25,6 +25,8 @@ checklist:
 ## Why
 Technical debt is a form of accumulated bugs or technical shortcuts used during development. Technical debt should be managed during the product life cycle. However, it does not mean there should be zero technical debt. It is more about managing product code deficiencies in a more effective manner that adds value to the business & product.
 
+The test dimension of technical debt is known as test debt. When test debt starts to accumulate, it can have an adverse effect on product quality. Some examples of test debt include lack of test coverage (both manual and automation) or bugs being deferred. It is important that teams identify test debt and come up with approaches to minimize the same.
+
 ## How
 When dealing with technical debt, feature development time, delivery deadlines, business impact, and development cost has to be considered to find a suitable strategy to manage technical debt. The following are some of those strategies. Once the project team agrees upon a plan, they must adhere.
 
@@ -32,6 +34,12 @@ When dealing with technical debt, feature development time, delivery deadlines, 
 - 1 day a week
 - Rotating role
 - Refactoring as part of feature work
+
+Here are some best practices that could be followed to reduce test debt:
+- Prioritization of bugs: If there are many bugs, the team could focus on having a quality sprint rather than working on any new features
+- Bug bashes: a collaborative effort where the entire team gets involved in exploratory testing of the system to identify bugs.
+- Trying to accommodate automation within the sprint
+- increase regression test coverage (manual / automation)
 
 ## References
 
