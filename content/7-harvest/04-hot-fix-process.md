@@ -8,6 +8,22 @@ metaTags:
   - Hot-fix Process
   - Winning Product
   - Technology Mastery
+checklist: 
+  -
+    order: 1
+    question: Do you have a validation in place to determine what is worthy of a hot-fix? 
+    expectation: There should be a process in place to assess the issue at hand and to determine whether it is required to do a hot-fix for the job at hand. Basically what ever that can wait until the next release should not be a hot-fix and objective should be to minimize hot-fixes as much as possible.
+    version: 1.0.0
+  -
+    order: 2
+    question: What is the hot-fix process in your team?
+    expectation: The team should have a defined process to do hot-fixes and it should include the branching strategy, deployment strategy, testing strategy and required time allocation with in a sprint.
+    version: 1.0.0
+  -
+    order: 3
+    question: How is the release aspect of the hot-fix handled?
+    expectation: The actual release needs to communicated to the customers and the downtime needs to be managed in such away that it does not effect the daily activities. The team should have a defined plan for this.
+    version: 1.0.0
 ---
 
 ## Why
