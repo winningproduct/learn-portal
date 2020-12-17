@@ -40,6 +40,14 @@ The following tips can help you with the requirement process:
 - **Customer Involvement:** Include customers in the development life cycle. Have specialized people who work with customers and use this input for feature prioritization and ultimately to define the product road map. It’s important to be transparent about this with your customer to think Win-Win.
 - **Data driven:** The decisions made on the product road map and the feature prioritization needs to be derived from data analysis. Customer requirements needs to be scientifically obtained with a large enough data set to make decisions on what features benefit the entire customer base.
 - **Product road map:** Requirement process is the journey of converting users' needs into product requirements. It’s important to translate requirements captured earlier into features that the product team understands and finally prioritize them to a product road map based on potential gains and feasibility. The product road map then needs to be communicated to all stakeholders of the company.
+- **Categorization of Requirements:** Categorize your requirements into functional, non-functional and UI for a more detailed analysis of requirements 
+  - Functional requirements: Requirements that define functions and functionality of the system
+  - Non-Functional requirements: Implicit characteristics of the system such as Security, Logging, Storage, Configuration, Performance, Interoperability, Flexibility, Accessibility
+  - UI Requirements: Consider asking yourself questions like is the system easy to operate? Is the system responsive? Are operational errors handled effectively? Is the user interface simple? Is the user interface consistent?
+ - **Requirement Validation:** Requirements could be validated by the help of prototypes. Prototypes serve as a defect detection tool as they help the team identify issues upfront. Prototypes could be tested and evaluated against the original requirements.
+ - **Requirement Traceability Matrix:** This is a high-level document that could be used to map and trace user requirements (both functional and non-functional) with test cases to ensure that for each and every requirement, adequate level of testing is being achieved. It could also be used as a baseline document to be referred to when determining whether issues with the solution are to be treated as defects or change requests.
+
+
 
 ## References
 - [A beginner's guide to finding user needs](https://jdittrich.github.io/userNeedResearchBook/)
