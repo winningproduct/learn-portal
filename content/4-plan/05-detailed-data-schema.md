@@ -9,7 +9,7 @@ metaTags:
   - Detailed Data Schema
   - Winning Product
   - Technology Mastery
-  checklist: 
+checklist: 
   -
     order: 1
     question: Have you identify entities and attributes ?
