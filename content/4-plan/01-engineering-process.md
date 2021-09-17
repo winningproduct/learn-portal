@@ -25,22 +25,22 @@ checklist:
     question: Have you identified a DevOps process?
     expectation: A documented process clearly indicating why it has been selected over other devops processes eg. process which includes automated CD
     version: 1.0.0
-
+  -
     order: 4
     question: Have you identified a quality engineering process?
     expectation: A documented process clearly indicating why it has been selected eg. process which assures the quality across all stages of the lifecycle of the product
     version: 1.0.0
-
+  -
     order: 5
     question: Have you identified a release management process?
     expectation: A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.
     version: 1.0.0
-
+  -
     order: 6
     question: Have you identified a release management process?
     expectation: A documented process clearly indicating why it has been selected eg. process which assures the suitable SLA and minimum lead time.
     version: 1.0.0
-
+  -
     order: 7
     question: Have you identified a product management process?
     expectation: A documented process clearly indicating why it has been selected eg. ability to translate business needs into a features to be engineered.
