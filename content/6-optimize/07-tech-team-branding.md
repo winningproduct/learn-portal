@@ -8,7 +8,7 @@ metaTags:
   - Tech team branding
   - Winning Product
   - Technology Mastery
-  checklist: 
+checklist: 
   -
     order: 1
     question: Have your team done any publications?

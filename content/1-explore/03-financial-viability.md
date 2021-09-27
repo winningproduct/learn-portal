@@ -14,13 +14,11 @@ checklist:
     question: Have you identified your total cost of ownership?
     expectation: Identified production cost & identified operational cost to determine the breakeven cost.
     version: 1.0.0
-    checklist: 
   -
     order: 2
     question: Have you identified your potential market?
     expectation: Analysis on total addressable market and risk factor analysis of each demography.
     version: 1.0.0
-    checklist: 
   -
     order: 3
     question: Have you identified the optimal pricing point?

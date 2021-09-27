@@ -9,7 +9,7 @@ metaTags:
   - Delivery Pipeline
   - Winning Product
   - Customer Success
-  checklist: 
+checklist: 
   -
     order: 1
     question: Have you setup key steps of the CI pipeline?

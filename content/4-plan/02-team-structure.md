@@ -9,7 +9,7 @@ metaTags:
   - Team Structure
   - Winning Product
   - Technology Mastery
-  checklist: 
+checklist: 
   -
     order: 1
     question: Have you identified different roles and skills required for the team?

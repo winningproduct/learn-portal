@@ -8,7 +8,7 @@ metaTags:
   - Quality Assurance Strategy
   - Winning Product
   - Technology Mastery
-  checklist: 
+checklist: 
   -
     order: 1
     question: Have you identified all the activities that would need to be performed to ensure quality starting from requirement analysis to deployment?
