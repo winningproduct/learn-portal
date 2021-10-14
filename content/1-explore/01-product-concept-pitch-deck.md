@@ -21,8 +21,8 @@ checklist:
     version: 1.0.0
   -
     order: 3
-    question: Question Test?
-    expectation: Test expectation.
+    question: New Question
+    expectation: The Question Description
     version: 1.0.0
 ---
 
