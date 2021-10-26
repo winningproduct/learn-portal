@@ -13,9 +13,9 @@ metaTags:
 checklist: 
   -
     order: 1
-    question: Test-MJ-Do you have your business model documented in the form of a canvas (or an equivalent)?
-    expectation: Test-MJ-Visualize the business model of your product to analyze and optimize how the front-stage (customer-facing elements) and back-stage (partners, key activities, key resources and cost) operate in synergy. 
-    version: 2.0.0
+    question: MJ_Test_New-Do you have your business model documented in the form of a canvas (or an equivalent)?
+    expectation: MJ_Test_New-Visualize the business model of your product to analyze and optimize how the front-stage (customer-facing elements) and back-stage (partners, key activities, key resources and cost) operate in synergy. 
+    version: 3.0.0
   - 
     order: 2
     question: Do you define your product features under Value Proposition?
