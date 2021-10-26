@@ -24,7 +24,7 @@ checklist:
     question: Question Test?
     expectation: Test expectation.
     version: 1.0.0
-
+  -
     order: 4
     question: Q-Test?
     expectation: Test-E.
