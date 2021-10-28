@@ -11,9 +11,9 @@ metaTags:
 checklist: 
   -
     order: 1
-    question: MI_Test_New-What is the unique message that you want to convey with your branding? 
-    expectation: MI_Test_New-A simple but a powerful message that is instantly comprehendible.
-    version: 1.2.0
+    question: MI_Test_Demo-What is the unique message that you want to convey with your branding? 
+    expectation: MI_Test_Demo-A simple but a powerful message that is instantly comprehendible.
+    version: 1.3.0
   -
     order: 2
     question: How do you position your brand visually?

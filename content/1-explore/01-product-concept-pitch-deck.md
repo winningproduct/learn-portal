@@ -29,6 +29,11 @@ checklist:
     question: Q-Test?
     expectation: Test-E.
     version: 1.0.0
+  -
+    order: 5
+    question: Q-Test-Demo?
+    expectation: Test-Demo.
+    version: 1.0.0
 ---
 
 ## Why
