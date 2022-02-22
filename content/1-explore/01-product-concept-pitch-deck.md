@@ -17,7 +17,12 @@ checklist:
   -
     order: 2
     question: Does it cover the 5 important areas?
-    expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model.
+    expectation: Your pitch deck should state the purpose, marketing and sales, milestones, competition, business model. Some more content
+    version: 2.0.0
+  -
+    order: 3
+    question: This is a test question
+    expectation: this is test expectation.
     version: 1.0.0
 ---
 
