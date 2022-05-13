@@ -24,26 +24,7 @@ checklist:
     question: New Question
     expectation: The Question Description
     version: 1.0.0
-  -
-    order: 4
-    question: Q-Test?
-    expectation: Test-E.
-    version: 1.0.0
-  -
-    order: 5
-    question: Q-Test-Demo?
-    expectation: Test-Demo.
-    version: 1.0.0
-  -
-    order: 6
-    question: T-Test-Demo?
-    expectation: T-Test-Demo.
-    version: 1.0.0
-  -
-    order: 7
-    question: TT-Test-Demo?
-    expectation: TT-Test-Demo.
-    version: 1.0.0
+    
 ---
 
 ## Why
